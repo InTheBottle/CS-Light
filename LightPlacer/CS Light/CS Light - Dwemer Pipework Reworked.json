@@ -1,0 +1,86 @@
+[
+  {
+    "models": [
+      "dungeons\\dwemer\\pipes\\dwepipe1wayhub01.nif",
+      "dungeons\\dwemer\\pipes\\dwepipe1wayvent01.nif",
+      "dungeons\\dwemer\\pipes\\dwepipeend01.nif"
+    ],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 0.0]],
+        "data": {
+          "light": "MagicLightWhite01",
+          "color": [255, 100, 0],
+          "radius": 150.0,
+          "fade": 1.0,
+          "flags": "Simple"
+        }
+      }
+    ]
+  },
+  {
+    "models": ["dungeons\\dwemer\\pipes\\dwepipeboiler01.nif"],
+    "lights": [
+      {
+        "points": [
+          [0.0, 0.0, 200.0],
+          [0.0, 0.0, 50.0]
+        ],
+        "data": {
+          "light": "MagicLightWhite01",
+          "color": [255, 100, 0],
+          "radius": 200.0,
+          "fade": 1.0,
+          "flags": "Simple"
+        }
+      }
+    ]
+  },
+  {
+    "models": ["dlc02\\dungeons\\dwemer\\animated\\dlc2dweboiler\\dlc02dweboiler.nif"],
+    "lights": [
+      {
+        "points": [
+          [0.0, 0.0, 225.0]
+        ],
+        "data": {
+          "light": "MagicLightWhite01",
+          "color": [255, 100, 0],
+          "radius": 200.0,
+          "fade": 1.0,
+          "flags": "Simple"
+        }
+      }
+    ]
+  },
+  {
+    "models": ["dungeons\\dwemer\\pipes\\dwepipeboiler02.nif"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 200.0]],
+        "data": {
+          "light": "MagicLightWhite01",
+          "color": [255, 100, 0],
+          "radius": 200.0,
+          "fade": 1.0,
+          "flags": "Simple"
+        }
+      }
+    ]
+  },
+  {
+    "models": ["dungeons\\dwemer\\pipes\\dwepipeboiler02.nif"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 50.0]],
+        "data": {
+          "light": "MagicLightWhite01",
+          "color": [226, 173, 255],
+          "radius": 120.0,
+          "fade": 1.5,
+          "flags": "Simple"
+        }
+      }
+    ]
+  }
+]

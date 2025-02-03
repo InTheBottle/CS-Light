@@ -1,0 +1,772 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [216, 96, 70],
+          "fade": 1.2,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.166667,
+                "value": 7.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 3.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 5.666667,
+                "value": 3.257804
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 7.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 9.0,
+                "value": 5.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 10.0,
+                "value": 1.75
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["dlc01\\clutter\\animated\\portalgem01\\portalgemorange01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [126, 0, 150],
+          "fade": 1.2,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.166667,
+                "value": 7.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 3.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 5.666667,
+                "value": 3.257804
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 7.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 9.0,
+                "value": 5.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 10.0,
+                "value": 1.75
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["dlc01\\clutter\\animated\\portalgem01\\portalgempurple01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [70, 125, 216],
+          "fade": 1.2,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.166667,
+                "value": 7.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 3.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 5.666667,
+                "value": 3.257804
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 7.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 9.0,
+                "value": 5.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 10.0,
+                "value": 1.75
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["dlc01\\clutter\\animated\\portalgem01\\portalgemblue01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [216, 96, 70],
+          "fade": 1.2,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.166667,
+                "value": 7.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 3.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 5.666667,
+                "value": 3.257804
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 7.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 9.0,
+                "value": 5.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 10.0,
+                "value": 1.75
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 16.0]]
+      },
+      {
+        "data": {
+          "color": [70, 125, 216],
+          "fade": 1.2,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.166667,
+                "value": 7.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 3.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 5.666667,
+                "value": 3.257804
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 7.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 9.0,
+                "value": 5.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 10.0,
+                "value": 1.75
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 16.0]]
+      },
+      {
+        "data": {
+          "color": [217, 224, 45],
+          "fade": 1.2,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.166667,
+                "value": 7.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 3.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 5.666667,
+                "value": 3.257804
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 7.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 9.0,
+                "value": 5.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 10.0,
+                "value": 1.75
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 16.0]]
+      },
+      {
+        "data": {
+          "color": [126, 0, 150],
+          "fade": 1.2,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.166667,
+                "value": 7.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 3.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 5.666667,
+                "value": 3.257804
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 7.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 9.0,
+                "value": 5.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 10.0,
+                "value": 1.75
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 16.0]]
+      },
+      {
+        "data": {
+          "color": [211, 209, 234],
+          "fade": 1.2,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.166667,
+                "value": 7.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 3.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 5.666667,
+                "value": 3.257804
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 7.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 9.0,
+                "value": 5.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 10.0,
+                "value": 1.75
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 16.0]]
+      }
+    ],
+    "models": ["dlc01\\clutter\\animated\\portalgem01\\portalgemsocket01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [217, 224, 45],
+          "fade": 1.2,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.166667,
+                "value": 7.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 3.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 5.666667,
+                "value": 3.257804
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 7.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 9.0,
+                "value": 5.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 10.0,
+                "value": 1.75
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["dlc01\\clutter\\animated\\portalgem01\\portalgemgreen01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [211, 209, 234],
+          "fade": 1.2,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.166667,
+                "value": 7.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 3.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.333333,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 5.666667,
+                "value": 3.257804
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 7.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.0,
+                "value": 1.75
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 9.0,
+                "value": 5.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 10.0,
+                "value": 1.75
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["dlc01\\clutter\\animated\\portalgem01\\portalgemwhite01.nif"]
+  }
+]

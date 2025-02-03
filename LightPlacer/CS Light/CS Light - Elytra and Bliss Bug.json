@@ -1,0 +1,58 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [230, 255, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[25.0, -10.0, 0.0]]
+      }
+    ],
+    "models": ["elytra enb light\\elytra_glow2.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 152, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[25.0, -10.0, 0.0]]
+      }
+    ],
+    "models": ["elytra enb light\\elytra_glow1.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 152, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.25, -3.51, 9.67]]
+      }
+    ],
+    "models": ["creationclub\\bgssse025\\critters\\maniabug.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 152, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.6, 2.5, 14.97]]
+      }
+    ],
+    "models": ["creationclub\\bgssse025\\critters\\maniabuginjar.nif"]
+  }
+]

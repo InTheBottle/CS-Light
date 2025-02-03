@@ -1,0 +1,406 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [142, 142, 142],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, -0.0, 10.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\bgssse067\\clutter\\elementalshard\\elementalshard01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [0.0, -10.0, 5.0],
+          [-45.0, -30.0, 5.0],
+          [40.0, -35.0, 5.0],
+          [40.0, 30.0, 5.0]
+        ]
+      }
+    ],
+    "models": [
+      "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\arrubblecrystals02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, -20.0, 0.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\ardoor01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\arrubblecrystalfragment01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\arrubblecrystalfragment02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\arrubblecrystalfragment05.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\arrubblecrystalfragment03.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [61, 196, 255],
+          "fade": 0.75,
+          "light": "MagicLightWhite01",
+          "radius": 247
+        },
+        "points": [[0.0, 0.0, 24.0]]
+      },
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 24.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\arwelkydplanter01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [5.0, 4.0, 5.0],
+          [22.0, 2.0, 30.0],
+          [7.0, 2.0, 68.0],
+          [-8.0, 3.0, 57.0]
+        ]
+      }
+    ],
+    "models": [
+      "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\arwelkydstonewhite02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [61, 196, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 247
+        },
+        "points": [[0.0, 0.0, 24.0]]
+      },
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 24.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\arwelkydclusterfx01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [0.0, 0.0, 0.0],
+          [15.0, 0.0, 40.0],
+          [-15.0, 0.0, 20.0]
+        ]
+      }
+    ],
+    "models": [
+      "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\arwelkydstonewhite01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\arrubblecrystalfragment06.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 20.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\bgssse067\\clutter\\welkyndstone\\welkyndstone.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [134, 197, 192],
+          "fade": 0.65,
+          "light": "MagicLightWhite01",
+          "radius": 247
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      },
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\bgssse067\\clutter\\greatwelkyndstone\\argreatwelkyndstonestatic01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[-10.0, 0.0, 40.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\arrubblecrystals01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 25.0]]
+      }
+    ],
+    "models": ["creationclub\\bgssse037\\clutter\\varlastone\\varlastone.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 20.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\bgssse037\\clutter\\welkyndstone\\welkyndstone.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [0.0, -10.0, 10.0],
+          [40.0, 30.0, 10.0],
+          [-50.0, -30.0, 10.0]
+        ]
+      }
+    ],
+    "models": [
+      "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\arrubblecrystals03.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[-30.0, -30.0, 100.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\arceilingwelkydgreen01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\arrubblecrystalfragment04.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [142, 142, 142],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, -0.0, 20.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\bgssse067\\clutter\\elementalshard\\elementalshardstatic01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [134, 197, 192],
+          "fade": 0.5,
+          "light": "MagicLightWhite01",
+          "radius": 247
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      },
+      {
+        "data": {
+          "color": [118, 140, 140],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\bgssse067\\clutter\\greatwelkyndstone\\argreatwelkyndstoneitem01.nif"
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "models": [
+      "effects\\mgaugurfx01.nif",
+      "effects\\mgmagicfirepillar01.nif",
+      "effects\\mgmagicfirepillareye01.nif",
+      "effects\\mgmagicfirepillarmidden01.nif",
+      "effects\\mgmagicfirepillarsmall.nif"
+    ],
+    "lights": [
+      {
+        "nodes": [
+          "MeshInnerCore",
+          "FXfireWithEmbers01",
+          "FXfireWithEmbers02",
+          "lightrays01",
+          "AttachLight01"
+        ],
+        "data": {
+          "light": "MGFirePillarLightBlue",
+          "radius": 350.0,
+          "fade": 2.0
+        }
+      }
+    ]
+  },
+  {
+    "models": ["effects\\MGMagicFirePillar01.nif"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 0.0]],
+        "data": {
+          "light": "MGFirePillarLightBlue",
+          "radius": 128.0,
+          "fade": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "models": ["Magic\\LightSpellStaticLight.nif"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 0.0]],
+        "data": {
+          "light": "MagicLightWhite01",
+          "radius": 128.0,
+          "fade": 1.0
+        }
+      }
+    ]
+  }
+]

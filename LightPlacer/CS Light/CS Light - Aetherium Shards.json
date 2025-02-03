@@ -1,0 +1,125 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [127, 255, 255],
+          "fade": 10.0,
+          "light": "MagicLightWhite01",
+          "radius": 12
+        },
+        "points": [[-0.26, -0.15, 0.22]]
+      }
+    ],
+    "models": [
+      "dlc01\\dungeons\\dwemer\\animated\\dwespecialforge01\\aetheriumshard04.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [127, 255, 255],
+          "fade": 10.0,
+          "light": "MagicLightWhite01",
+          "radius": 12
+        },
+        "points": [
+          [0.67, -0.43, 77.96],
+          [-0.26, -0.15, 68.0],
+          [28.0, -31.0, 67.0],
+          [-28.0, -31.0, 67.0]
+        ]
+      }
+    ],
+    "models": [
+      "dlc01\\dungeons\\dwemer\\animated\\dwespecialforge01\\dwespecialforge01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [127, 255, 255],
+          "fade": 10.0,
+          "light": "MagicLightWhite01",
+          "radius": 12
+        },
+        "points": [[-0.26, -0.15, 0.22]]
+      }
+    ],
+    "models": [
+      "dlc01\\dungeons\\dwemer\\animated\\dwespecialforge01\\aetheriumshard03.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [127, 255, 255],
+          "fade": 10.0,
+          "light": "MagicLightWhite01",
+          "radius": 12
+        },
+        "points": [
+          [-0.23, -0.27, 181.87],
+          [-0.26, -0.23, 181.89],
+          [-0.33, -0.18, 181.5],
+          [-0.15, -0.23, 182.01],
+          [-0.26, -0.15, 173.89]
+        ]
+      }
+    ],
+    "models": [
+      "dlc01\\dungeons\\dwemer\\animated\\dwetowerentrance01\\dwetowerentrance01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [127, 255, 255],
+          "fade": 10.0,
+          "light": "MagicLightWhite01",
+          "radius": 12
+        },
+        "points": [[-0.26, -0.15, 0.22]]
+      }
+    ],
+    "models": [
+      "dlc01\\dungeons\\dwemer\\animated\\dwespecialforge01\\aetheriumshard01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [127, 255, 255],
+          "fade": 10.0,
+          "light": "MagicLightWhite01",
+          "radius": 12
+        },
+        "points": [[-0.26, -0.15, 0.22]]
+      }
+    ],
+    "models": [
+      "dlc01\\dungeons\\dwemer\\animated\\dwespecialforge01\\aetheriumshard02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [127, 255, 255],
+          "fade": 10.0,
+          "light": "MagicLightWhite01",
+          "radius": 12
+        },
+        "points": [[-0.26, -0.15, 0.22]]
+      }
+    ],
+    "models": [
+      "dlc01\\dungeons\\dwemer\\animated\\dwespecialforge01\\aetheriumcrest01.nif"
+    ]
+  }
+]

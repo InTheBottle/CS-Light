@@ -1,0 +1,99 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            229,
+            127,
+            229
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [
+            -15.0,
+            0.0,
+            40.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "plants\\cavewormgroup\\caveworm3group.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            121,
+            189,
+            199
+          ],
+          "fade": 3.0,
+          "light": "MagicLightWhite01",
+          "radius": 43
+        },
+        "points": [
+          [
+            0.06,
+            0.22,
+            57.72
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            229,
+            127,
+            229
+          ],
+          "fade": 2.5,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            65.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "plants\\caveworm\\cavewormlarge.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            229,
+            127,
+            229
+          ],
+          "fade": 1.75,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            37.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "plants\\cavewormsmall\\cavewormsmall.nif"
+    ]
+  }
+]

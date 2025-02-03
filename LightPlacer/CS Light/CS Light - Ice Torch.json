@@ -1,0 +1,25 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [28, 145, 235],
+          "fade": 1.2,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[-0.0, 0.0, 19.77]]
+      },
+      {
+        "data": {
+          "color": [179, 238, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 76
+        },
+        "points": [[-0.0, 0.0, 16.72]]
+      }
+    ],
+    "models": ["dlc02\\effects\\dlc2castlekarstaagtorch.nif"]
+  }
+]

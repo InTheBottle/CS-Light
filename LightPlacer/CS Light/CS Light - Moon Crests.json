@@ -1,0 +1,126 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [17, 145, 232],
+          "fade": 3.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[-0.0, 3.85, 0.0]]
+      }
+    ],
+    "models": [
+      "dlc01\\dungeons\\castle\\animated\\secretenrancedials\\cassecentrancecrestfm.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [17, 145, 232],
+          "fade": 3.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [220.0, 148.0, 2.0],
+          [148.0, 221.0, 2.0],
+          [-148.0, 220.0, 2.0],
+          [-220.0, 148.0, 2.0],
+          [-52.0, 260.0, 2.0],
+          [260.0, 52.0, 2.0],
+          [220.0, -148.0, 2.0],
+          [52.0, -260.0, 2.0],
+          [-52.0, -260.0, 2.0],
+          [-148.0, -220.0, 2.0],
+          [-220.0, -148.0, 2.0]
+        ]
+      }
+    ],
+    "models": [
+      "dlc01\\dungeons\\castle\\animated\\secretentrance\\cassecentrancebase01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [17, 145, 232],
+          "fade": 3.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.86, -266.84, 13.76]]
+      }
+    ],
+    "models": [
+      "dlc01\\dungeons\\castle\\animated\\secretenrancedials\\cassecentrancedialfm.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [17, 145, 232],
+          "fade": 3.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[-0.0, 3.85, 0.0]]
+      }
+    ],
+    "models": [
+      "dlc01\\dungeons\\castle\\animated\\secretenrancedials\\cassecentrancecresthm.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [17, 145, 232],
+          "fade": 3.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.86, -266.84, 13.76]]
+      }
+    ],
+    "models": [
+      "dlc01\\dungeons\\castle\\animated\\secretenrancedials\\cassecentrancedialhm.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [17, 145, 232],
+          "fade": 3.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 3.85, -0.0]]
+      }
+    ],
+    "models": [
+      "dlc01\\dungeons\\castle\\animated\\secretenrancedials\\cassecentrancecrestcm.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [17, 145, 232],
+          "fade": 3.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.86, -266.84, 13.76]]
+      }
+    ],
+    "models": [
+      "dlc01\\dungeons\\castle\\animated\\secretenrancedials\\cassecentrancedialcm.nif"
+    ]
+  }
+]

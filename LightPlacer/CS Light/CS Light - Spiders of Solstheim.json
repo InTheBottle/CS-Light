@@ -1,0 +1,1183 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [195, 255, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 75.31, 17.02]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderprojpoisoncloakthrown.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 200, 0],
+          "fade": 5.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["spider enb light\\zombie_glow.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [129, 250, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.59, -1.38]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spiderinhandfxfrost.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 44, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spiderinhandfxfiredead.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [195, 255, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["spider enb light\\poison_spider_glow.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [0, 155, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 75.31, 17.02]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderprojshockcloakthrown.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [195, 255, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 3.11]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderzombieinv.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [195, 255, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 17.02]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderprojpoison.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 44, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 3.11]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderfirecloakinv.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [195, 255, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 3.11]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderpoisoncloakinv.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\albinospiderbutt.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 44, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["spider enb light\\fire_spider_glow.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\albinospiderbuttdamaged.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [195, 255, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.2, 4.83, -1.42]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderpoisondead.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 44, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderfiredead.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [129, 250, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 17.02]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderprojfrost.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [0, 155, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spiderinhandfxshockdead.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [195, 255, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.59, -1.38]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spiderinhandfxpoisoncloak.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [0, 155, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 17.02]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderprojshock.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [195, 255, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 3.11]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderpoisoninv.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 44, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 3.11]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderfireinv.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [129, 250, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 3.11]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderfrostinv.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [129, 250, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.2, 4.83, -1.42]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderfrostdead.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [198, 156, 57],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[-5.0, -2.0, -5.0]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderfaceattach.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [129, 250, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 3.11]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderfrostcloakinv.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [195, 255, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spiderinhandfxpoisondead.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 44, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 17.02]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderprojfire.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [195, 255, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.59, -1.38]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spiderinhandfxpoison.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [0, 155, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 3.11]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspidershockinv.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 44, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 75.31, 17.02]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderprojfirethrown.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 44, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 75.31, 17.02]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderprojfirecloakthrown.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [198, 156, 57],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["spider enb light\\zombie_spider_glow.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 44, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.59, -1.38]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spiderinhandfxfire.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [129, 250, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["spider enb light\\frost_spider_glow.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["spider enb light\\albino_spider_glow.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [0, 155, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["spider enb light\\shock_spider_glow.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [0, 155, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.59, -1.38]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spiderinhandfxshockcloak.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [0, 155, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 75.31, 17.02]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderprojshockthrown.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 44, 0],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [1.76, 2.39, 23.72],
+          [-0.19, 6.23, 19.41],
+          [13.3, 4.42, 19.64],
+          [-19.17, -7.44, 20.71]
+        ]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spidercrumbleexplosionflame.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [129, 250, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 75.31, 17.02]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderprojfrostcloakthrown.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [129, 250, 255],
+          "fade": 2.0,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.033333,
+                "value": 1.94212
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.233333,
+                "value": 2.0761
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.933333,
+                "value": 1.54935
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.133333,
+                "value": 1.836018
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 10.3,
+                "value": 1.647435
+              },
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 12.5,
+                "value": 1.94212
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 143
+        },
+        "points": [[0.0, 0.0, 19.72]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspidersackfrost.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [195, 255, 0],
+          "fade": 2.0,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.033333,
+                "value": 1.94212
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.233333,
+                "value": 2.0761
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.933333,
+                "value": 1.54935
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.133333,
+                "value": 1.836018
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 10.3,
+                "value": 1.647435
+              },
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 12.5,
+                "value": 1.94212
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 143
+        },
+        "points": [[0.0, 0.0, 19.72]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspidersackpoison.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 44, 0],
+          "fade": 2.0,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.033333,
+                "value": 1.94212
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.233333,
+                "value": 2.0761
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.933333,
+                "value": 1.54935
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.133333,
+                "value": 1.836018
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 10.3,
+                "value": 1.647435
+              },
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 12.5,
+                "value": 1.94212
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 143
+        },
+        "points": [[0.0, 0.0, 19.72]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspidersackfire.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [195, 255, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 75.31, 17.02]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderprojpoisonthrown.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [0, 155, 255],
+          "fade": 2.0,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.033333,
+                "value": 1.94212
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.233333,
+                "value": 2.0761
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.933333,
+                "value": 1.54935
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.133333,
+                "value": 1.836018
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 10.3,
+                "value": 1.647435
+              },
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 12.5,
+                "value": 1.94212
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 143
+        },
+        "points": [[0.0, 0.0, 19.72]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspidersackshock.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [195, 255, 0],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [1.76, 2.39, 23.72],
+          [-0.19, 6.23, 19.41],
+          [13.3, 4.42, 19.64],
+          [-19.17, -7.44, 20.71]
+        ]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spidercrumbleexplosionpoison.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [198, 156, 57],
+          "fade": 2.0,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.033333,
+                "value": 1.94212
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.233333,
+                "value": 2.0761
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.933333,
+                "value": 1.54935
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.133333,
+                "value": 1.836018
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 10.3,
+                "value": 1.647435
+              },
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 12.5,
+                "value": 1.94212
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 143
+        },
+        "points": [[0.0, 0.0, 20.0]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspidersackrare.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [0, 155, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [1.76, 2.39, 23.72],
+          [-0.19, 6.23, 19.41],
+          [13.3, 4.42, 19.64],
+          [-19.17, -7.44, 20.71]
+        ]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spidercrumbleexplosionshock.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [129, 250, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 75.31, 17.02]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspiderprojfrostthrown.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [0, 155, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.2, 4.83, -1.42]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspidershockdead.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [129, 250, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [-19.17, -7.44, 20.71],
+          [13.3, 4.42, 19.64],
+          [-0.19, 6.23, 19.41],
+          [1.76, 2.39, 23.72]
+        ]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spidercrumbleexplosionfrost.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 215, 90],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[-0.33, -20.16, 0.0]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\zombiespiderimpactimpaleactor.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [195, 255, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, -0.9, -2.39]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spiderinhandfxzombie.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [129, 250, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.59, -1.38]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spiderinhandfxfrostcloak.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [0, 155, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 3.11]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\expspidershockcloakinv.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 44, 0],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [1.76, 2.39, 23.72],
+          [-0.19, 6.23, 19.41],
+          [13.3, 4.42, 19.64],
+          [-19.17, -7.44, 20.71]
+        ]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spiderexplosionflame.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [195, 255, 0],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [1.76, 2.39, 23.72],
+          [-0.19, 6.23, 19.41],
+          [13.3, 4.42, 19.64],
+          [-19.17, -7.44, 20.71]
+        ]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spidercrumbleexplosionzombie.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [0, 155, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.59, -1.38]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spiderinhandfxshock.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 44, 0],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.59, -1.38]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spiderinhandfxfirecloak.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [129, 250, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": [
+      "actors\\dlc02\\spider_poison\\characterassets\\spiderinhandfxfrostdead.nif"
+    ]
+  }
+]

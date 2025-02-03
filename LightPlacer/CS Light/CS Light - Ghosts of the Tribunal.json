@@ -1,0 +1,62 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 46, 85],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 113.0]]
+      }
+    ],
+    "models": ["creationclub\\asvsse001\\clutter\\velothi\\mwcandle01red.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [45, 216, 244],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, -45.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\asvsse001\\clutter\\velothi\\mwceilinglight01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, -45.0]]
+      }
+    ],
+    "models": [
+      "creationclub\\asvsse001\\clutter\\velothi\\mwceilinglight01red.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [45, 99, 244],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 113.0]]
+      }
+    ],
+    "models": ["creationclub\\asvsse001\\clutter\\velothi\\mwcandle01.nif"]
+  }
+]

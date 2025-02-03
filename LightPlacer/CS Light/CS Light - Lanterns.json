@@ -1,0 +1,120 @@
+[
+  {
+    "models": [
+      "medieval lanterns\\medieval_lantern_falkreath.nif"
+    ],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 5.0]],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "radius": 72.0,
+          "fade": 1.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\common\\candlelanternwithcandle01.nif",
+      "mlos\\mlos_lantern_01.nif",
+      "mlos\\mlos_lantern_02.nif",
+      "mlos\\mlos_lantern_02b.nif",
+      "mlos\\mlos_lantern_02_anim.nif",
+      "mlos\\mlos_lantern_02_hang.nif",
+      "mlos\\mlos_lantern_03.nif",
+      "mlos\\mlos_lantern_04.nif",
+      "mlos\\mlos_lantern_04b.nif",
+      "mlos\\mlos_lantern_05.nif",
+      "mlos\\mlos_lantern_05_anim_with_hang_x1.4.nif",
+      "mlos\\mlos_lantern_06.nif",
+      "mlos\\mlos_lantern_06_anim.nif",
+      "mlos\\mlos_lantern_06_hang.nif",
+      "mlos\\mlos_lantern_07.nif",
+      "mlos\\mlos_lantern_08.nif",
+      "mlos\\mlos_lantern_08b.nif",
+      "mlos\\mlos_lantern_08_anim_with_hang.nif",
+      "mlos\\mlos_lantern_09.nif",
+      "mlos\\mlos_lantern_09b.nif",
+      "mlos\\mlos_lantern_10.nif",
+      "mlos\\mlos_lantern_10b.nif",
+      "mlos\\mlos_lantern_10_anim_with_hang.nif",
+      "mlos\\mlos_lantern_11.nif",
+      "mlos\\mlos_lantern_11b.nif",
+      "mlos\\mlos_lantern_11_anim.nif",
+      "mlos\\mlos_lantern_11_anim_with_hang.nif",
+      "mlos\\mlos_lantern_12.nif",
+      "mlos\\mlos_lantern_12_anim_with_hang.nif",
+      "mlos\\mlos_lantern_13.nif",
+      "mlos\\mlos_lantern_13_anim_with_hang.nif",
+      "mlos\\mlos_lantern_14.nif",
+      "mlos\\mlos_lantern_14b.nif",
+      "mlos\\mlos_lantern_14_anim.nif",
+      "mlos\\mlos_lantern_15.nif",
+      "mlos\\mlos_lantern_16.nif",
+      "mlos\\mlos_lantern_16b.nif",
+      "mlos\\mlos_lantern_16_anim.nif",
+      "mlos\\mlos_lantern_17b.nif",
+      "mlos\\mlos_lantern_17b_v2.nif",
+      "mlos\\mlos_lantern_17b_v2_chain.nif",
+      "mlos\\mlos_lantern_17_anim.nif",
+      "mlos\\mlos_lantern_17_v2_anim.nif"
+    ],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 5.0]],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "radius": 72.0,
+          "fade": 1.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "mlos\\mlos_light_post_02_whiterun_01_anim.nif",
+      "mlos\\mlos_light_post_falkreath_01_anim.nif",
+      "mlos\\mlos_light_post_eastmarch_01_anim.nif",
+      "mlos\\mlos_light_post_haafingar_01_anim.nif",
+      "mlos\\mlos_light_post_hjaalmarch_01_anim.nif",
+      "mlos\\mlos_light_post_the_pale_01_anim.nif",
+      "mlos\\mlos_light_post_the_rift_01_anim.nif",
+      "mlos\\mlos_light_post_the_reach_01_anim.nif",
+      "mlos\\mlos_light_post_winterhold_01_anim.nif",
+      "mlos\\mlos_light_post_02_dawnguard_01_anim.nif",
+      "mlos\\mlos_light_post_winterhold_01_anim.nif",
+      "mlos\\mlos_light_post_haafingar_01_anim.nif",
+      "mlos\\mlos_light_post_bruma_01.nif"
+    ],
+    "lights": [
+      {
+        "points": [[0.0, 85.0, 245.0]],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "radius": 72.0,
+          "fade": 5.0,
+          "shadowDepthBias": 0.0,
+          "rotation": [0.0, 180.0, 180.0],
+          "flags": "Shadow|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": ["smim\\moveablelantern_smim.nif"],
+    "lights": [
+      {
+        "nodes": ["CandleFlameSm", "CandleFlameLg"],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "radius": 72.0,
+          "fade": 1.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  }
+]

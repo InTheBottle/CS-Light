@@ -1,0 +1,16 @@
+[
+  {
+    "models": ["effects\\moteeffect01.nif"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 0.0]],
+        "data": {
+          "light": "MagicLightWhite01",
+          "color": [127, 215, 255],
+          "radius": 64.0,
+          "fade": 0.8
+        }
+      }
+    ]
+  }
+]

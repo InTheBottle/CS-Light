@@ -1,0 +1,93 @@
+[
+  {
+    "models": ["dlc02\\landscape\\dlc2firecrater02.nif"],
+    "lights": [
+      {
+        "points": [[0.0, -70.0, 0.0]],
+        "data": {
+          "light": "LightForgeFire01",
+          "color": [255, 72, 0.0],
+          "radius": 350.0,
+          "fade": 2.5
+        }
+      }
+    ]
+  },
+  {
+    "models": ["dlc02\\landscape\\dlc2firecraterround.nif"],
+    "lights": [
+      {
+        "points": [[0.0, -50.0, 0.0]],
+        "data": {
+          "light": "LightForgeFire01",
+          "color": [255, 72, 0.0],
+          "radius": 350.0,
+          "fade": 2.5
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "dlc02\\landscape\\dlc2fxflamingrockdebris01.nif",
+      "dlc02\\landscape\\dlc2fxflamingrockdebris02.nif",
+      "dlc02\\landscape\\dlc2scatteredembers02.nif"
+    ],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 0.0]],
+        "data": {
+          "light": "LightForgeFire01",
+          "color": [255, 72, 0.0],
+          "radius": 90.0,
+          "fade": 2.5
+        }
+      }
+    ]
+  },
+  {
+    "models": ["DLC02\\Clutter\\DLC2HeartStoneRock01.nif"],
+    "lights": [
+      {
+        "points": [
+          [-75.0, -110.0, 50.0],
+          [40.0, 90.0, 50.0]
+        ],
+        "data": {
+          "light": "LightForgeFire01",
+          "color": [255, 72, 0.0],
+          "radius": 175.0,
+          "fade": 2.5
+        }
+      }
+    ]
+  },
+  {
+    "models": ["DLC02\\Clutter\\DLC2HeartStoneRock02.nif"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 0.0]],
+        "data": {
+          "light": "LightForgeFire01",
+          "color": [255, 72, 0.0],
+          "radius": 125.0,
+          "fade": 2.5
+        }
+      }
+    ]
+  },
+  {
+    "models": ["dlc02\\clutter\\heartstone\\heartstone.nif"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 0.0]],
+        "data": {
+          "light": "LightForgeFire01",
+          "color": [255, 72, 0.0],
+          "radius": 90.0,
+          "fade": 1.0
+        }
+      }
+    ]
+  }
+]

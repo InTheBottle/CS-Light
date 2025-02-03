@@ -1,0 +1,113 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [0, 205, 255],
+          "fade": 0.5,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 0.8
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.5,
+                "value": 1.2
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 3.0,
+                "value": 0.8
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 35
+        },
+        "points": [[0.0, -5.0, 42.0]]
+      }
+    ],
+    "models": ["landscape\\plants\\wtbluebeaconstalk.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [0, 205, 255],
+          "fade": 0.5,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 0.8
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.5,
+                "value": 1.2
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 3.0,
+                "value": 0.8
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 40.0]]
+      }
+    ],
+    "models": ["landscape\\plants\\wtbluebeacon.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 201, 0],
+          "fade": 0.5,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 0.6
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.5,
+                "value": 1.2
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 3.0,
+                "value": 0.6
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 40.0]]
+      }
+    ],
+    "models": ["landscape\\plants\\wtbogbeacon.nif"]
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [190, 255, 248],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [28.0, 0.0, 13.0],
+          [-28.0, 0.0, 12.0]
+        ]
+      }
+    ],
+    "models": ["dlc02\\clutter\\dlc2stalhrimdepleted.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [190, 255, 248],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [25.0, -10.0, 8.0],
+          [-20.0, -8.0, 8.0]
+        ]
+      }
+    ],
+    "models": ["dlc02\\clutter\\dlc2stalhrimpile.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [190, 255, 248],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [70.0, 0.0, 23.0],
+          [-70.0, 0.0, 20.0],
+          [0.0, 0.0, 30.0]
+        ]
+      }
+    ],
+    "models": ["dlc02\\clutter\\dlc2stalhrimdeposit.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [190, 255, 248],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["dlc02\\clutter\\dlc2stalhrimore.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [190, 255, 248],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [15.0, 0.0, 5.0],
+          [-14.0, 0.0, 3.0]
+        ]
+      }
+    ],
+    "models": ["dlc02\\clutter\\dlc2stalhrimpile02.nif"]
+  }
+]

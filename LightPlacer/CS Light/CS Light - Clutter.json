@@ -1,0 +1,294 @@
+[
+  {
+    "models": [
+      "clutter\\soulgem\\soulgemcommon_full.nif",
+      "clutter\\soulgem\\soulgemgrand_full.nif",
+      "clutter\\soulgem\\soulgemgreater_full.nif",
+      "clutter\\soulgem\\soulgemlesser_full.nif",
+      "clutter\\soulgem\\soulgempetty_full.nif"
+    ],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, -5.0]],
+        "data": {
+          "color":[128, 0, 255],
+          "light": "nocturnallight",
+          "radius": 20.0,
+          "fade": 1,
+          "flags": "Simple"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\quest\\barenziahsjewelrybox.nif"
+    ],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 4.5]],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.5,
+          "fade": 15.0,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "critters\\moths\\crittermothgreen.nif",
+      "critters\\firefly\\FireflyGO.nif"
+    ],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 4.5]],
+        "data": {
+          "color": [255, 255, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.5,
+          "fade": 15.0,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "critters\\moths\\crittermothblue.nif",
+      "clutter\\chauruseggs\\eggs.nif",
+      "clutter\\chauruseggs\\eggsacs.nif",
+      "clutter\\chauruseggs\\eggsacs01.nif",
+      "clutter\\chauruseggs\\eggsacs02.nif"
+    ],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 4.5]],
+        "data": {
+          "light": "FXLightBlueGlow",
+          "radius": 5.5,
+          "fade": 15.0,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\ingredients\\daedraheart.nif",
+      "clutter\\ingredients\\humanheart.nif"
+    ],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 0.0]],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 6.0,
+          "fade": 3.5,
+          "flags": "IgnoreScale|RandomAnimStart",
+          "colorController": {
+            "interpolation": "Linear",
+            "keys": [
+              {
+                "time": 0.0,
+                "color": [201, 10, 10]
+              },
+              {
+                "time": 3.0,
+                "color": [230, 55, 55]
+              },
+              {
+                "time": 6.0,
+                "color": [148, 24, 24]
+              },
+              {
+                "time": 9.0,
+                "color": [94, 7, 7]
+              },
+              {
+                "time": 12.0,
+                "color": [161, 2, 2]
+              },
+              {
+                "time": 15.0,
+                "color": [235, 28, 28]
+              },
+              {
+                "time": 18.0,
+                "color": [201, 10, 10]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "models": ["clutter\\ingredients\\firesaltpile.nif"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 5.0]],
+        "data": {
+          "light": "Ilinalta_OrangeFlicker",
+          "radius": 5.25,
+          "fade": 35.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": ["clutter\\ingredients\\ectoplasm.nif"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 5.0]],
+        "data": {
+          "light": "MagicLightWhite01",
+          "radius": 7.5,
+          "fade": 7.5,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": ["clutter\\ingredients\\frostsalts.nif"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 5.0]],
+        "data": {
+          "light": "FXLightBlueGlow",
+          "radius": 5.25,
+          "fade": 35.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": ["clutter\\ingredients\\voidsalts.nif"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 5.0]],
+        "data": {
+          "light": "MagicLightShockHand",
+          "radius": 5.25,
+          "fade": 2.0,
+          "flags": "IgnoreScale|RandomAnimStart",
+          "colorController": {
+            "interpolation": "Linear",
+            "keys": [
+              {
+                "time": 0.0,
+                "color": [45, 2, 97]
+              },
+              {
+                "time": 8.5,
+                "color": [123, 18, 252]
+              },
+              {
+                "time": 9.0,
+                "color": [45, 2, 97]
+              },
+              {
+                "time": 17.0,
+                "color": [21, 3, 43]
+              },
+              {
+                "time": 17.5,
+                "color": [45, 2, 97]
+              },
+              {
+                "time": 26.5,
+                "color": [155, 79, 247]
+              },
+              {
+                "time": 27.0,
+                "color": [45, 2, 97]
+              },
+              {
+                "time": 35.0,
+                "color": [21, 3, 43]
+              },
+              {
+                "time": 35.5,
+                "color": [45, 2, 97]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "models": ["clutter\\ingredients\\glowdust01.nif"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 2.5]],
+        "data": {
+          "light": "AzuraSuperBlue01",
+          "radius": 5.25,
+          "fade": 15.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": ["clutter\\ingredients\\icewraithteeth.nif"],
+    "lights": [
+      {
+        "points": [[0.0, -2.0, 0.0]],
+        "data": {
+          "light": "DwarvenOmniLight_NoMove",
+          "radius": 6.25,
+          "fade": 1.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": ["clutter\\ingredients\\sap.nif"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 2.0]],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 6.25,
+          "fade": 1.5,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            241,
+            255,
+            0
+          ],
+          "fade": 2.8,
+          "light": "MagicLightWhite01",
+          "radius": 77
+        },
+        "points": [
+          [
+            0.25,
+            -3.01,
+            2.17
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "critters\\firefly\\firefly.nif"
+    ]
+  }
+]

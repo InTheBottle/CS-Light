@@ -1,0 +1,2474 @@
+[
+  {
+    "models": [
+      "clutter\\potions\\poisonfear01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 35.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisonfear02.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 35.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisonfear03.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 35.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisonfear04.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 35.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisonfear05.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 35.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagestaminarate01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagestaminarate02.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagestaminarate03.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagestaminarate04.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagestaminarate05.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagemagickarecovery01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagemagickarecovery02.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagemagickarecovery03.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagemagickarecovery04.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagemagickarecovery05.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagestamina01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            3.5
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.0,
+          "fade": 10.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagestamina02.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagestamina03.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagestamina04.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagestamina05.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisonfrenzy01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisonfrenzy02.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisonfrenzy03.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisonfrenzy04.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisonfrenzy05.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagestaminalinger01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  }, 
+  {
+    "models": [
+      "clutter\\potions\\poisondamagestaminalinger02.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  }, 
+  {
+    "models": [
+      "clutter\\potions\\poisondamagestaminalinger03.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  }, 
+  {
+    "models": [
+      "clutter\\potions\\poisondamagestaminalinger04.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  }, 
+  {
+    "models": [
+      "clutter\\potions\\poisondamagestaminalinger05.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  }, 
+  {
+    "models": [
+      "clutter\\potions\\poisondamagemagickalinger01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  }, 
+  {
+    "models": [
+      "clutter\\potions\\poisondamagemagickalinger02.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  }, 
+  {
+    "models": [
+      "clutter\\potions\\poisondamagemagickalinger03.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  }, 
+  {
+    "models": [
+      "clutter\\potions\\poisondamagemagickalinger04.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  }, 
+  {
+    "models": [
+      "clutter\\potions\\poisondamagemagickalinger05.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  }, 
+  {
+    "models": [
+      "clutter\\potions\\poisondamagehealthlinger01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagehealthlinger02.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagehealthlinger03.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            2.5,
+            5.0
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 4.5,
+          "fade": 60.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagehealthlinger03.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            -5.0,
+            5.0
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 4.5,
+          "fade": 60.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagehealthlinger04.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            -1.25,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagehealthlinger05.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 6.75,
+          "fade": 50.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagemagicka01.nif"
+    ],
+    "lights": [
+      {
+       "points": [
+          [
+            0.0,
+            0.0,
+            3.5
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 4.0,
+          "fade": 10.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagemagicka02.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            3.5
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 4.0,
+          "fade": 15.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagemagicka03.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            3.5
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 4.0,
+          "fade": 20.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagemagicka04.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            3.5
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 4.0,
+          "fade": 25.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagemagicka05.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            -1.25,
+            5.25
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 6.5,
+          "fade": 50.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagemagicka05.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            1.25,
+            5.25
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 6.5,
+          "fade": 50.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisonweaknessshock.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.1
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "color": [27, 102, 250],
+          "radius": 4.75,
+          "fade": 25.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisonweaknessfrost.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.1
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 25.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisonweaknessfire.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.1
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 25.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisonweaknessmagicka.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.1
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 4.75,
+          "fade": 25.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisonparalyze01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "color": [79,158,158],
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisonparalyze02.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "color": [79,158,158],
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisonparalyze03.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "color": [79,158,158],
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisonparalyze04.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "color": [79,158,158],
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisonparalyze05.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "color": [79,158,158],
+          "radius": 4.75,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagehealth01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            3.5
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 4.0,
+          "fade": 10.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagehealth02.nif"
+    ],
+    "lights": [
+      {
+       "points": [
+          [
+            0.0,
+            0.0,
+            3.5
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 4.0,
+          "fade": 15.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagehealth03.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            3.5
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 4.0,
+          "fade": 20.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagehealth04.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            3.5
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 4.0,
+          "fade": 25.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamagehealth05.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            3.5
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 4.0,
+          "fade": 30.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\ingredients\\frostbitevenom01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            10.0
+          ]
+        ],
+        "data": {
+          "light": "BoethiahBluePulseLight",
+          "radius": 7.0,
+          "fade": 75.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\poisondamageskill.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "color": [111, 12, 150],
+          "radius": 6.10,
+          "fade": 75.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifyhealrateextra.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            7.5
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 8.0,
+          "fade": 10.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifyhealrateextreme.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 7.5,
+          "fade": 45.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifyhealrategreat.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 35.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifyhealratelesser.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 10.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifyhealthextra.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            9.0
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 60.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifyhealthextreme.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.5
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 7.5,
+          "fade": 45.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifyhealthgreat.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 30.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifyhealthlesser.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 6.5,
+          "fade": 2.5
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionhealthextra.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 40.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionhealthextreme.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.25
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 8.0,
+          "fade": 50.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionhealthgreat.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 20.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionhealthlesser.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.5
+          ]
+        ],
+        "data": {
+          "color": [255, 0, 0],
+          "light": "GreenPoisonGasLight",
+          "radius": 6.5,
+          "fade": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifyskill01.nif",
+      "dlc01\\clutter\\dlc01bloodpotion.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "color": [111, 12, 150],
+          "radius": 6.10,
+          "fade": 75.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifymagickaextra.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            9.0
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 60.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifymagickaextreme.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 35.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifymagickagreat.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 30.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifymagickalesser.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.0,
+          "fade": 10.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifymagirateextra.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ],
+        "data": {
+          "light": "PL_Bluenpotion",
+          "radius": 7.5,
+          "fade": 45.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifymagirateextreme.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 45.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifymagirategreat.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 30.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifymagiratelesser.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 15.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionmagickaextra.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 40.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionmagickaextreme.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.25
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 8.0,
+          "fade": 50.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionmagickagreat.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ],
+        "data": {
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 20.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionmagickalesser.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 6.0,
+          "fade": 4.5
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifystaminaextra.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            9.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 60.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifystaminaextreme.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            -0.75,
+            6.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 6.5,
+          "fade": 35.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifystaminagreat.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 30.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifystaminalesser.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 15.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifystamrateextra.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            7.5
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 8.0,
+          "fade": 10.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifystamrateextreme.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 7.5,
+          "fade": 45.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifystamrategreat.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 30.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifystamratelesser.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 15.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionstaminaextra.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 5.25,
+          "fade": 40.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionstaminaextreme.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.25
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 8.0,
+          "fade": 50.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionstaminagreat.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.5
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 7.0,
+          "fade": 20.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionstaminalesser.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+           4.0
+          ]
+        ],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 6.5,
+          "fade": 2.5
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifycarryextra.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "DLC1PortalShadLight",
+          "radius": 5.25,
+          "fade": 35.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifycarryextreme.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "DLC1PortalShadLight",
+          "radius": 5.25,
+          "fade": 35.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifycarrygreat.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "DLC1PortalShadLight",
+          "radius": 5.25,
+          "fade": 35.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionfortifycarrylesser.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ],
+        "data": {
+          "light": "DLC1PortalShadLight",
+          "radius": 5.25,
+          "fade": 10.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionresistshock100.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            7.5
+          ]
+        ],
+        "data": {
+          "light": "MagicLightWhite01",
+          "radius": 5.25,
+          "fade": 35.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionresistshock50.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            7.5
+          ]
+        ],
+        "data": {
+          "light": "MagicLightWhite01",
+          "radius": 5.25,
+          "fade": 35.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionresistmagicka100.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            7.5
+          ]
+        ],
+        "data": {
+          "light": "MagicLightWhite01",
+          "radius": 5.25,
+          "fade": 35.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionresistmagicka50.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            7.5
+          ]
+        ],
+        "data": {
+          "light": "MagicLightWhite01",
+          "radius": 5.25,
+          "fade": 35.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionresistfrost100.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            7.5
+          ]
+        ],
+        "data": {
+          "light": "MagicLightWhite01",
+          "radius": 4.5,
+          "fade": 50.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionresistfrost75.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            7.5
+          ]
+        ],
+        "data": {
+          "light": "MagicLightWhite01",
+          "radius": 5.0,
+          "fade": 35.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionresistfrost50.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            7.5
+          ]
+        ],
+        "data": {
+          "light": "MagicLightWhite01",
+          "radius": 5.25,
+          "fade": 20.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionresistfrost25.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            7.5
+          ]
+        ],
+        "data": {
+          "light": "MagicLightWhite01",
+          "radius": 5.25,
+          "fade": 10.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionresistfire100.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            7.5
+          ]
+        ],
+        "data": {
+          "light": "MiddenRedEye01",
+          "radius": 5.25,
+          "fade": 30.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potionresistfire50.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            7.5
+          ]
+        ],
+        "data": {
+          "light": "MiddenRedEye01",
+          "radius": 5.25,
+          "fade": 25.0
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\potions\\potioninvisibiltylesser.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            2.25
+          ]
+        ],
+        "data": {
+          "light": "MiddenRedEye01",
+          "color": [255.255,255],
+          "radius": 2.5,
+          "fade": 25.0
+        }
+      }
+    ]
+  }
+]
