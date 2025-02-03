@@ -1,5 +1,57 @@
 [
   {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            75,
+            197,
+            158
+          ],
+          "fade": 1.1,
+          "light": "MagicLightWhite01",
+          "radius": 77
+        },
+        "points": [
+          [
+            0.6,
+            -0.28,
+            12.47
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "critters\\moths\\mothlunarinjar.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            241,
+            255,
+            0
+          ],
+          "fade": 1.1,
+          "light": "MagicLightWhite01",
+          "radius": 77
+        },
+        "points": [
+          [
+            1.1,
+            -0.0,
+            12.47
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "critters\\firefly\\fireflyinjar.nif"
+    ]
+  },
+  {
     "models": [
       "clutter\\soulgem\\soulgemcommon_full.nif",
       "clutter\\soulgem\\soulgemgrand_full.nif",

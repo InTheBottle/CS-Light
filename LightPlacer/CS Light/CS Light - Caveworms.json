@@ -22,7 +22,7 @@
       }
     ],
     "models": [
-      "plants\\cavewormgroup\\caveworm3group.nif"
+      "dlc01\\plants\\cavewormgroup\\caveworm3group.nif"
     ]
   },
   {
@@ -67,7 +67,7 @@
       }
     ],
     "models": [
-      "plants\\caveworm\\cavewormlarge.nif"
+      "dlc01\\plants\\caveworm\\cavewormlarge.nif"
     ]
   },
   {
@@ -93,7 +93,7 @@
       }
     ],
     "models": [
-      "plants\\cavewormsmall\\cavewormsmall.nif"
+      "dlc01\\plants\\cavewormsmall\\cavewormsmall.nif"
     ]
   }
 ]

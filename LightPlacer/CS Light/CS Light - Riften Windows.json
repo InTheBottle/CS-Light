@@ -6,7 +6,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -28,7 +28,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -54,7 +54,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -76,7 +76,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -114,7 +114,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -148,7 +148,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -170,7 +170,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -204,7 +204,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -253,7 +253,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -286,7 +286,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -314,7 +314,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -336,7 +336,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -358,7 +358,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -398,7 +398,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -436,7 +436,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -462,7 +462,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -494,7 +494,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -526,7 +526,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -553,7 +553,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -583,7 +583,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -616,7 +616,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -662,7 +662,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -687,7 +687,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -715,7 +715,7 @@
           "color": [255, 164, 61],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50,
+          "radius": 70,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",

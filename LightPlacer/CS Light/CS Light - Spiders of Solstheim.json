@@ -27,7 +27,7 @@
         "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": ["spider enb light\\zombie_glow.nif"]
+    "models": ["actors\\dlc02\\spider_poison\\characterassets\\zombie_glow.nif"]
   },
   {
     "lights": [
@@ -60,20 +60,6 @@
     "models": [
       "actors\\dlc02\\spider_poison\\characterassets\\spiderinhandfxfiredead.nif"
     ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [195, 255, 0],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["spider enb light\\poison_spider_glow.nif"]
   },
   {
     "lights": [
@@ -170,20 +156,6 @@
     "models": [
       "actors\\dlc02\\spider_poison\\characterassets\\albinospiderbutt.nif"
     ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [255, 44, 0],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["spider enb light\\fire_spider_glow.nif"]
   },
   {
     "lights": [
@@ -493,20 +465,6 @@
     "lights": [
       {
         "data": {
-          "color": [198, 156, 57],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["spider enb light\\zombie_spider_glow.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
           "color": [255, 44, 0],
           "fade": 2.0,
           "light": "MagicLightWhite01",
@@ -518,48 +476,6 @@
     "models": [
       "actors\\dlc02\\spider_poison\\characterassets\\spiderinhandfxfire.nif"
     ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [129, 250, 255],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["spider enb light\\frost_spider_glow.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [255, 255, 255],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["spider enb light\\albino_spider_glow.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [0, 155, 255],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["spider enb light\\shock_spider_glow.nif"]
   },
   {
     "lights": [

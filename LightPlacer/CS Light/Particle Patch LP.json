@@ -10,7 +10,7 @@
           ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 21
+          "radius": 50
         },
         "points": [
           [
@@ -36,7 +36,7 @@
           ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 18
+          "radius": 50
         },
         "points": [
           [
@@ -86,9 +86,9 @@
             105,
             105
           ],
-          "fade": 1.5,
+          "fade": 1.2,
           "light": "MagicLightWhite01",
-          "radius": 11
+          "radius": 50
         },
         "points": [
           [
@@ -166,7 +166,7 @@
           ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 72
         },
         "points": [
           [
@@ -192,7 +192,7 @@
           ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 18
+          "radius": 50
         },
         "points": [
           [
@@ -925,9 +925,9 @@
             136,
             234
           ],
-          "fade": 0.5,
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 244
+          "radius": 128
         },
         "points": [
           [
@@ -951,9 +951,9 @@
             166,
             237
           ],
-          "fade": 1.5,
+          "fade": 1.2,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 72
         },
         "points": [
           [
@@ -1034,7 +1034,7 @@
           ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 3
+          "radius": 155
         },
         "points": [
           [
@@ -1267,7 +1267,7 @@
           ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 9
+          "radius": 50
         },
         "points": [
           [
@@ -1484,9 +1484,9 @@
             255,
             142
           ],
-          "fade": 1.5,
+          "fade": 1.2,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 72
         },
         "points": [
           [
@@ -1588,9 +1588,9 @@
             166,
             237
           ],
-          "fade": 1.5,
+          "fade": 1.2,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 72
         },
         "points": [
           [
@@ -1894,7 +1894,7 @@
           ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 64
         },
         "points": [
           [
@@ -1918,9 +1918,9 @@
             15,
             15
           ],
-          "fade": 2.0,
+          "fade": 1.2,
           "light": "MagicLightWhite01",
-          "radius": 17
+          "radius": 155
         },
         "points": [
           [
@@ -1946,7 +1946,7 @@
           ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 34
+          "radius": 50
         },
         "points": [
           [
@@ -2050,7 +2050,7 @@
           ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 2
+          "radius": 155
         },
         "points": [
           [
@@ -2121,7 +2121,7 @@
           ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 155
         },
         "points": [
           [
