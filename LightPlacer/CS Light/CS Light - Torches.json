@@ -8,7 +8,7 @@
     ],
     "lights": [
       {
-        "points": [[0, 5, 25]],
+        "points": [[0, 25, 30]],
         "data": {
           "light": "DefaultTorch01NS",
           "radius": 300.0,

@@ -10,16 +10,15 @@
       "effects\\fxfirewithembers02.nif",
       "effects\\fxfirewithembers03.nif",
       "effects\\fxfirewithembers04.nif",
-      "effects\\fxfirewithembers05.nif",
-      "clutter\\woodfires\\fireplacewood01burning.nif"
+      "effects\\fxfirewithembers05.nif"
     ],
     "lights": [
       {
-        "points": [[0, 0, 25]],
+        "points": [[0, 0, 75]],
         "data": {
           "light": "LightCampFire01",
           "radius": 400.0,
-          "fade": 1.0,
+          "fade": 1.2,
           "flags": "IgnoreScale"
         }
       }
@@ -27,19 +26,17 @@
   },
   {
     "models": [
-      "effects\\fxfirewithembers02.nif",
       "effects\\fxfirewithembers01_cheap.nif",
-      "effects\\fxfirewithemberslogs01.nif",
       "effects\\fxfirewithembers01_lite.nif",
       "effects\\fxfirewithembers01_brazier.nif"
     ],
     "lights": [
       {
-        "points": [[0, 0, 25]],
+        "points": [[0, 0, 60]],
         "data": {
           "light": "LightCampFire01",
           "radius": 256.0,
-          "fade": 1.0,
+          "fade": 1.5,
           "flags": "IgnoreScale"
         }
       }
@@ -65,16 +62,17 @@
       "clutter\\woodfires\\campfire01burning.nif",
       "clutter\\woodfires\\campfire01landburning.nif",
       "clutter\\giant\\giantcampfire01burning.nif",
-      "clutter\\giant\\giantcampfire01burningnoland.nif"
+      "clutter\\giant\\giantcampfire01burningnoland.nif",
+      "clutter\\woodfires\\fireplacewood01burning.nif"
     ],
     "lights": [
       {
         "points": [[0, 0, 50]],
         "data": {
           "light": "LightCampFire01",
-          "radius": 400.0,
-          "fade": 1.0,
-          "shadowDepthBias": 26.00,
+          "radius": 512.0,
+          "fade": 1.5,
+          "shadowDepthBias": 26.0,
           "flags": "IgnoreScale|Shadow"
         }
       }
@@ -116,12 +114,12 @@
     ],
     "lights": [
       {
-        "points": [[0, 0, 50]],
+        "points": [[0, 0, 60]],
         "data": {
           "light": "LightCampFire01",
-          "radius": 400.0,
-          "fade": 1.0,
-          "shadowDepthBias": 26.00,
+          "radius": 512.0,
+          "fade": 1.5,
+          "shadowDepthBias": 26.0,
           "flags": "IgnoreScale|Shadow"
         }
       }
@@ -131,110 +129,62 @@
     "lights": [
       {
         "data": {
-          "color": [
-            203,
-            144,
-            78
-          ],
+          "color": [203, 144, 78],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 98
         },
-        "points": [
-          [
-            -0.31,
-            -0.0,
-            2.16
-          ]
-        ]
+        "points": [[-0.31, -0.0, 2.16]]
       }
     ],
-    "models": [
-      "!kenan\\realistic fireplaces\\rf-ember-log.nif"
-    ]
+    "models": ["!kenan\\realistic fireplaces\\rf-ember-log.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            203,
-            144,
-            78
-          ],
+          "color": [203, 144, 78],
           "fade": 1.2,
-          "shadowDepthBias": 26.00,
+          "shadowDepthBias": 26.0,
           "light": "WRFireLightShadow01",
           "radius": 512,
           "flags": "Shadow"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            200
-          ]
-        ]
+        "points": [[0.0, 0.0, 50]]
       }
     ],
-    "models": [
-      "!kenan\\realistic fireplaces\\rf-FIREPLACE-ON.nif"
-    ]
+    "models": ["!kenan\\realistic fireplaces\\rf-FIREPLACE-ON.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            203,
-            144,
-            78
-          ],
+          "color": [203, 144, 78],
           "fade": 1.2,
-          "shadowDepthBias": 26.00,
+          "shadowDepthBias": 26.0,
           "light": "WRFireLightShadow01",
-          "radius": 300,
+          "radius": 512,
           "flags": "Shadow|IgnoreScale"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            200.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 50.0]]
       }
     ],
-    "models": [
-      "!kenan\\realistic fireplaces\\rf-campfire-on.nif"
-    ]
+    "models": ["!kenan\\realistic fireplaces\\rf-campfire-on.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            203,
-            144,
-            78
-          ],
+          "color": [203, 144, 78],
           "fade": 2.0,
-          "shadowDepthBias": 26.00,
+          "shadowDepthBias": 26.0,
           "light": "WRFireLightShadow01",
-          "radius": 300,
+          "radius": 512,
           "flags": "Shadow|IgnoreScale"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            200
-          ]
-        ]
+        "points": [[0.0, 20.0, 80.0]]
       }
     ],
-    "models": [
-      "!kenan\\realistic fireplaces\\rf-campfire-land-on.nif"
-    ]
+    "models": ["!kenan\\realistic fireplaces\\rf-campfire-land-on.nif"]
   }
 ]

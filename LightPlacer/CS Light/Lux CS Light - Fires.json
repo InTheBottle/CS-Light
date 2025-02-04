@@ -14,11 +14,11 @@
     ],
     "lights": [
       {
-        "points": [[0, 0, 25]],
+        "points": [[0, 0, 75]],
         "data": {
           "light": "Lux_DefaultEmberNS",
           "radius": 400.0,
-          "fade": 1.0,
+          "fade": 1.2,
           "flags": "IgnoreScale"
         }
       }
@@ -26,19 +26,17 @@
   },
   {
     "models": [
-      "effects\\fxfirewithembers02.nif",
       "effects\\fxfirewithembers01_cheap.nif",
-      "effects\\fxfirewithemberslogs01.nif",
       "effects\\fxfirewithembers01_lite.nif",
       "effects\\fxfirewithembers01_brazier.nif"
     ],
     "lights": [
       {
-        "points": [[0, 0, 25]],
+        "points": [[0, 0, 60]],
         "data": {
           "light": "Lux_DefaultEmberNS",
           "radius": 256.0,
-          "fade": 1.0,
+          "fade": 1.5,
           "flags": "IgnoreScale"
         }
       }
@@ -62,179 +60,69 @@
   {
     "models": [
       "clutter\\woodfires\\campfire01burning.nif",
-      "clutter\\woodfires\\fireplacewood01burning.nif",
       "clutter\\woodfires\\campfire01landburning.nif",
       "clutter\\giant\\giantcampfire01burning.nif",
-      "clutter\\giant\\giantcampfire01burningnoland.nif"
+      "clutter\\giant\\giantcampfire01burningnoland.nif",
+      "clutter\\woodfires\\fireplacewood01burning.nif"
     ],
     "lights": [
       {
         "points": [[0, 0, 50]],
         "data": {
           "light": "Lux_DefaultEmberNS",
-          "radius": 400.0,
-          "fade": 1.0,
-          "shadowDepthBias": 26.00,
+          "radius": 512.0,
+          "fade": 1.5,
+          "shadowDepthBias": 26.0,
           "flags": "IgnoreScale|Shadow"
         }
       }
     ]
   },
   {
-    "addonNodes": [4, 239],
+    "models": [
+      "clutter\\woodfires\\campfire01burning_FORESTMX01.nif",
+      "clutter\\woodfires\\campfire01burning_FORESTMX02.nif",
+      "clutter\\woodfires\\campfire01burning_FORESTMX03.nif",
+      "clutter\\woodfires\\campfire01burning_FORESTMX04.nif",
+      "clutter\\woodfires\\campfire01burning_FORESTMX05.nif",
+      "clutter\\woodfires\\campfire01burning_FORESTMX06.nif",
+      "clutter\\woodfires\\campfire01burning_FORESTMX07.nif",
+      "clutter\\woodfires\\campfire01burning_FORESTMX08.nif",
+      "clutter\\woodfires\\campfire01burning_FORESTMX09.nif",
+      "clutter\\woodfires\\campfire01burning_FORESTMX10.nif",
+      "clutter\\woodfires\\campfire01burning_FORESTMX11.nif",
+      "clutter\\woodfires\\campfire01burning_NOROCKS.nif",
+      "clutter\\woodfires\\campfire01burning_ROCKS_MX.nif",
+      "clutter\\woodfires\\campfire01burning_ROCKS_MX01.nif",
+      "clutter\\woodfires\\campfire01burning_ROCKS_MX01B.nif",
+      "clutter\\woodfires\\campfire01burning_ROCKS_MX02.nif",
+      "clutter\\woodfires\\campfire01burning_ROCKS_MX05.nif",
+      "clutter\\woodfires\\campfire01burning_ROCKS_MX06.nif",
+      "clutter\\woodfires\\campfire01burning_ROCKS_MX09.nif",
+      "clutter\\woodfires\\campfire01burningMX01.nif",
+      "clutter\\woodfires\\campfire01burningMX02.nif",
+      "clutter\\woodfires\\campfire01burningMX03.nif",
+      "clutter\\woodfires\\campfire01burningMX04.nif",
+      "clutter\\woodfires\\campfire01burningMX05.nif",
+      "clutter\\woodfires\\campfire01burningMX06.nif",
+      "clutter\\woodfires\\campfire01burningMX07.nif",
+      "clutter\\woodfires\\campfire01burningMX08.nif",
+      "clutter\\woodfires\\campfire01burningMX09.nif",
+      "clutter\\woodfires\\campfire01burningMX10.nif",
+      "clutter\\woodfires\\campfire01burningMX11.nif",
+      "clutter\\woodfires\\campfire01burningMX12.nif"
+    ],
     "lights": [
       {
-        "whiteList": [
-          "clutter\\woodfires\\campfire01burning_FORESTMX01.nif",
-          "clutter\\woodfires\\campfire01burning_FORESTMX02.nif",
-          "clutter\\woodfires\\campfire01burning_FORESTMX03.nif",
-          "clutter\\woodfires\\campfire01burning_FORESTMX04.nif",
-          "clutter\\woodfires\\campfire01burning_FORESTMX05.nif",
-          "clutter\\woodfires\\campfire01burning_FORESTMX06.nif",
-          "clutter\\woodfires\\campfire01burning_FORESTMX07.nif",
-          "clutter\\woodfires\\campfire01burning_FORESTMX08.nif",
-          "clutter\\woodfires\\campfire01burning_FORESTMX09.nif",
-          "clutter\\woodfires\\campfire01burning_FORESTMX10.nif",
-          "clutter\\woodfires\\campfire01burning_FORESTMX11.nif",
-          "clutter\\woodfires\\campfire01burning_NOROCKS.nif",
-          "clutter\\woodfires\\campfire01burning_ROCKS_MX.nif",
-          "clutter\\woodfires\\campfire01burning_ROCKS_MX01.nif",
-          "clutter\\woodfires\\campfire01burning_ROCKS_MX01B.nif",
-          "clutter\\woodfires\\campfire01burning_ROCKS_MX02.nif",
-          "clutter\\woodfires\\campfire01burning_ROCKS_MX05.nif",
-          "clutter\\woodfires\\campfire01burning_ROCKS_MX06.nif",
-          "clutter\\woodfires\\campfire01burning_ROCKS_MX09.nif",
-          "clutter\\woodfires\\campfire01burningMX01.nif",
-          "clutter\\woodfires\\campfire01burningMX02.nif",
-          "clutter\\woodfires\\campfire01burningMX03.nif",
-          "clutter\\woodfires\\campfire01burningMX04.nif",
-          "clutter\\woodfires\\campfire01burningMX05.nif",
-          "clutter\\woodfires\\campfire01burningMX06.nif",
-          "clutter\\woodfires\\campfire01burningMX07.nif",
-          "clutter\\woodfires\\campfire01burningMX08.nif",
-          "clutter\\woodfires\\campfire01burningMX09.nif",
-          "clutter\\woodfires\\campfire01burningMX10.nif",
-          "clutter\\woodfires\\campfire01burningMX11.nif",
-          "clutter\\woodfires\\campfire01burningMX12.nif"
-        ],
+        "points": [[0, 0, 60]],
         "data": {
           "light": "Lux_DefaultEmberNS",
-          "radius": 400.0,
-          "fade": 1.0,
-          "shadowDepthBias": 26.00,
+          "radius": 512.0,
+          "fade": 1.5,
+          "shadowDepthBias": 26.0,
           "flags": "IgnoreScale|Shadow"
         }
       }
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            203,
-            144,
-            78
-          ],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 98
-        },
-        "points": [
-          [
-            -0.31,
-            -0.0,
-            2.16
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "!kenan\\realistic fireplaces\\rf-ember-log.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            203,
-            144,
-            78
-          ],
-          "fade": 1.2,
-          "shadowDepthBias": 26.00,
-          "light": "WRFireLightShadow01",
-          "radius": 512,
-          "flags": "Shadow"
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            200
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "!kenan\\realistic fireplaces\\rf-FIREPLACE-ON.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            203,
-            144,
-            78
-          ],
-          "fade": 1.2,
-          "shadowDepthBias": 26.00,
-          "light": "WRFireLightShadow01",
-          "radius": 300,
-          "flags": "Shadow|IgnoreScale"
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            200.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "!kenan\\realistic fireplaces\\rf-campfire-on.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            203,
-            144,
-            78
-          ],
-          "fade": 2.0,
-          "shadowDepthBias": 26.00,
-          "light": "WRFireLightShadow01",
-          "radius": 300,
-          "flags": "Shadow|IgnoreScale"
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            200
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "!kenan\\realistic fireplaces\\rf-campfire-land-on.nif"
     ]
   }
 ]

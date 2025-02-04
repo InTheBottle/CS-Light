@@ -238,32 +238,6 @@
       {
         "data": {
           "color": [
-            203,
-            144,
-            78
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 99
-        },
-        "points": [
-          [
-            -0.0,
-            0.0,
-            5.26
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "effects\\fxfirewithembers02.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             23,
             77,
             255
@@ -432,32 +406,6 @@
       {
         "data": {
           "color": [
-            203,
-            144,
-            78
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 99
-        },
-        "points": [
-          [
-            -0.47,
-            -0.86,
-            5.26
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "effects\\fxfirewithembers02toggle.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             5,
             124,
             234
@@ -512,32 +460,6 @@
     ],
     "models": [
       "dlc01\\soulcairn\\sc_chest01.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            203,
-            144,
-            78
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 91
-        },
-        "points": [
-          [
-            -0.0,
-            0.0,
-            8.43
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "effects\\fxfirewithembers01_lite.nif"
     ]
   },
   {
@@ -843,32 +765,6 @@
       {
         "data": {
           "color": [
-            203,
-            144,
-            78
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 98
-        },
-        "points": [
-          [
-            -0.0,
-            0.0,
-            8.43
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "effects\\fxfirewithembers01.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             80,
             235,
             255
@@ -1157,32 +1053,6 @@
     ],
     "models": [
       "weapons\\dawnbreaker\\1stpersondawnbreaker.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            203,
-            144,
-            78
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 98
-        },
-        "points": [
-          [
-            -0.31,
-            -0.0,
-            2.16
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "effects\\fxfirewithemberslogs01.nif"
     ]
   },
   {
@@ -1959,32 +1829,6 @@
     ],
     "models": [
       "magic\\impactlightspell.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            203,
-            144,
-            78
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 99
-        },
-        "points": [
-          [
-            -0.47,
-            -0.86,
-            5.26
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "effects\\fxfirewithembersheavytoggle.nif"
     ]
   },
   {
