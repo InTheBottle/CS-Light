@@ -1743,7 +1743,8 @@
           ]
         ],
         "data": {
-          "light": "PL_Bluenpotion",
+          "color": [0, 0, 255],
+          "light": "GreenPoisonGasLight",
           "radius": 7.5,
           "fade": 45.0
         }
