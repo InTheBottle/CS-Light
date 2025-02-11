@@ -14,7 +14,7 @@
         "data": {
           "light": "Lux_FarmFakeFlickerNS",
           "radius": 120.0,
-          "fade": 1.2,
+          "fade": 1.0,
           "flags": "PortalStrict"
         }
       }

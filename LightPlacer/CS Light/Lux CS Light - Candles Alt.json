@@ -27,7 +27,7 @@
         "data": {
           "light": "Lux_FakeFlickerNS",
           "radius": 64.0,
-          "fade": 1.2,
+          "fade": 1.0,
           "flags": "PortalStrict|IgnoreScale"
         }
       }
@@ -67,7 +67,7 @@
         "data": {
           "light": "Lux_FakeFlickerNS",
           "radius": 64.0,
-          "fade": 1.3,
+          "fade": 1.0,
           "flags": "PortalStrict|IgnoreScale"
         }
       }
@@ -84,7 +84,7 @@
         "data": {
           "light": "Lux_FakeFlickerNS",
           "radius": 200.0,
-          "fade": 1.3,
+          "fade": 1.0,
           "flags": "PortalStrict|IgnoreScale"
         }
       }
@@ -116,7 +116,7 @@
         "data": {
           "light": "Lux_FakeFlickerNS",
           "radius": 200.0,
-          "fade": 1.3,
+          "fade": 1.0,
           "flags": "PortalStrict|IgnoreScale"
         }
       }
@@ -134,7 +134,7 @@
         "data": {
           "light": "Lux_FakeFlickerNS",
           "radius": 220.0,
-          "fade": 1.3,
+          "fade": 1.0,
           "flags": "PortalStrict|IgnoreScale"
         }
       }
@@ -143,7 +143,8 @@
   {
     "models": [
       "clutter\\ruins\\ruinsfloorcandlelampmidon.nif",
-      "clutter\\ruins\\ruinsfloorcandlelampmidon02.nif"
+      "clutter\\ruins\\ruinsfloorcandlelampmidon02.nif",
+      "clutter\\candles\\candlehornfloor01.nif"
     ],
     "lights": [
       {
@@ -151,7 +152,7 @@
         "data": {
           "light": "Lux_FakeFlickerNS",
           "radius": 220.0,
-          "fade": 1.3,
+          "fade": 1.0,
           "flags": "PortalStrict|IgnoreScale"
         }
       }
@@ -171,16 +172,15 @@
       "clutter\\imperial\\impwallsconce02candleon01_H.nif",
       "clutter\\imperial\\impwallsconce02candleon01_I.nif",
       "clutter\\imperial\\impwallsconce02candleon01_J.nif",
-      "clutter\\imperial\\impwallsconce02candleon01_K.nif",
-      "clutter\\candles\\candlehornfloor01.nif"
+      "clutter\\imperial\\impwallsconce02candleon01_K.nif"
     ],
     "lights": [
       {
         "points": [[-20.0, 0.0, 40.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
-          "radius": 275.0,
-          "fade": 1.5,
+          "radius": 220.0,
+          "fade": 1.0,
           "flags": "PortalStrict|IgnoreScale"
         }
       }
@@ -213,7 +213,7 @@
         "data": {
           "light": "Lux_FakeFlickerNS",
           "radius": 64.0,
-          "fade": 1.1,
+          "fade": 1.0,
           "flags": "PortalStrict|IgnoreScale"
         }
       }
@@ -242,7 +242,7 @@
         "data": {
           "light": "Lux_FakeFlickerNS",
           "radius": 64.0,
-          "fade": 1.3,
+          "fade": 1.0,
           "flags": "PortalStrict|IgnoreScale"
         }
       }
