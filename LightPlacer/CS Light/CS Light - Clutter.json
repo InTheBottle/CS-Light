@@ -109,11 +109,7 @@
   },
   {
     "models": [
-      "critters\\moths\\crittermothblue.nif",
-      "clutter\\chauruseggs\\eggs.nif",
-      "clutter\\chauruseggs\\eggsacs.nif",
-      "clutter\\chauruseggs\\eggsacs01.nif",
-      "clutter\\chauruseggs\\eggsacs02.nif"
+      "critters\\moths\\crittermothblue.nif"
     ],
     "lights": [
       {
@@ -342,5 +338,264 @@
     "models": [
       "critters\\firefly\\firefly.nif"
     ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [80,255,142],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 72
+        },
+        "points": [ 
+            [0.0,-2.0,12.0] 
+        ]
+      }
+    ],
+    "models": [ "plants\\glowingmushroom01.nif" ]
+  },
+  {
+    "lights": [
+      {
+        "nodes": [ "GlowingMushRoomSingle01:0" ],
+        "data": {
+          "offset" : [2.0,-4.0,14.0],
+          "color": [80,255,142],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 64
+        }
+      },
+      {
+        "nodes": [ "GlowingMushRoomSingle01_1:0" ],
+        "data": {
+          "offset" : [2.0,-4.0,14.0],
+          "color": [80,255,142],
+          "fade": 0.5,
+          "light": "MagicLightWhite01",
+          "radius": 155
+        }
+      }
+    ],
+    "models": ["plants\\glowingmushroomsingle01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "nodes": ["GlowingMushroomCluster01:0 - L1_GlowingMushroomCLuster01:0"],
+        "data": {
+          "offset" : [14.0, -14.0, 30.0],
+          "color": [80,255,142],
+          "fade": 1.2,
+          "light": "MagicLightWhite01",
+          "radius": 72
+        }
+      },
+      {
+        "nodes": ["GlowingMushroomCluster01_1:0 - L1_GlowingMushroomCLuster02:0"],
+        "data": {
+          "offset" : [14.0, -14.0, 30.0],
+          "color": [80,255,142],
+          "fade": 0.75,
+          "light": "MagicLightWhite01",
+          "radius": 155
+        }
+      }
+    ],
+    "models": [
+      "plants\\glowingmushroomcluster01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            80,
+            235,
+            255
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 155
+        },
+        "points": [
+          [
+            -5.0,
+            5.0,
+            100.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\blackreach\\blackreachsmallmushroom01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            80,
+            235,
+            255
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 155
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            280.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\blackreach\\blackreachsmallmushroom02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            80,
+            235,
+            255
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 155
+        },
+        "points": [
+          [
+            10.0,
+            -20.0,
+            110.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\blackreach\\blackreachsmallmushroom03.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            80,
+            235,
+            255
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 155
+        },
+        "points": [
+          [
+            5.0,
+            25.0,
+            150.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\blackreach\\blackreachsmallmushroom04.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            80,
+            235,
+            255
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 155
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            120.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\blackreach\\blackreachsmallmushroom05.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [80,235,255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 155
+        },
+        "points": [
+          [0.0, 0.0,4.5]
+        ]
+      }
+    ],
+    "models": [ "clutter\\chauruseggs\\eggs.nif"]
+  },
+  {
+    "lights": [
+      {
+        "nodes" : [ "Eggsacs:0" ],
+        "data": {
+        "offset" : [0.0,0.0,50.0],
+          "color": [80, 235, 255],
+          "fade": 5.0,
+          "light": "MagicLightWhite01",
+          "radius": 77
+        }
+      }
+    ],
+    "models": ["clutter\\chauruseggs\\eggsacs.nif"]
+  },
+  {
+    "lights": [
+      {
+        "nodes" : [ "Eggsacs01:0" ],
+        "data": {
+          "offset" : [0.0,0.0,32.0],
+          "color": [80, 235, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 155
+        }
+      }
+    ],
+    "models": [ "clutter\\chauruseggs\\eggsacs01.nif" ]
+  },
+  {
+    "lights": [
+      {
+        "nodes" : [ "Eggsacs02:0" ],
+        "data": {
+          "offset" : [0.0,0.0,20.0],
+          "color": [80, 235,255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 155
+        }
+      }
+    ],
+    "models": ["clutter\\chauruseggs\\eggsacs02.nif"]
   }
 ]
