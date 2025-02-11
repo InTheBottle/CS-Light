@@ -12,7 +12,7 @@
         "data": {
           "light": "Lux_DefaultTorch",
           "radius": 300.0,
-          "fade": 1.5
+          "fade": 1.0
         }
       }
     ]

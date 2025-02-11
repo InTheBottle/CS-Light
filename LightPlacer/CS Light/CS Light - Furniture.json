@@ -37,7 +37,7 @@
       {
         "points": [[0.0, 0.0, 0.0]],
         "data": {
-          "light": "GreenPoisonGasLight",
+          "light": "Ilinalta_OrangeFlicker",
           "radius": 75.0,
           "fade": 100.0,
           "flags": "Simple|IgnoreScale"
@@ -155,20 +155,6 @@
             ]
           }
         }
-      },
-      {
-        "data": {
-          "fade": 2.0,
-          "light": "DefaultTorch01",
-          "radius": 1000,
-          "shadowDepthBias": 26.00,
-          "flags": "IgnoreScale|Shadow"
-        },
-        "points": [
-          [
-            0.0, 170.0, 75.0
-          ]
-        ]
       }
     ]
   },
