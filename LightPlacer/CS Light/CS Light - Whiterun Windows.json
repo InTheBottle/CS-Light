@@ -14,10 +14,10 @@
           [-227.0, -371.0, 227.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -82,10 +82,10 @@
           [-1025.0, 239.0, -234.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -126,10 +126,10 @@
           [553.0, -76.0, 475.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -149,10 +149,10 @@
           [-128.0, -406.0, 30.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -173,10 +173,10 @@
           [-490.0, -128.0, -70.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -201,10 +201,10 @@
           [-231.0, 27.5, 216.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -247,10 +247,10 @@
           [-3.5, 327.0, 186.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -281,10 +281,10 @@
           [-305.0, 16.5, -42.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -312,10 +312,10 @@
           [-85.5, 273.0, -98.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -362,10 +362,10 @@
           [-575.0, 255.0, -200.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -383,10 +383,10 @@
       {
         "points": [[0.0, 0.0, 468.0]],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -410,10 +410,10 @@
           [43.0, 170.0, 133.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -440,10 +440,10 @@
           [0.0, -2.0, 260.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -469,10 +469,10 @@
           [179.0, 459.0, -90.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -525,10 +525,10 @@
           [-327.0, -264.0, 314.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -579,10 +579,10 @@
           [266.0, -327.0, 23.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -606,10 +606,10 @@
           [-104.0, -104.0, -72.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -658,10 +658,10 @@
           [-439.0, -200.0, 55.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -703,10 +703,10 @@
           [379.0, -211.0, -233.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -729,10 +729,10 @@
           [11.0, 458.0, -190.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -781,10 +781,10 @@
           [291.0, 527.0, -320.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -843,10 +843,10 @@
           [411.0, -274.0, -215.0]
         ],
         "data": {
-          "color": [136, 161, 160],
+          "color": [166, 101, 5],
           "light": "WRWindowFill",
-          "radius": 80.0,
-          "fade": 1.0,
+          "radius": 55.0,
+          "fade": 0.7,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",

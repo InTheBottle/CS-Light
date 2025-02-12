@@ -3,10 +3,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -25,10 +25,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -51,10 +51,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -73,10 +73,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -111,10 +111,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -145,10 +145,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -167,10 +167,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -201,10 +201,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -250,10 +250,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -283,10 +283,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -311,10 +311,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -333,10 +333,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -355,10 +355,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -395,10 +395,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -433,10 +433,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -459,10 +459,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -491,10 +491,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -523,10 +523,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -550,10 +550,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -580,10 +580,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -613,10 +613,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -659,10 +659,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -684,10 +684,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
@@ -712,10 +712,10 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
-          "fade": 1.0,
+          "color": [166, 101, 5],
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 70,
+          "radius": 55.0,
           "flags": "Simple",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
