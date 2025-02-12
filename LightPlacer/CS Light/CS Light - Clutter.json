@@ -340,22 +340,23 @@
     ]
   },
   {
+    "models": [ "plants\\glowingmushroom01.nif" ],
     "lights": [
       {
         "data": {
           "color": [80,255,142],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 15
         },
         "points": [ 
             [0.0,-2.0,12.0] 
         ]
       }
-    ],
-    "models": [ "plants\\glowingmushroom01.nif" ]
+    ]
   },
   {
+    "models": ["plants\\glowingmushroomsingle01.nif"],
     "lights": [
       {
         "nodes": [ "GlowingMushRoomSingle01:0" ],
@@ -364,7 +365,7 @@
           "color": [80,255,142],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 15
         }
       },
       {
@@ -374,13 +375,13 @@
           "color": [80,255,142],
           "fade": 0.5,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 15
         }
       }
-    ],
-    "models": ["plants\\glowingmushroomsingle01.nif"]
+    ]
   },
   {
+    "models": ["plants\\glowingmushroomcluster01.nif"],
     "lights": [
       {
         "nodes": ["GlowingMushroomCluster01:0 - L1_GlowingMushroomCLuster01:0"],
@@ -389,7 +390,7 @@
           "color": [80,255,142],
           "fade": 1.2,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 77
         }
       },
       {
@@ -399,15 +400,13 @@
           "color": [80,255,142],
           "fade": 0.75,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 77
         }
       }
-    ],
-    "models": [
-      "plants\\glowingmushroomcluster01.nif"
     ]
   },
   {
+    "models": ["clutter\\blackreach\\blackreachsmallmushroom01.nif"],
     "lights": [
       {
         "data": {
@@ -418,7 +417,7 @@
           ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 77
         },
         "points": [
           [
@@ -428,12 +427,10 @@
           ]
         ]
       }
-    ],
-    "models": [
-      "clutter\\blackreach\\blackreachsmallmushroom01.nif"
     ]
   },
   {
+    "models": ["clutter\\blackreach\\blackreachsmallmushroom02.nif"],
     "lights": [
       {
         "data": {
@@ -444,7 +441,7 @@
           ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 77
         },
         "points": [
           [
@@ -454,12 +451,10 @@
           ]
         ]
       }
-    ],
-    "models": [
-      "clutter\\blackreach\\blackreachsmallmushroom02.nif"
     ]
   },
   {
+    "models": ["clutter\\blackreach\\blackreachsmallmushroom03.nif"],
     "lights": [
       {
         "data": {
@@ -470,7 +465,7 @@
           ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 77
         },
         "points": [
           [
@@ -480,12 +475,10 @@
           ]
         ]
       }
-    ],
-    "models": [
-      "clutter\\blackreach\\blackreachsmallmushroom03.nif"
     ]
   },
   {
+    "models": ["clutter\\blackreach\\blackreachsmallmushroom04.nif"],
     "lights": [
       {
         "data": {
@@ -496,7 +489,7 @@
           ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 77
         },
         "points": [
           [
@@ -506,12 +499,10 @@
           ]
         ]
       }
-    ],
-    "models": [
-      "clutter\\blackreach\\blackreachsmallmushroom04.nif"
     ]
   },
   {
+    "models": ["clutter\\blackreach\\blackreachsmallmushroom05.nif"],
     "lights": [
       {
         "data": {
@@ -522,7 +513,7 @@
           ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 77
         },
         "points": [
           [
@@ -532,28 +523,27 @@
           ]
         ]
       }
-    ],
-    "models": [
-      "clutter\\blackreach\\blackreachsmallmushroom05.nif"
     ]
   },
   {
+    "models": [ "clutter\\chauruseggs\\eggs.nif"],
     "lights": [
       {
         "data": {
           "color": [80,235,255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 15,
+          "flags": "Simple"
         },
         "points": [
           [0.0, 0.0,4.5]
         ]
       }
-    ],
-    "models": [ "clutter\\chauruseggs\\eggs.nif"]
+    ]
   },
   {
+    "models": ["clutter\\chauruseggs\\eggsacs.nif"],
     "lights": [
       {
         "nodes" : [ "Eggsacs:0" ],
@@ -562,13 +552,13 @@
           "color": [80, 235, 255],
           "fade": 5.0,
           "light": "MagicLightWhite01",
-          "radius": 77
+          "radius": 155
         }
       }
-    ],
-    "models": ["clutter\\chauruseggs\\eggsacs.nif"]
+    ]
   },
   {
+    "models": [ "clutter\\chauruseggs\\eggsacs01.nif" ],
     "lights": [
       {
         "nodes" : [ "Eggsacs01:0" ],
@@ -581,9 +571,9 @@
         }
       }
     ],
-    "models": [ "clutter\\chauruseggs\\eggsacs01.nif" ]
-  },
+  }
   {
+    "models": ["clutter\\chauruseggs\\eggsacs02.nif"],
     "lights": [
       {
         "nodes" : [ "Eggsacs02:0" ],
@@ -592,10 +582,9 @@
           "color": [80, 235,255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 77
         }
       }
-    ],
-    "models": ["clutter\\chauruseggs\\eggsacs02.nif"]
+    ]
   }
 ]
