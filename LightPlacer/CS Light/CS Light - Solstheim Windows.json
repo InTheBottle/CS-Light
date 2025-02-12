@@ -36,9 +36,7 @@
         ]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\skaalvillage\\dlc2skaalvilhousewind01.nif"
-    ]
+    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilhousewind01.nif"]
   },
   {
     "lights": [
@@ -121,9 +119,7 @@
         ]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\skaalvillage\\dlc2skaalvilgreathall01.nif"
-    ]
+    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilgreathall01.nif"]
   },
   {
     "lights": [
@@ -181,9 +177,7 @@
         "points": [[0.0, -2.0, 292.0]]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\skaalvillage\\dlc2skaalvilshack02alt.nif"
-    ]
+    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilshack02alt.nif"]
   },
   {
     "lights": [
@@ -241,9 +235,7 @@
         "points": [[0.0, -2.0, 292.0]]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\skaalvillage\\dlc2skaalvilshack02.nif"
-    ]
+    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilshack02.nif"]
   },
   {
     "lights": [
@@ -288,9 +280,7 @@
         ]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\skaalvillage\\dlc2skaalvilgreymane01.nif"
-    ]
+    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilgreymane01.nif"]
   },
   {
     "lights": [
@@ -331,8 +321,6 @@
         ]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\skaalvillage\\dlc2skaalvilhousewind04.nif"
-    ]
+    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilhousewind04.nif"]
   }
 ]

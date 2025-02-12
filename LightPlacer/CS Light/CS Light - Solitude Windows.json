@@ -437,7 +437,7 @@
           "light": "MagicLightWhite01",
           "radius": 70.0,
           "flags": "Simple",
-           "conditions": [
+          "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
           ]
