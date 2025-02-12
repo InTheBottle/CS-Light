@@ -1,8 +1,6 @@
 [
   {
-    "models": [
-      "medieval lanterns\\medieval_lantern_falkreath.nif"
-    ],
+    "models": ["medieval lanterns\\medieval_lantern_falkreath.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, 5.0]],

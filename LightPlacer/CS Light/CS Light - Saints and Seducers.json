@@ -3,67 +3,35 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            138,
-            34
-          ],
+          "color": [255, 138, 34],
           "fade": 2.8,
           "light": "MagicLightWhite01",
           "radius": 77
         },
-        "points": [
-          [
-            0.25,
-            -3.01,
-            2.17
-          ]
-        ]
+        "points": [[0.25, -3.01, 2.17]]
       }
     ],
-    "models": [
-      "creationclub\\bgssse025\\critters\\maniabug.nif"
-    ]
+    "models": ["creationclub\\bgssse025\\critters\\maniabug.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            0,
-            111,
-            12
-          ],
+          "color": [0, 111, 12],
           "fade": 1.2,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            11.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[11.0, 0.0, 0.0]]
       },
       {
         "data": {
-          "color": [
-            0,
-            121,
-            39
-          ],
+          "color": [0, 121, 39],
           "fade": 1.2,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            4.0,
-            0.0,
-            15.0
-          ]
-        ]
+        "points": [[4.0, 0.0, 15.0]]
       }
     ],
     "models": [
@@ -74,153 +42,81 @@
     "lights": [
       {
         "data": {
-          "color": [
-            0,
-            91,
-            12
-          ],
+          "color": [0, 91, 12],
           "fade": 2.8,
           "light": "MagicLightWhite01",
           "radius": 77
         },
-        "points": [
-          [
-            -2.27,
-            -0.43,
-            100.0
-          ]
-        ]
+        "points": [[-2.27, -0.43, 100.0]]
       }
     ],
-    "models": [
-      "creationclub\\_shared\\plants\\rootthornhookactivator.nif"
-    ]
+    "models": ["creationclub\\_shared\\plants\\rootthornhookactivator.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            0,
-            153,
-            29
-          ],
+          "color": [0, 153, 29],
           "fade": 1.2,
           "light": "MagicLightWhite01",
           "radius": 71
         },
         "points": [
-          [
-            0.0,
-            0.0,
-            25.0
-          ],
-          [
-            0.0,
-            0.0,
-            25.36
-          ]
+          [0.0, 0.0, 25.0],
+          [0.0, 0.0, 25.36]
         ]
       },
       {
         "data": {
-          "color": [
-            0,
-            153,
-            29
-          ],
+          "color": [0, 153, 29],
           "fade": 2.8,
           "light": "MagicLightWhite01",
           "radius": 77
         },
-        "points": [
-          [
-            0.0,
-            -2.0,
-            -5.0
-          ]
-        ]
+        "points": [[0.0, -2.0, -5.0]]
       }
     ],
-    "models": [
-      "creationclub\\_shared\\plants\\rootrotscaleactivator.nif"
-    ]
+    "models": ["creationclub\\_shared\\plants\\rootrotscaleactivator.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            138,
-            34
-          ],
+          "color": [255, 138, 34],
           "fade": 2.8,
           "light": "MagicLightWhite01",
           "radius": 77
         },
-        "points": [
-          [
-            1.29,
-            0.89,
-            5.47
-          ]
-        ]
+        "points": [[1.29, 0.89, 5.47]]
       }
     ],
-    "models": [
-      "creationclub\\bgssse025\\critters\\maniabuginjar.nif"
-    ]
+    "models": ["creationclub\\bgssse025\\critters\\maniabuginjar.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            164,
-            128,
-            0
-          ],
+          "color": [164, 128, 0],
           "fade": 2.8,
           "light": "MagicLightWhite01",
           "radius": 77
         },
         "points": [
-          [
-            -1.76,
-            -1.04,
-            67.78
-          ],
-          [
-            0.0,
-            -2.0,
-            -5.0
-          ]
+          [-1.76, -1.04, 67.78],
+          [0.0, -2.0, -5.0]
         ]
       },
       {
         "data": {
-          "color": [
-            164,
-            128,
-            0
-          ],
+          "color": [164, 128, 0],
           "fade": 1.2,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            25.36
-          ]
-        ]
+        "points": [[0.0, 0.0, 25.36]]
       }
     ],
-    "models": [
-      "creationclub\\_shared\\plants\\rootscreamingmawactivator.nif"
-    ]
+    "models": ["creationclub\\_shared\\plants\\rootscreamingmawactivator.nif"]
   },
   {
     "lights": [

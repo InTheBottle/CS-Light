@@ -1,8 +1,6 @@
 [
   {
-    "models": [
-      "dlc01\\plants\\dlc01glowplant01.nif"
-    ],
+    "models": ["dlc01\\plants\\dlc01glowplant01.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, 40.0]],
@@ -17,9 +15,7 @@
     ]
   },
   {
-    "models": [
-      "dlc01\\plants\\dlc01glowplant01ingredient.nif"
-    ],
+    "models": ["dlc01\\plants\\dlc01glowplant01ingredient.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, 10.0]],
@@ -52,15 +48,13 @@
     ]
   },
   {
-    "models": [
-      "ingredients\\glowgill.nif"    
-      ],
+    "models": ["ingredients\\glowgill.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, 25.0]],
         "data": {
           "light": "MagicLightWhite01",
-           "color": [0.212, 0.992, 1.0],
+          "color": [0.212, 0.992, 1.0],
           "radius": 50.0,
           "fade": 0.5,
           "flags": "Simple"
@@ -71,8 +65,8 @@
   {
     "models": [
       "clutter\\blackreach\\blackreachgiantmushanim01.nif",
-      "clutter\\blackreach\\blackreachgiantmushroom01.nif"    
-      ],
+      "clutter\\blackreach\\blackreachgiantmushroom01.nif"
+    ],
     "lights": [
       {
         "points": [[0.0, 0.0, 1050.0]],
@@ -89,8 +83,8 @@
   {
     "models": [
       "clutter\\blackreach\\blackreachgiantmushanim02.nif",
-      "clutter\\blackreach\\blackreachgiantmushroom02.nif"     
-      ],
+      "clutter\\blackreach\\blackreachgiantmushroom02.nif"
+    ],
     "lights": [
       {
         "points": [[0.0, 0.0, 475.0]],
@@ -107,8 +101,8 @@
   {
     "models": [
       "clutter\\blackreach\\blackreachgiantmushanim03.nif",
-      "clutter\\blackreach\\blackreachgiantmushroom03.nif"     
-      ],
+      "clutter\\blackreach\\blackreachgiantmushroom03.nif"
+    ],
     "lights": [
       {
         "points": [[0.0, 0.0, 362.0]],
@@ -125,8 +119,8 @@
   {
     "models": [
       "clutter\\blackreach\\blackreachgiantmushanim04.nif",
-      "clutter\\blackreach\\blackreachgiantmushroom04.nif"    
-      ],
+      "clutter\\blackreach\\blackreachgiantmushroom04.nif"
+    ],
     "lights": [
       {
         "points": [[0.0, 0.0, 445.0]],
@@ -143,8 +137,8 @@
   {
     "models": [
       "clutter\\blackreach\\blackreachgiantmushanim05.nif",
-      "clutter\\blackreach\\blackreachgiantmushroom05.nif"    
-      ],
+      "clutter\\blackreach\\blackreachgiantmushroom05.nif"
+    ],
     "lights": [
       {
         "points": [[0.0, 0.0, 525.0]],
@@ -159,9 +153,7 @@
     ]
   },
   {
-    "models": [
-      "clutter\\blackreach\\blackreachgiantmushhoriz01.nif"    
-      ],
+    "models": ["clutter\\blackreach\\blackreachgiantmushhoriz01.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, 450.0]],
@@ -176,9 +168,7 @@
     ]
   },
   {
-    "models": [
-      "clutter\\blackreach\\blackreachgiantmushhoriz02.nif"    
-      ],
+    "models": ["clutter\\blackreach\\blackreachgiantmushhoriz02.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, 350.0]],
@@ -193,9 +183,7 @@
     ]
   },
   {
-    "models": [
-      "clutter\\blackreach\\blackreachgiantmushhoriz03.nif"    
-      ],
+    "models": ["clutter\\blackreach\\blackreachgiantmushhoriz03.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, 450.0]],
@@ -210,9 +198,7 @@
     ]
   },
   {
-    "models": [
-      "clutter\\blackreach\\blackreachgiantmushhoriz04.nif"    
-      ],
+    "models": ["clutter\\blackreach\\blackreachgiantmushhoriz04.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, 520.0]],
@@ -227,9 +213,7 @@
     ]
   },
   {
-    "models": [
-      "clutter\\blackreach\\blackreachvinefloor01.nif"    
-      ],
+    "models": ["clutter\\blackreach\\blackreachvinefloor01.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, 0.0]],
@@ -247,130 +231,70 @@
     "lights": [
       {
         "data": {
-          "color": [
-            0,
-            186,
-            255
-          ],
+          "color": [0, 186, 255],
           "fade": 1.75,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            60.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 60.0]]
       }
     ],
-    "models": [
-      "clutter\\blackreach\\blackreachbush02.nif"
-    ]
+    "models": ["clutter\\blackreach\\blackreachbush02.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            0,
-            186,
-            255
-          ],
+          "color": [0, 186, 255],
           "fade": 1.75,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            50.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 50.0]]
       }
     ],
-    "models": [
-      "clutter\\blackreach\\blackreachbush01.nif"
-    ]
+    "models": ["clutter\\blackreach\\blackreachbush01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            0,
-            186,
-            255
-          ],
+          "color": [0, 186, 255],
           "fade": 1.25,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            35.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 35.0]]
       }
     ],
-    "models": [
-      "landscape\\plants\\blackreachfern01.nif"
-    ]
+    "models": ["landscape\\plants\\blackreachfern01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            51,
-            255,
-            178
-          ],
+          "color": [51, 255, 178],
           "fade": 0.75,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            20.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 20.0]]
       }
     ],
-    "models": [
-      "clutter\\blackreach\\blackreachvinefloor01.nif"
-    ]
+    "models": ["clutter\\blackreach\\blackreachvinefloor01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            0,
-            186,
-            255
-          ],
+          "color": [0, 186, 255],
           "fade": 1.25,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            35.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 35.0]]
       }
     ],
-    "models": [
-      "landscape\\plants\\blackreachfern02.nif"
-    ]
+    "models": ["landscape\\plants\\blackreachfern02.nif"]
   }
 ]

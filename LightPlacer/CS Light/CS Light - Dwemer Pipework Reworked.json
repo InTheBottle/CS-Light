@@ -37,12 +37,12 @@
     ]
   },
   {
-    "models": ["dlc02\\dungeons\\dwemer\\animated\\dlc2dweboiler\\dlc02dweboiler.nif"],
+    "models": [
+      "dlc02\\dungeons\\dwemer\\animated\\dlc2dweboiler\\dlc02dweboiler.nif"
+    ],
     "lights": [
       {
-        "points": [
-          [0.0, 0.0, 225.0]
-        ],
+        "points": [[0.0, 0.0, 225.0]],
         "data": {
           "light": "MagicLightWhite01",
           "color": [255, 100, 0],
