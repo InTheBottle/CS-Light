@@ -570,8 +570,8 @@
           "radius": 155
         }
       }
-    ],
-  }
+    ]
+  },
   {
     "models": ["clutter\\chauruseggs\\eggsacs02.nif"],
     "lights": [
