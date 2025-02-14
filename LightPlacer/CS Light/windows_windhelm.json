@@ -5,7 +5,6 @@
         "data": {
           "color": [255, 255, 255],
           "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
@@ -23,7 +22,6 @@
         "data": {
           "color": [255, 255, 255],
           "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
@@ -41,7 +39,6 @@
         "data": {
           "color": [255, 255, 255],
           "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
@@ -59,7 +56,6 @@
         "data": {
           "color": [255, 255, 255],
           "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 160.0
@@ -81,7 +77,6 @@
         "data": {
           "color": [255, 255, 255],
           "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
