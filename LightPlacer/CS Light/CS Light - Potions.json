@@ -18,11 +18,11 @@
       {
         "data": {
           "color": [112, 6, 0],
-          "fade": 70.0,
+          "fade": 500.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 4
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [[0.0, 0.0, 3.5]]
       }
     ],
     "models": ["clutter\\potions\\poisondamagehealth01.nif"]
@@ -32,11 +32,11 @@
       {
         "data": {
           "color": [0, 9, 147],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 8
         },
-        "points": [[0.0, 0.0, 7.0]]
+        "points": [[0.0, 0.0, 8.0]]
       }
     ],
     "models": ["clutter\\potions\\potionfortifymagickaextreme.nif"]
@@ -74,11 +74,11 @@
       {
         "data": {
           "color": [15, 147, 0],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
           "radius": 6
         },
-        "points": [[0.0, 0.0, 7.0]]
+        "points": [[0.0, 0.0, 5.0]]
       }
     ],
     "models": ["clutter\\potions\\potionfortifystaminaextra.nif"]
@@ -88,11 +88,11 @@
       {
         "data": {
           "color": [121, 2, 0],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 8
         },
-        "points": [[0.0, 0.0, 14.0]]
+        "points": [[0.0, 0.0, 8.0]]
       }
     ],
     "models": ["clutter\\potions\\potionhealthextreme.nif"]
@@ -144,11 +144,11 @@
       {
         "data": {
           "color": [15, 147, 0],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 8
         },
-        "points": [[0.0, 0.0, 7.0]]
+        "points": [[0.0, 0.0, 8.0]]
       }
     ],
     "models": ["clutter\\potions\\potionfortifystaminaextreme.nif"]
@@ -158,11 +158,11 @@
       {
         "data": {
           "color": [0, 80, 190],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 6.4
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [[0.0, 0.0, 6.0]]
       }
     ],
     "models": ["clutter\\potions\\potionfortifymagickalesser.nif"]
@@ -200,11 +200,11 @@
       {
         "data": {
           "color": [180, 166, 127],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 6.4
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [[0.0, 0.0, 6.0]]
       }
     ],
     "models": ["clutter\\potions\\potioninvisibiltylesser.nif"]
@@ -242,11 +242,11 @@
       {
         "data": {
           "color": [0, 9, 121],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 8
         },
-        "points": [[0.0, 0.0, 10.0]]
+        "points": [[0.0, 0.0, 8.0]]
       }
     ],
     "models": ["clutter\\potions\\potionmagickaextreme.nif"]
@@ -256,11 +256,11 @@
       {
         "data": {
           "color": [168, 53, 0],
-          "fade": 70.0,
+          "fade": 500.0,
           "light": "MagicLightWhite01",
           "radius": 6
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [[0.0, 0.0, 5.5]]
       }
     ],
     "models": ["clutter\\potions\\potionfortifyskill01.nif"]
@@ -298,11 +298,11 @@
       {
         "data": {
           "color": [0, 18, 112],
-          "fade": 70.0,
+          "fade": 500.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 5
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [[0.0, 0.0, 4.0]]
       }
     ],
     "models": ["clutter\\potions\\poisondamagemagicka02.nif"]
@@ -354,14 +354,28 @@
       {
         "data": {
           "color": [114, 0, 2],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 8
         },
-        "points": [[0.0, 0.0, 7.0]]
+        "points": [[0.0, 0.0, 8.0]]
       }
     ],
     "models": ["clutter\\potions\\potionfortifyhealthextreme.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [114, 0, 2],
+          "fade": 500.0,
+          "light": "MagicLightWhite01",
+          "radius": 5.2
+        },
+        "points": [[0.0, 0.0, 5.0]]
+      }
+    ],
+    "models": ["clutter\\potions\\potionfortifyhealratelesser.nif"]
   },
   {
     "lights": [
@@ -410,11 +424,11 @@
       {
         "data": {
           "color": [180, 166, 127],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 8
         },
-        "points": [[0.0, 0.0, 7.0]]
+        "points": [[0.0, 0.0, 8.0]]
       }
     ],
     "models": ["clutter\\potions\\potioninvisibiltyextreme.nif"]
@@ -452,11 +466,11 @@
       {
         "data": {
           "color": [180, 166, 127],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 8
         },
-        "points": [[0.0, 0.0, 7.0]]
+        "points": [[0.0, 0.0, 8.0]]
       }
     ],
     "models": ["clutter\\potions\\potioninvisibiltyextra.nif"]
@@ -494,11 +508,11 @@
       {
         "data": {
           "color": [190, 11, 0],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 6.4
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [[0.0, 0.0, 6.5]]
       }
     ],
     "models": ["clutter\\potions\\potionfortifyhealthlesser.nif"]
@@ -564,11 +578,11 @@
       {
         "data": {
           "color": [190, 138, 0],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 6.4
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [[0.0, 0.0, 6.0]]
       }
     ],
     "models": ["clutter\\potions\\potionfortifycarrylesser.nif"]
@@ -648,11 +662,11 @@
       {
         "data": {
           "color": [121, 2, 0],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 8
         },
-        "points": [[0.0, 0.0, 10.0]]
+        "points": [[0.0, 0.0, 8.0]]
       }
     ],
     "models": ["clutter\\potions\\potionhealthextra.nif"]
@@ -718,11 +732,11 @@
       {
         "data": {
           "color": [147, 102, 0],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 8
         },
-        "points": [[0.0, 0.0, 7.0]]
+        "points": [[0.0, 0.0, 8.0]]
       }
     ],
     "models": ["clutter\\potions\\potionfortifycarryextra.nif"]
@@ -732,14 +746,28 @@
       {
         "data": {
           "color": [2, 190, 0],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 6.4
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [[0.0, 0.0, 6.0]]
       }
     ],
     "models": ["clutter\\potions\\potionfortifystaminalesser.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [2, 190, 0],
+          "fade": 100.0,
+          "light": "MagicLightWhite01",
+          "radius": 6.4
+        },
+        "points": [[0.0, 0.0, 6.0]]
+      }
+    ],
+    "models": ["clutter\\potions\\PotionFortifyStamRateGreat.nif"]
   },
   {
     "lights": [
@@ -774,11 +802,11 @@
       {
         "data": {
           "color": [95, 0, 2],
-          "fade": 70.0,
+          "fade": 200.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 8
         },
-        "points": [[0.0, 0.0, 7.0]]
+        "points": [[0.0, 0.0, 7.5]]
       }
     ],
     "models": ["clutter\\potions\\potionfortifyhealthextra.nif"]
@@ -788,9 +816,9 @@
       {
         "data": {
           "color": [107, 2, 0],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 6.4
         },
         "points": [[0.0, 0.0, 6.0]]
       }
@@ -802,11 +830,11 @@
       {
         "data": {
           "color": [147, 102, 0],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 8
         },
-        "points": [[0.0, 0.0, 7.0]]
+        "points": [[0.0, 0.0, 8.0]]
       }
     ],
     "models": ["clutter\\potions\\potionfortifycarryextreme.nif"]
@@ -816,11 +844,11 @@
       {
         "data": {
           "color": [0, 17, 190],
-          "fade": 70.0,
+          "fade": 500.0,
           "light": "MagicLightWhite01",
           "radius": 6
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [[0.0, 0.0, 6.0]]
       }
     ],
     "models": ["clutter\\potions\\potionresistmagicka50.nif"]
@@ -844,11 +872,11 @@
       {
         "data": {
           "color": [0, 9, 147],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 8
         },
-        "points": [[0.0, 0.0, 7.0]]
+        "points": [[0.0, 0.0, 8.0]]
       }
     ],
     "models": ["clutter\\potions\\potionfortifymagickaextra.nif"]
@@ -914,11 +942,11 @@
       {
         "data": {
           "color": [0, 9, 121],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 8
         },
-        "points": [[0.0, 0.0, 10.0]]
+        "points": [[0.0, 0.0, 8.0]]
       }
     ],
     "models": ["clutter\\potions\\potionmagickaextra.nif"]
@@ -942,11 +970,11 @@
       {
         "data": {
           "color": [0, 9, 121],
-          "fade": 10.4,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 6.4
         },
-        "points": [[0.0, 0.0, 5.1]]
+        "points": [[0.0, 0.0, 6.0]]
       }
     ],
     "models": ["clutter\\potions\\potionmagickalesser.nif"]
@@ -956,11 +984,11 @@
       {
         "data": {
           "color": [190, 22, 0],
-          "fade": 70.0,
+          "fade": 500.0,
           "light": "MagicLightWhite01",
           "radius": 6
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [[0.0, 0.0, 6.0]]
       }
     ],
     "models": ["clutter\\potions\\potionresistfire50.nif"]
@@ -984,11 +1012,11 @@
       {
         "data": {
           "color": [0, 186, 190],
-          "fade": 70.0,
+          "fade": 500.0,
           "light": "MagicLightWhite01",
           "radius": 6
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [[0.0, 0.0, 6.0]]
       }
     ],
     "models": ["clutter\\potions\\potionresistfrost50.nif"]
@@ -1012,11 +1040,11 @@
       {
         "data": {
           "color": [142, 74, 0],
-          "fade": 70.0,
+          "fade": 500.0,
           "light": "MagicLightWhite01",
           "radius": 6
         },
-        "points": [[0.0, 0.0, 7.0]]
+        "points": [[0.0, 0.0, 6.0]]
       }
     ],
     "models": ["clutter\\potions\\potionresistshock50.nif"]
@@ -1026,11 +1054,11 @@
       {
         "data": {
           "color": [0, 121, 17],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 8
         },
-        "points": [[0.0, 0.0, 10.0]]
+        "points": [[0.0, 0.0, 8.0]]
       }
     ],
     "models": ["clutter\\potions\\potionstaminaextra.nif"]
@@ -1040,11 +1068,11 @@
       {
         "data": {
           "color": [0, 121, 17],
-          "fade": 4.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 8
         },
-        "points": [[0.0, 0.0, 11.0]]
+        "points": [[0.0, 0.0, 8.0]]
       }
     ],
     "models": ["clutter\\potions\\potionstaminaextreme.nif"]
@@ -1068,11 +1096,11 @@
       {
         "data": {
           "color": [0, 121, 17],
-          "fade": 70.0,
+          "fade": 100.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 6.4
         },
-        "points": [[0.0, 0.0, 4.5]]
+        "points": [[0.0, 0.0, 6.0]]
       }
     ],
     "models": ["clutter\\potions\\potionstaminalesser.nif"]
