@@ -3,23 +3,13 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
-        "points": [
-          [
-            0,
-            0,
-            100
-          ]
-        ]
+        "points": [[0, 0, 100]]
       }
     ],
     "models": [
@@ -30,23 +20,13 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 128.0
         },
-        "points": [
-          [
-            -80,
-            0,
-            20
-          ]
-        ]
+        "points": [[-80, 0, 20]]
       }
     ],
     "models": [

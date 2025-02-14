@@ -3,104 +3,58 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 3.0,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 80.0
         },
-        "points": [
-          [
-            0,
-            225,
-            575
-          ]
-        ]
+        "points": [[0, 225, 575]]
       }
     ],
-    "models": [
-      "architecture\\highhrothgar\\hhlgbaylendl.nif"
-    ]
+    "models": ["architecture\\highhrothgar\\hhlgbaylendl.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 3.0,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 80.0
         },
-        "points": [
-          [
-            0,
-            225,
-            550
-          ]
-        ]
+        "points": [[0, 225, 550]]
       }
     ],
-    "models": [
-      "architecture\\highhrothgar\\hhlgbayr01.nif"
-    ]
+    "models": ["architecture\\highhrothgar\\hhlgbayr01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 3.0,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 80.0
         },
-        "points": [
-          [
-            -5,
-            250,
-            575
-          ]
-        ]
+        "points": [[-5, 250, 575]]
       }
     ],
-    "models": [
-      "architecture\\highhrothgar\\hhlgbayrangle.nif"
-    ]
+    "models": ["architecture\\highhrothgar\\hhlgbayrangle.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
-        "points": [
-          [
-            -260,
-            275,
-            -75
-          ]
-        ]
+        "points": [[-260, 275, -75]]
       }
     ],
     "models": [
@@ -112,243 +66,135 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
-        "points": [
-          [
-            260,
-            275,
-            -75
-          ]
-        ]
+        "points": [[260, 275, -75]]
       }
     ],
-    "models": [
-      "architecture\\highhrothgar\\hhlgbaysm02.nif"
-    ]
+    "models": ["architecture\\highhrothgar\\hhlgbaysm02.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
-        "points": [
-          [
-            -15,
-            375,
-            -75
-          ]
-        ]
+        "points": [[-15, 375, -75]]
       }
     ],
-    "models": [
-      "architecture\\highhrothgar\\hhlgbaysmangle.nif"
-    ]
+    "models": ["architecture\\highhrothgar\\hhlgbaysmangle.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
-        "points": [
-          [
-            260,
-            -275,
-            75
-          ]
-        ]
+        "points": [[260, -275, 75]]
       }
     ],
-    "models": [
-      "architecture\\highhrothgar\\hhlgbaysmcon02.nif"
-    ]
+    "models": ["architecture\\highhrothgar\\hhlgbaysmcon02.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
-        "points": [
-          [
-            250,
-            275,
-            -75
-          ]
-        ]
+        "points": [[250, 275, -75]]
       }
     ],
-    "models": [
-      "architecture\\highhrothgar\\hhlgbaysmend01.nif"
-    ]
+    "models": ["architecture\\highhrothgar\\hhlgbaysmend01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
-        "points": [
-          [
-            260,
-            -270,
-            75
-          ]
-        ]
+        "points": [[260, -270, 75]]
       }
     ],
-    "models": [
-      "architecture\\highhrothgar\\hhlgbaysment02.nif"
-    ]
+    "models": ["architecture\\highhrothgar\\hhlgbaysment02.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 3.0,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 386.0
         },
-        "points": [
-          [
-            -315,
-            250,
-            -1050
-          ]
-        ]
+        "points": [[-315, 250, -1050]]
       }
     ],
-    "models": [
-      "architecture\\highhrothgar\\HHMainHallCon01.nif"
-    ]
+    "models": ["architecture\\highhrothgar\\HHMainHallCon01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 3.0,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 386.0
         },
-        "points": [
-          [
-            315,
-            -250,
-            1050
-          ]
-        ]
+        "points": [[315, -250, 1050]]
       }
     ],
-    "models": [
-      "architecture\\highhrothgar\\HHMainHallCon02.nif"
-    ]
+    "models": ["architecture\\highhrothgar\\HHMainHallCon02.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 3.0,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 80.0
         },
-        "points": [
-          [
-            -775,
-            360,
-            -700
-          ]
-        ]
+        "points": [[-775, 360, -700]]
       }
     ],
-    "models": [
-      "architecture\\highhrothgar\\hhmainhalllgbaycon01.nif"
-    ]
+    "models": ["architecture\\highhrothgar\\hhmainhalllgbaycon01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 3.0,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
           "radius": 80.0
         },
-        "points": [
-          [
-            775,
-            -360,
-            700
-          ]
-        ]
+        "points": [[775, -360, 700]]
       }
     ],
-    "models": [
-      "architecture\\highhrothgar\\hhmainhalllgbaycon02.nif"
-    ]
+    "models": ["architecture\\highhrothgar\\hhmainhalllgbaycon02.nif"]
   }
 ]
