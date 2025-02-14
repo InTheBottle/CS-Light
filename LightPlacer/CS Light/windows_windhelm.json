@@ -1,0 +1,98 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "IgnoreScale",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [[100, 0, 386]]
+      }
+    ],
+    "models": [
+      "architecture\\windhelm\\interiorkits\\wood\\whintwoodbackwallwindow01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "IgnoreScale",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [[0, 100, 386]]
+      }
+    ],
+    "models": [
+      "architecture\\windhelm\\interiorkits\\wood\\whintwoodroofleftwindow01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "IgnoreScale",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [[0, -100, 386]]
+      }
+    ],
+    "models": [
+      "architecture\\windhelm\\interiorkits\\wood\\whintwoodroofrightwindow01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "IgnoreScale",
+          "light": "DefaultSunlight01NS",
+          "radius": 160.0
+        },
+        "points": [[0, 50, 75]]
+      }
+    ],
+    "models": [
+      "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow02.nif",
+      "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow03.nif",
+      "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow04.nif",
+      "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow06.nif",
+      "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow07.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "IgnoreScale",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [[0, 0, 100]]
+      }
+    ],
+    "models": [
+      "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallwindow01.nif",
+      "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallwindow02.nif",
+      "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallwindow03.nif"
+    ]
+  }
+]
