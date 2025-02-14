@@ -3,7 +3,7 @@
     "lights": [
       {
         "data": {
-          "color": [136, 136, 136],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
@@ -17,7 +17,7 @@
       },
       {
         "data": {
-          "color": [136, 136, 136],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
@@ -36,15 +36,13 @@
         ]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\skaalvillage\\dlc2skaalvilhousewind01.nif"
-    ]
+    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilhousewind01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [136, 136, 136],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
@@ -103,7 +101,7 @@
       },
       {
         "data": {
-          "color": [136, 136, 136],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
@@ -121,15 +119,13 @@
         ]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\skaalvillage\\dlc2skaalvilgreathall01.nif"
-    ]
+    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilgreathall01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [136, 136, 136],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
@@ -150,7 +146,7 @@
       },
       {
         "data": {
-          "color": [136, 136, 136],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
@@ -181,15 +177,13 @@
         "points": [[0.0, -2.0, 292.0]]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\skaalvillage\\dlc2skaalvilshack02alt.nif"
-    ]
+    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilshack02alt.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [136, 136, 136],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
@@ -208,7 +202,7 @@
       },
       {
         "data": {
-          "color": [136, 136, 136],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
@@ -241,15 +235,13 @@
         "points": [[0.0, -2.0, 292.0]]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\skaalvillage\\dlc2skaalvilshack02.nif"
-    ]
+    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilshack02.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [136, 136, 136],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
@@ -268,7 +260,7 @@
       },
       {
         "data": {
-          "color": [136, 136, 136],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
@@ -288,15 +280,13 @@
         ]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\skaalvillage\\dlc2skaalvilgreymane01.nif"
-    ]
+    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilgreymane01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [136, 136, 136],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
@@ -314,7 +304,7 @@
       },
       {
         "data": {
-          "color": [136, 136, 136],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
@@ -331,8 +321,6 @@
         ]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\skaalvillage\\dlc2skaalvilhousewind04.nif"
-    ]
+    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilhousewind04.nif"]
   }
 ]

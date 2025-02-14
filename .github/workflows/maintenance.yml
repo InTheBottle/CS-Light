@@ -1,0 +1,25 @@
+name: Scripted maintenance
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  maintenance:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: ${{github.event.pull_request.head.repo.full_name}}
+          ref: ${{ github.head_ref }}
+
+      - run: npx prettier --write LightPlacer/**/*.json
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "style: 🎨 apply prettier changes"

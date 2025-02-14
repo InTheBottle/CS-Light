@@ -3,7 +3,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -25,7 +25,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -51,7 +51,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -73,7 +73,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -111,7 +111,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -145,7 +145,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -167,7 +167,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -201,7 +201,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -250,7 +250,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -283,7 +283,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -311,7 +311,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -333,7 +333,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -355,7 +355,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -395,7 +395,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -433,7 +433,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -459,7 +459,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -491,7 +491,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -523,7 +523,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -550,7 +550,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -580,7 +580,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -613,7 +613,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -659,7 +659,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -684,7 +684,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
@@ -712,7 +712,7 @@
     "lights": [
       {
         "data": {
-          "color": [255, 164, 61],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 70,
