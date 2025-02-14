@@ -5,17 +5,11 @@
         "data": {
           "fade": 0.7,
           "flags": "IgnoreScale",
-          "externalEmittance":"FXLightRegionSunlight",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 175.0
         },
-        "points": [
-          [
-            0,
-            50,
-            120
-          ]
-        ]
+        "points": [[0, 50, 120]]
       }
     ],
     "models": [
@@ -30,22 +24,14 @@
         "data": {
           "fade": 0.7,
           "flags": "IgnoreScale",
-          "externalEmittance":"FXLightRegionSunlight",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 175.0
         },
-        "points": [
-          [
-            0,
-            -50,
-            120
-          ]
-        ]
+        "points": [[0, -50, 120]]
       }
     ],
-    "models": [
-      "architecture\\whiterun\\wrinteriors\\wrintwallcorwinr.nif"
-    ]
+    "models": ["architecture\\whiterun\\wrinteriors\\wrintwallcorwinr.nif"]
   },
   {
     "lights": [
@@ -53,22 +39,14 @@
         "data": {
           "fade": 0.7,
           "flags": "IgnoreScale",
-          "externalEmittance":"FXLightRegionSunlight",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 220.0
         },
-        "points": [
-          [
-            0,
-            -10,
-            420
-          ]
-        ]
+        "points": [[0, -10, 420]]
       }
     ],
-    "models": [
-      "architecture\\whiterun\\wrinteriors\\wrintceilchimney01.nif"
-    ]
+    "models": ["architecture\\whiterun\\wrinteriors\\wrintceilchimney01.nif"]
   },
   {
     "lights": [
@@ -76,22 +54,14 @@
         "data": {
           "fade": 0.7,
           "flags": "IgnoreScale",
-          "externalEmittance":"FXLightRegionSunlight",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 220.0
         },
-        "points": [
-          [
-            0,
-            0,
-            400
-          ]
-        ]
+        "points": [[0, 0, 400]]
       }
     ],
-    "models": [
-      "architecture\\whiterun\\wrinteriors\\wrintroofwall02.nif"
-    ]
+    "models": ["architecture\\whiterun\\wrinteriors\\wrintroofwall02.nif"]
   },
   {
     "lights": [
@@ -99,22 +69,14 @@
         "data": {
           "fade": 0.7,
           "flags": "IgnoreScale",
-          "externalEmittance":"FXLightRegionSunlight",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 220.0
         },
-        "points": [
-          [
-            0,
-            -80,
-            350
-          ]
-        ]
+        "points": [[0, -80, 350]]
       }
     ],
-    "models": [
-      "architecture\\whiterun\\wrinteriors\\wrintroofstr01.nif"
-    ]
+    "models": ["architecture\\whiterun\\wrinteriors\\wrintroofstr01.nif"]
   },
   {
     "lights": [
@@ -122,22 +84,14 @@
         "data": {
           "fade": 0.7,
           "flags": "IgnoreScale",
-          "externalEmittance":"FXLightRegionSunlight",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 220.0
         },
-        "points": [
-          [
-            0,
-            0,
-            280
-          ]
-        ]
+        "points": [[0, 0, 280]]
       }
     ],
-    "models": [
-      "architecture\\whiterun\\wrinteriors\\wrintroofalcove01.nif"
-    ]
+    "models": ["architecture\\whiterun\\wrinteriors\\wrintroofalcove01.nif"]
   },
   {
     "lights": [
@@ -145,45 +99,27 @@
         "data": {
           "fade": 0.7,
           "flags": "IgnoreScale",
-          "externalEmittance":"FXLightRegionSunlight",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 220.0
         },
-        "points": [
-          [
-            0,
-            0,
-            310
-          ]
-        ]
+        "points": [[0, 0, 310]]
       }
     ],
-    "models": [
-      "architecture\\whiterun\\wrinteriors\\wrintroofcorr01.nif"
-    ]
+    "models": ["architecture\\whiterun\\wrinteriors\\wrintroofcorr01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
-          "externalEmittance":"FXLightRegionSunlight",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
-        "points": [
-          [
-            0,
-            0,
-            100
-          ]
-        ]
+        "points": [[0, 0, 100]]
       }
     ],
     "models": [
@@ -195,24 +131,14 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
-          "externalEmittance":"FXLightRegionSunlight",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 512.0
         },
-        "points": [
-          [
-            0,
-            0,
-            80
-          ]
-        ]
+        "points": [[0, 0, 80]]
       }
     ],
     "models": [
@@ -223,24 +149,14 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
-          "externalEmittance":"FXLightRegionSunlight",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 200.0
         },
-        "points": [
-          [
-            -10,
-            0,
-            120
-          ]
-        ]
+        "points": [[-10, 0, 120]]
       }
     ],
     "models": [
@@ -253,24 +169,14 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
-          "externalEmittance":"FXLightRegionSunlight",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 228.0
         },
-        "points": [
-          [
-            0,
-            0,
-            100
-          ]
-        ]
+        "points": [[0, 0, 100]]
       }
     ],
     "models": [
@@ -282,24 +188,14 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
-          "externalEmittance":"FXLightRegionSunlight",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
-        "points": [
-          [
-            -100,
-            0,
-            500
-          ]
-        ]
+        "points": [[-100, 0, 500]]
       }
     ],
     "models": [
@@ -310,33 +206,17 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
-          "externalEmittance":"FXLightRegionSunlight",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 300.0
         },
         "points": [
-          [
-            250,
-            0,
-            500
-          ],
-          [
-            0,
-            0,
-            500
-          ],
-          [
-            -250,
-            0,
-            500
-          ]
+          [250, 0, 500],
+          [0, 0, 500],
+          [-250, 0, 500]
         ]
       }
     ],
@@ -348,24 +228,14 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
-          "externalEmittance":"FXLightRegionSunlight",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
-        "points": [
-          [
-            0,
-            30,
-            200
-          ]
-        ]
+        "points": [[0, 30, 200]]
       }
     ],
     "models": [
