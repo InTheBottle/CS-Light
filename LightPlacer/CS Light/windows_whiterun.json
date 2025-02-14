@@ -1,0 +1,233 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale",
+          "externalEmittance":"FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            100
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\whiterun\\wrinteriors\\wrintwallcorwinl.nif",
+      "architecture\\whiterun\\wrinteriors\\wrintwallcorwinr.nif",
+      "architecture\\whiterun\\wrinteriors\\wrintwallstr01wina.nif",
+      "architecture\\whiterun\\wrinteriors\\wrintwallstr01winblow.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale",
+          "externalEmittance":"FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            100
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\whiterun\\wrinteriors\\wrjorvaskr\\wrintchentrancel.nif",
+      "architecture\\whiterun\\wrinteriors\\wrjorvaskr\\wrintchentrancer.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale",
+          "externalEmittance":"FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 1024.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            200
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\whiterun\\wrinteriors\\wrjorvaskr\\wrintchrooftopstrchim01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale",
+          "externalEmittance":"FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            -25,
+            0,
+            100
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\whiterun\\wrinteriors\\wrjorvaskr\\wrintchstr01.nif",
+      "architecture\\whiterun\\wrinteriors\\wrjorvaskr\\wrintchstrslopel.nif",
+      "architecture\\whiterun\\wrinteriors\\wrjorvaskr\\wrintchstrsloper.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale",
+          "externalEmittance":"FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            100
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\whiterun\\wrinteriors\\wrtemple\\wrtempintcor01.nif",
+      "architecture\\whiterun\\wrinteriors\\wrtemple\\wrtempintstr01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale",
+          "externalEmittance":"FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            -100,
+            0,
+            500
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\whiterun\\wrinteriors\\wrtemple\\wrtempintpromalcove01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale",
+          "externalEmittance":"FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 1024.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            500
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\whiterun\\wrinteriors\\wrtemple\\wrtempintpromcustom01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale",
+          "externalEmittance":"FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            0,
+            30,
+            200
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\whiterun\\wrinteriors\\wrtemple\\wrtempintroofmidwin.nif"
+    ]
+  }
+]
