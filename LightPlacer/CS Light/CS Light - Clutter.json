@@ -28,9 +28,7 @@
     "models": ["critters\\firefly\\fireflyinjar.nif"]
   },
   {
-    "models": [
-      "clutter\\soulgem\\soulgemcommon_full.nif"
-    ],
+    "models": ["clutter\\soulgem\\soulgemcommon_full.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, -5.0]],
@@ -45,9 +43,7 @@
     ]
   },
   {
-    "models": [
-      "clutter\\soulgem\\soulgemgrand_full.nif"
-    ],
+    "models": ["clutter\\soulgem\\soulgemgrand_full.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, -5.0]],
@@ -62,9 +58,7 @@
     ]
   },
   {
-    "models": [
-      "clutter\\soulgem\\soulgemgreater_full.nif"
-    ],
+    "models": ["clutter\\soulgem\\soulgemgreater_full.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, -5.0]],
@@ -79,9 +73,7 @@
     ]
   },
   {
-    "models": [
-      "clutter\\soulgem\\soulgemlesser_full.nif"
-    ],
+    "models": ["clutter\\soulgem\\soulgemlesser_full.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, -5.0]],
@@ -96,9 +88,7 @@
     ]
   },
   {
-    "models": [
-      "clutter\\soulgem\\soulgempetty_full.nif"
-    ],
+    "models": ["clutter\\soulgem\\soulgempetty_full.nif"],
     "lights": [
       {
         "points": [[0.0, 1.0, -6.0]],
