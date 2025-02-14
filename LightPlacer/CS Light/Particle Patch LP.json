@@ -30,32 +30,6 @@
       {
         "data": {
           "color": [
-            80,
-            80,
-            80
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 50
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\illusionmassgreenhandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             139,
             139,
             139
@@ -75,32 +49,6 @@
     ],
     "models": [
       "effects\\impacteffects\\fxdragonfireimpactsteam.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            105,
-            105,
-            105
-          ],
-          "fade": 1.2,
-          "light": "MagicLightWhite01",
-          "radius": 50
-        },
-        "points": [
-          [
-            -0.0,
-            0.0,
-            0.56
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\summoncommandhandfx01.nif"
     ]
   },
   {
@@ -134,32 +82,6 @@
       {
         "data": {
           "color": [
-            80,
-            80,
-            80
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 50
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\illusionmassredhandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             255,
             255,
             255
@@ -179,51 +101,6 @@
     ],
     "models": [
       "effects\\ambient\\fxglowfillroundbrt.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            23,
-            77,
-            255
-          ],
-          "fade": 0.75,
-          "light": "MagicLightWhite01",
-          "radius": 22
-        },
-        "points": [
-          [
-            -0.0,
-            0.0,
-            0.04
-          ]
-        ]
-      },
-      {
-        "data": {
-          "color": [
-            4,
-            130,
-            233
-          ],
-          "fade": 1.25,
-          "light": "MagicLightWhite01",
-          "radius": 155
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\absorbbluehandfx01.nif"
     ]
   },
   {
@@ -581,51 +458,6 @@
       {
         "data": {
           "color": [
-            255,
-            255,
-            255
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 3
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.23
-          ]
-        ]
-      },
-      {
-        "data": {
-          "color": [
-            4,
-            4,
-            4
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 155
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.23
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\fxlightspellhandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             8,
             8,
             8
@@ -800,32 +632,6 @@
     ],
     "models": [
       "effects\\ambient\\fxglowfillrndlitbrt.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            85,
-            85,
-            85
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 50
-        },
-        "points": [
-          [
-            -0.0,
-            0.0,
-            0.04
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\summonbanishhandfx01.nif"
     ]
   },
   {
@@ -1221,51 +1027,6 @@
       {
         "data": {
           "color": [
-            23,
-            77,
-            255
-          ],
-          "fade": 0.75,
-          "light": "MagicLightWhite01",
-          "radius": 22
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      },
-      {
-        "data": {
-          "color": [
-            6,
-            129,
-            229
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 155
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\shockhandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             255,
             255,
             255
@@ -1370,32 +1131,6 @@
       {
         "data": {
           "color": [
-            15,
-            15,
-            15
-          ],
-          "fade": 1.2,
-          "light": "MagicLightWhite01",
-          "radius": 155
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\fireball01handeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             255,
             255,
             255
@@ -1474,32 +1209,6 @@
       {
         "data": {
           "color": [
-            60,
-            81,
-            113
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 155
-        },
-        "points": [
-          [
-            -0.0,
-            0.0,
-            0.04
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\reanimatehandfx01.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             54,
             101,
             255
@@ -1538,32 +1247,6 @@
     ],
     "models": [
       "magic\\lightspellstaticlight.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            116,
-            116,
-            116
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 155
-        },
-        "points": [
-          [
-            -0.0,
-            0.0,
-            0.04
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\summonhandfx01.nif"
     ]
   },
   {

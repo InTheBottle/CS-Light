@@ -262,32 +262,6 @@
       {
         "data": {
           "color": [
-            100,
-            100,
-            100
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 13
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\shockthunderbolthandfx.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             204,
             204,
             204
@@ -564,58 +538,6 @@
       {
         "data": {
           "color": [
-            75,
-            75,
-            75
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 18
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\healritualhandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            75,
-            75,
-            75
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 18
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\baneundeadhandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             255,
             255,
             255
@@ -799,51 +721,6 @@
       {
         "data": {
           "color": [
-            4,
-            4,
-            4
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 4
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.23
-          ]
-        ]
-      },
-      {
-        "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 3
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.23
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "dlc01\\magic\\dlc1_vampirebanehandfx.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             29,
             29,
             29
@@ -908,32 +785,6 @@
     ],
     "models": [
       "actors\\atronachstorm\\character assets\\fxatronachstormcloak.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            77,
-            77,
-            77
-          ],
-          "fade": 1.1,
-          "light": "MagicLightWhite01",
-          "radius": 21
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\frosticespikehandfx01.nif"
     ]
   },
   {
@@ -1031,77 +882,6 @@
       {
         "data": {
           "color": [
-            80,
-            80,
-            80
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 18
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\illusionmassredhandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            4,
-            4,
-            4
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 5
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.23
-          ]
-        ]
-      },
-      {
-        "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 3
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.23
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "dlc01\\magic\\dlc1_suncloakspellhandfx.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             242,
             242,
             242
@@ -1121,32 +901,6 @@
     ],
     "models": [
       "actors\\dlc01\\spriggan\\magsprigganmatronvariantbugsprayprojectile.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            190,
-            190,
-            190
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 18
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\blizzardhandeffects.nif"
     ]
   },
   {
@@ -1199,51 +953,6 @@
     ],
     "models": [
       "magic\\turnundeadtargetfx.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            127,
-            127,
-            127
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 9
-        },
-        "points": [
-          [
-            2.15,
-            0.07,
-            -0.0
-          ]
-        ]
-      },
-      {
-        "data": {
-          "color": [
-            67,
-            67,
-            67
-          ],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 4
-        },
-        "points": [
-          [
-            1.76,
-            0.0,
-            -0.03
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\turnundeadfxhand01.nif"
     ]
   },
   {
@@ -1392,32 +1101,6 @@
       {
         "data": {
           "color": [
-            0,
-            0,
-            0
-          ],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 3
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -1.26
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\alterposfxhand01.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             24,
             24,
             24
@@ -1534,32 +1217,6 @@
       {
         "data": {
           "color": [
-            15,
-            15,
-            15
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 17
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\fireflameshandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             231,
             160,
             7
@@ -1657,32 +1314,6 @@
     ],
     "models": [
       "dlc02\\effects\\dlc2hmdaedra01handeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            77,
-            77,
-            77
-          ],
-          "fade": 1.25,
-          "light": "MagicLightWhite01",
-          "radius": 21
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\frosticestormhandfx01.nif"
     ]
   },
   {
@@ -1896,32 +1527,6 @@
       {
         "data": {
           "color": [
-            15,
-            15,
-            15
-          ],
-          "fade": 1.25,
-          "light": "MagicLightWhite01",
-          "radius": 17
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\fireball01handeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             0,
             0,
             0
@@ -1941,77 +1546,6 @@
     ],
     "models": [
       "magic\\reanimatetargetfx.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            15,
-            15,
-            15
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 17
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\firebolt01handeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 3
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.23
-          ]
-        ]
-      },
-      {
-        "data": {
-          "color": [
-            4,
-            4,
-            4
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 3
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.23
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\fxlightspellhandeffects.nif"
     ]
   },
   {
@@ -2195,58 +1729,6 @@
       {
         "data": {
           "color": [
-            190,
-            190,
-            190
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 18
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\reanimateritualhandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            77,
-            77,
-            77
-          ],
-          "fade": 1.33,
-          "light": "MagicLightWhite01",
-          "radius": 21
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\frosticyspearhandfx01.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             64,
             64,
             64
@@ -2273,32 +1755,6 @@
       {
         "data": {
           "color": [
-            191,
-            191,
-            191
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 13
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            3.03
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\soultraphandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             161,
             67,
             16
@@ -2318,32 +1774,6 @@
     ],
     "models": [
       "magic\\firestormareaeffect.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            100,
-            100,
-            100
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 12
-        },
-        "points": [
-          [
-            -0.01,
-            0.03,
-            0.03
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\wardinhandfx.nif"
     ]
   },
   {
@@ -2403,32 +1833,6 @@
       {
         "data": {
           "color": [
-            18,
-            18,
-            18
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 18
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\firestormhandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             169,
             169,
             169
@@ -2467,58 +1871,6 @@
     ],
     "models": [
       "magic\\illusionprojectile01.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            77,
-            77,
-            77
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 21
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\frostbolthandfx01.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            190,
-            190,
-            190
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 18
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\summonritualhandeffects.nif"
     ]
   },
   {
@@ -2680,167 +2032,6 @@
     ],
     "models": [
       "magic\\firewallfx01.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            22,
-            22,
-            22
-          ],
-          "fade": 1.2,
-          "light": "MagicLightWhite01",
-          "radius": 4
-        },
-        "points": [
-          [
-            0.01,
-            -0.08,
-            1.64
-          ]
-        ]
-      },
-      {
-        "data": {
-          "color": [
-            8,
-            8,
-            8
-          ],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 10
-        },
-        "points": [
-          [
-            0.01,
-            -0.08,
-            1.64
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\fxfirecloakhandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            150,
-            150,
-            150
-          ],
-          "fade": 1.2,
-          "light": "MagicLightWhite01",
-          "radius": 4
-        },
-        "points": [
-          [
-            0.01,
-            -0.08,
-            1.6
-          ]
-        ]
-      },
-      {
-        "data": {
-          "color": [
-            117,
-            117,
-            117
-          ],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 10
-        },
-        "points": [
-          [
-            0.01,
-            -0.08,
-            1.6
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\fxicecloakhandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            15,
-            15,
-            15
-          ],
-          "fade": 1.25,
-          "light": "MagicLightWhite01",
-          "radius": 17
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\fireincineratehandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            160,
-            160,
-            160
-          ],
-          "fade": 1.7,
-          "light": "MagicLightWhite01",
-          "radius": 13
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      },
-      {
-        "data": {
-          "color": [
-            100,
-            100,
-            100
-          ],
-          "fade": 1.2,
-          "light": "MagicLightWhite01",
-          "radius": 4
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.99
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\fxshockcloakhandeffects.nif"
     ]
   },
   {
@@ -3024,32 +2215,6 @@
       {
         "data": {
           "color": [
-            80,
-            80,
-            80
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 18
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\illusionmassgreenhandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             0,
             0,
             0
@@ -3200,32 +2365,6 @@
       {
         "data": {
           "color": [
-            175,
-            175,
-            175
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 18
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\shieldritualhandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             9,
             136,
             234
@@ -3330,58 +2469,6 @@
       {
         "data": {
           "color": [
-            25,
-            25,
-            25
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 18
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\lightningstormhandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            105,
-            105,
-            105
-          ],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 11
-        },
-        "points": [
-          [
-            -0.0,
-            0.0,
-            0.56
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\summoncommandhandfx01.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             242,
             242,
             242
@@ -3401,58 +2488,6 @@
     ],
     "models": [
       "magic\\magsprigganmatronbugsprayprojectile.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            85,
-            85,
-            85
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 9
-        },
-        "points": [
-          [
-            -0.0,
-            0.0,
-            0.04
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\summonbanishhandfx01.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            62,
-            62,
-            62
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 3
-        },
-        "points": [
-          [
-            0.0,
-            -0.0,
-            1.48
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\nighteyefxhand01.nif"
     ]
   },
   {
@@ -3512,129 +2547,6 @@
       {
         "data": {
           "color": [
-            80,
-            80,
-            80
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 14
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\paralyzemasshandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            60,
-            81,
-            113
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 2
-        },
-        "points": [
-          [
-            -0.0,
-            0.0,
-            0.04
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\reanimatehandfx01.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            100,
-            100,
-            100
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 13
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\shockchainlightninghandfx.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            84,
-            84,
-            84
-          ],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 5
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      },
-      {
-        "data": {
-          "color": [
-            86,
-            86,
-            86
-          ],
-          "fade": 4.0,
-          "light": "MagicLightWhite01",
-          "radius": 3
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\shieldspellhand01.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
             165,
             101,
             70
@@ -3654,84 +2566,6 @@
     ],
     "models": [
       "magic\\shockwallfx01.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            100,
-            100,
-            100
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 13
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\shockhandeffects.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            100,
-            100,
-            100
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 13
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\shocklightningbolthandfx.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            116,
-            116,
-            116
-          ],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 6
-        },
-        "points": [
-          [
-            -0.0,
-            0.0,
-            0.04
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "magic\\summonhandfx01.nif"
     ]
   },
   {
