@@ -205,8 +205,8 @@
     "lights": [
       {
         "points": [[0.0, 0.0, 5.0]],
-        "color": [145, 50, 3],
         "data": {
+          "color": [145, 50, 3],
           "light": "MagicLightWhite01",
           "radius": 5.25,
           "fade": 35.0,
