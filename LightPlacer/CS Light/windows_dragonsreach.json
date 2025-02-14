@@ -3,15 +3,28 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "flags": "IgnoreScale",
+          "externalEmittance":"FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
         "points": [
-          [-250, -50, 150],
-          [0, -50, 150]
+          [
+            -250,
+            -50,
+            150
+          ],
+          [
+            0,
+            -50,
+            150
+          ]
         ]
       }
     ],
@@ -23,13 +36,24 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "flags": "IgnoreScale",
+          "externalEmittance":"FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 1024.0
         },
-        "points": [[0, 0, 150]]
+        "points": [
+          [
+            0,
+            0,
+            150
+          ]
+        ]
       }
     ],
     "models": [
@@ -40,13 +64,24 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "flags": "IgnoreScale",
+          "externalEmittance":"FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
-        "points": [[0, -50, 150]]
+        "points": [
+          [
+            0,
+            -50,
+            150
+          ]
+        ]
       }
     ],
     "models": [
@@ -57,15 +92,28 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "flags": "IgnoreScale",
+          "externalEmittance":"FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
         "points": [
-          [-130, -50, 150],
-          [130, -50, 150]
+          [
+            -130,
+            -50,
+            150
+          ],
+          [
+            130,
+            -50,
+            150
+          ]
         ]
       }
     ],

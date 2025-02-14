@@ -3,13 +3,24 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "flags": "IgnoreScale",
+          "externalEmittance":"FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 225.0
         },
-        "points": [[100, 0, 386]]
+        "points": [
+          [
+            100,
+            0,
+            386
+          ]
+        ]
       }
     ],
     "models": [
@@ -20,13 +31,24 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "flags": "IgnoreScale",
+          "externalEmittance":"FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 225.0
         },
-        "points": [[0, 100, 386]]
+        "points": [
+          [
+            0,
+            100,
+            386
+          ]
+        ]
       }
     ],
     "models": [
@@ -37,13 +59,24 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "flags": "IgnoreScale",
+          "externalEmittance":"FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 225.0
         },
-        "points": [[0, -100, 386]]
+        "points": [
+          [
+            0,
+            -100,
+            386
+          ]
+        ]
       }
     ],
     "models": [
@@ -54,19 +87,32 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "flags": "IgnoreScale",
+          "externalEmittance":"FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 160.0
         },
-        "points": [[0, 50, 75]]
+        "points": [
+          [
+            0,
+            50,
+            75
+          ]
+        ]
       }
     ],
     "models": [
+      "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow01.nif",
       "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow02.nif",
       "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow03.nif",
       "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow04.nif",
+      "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow05.nif",
       "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow06.nif",
       "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow07.nif"
     ]
@@ -75,13 +121,24 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "flags": "IgnoreScale",
+          "externalEmittance":"FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 225.0
         },
-        "points": [[0, 0, 100]]
+        "points": [
+          [
+            0,
+            0,
+            100
+          ]
+        ]
       }
     ],
     "models": [
