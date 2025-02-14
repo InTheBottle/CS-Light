@@ -3,15 +3,14 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
           "fade": 0.7,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
-          "radius": 185.0
+          "radius": 256.0
         },
         "points": [
-          [-115, -100, 510],
-          [-115, 100, 500]
+          [-105, -100, 490],
+          [-105, 100, 490]
         ]
       }
     ],
@@ -21,18 +20,106 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
           "fade": 0.7,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
-          "radius": 185.0
+          "radius": 256.0
         },
         "points": [
-          [115, -100, 510],
-          [115, 100, 500]
+          [105, -100, 490],
+          [105, 100, 490]
         ]
       }
     ],
     "models": ["architecture\\farmhouse\\interior\\farmint2end02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 0.7,
+          "flags": "IgnoreScale",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [
+          [120, 120, 300],
+          [120, -120, 300]
+        ]
+      }
+    ],
+    "models": ["architecture\\farmhouse\\interior\\farmintinnend02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 0.7,
+          "flags": "IgnoreScale",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [
+          [-120, 120, 300],
+          [-120, -120, 300]
+        ]
+      }
+    ],
+    "models": ["architecture\\farmhouse\\interior\\farmintinnend01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 0.7,
+          "flags": "IgnoreScale",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [
+          [-120, 120, 300],
+          [-120, -120, 300],
+          [120, -120, 300],
+          [120, 120, 300]
+        ]
+      }
+    ],
+    "models": ["architecture\\farmhouse\\interior\\farmintinnend06.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 0.7,
+          "flags": "IgnoreScale",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [
+          [-15, 120, 300],
+          [-15, -120, 300]
+        ]
+      }
+    ],
+    "models": ["architecture\\farmhouse\\interior\\farmintinnwall01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 0.7,
+          "flags": "IgnoreScale",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [
+          [-15, 120, 300],
+          [-15, -120, 300]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\farmhouse\\interior\\farmintinnwallentrance01.nif"
+    ]
   }
 ]

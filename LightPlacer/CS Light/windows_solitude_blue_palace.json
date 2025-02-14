@@ -6,6 +6,7 @@
           "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 96.0
         },
@@ -21,8 +22,9 @@
           "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 768.0
+          "radius": 512.0
         },
         "points": [[0, 0, -400]]
       }
@@ -36,6 +38,7 @@
           "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
@@ -56,6 +59,7 @@
           "color": [255, 255, 255],
           "fade": 1.0,
           "flags": "IgnoreScale",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
