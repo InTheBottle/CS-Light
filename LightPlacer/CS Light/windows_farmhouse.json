@@ -8,22 +8,27 @@
             255,
             255
           ],
-          "fade": 1.0,
+          "fade": 0.7,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 185.0
         },
         "points": [
           [
-            0,
-            0,
-            100
+            -115,
+            -100,
+            510
+          ],
+          [
+            -115,
+            100,
+            500
           ]
         ]
       }
     ],
     "models": [
-      "architecture\\windhelm\\interiorkits\\castle\\whintcastlelroomwallwindow01.nif"
+      "architecture\\farmhouse\\interior\\farmint2end01.nif"
     ]
   },
   {
@@ -35,22 +40,27 @@
             255,
             255
           ],
-          "fade": 1.0,
+          "fade": 0.7,
           "flags": "IgnoreScale",
           "light": "DefaultSunlight01NS",
-          "radius": 128.0
+          "radius": 185.0
         },
         "points": [
           [
-            -80,
-            0,
-            20
+            115,
+            -100,
+            510
+          ],
+          [
+            115,
+            100,
+            500
           ]
         ]
       }
     ],
     "models": [
-      "architecture\\windhelm\\interiorkits\\castle\\whintcastleroomwallwindow01.nif"
+      "architecture\\farmhouse\\interior\\farmint2end02.nif"
     ]
   }
 ]
