@@ -3,34 +3,6 @@
     "lights": [
       {
         "data": {
-          "color": [29, 29, 29],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 50
-        },
-        "points": [[0.22, 13.48, -0.31]]
-      }
-    ],
-    "models": ["magic\\fireballdragonprojectile01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [139, 139, 139],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 247
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["effects\\impacteffects\\fxdragonfireimpactsteam.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
           "color": [9, 136, 234],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -68,20 +40,6 @@
       }
     ],
     "models": ["effects\\ambient\\fxglowfillroundxdim.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [192, 254, 255],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 2755
-        },
-        "points": [[-0.0, 2.65, -435.58]]
-      }
-    ],
-    "models": ["dlc01\\effects\\ambient\\dlc1fxambbeamgladespot.nif"]
   },
   {
     "lights": [
@@ -604,20 +562,6 @@
     "lights": [
       {
         "data": {
-          "color": [139, 139, 139],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 247
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["effects\\impacteffects\\fxdragonfireimpact.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
           "color": [54, 101, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -636,20 +580,6 @@
       }
     ],
     "models": ["magic\\lightspellstaticlight.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [0, 0, 0],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 152
-        },
-        "points": [[0.0, 0.0, 5.35]]
-      }
-    ],
-    "models": ["magic\\reanimatetargetfx.nif"]
   },
   {
     "lights": [
