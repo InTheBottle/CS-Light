@@ -1,0 +1,38 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "flags": "IgnoreScale",
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [[0, 0, 100]]
+      }
+    ],
+    "models": [
+      "architecture\\windhelm\\interiorkits\\castle\\whintcastlelroomwallwindow01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "flags": "IgnoreScale",
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 128.0
+        },
+        "points": [[-80, 0, 20]]
+      }
+    ],
+    "models": [
+      "architecture\\windhelm\\interiorkits\\castle\\whintcastleroomwallwindow01.nif"
+    ]
+  }
+]
