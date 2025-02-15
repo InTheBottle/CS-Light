@@ -248,7 +248,7 @@
     ],
     "lights": [
       {
-        "points": [ [ 0.0, 0.0, 5.0 ] ],
+        "points": [[0.0, 0.0, 5.0]],
         "data": {
           "light": "MagicLightAbsorbHealthProjectile",
           "fade": 1.0,
@@ -258,7 +258,7 @@
     ]
   },
   {
-  "lights": [
+    "lights": [
       {
         "data": {
           "color": [204, 204, 204],
