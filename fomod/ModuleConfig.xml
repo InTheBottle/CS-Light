@@ -1,0 +1,645 @@
+<!-- Created with FOMOD Creation Tool 1.7.0.37 [http://www.nexusmods.com/fallout4/mods/6821] --> 
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd"> 
+	<moduleName>CS Lights</moduleName> 
+	<installSteps order="Explicit"> 
+		<installStep name="Main Configs"> 
+			<optionalFileGroups order="Explicit"> 
+				<group name="Main Configs" type="SelectExactlyOne"> 
+					<plugins order="Explicit"> 
+						<plugin name="Default"> 
+							<description>Select this if you are using Vanilla or any other lighting mod, select this.</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Candles.json" destination="LightPlacer\CS Light\CS Light - Candles.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Fires.json" destination="LightPlacer\CS Light\CS Light - Fires.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Lanterns.json" destination="LightPlacer\CS Light\CS Light - Lanterns.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Nordic Halls.json" destination="LightPlacer\CS Light\CS Light - Nordic Halls.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Torches.json" destination="LightPlacer\CS Light\CS Light - Torches.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Lux"> 
+							<description>Are you using Lux? If yes select this.</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\Lux CS Light - Candles Alt.json" destination="LightPlacer\CS Light\Lux CS Light - Candles Alt.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\Lux CS Light - Chandeliers.json" destination="LightPlacer\CS Light\Lux CS Light - Chandeliers.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\Lux CS Light - Fires.json" destination="LightPlacer\CS Light\Lux CS Light - Fires.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\Lux CS Light - Lanterns.json" destination="LightPlacer\CS Light\Lux CS Light - Lanterns.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\Lux CS Light - Nordic Halls.json" destination="LightPlacer\CS Light\Lux CS Light - Nordic Halls.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\Lux CS Light - Torches.json" destination="LightPlacer\CS Light\Lux CS Light - Torches.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Light placer Overhauls"> 
+							<description>Are you using any lighting mod that requires Light Placer, such as Placed Light or LPO? If yes, select this.</description> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Skip"> 
+							<description>Select this to skip this step if you do not want these.</description> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+			</optionalFileGroups> 
+		</installStep> 
+		<installStep name="Install options"> 
+			<optionalFileGroups order="Explicit"> 
+				<group name="Full/Custom" type="SelectExactlyOne"> 
+					<plugins order="Explicit"> 
+						<plugin name="Everything"> 
+							<description>Select this if you just want everything</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Aetherium Shards.json" destination="LightPlacer\CS Light\CS Light - Aetherium Shards.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Afflicted.json" destination="LightPlacer\CS Light\CS Light - Afflicted.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Ayleid Ruins.json" destination="LightPlacer\CS Light\CS Light - Ayleid Ruins.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Bound Weapons.json" destination="LightPlacer\CS Light\CS Light - Bound Weapons.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Clutter.json" destination="LightPlacer\CS Light\CS Light - Clutter.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Glowing Mushrooms.json" destination="LightPlacer\CS Light\CS Light - Glowing Mushrooms.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - College.json" destination="LightPlacer\CS Light\CS Light - College.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Dwarven Spiders.json" destination="LightPlacer\CS Light\CS Light - Dwarven Spiders.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Dwemer.json" destination="LightPlacer\CS Light\CS Light - Dwemer.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Ebonmere.json" destination="LightPlacer\CS Light\CS Light - Ebonmere.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Enchants.json" destination="LightPlacer\CS Light\CS Light - Enchants.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Falmer.json" destination="LightPlacer\CS Light\CS Light - Falmer.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Fire traps.json" destination="LightPlacer\CS Light\CS Light - Fire traps.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Furniture.json" destination="LightPlacer\CS Light\CS Light - Furniture.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Magic FX.json" destination="LightPlacer\CS Light\CS Light - Magic FX.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Meridias Shrine.json" destination="LightPlacer\CS Light\CS Light - Meridias Shrine.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Misc Effects.json" destination="LightPlacer\CS Light\CS Light - Misc Effects.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Misc Lights.json" destination="LightPlacer\CS Light\CS Light - Misc Lights.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Moon Crests.json" destination="LightPlacer\CS Light\CS Light - Moon Crests.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Mote.json" destination="LightPlacer\CS Light\CS Light - Mote.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Paragon Gems.json" destination="LightPlacer\CS Light\CS Light - Paragon Gems.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Rieklings.json" destination="LightPlacer\CS Light\CS Light - Rieklings.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Saints and Seducers.json" destination="LightPlacer\CS Light\CS Light - Saints and Seducers.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Solstheim.json" destination="LightPlacer\CS Light\CS Light - Solstheim.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Spiders of Solstheim.json" destination="LightPlacer\CS Light\CS Light - Spiders of Solstheim.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Stahlrim.json" destination="LightPlacer\CS Light\CS Light - Stahlrim.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Standing Stones.json" destination="LightPlacer\CS Light\CS Light - Standing Stones.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Whiterun Windows.json" destination="LightPlacer\CS Light\CS Light - Whiterun Windows.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Witchlight.json" destination="LightPlacer\CS Light\CS Light - Witchlight.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Potions.json" destination="LightPlacer\CS Light\CS Light - Potions.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Riften Windows.json" destination="LightPlacer\CS Light\CS Light - Riften Windows.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Solitude Windows.json" destination="LightPlacer\CS Light\CS Light - Solitude Windows.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Solstheim Windows.json" destination="LightPlacer\CS Light\CS Light - Solstheim Windows.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Apocrypha.json" destination="LightPlacer\CS Light\CS Light - Apocrypha.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Dark Elf Lanterns.json" destination="LightPlacer\CS Light\CS Light - Dark Elf Lanterns.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Dwemer Pipework Reworked.json" destination="LightPlacer\CS Light\CS Light - Dwemer Pipework Reworked.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - All Maker Stones.json" destination="LightPlacer\CS Light\CS Light - All Maker Stones.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Blackreach.json" destination="LightPlacer\CS Light\CS Light - Blackreach.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Caveworms.json" destination="LightPlacer\CS Light\CS Light - Caveworms.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\windows_dragonsreach.json" destination="LightPlacer\CS Light\windows_dragonsreach.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\windows_high_hrothgar.json" destination="LightPlacer\CS Light\windows_high_hrothgar.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\windows_riften.json" destination="LightPlacer\CS Light\windows_riften.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\windows_solitude.json" destination="LightPlacer\CS Light\windows_solitude.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\windows_solitude_blue_palace.json" destination="LightPlacer\CS Light\windows_solitude_blue_palace.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\windows_whiterun.json" destination="LightPlacer\CS Light\windows_whiterun.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\windows_windhelm.json" destination="LightPlacer\CS Light\windows_windhelm.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\windows_windhelm_palace_of_the_kings.json" destination="LightPlacer\CS Light\windows_windhelm_palace_of_the_kings.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\windows_farmhouse.json" destination="LightPlacer\CS Light\windows_farmhouse.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Everything but windows"> 
+							<description>Select this if you just want everything but the window lights</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Aetherium Shards.json" destination="LightPlacer\CS Light\CS Light - Aetherium Shards.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Afflicted.json" destination="LightPlacer\CS Light\CS Light - Afflicted.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - All Maker Stones.json" destination="LightPlacer\CS Light\CS Light - All Maker Stones.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Apocrypha.json" destination="LightPlacer\CS Light\CS Light - Apocrypha.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Ayleid Ruins.json" destination="LightPlacer\CS Light\CS Light - Ayleid Ruins.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Blackreach.json" destination="LightPlacer\CS Light\CS Light - Blackreach.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Bound Weapons.json" destination="LightPlacer\CS Light\CS Light - Bound Weapons.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Caveworms.json" destination="LightPlacer\CS Light\CS Light - Caveworms.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Clutter.json" destination="LightPlacer\CS Light\CS Light - Clutter.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Glowing Mushrooms.json" destination="LightPlacer\CS Light\CS Light - Glowing Mushrooms.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - College.json" destination="LightPlacer\CS Light\CS Light - College.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Dark Elf Lanterns.json" destination="LightPlacer\CS Light\CS Light - Dark Elf Lanterns.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Dwarven Spiders.json" destination="LightPlacer\CS Light\CS Light - Dwarven Spiders.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Dwemer Pipework Reworked.json" destination="LightPlacer\CS Light\CS Light - Dwemer Pipework Reworked.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Dwemer.json" destination="LightPlacer\CS Light\CS Light - Dwemer.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Ebonmere.json" destination="LightPlacer\CS Light\CS Light - Ebonmere.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Enchants.json" destination="LightPlacer\CS Light\CS Light - Enchants.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Falmer.json" destination="LightPlacer\CS Light\CS Light - Falmer.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Fire traps.json" destination="LightPlacer\CS Light\CS Light - Fire traps.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Furniture.json" destination="LightPlacer\CS Light\CS Light - Furniture.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Ice Torch.json" destination="LightPlacer\CS Light\CS Light - Ice Torch.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Magic FX.json" destination="LightPlacer\CS Light\CS Light - Magic FX.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Meridias Shrine.json" destination="LightPlacer\CS Light\CS Light - Meridias Shrine.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Misc Effects.json" destination="LightPlacer\CS Light\CS Light - Misc Effects.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Misc Lights.json" destination="LightPlacer\CS Light\CS Light - Misc Lights.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Moon Crests.json" destination="LightPlacer\CS Light\CS Light - Moon Crests.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Mote.json" destination="LightPlacer\CS Light\CS Light - Mote.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Paragon Gems.json" destination="LightPlacer\CS Light\CS Light - Paragon Gems.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Potions.json" destination="LightPlacer\CS Light\CS Light - Potions.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Rieklings.json" destination="LightPlacer\CS Light\CS Light - Rieklings.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Saints and Seducers.json" destination="LightPlacer\CS Light\CS Light - Saints and Seducers.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Solstheim.json" destination="LightPlacer\CS Light\CS Light - Solstheim.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Spiders of Solstheim.json" destination="LightPlacer\CS Light\CS Light - Spiders of Solstheim.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Stahlrim.json" destination="LightPlacer\CS Light\CS Light - Stahlrim.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Standing Stones.json" destination="LightPlacer\CS Light\CS Light - Standing Stones.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Witchlight.json" destination="LightPlacer\CS Light\CS Light - Witchlight.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Custom"> 
+						<description>Custom installation</description> 
+							<conditionFlags>
+								<flag name="skyrimse_option">custom</flag>
+							</conditionFlags>
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+                        </plugin>
+					</plugins> 
+				</group> 
+				<group name="Blank CS Light.ini" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="CS Light.ini"> 
+							<description>Blank INI file for you to add whitelist/blacklisted plugins as you'd like.</description> 
+							<files> 
+								<file source="LightPlacer\CS Light.ini" destination="LightPlacer\CS Light.ini" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<dependencyType> 
+									<defaultType name="Optional"/> 
+									<patterns> 
+										<pattern> 
+											<dependencies operator="And"> 
+											</dependencies> 
+											<type name="Optional"/> 
+										</pattern> 
+									</patterns> 
+								</dependencyType> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+			</optionalFileGroups> 
+		</installStep> 
+		<installStep name="Custom"> 
+			<visible>
+				<flagDependency flag="skyrimse_option" value="custom"/>
+			</visible>
+			<optionalFileGroups order="Explicit"> 
+				<group name="College of Winterhold" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="College Lights"> 
+							<description>Adds lights to the college light sources.</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - College.json" destination="LightPlacer\CS Light\CS Light - College.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+				<group name="Solstheim" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Solstheim"> 
+							<description>Adds lights to the lava craters and heartstone deposits, dark elf lanterns, Apocrypha and the All Maker stones.</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Solstheim.json" destination="LightPlacer\CS Light\CS Light - Solstheim.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Apocrypha.json" destination="LightPlacer\CS Light\CS Light - Apocrypha.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Dark Elf Lanterns.json" destination="LightPlacer\CS Light\CS Light - Dark Elf Lanterns.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - All Maker Stones.json" destination="LightPlacer\CS Light\CS Light - All Maker Stones.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Stahlrim"> 
+							<description>Adds lights to Stahlrim</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Stahlrim.json" destination="LightPlacer\CS Light\CS Light - Stahlrim.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Rieklings"> 
+							<description>Adds lights to the Rieklings forts and clutter.</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Rieklings.json" destination="LightPlacer\CS Light\CS Light - Rieklings.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Spiders"> 
+							<description>Adds lights to the solstheim spiders.</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Spiders of Solstheim.json" destination="LightPlacer\CS Light\CS Light - Spiders of Solstheim.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+				<group name="Magic" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Magic FX lights"> 
+							<description>Adds Lights to all magic and effect shaders.</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Magic FX.json" destination="LightPlacer\CS Light\CS Light - Magic FX.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+				<group name="Enchantments" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Enchantment lights"> 
+							<description>Adds light to Enchantments</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Enchants.json" destination="LightPlacer\CS Light\CS Light - Enchants.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+				<group name="Window Lights" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Whiterun"> 
+							<description>Adds lights to the exterior Whiterun windows</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Whiterun Windows.json" destination="LightPlacer\CS Light\CS Light - Whiterun Windows.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Riften"> 
+							<description>Adds lights to the exterior Riften windows</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Riften Windows.json" destination="LightPlacer\CS Light\CS Light - Riften Windows.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Solitude"> 
+							<description>Adds lights to the exterior Solitude windows</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Solitude Windows.json" destination="LightPlacer\CS Light\CS Light - Solitude Windows.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Solstheim"> 
+							<description>Adds lights to the exterior Solstheim windows</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Solstheim Windows.json" destination="LightPlacer\CS Light\CS Light - Solstheim Windows.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Interiors"> 
+							<description>Adds interior emittance for most windows.</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\windows_dragonsreach.json" destination="LightPlacer\CS Light\windows_dragonsreach.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\windows_high_hrothgar.json" destination="LightPlacer\CS Light\windows_high_hrothgar.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\windows_riften.json" destination="LightPlacer\CS Light\windows_riften.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\windows_solitude.json" destination="LightPlacer\CS Light\windows_solitude.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\windows_solitude_blue_palace.json" destination="LightPlacer\CS Light\windows_solitude_blue_palace.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\windows_whiterun.json" destination="LightPlacer\CS Light\windows_whiterun.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\windows_windhelm.json" destination="LightPlacer\CS Light\windows_windhelm.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\windows_windhelm_palace_of_the_kings.json" destination="LightPlacer\CS Light\windows_windhelm_palace_of_the_kings.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\windows_farmhouse.json" destination="LightPlacer\CS Light\windows_farmhouse.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+				<group name="Afflicted" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Goop"> 
+							<description>Adds lights to the green stuff at Bthardamz</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Afflicted.json" destination="LightPlacer\CS Light\CS Light - Afflicted.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+				<group name="Ayleid" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Ruins"> 
+							<description>Adds lights to the Ayleid Ruins for Creation Club content</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Ayleid Ruins.json" destination="LightPlacer\CS Light\CS Light - Ayleid Ruins.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group>  
+				<group name="Dawnguard" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Moon Crests"> 
+							<description>Adds lights to the moon crests</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Moon Crests.json" destination="LightPlacer\CS Light\CS Light - Moon Crests.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Paragon Gems"> 
+							<description>Adds lights to the Paragon gems</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Paragon Gems.json" destination="LightPlacer\CS Light\CS Light - Paragon Gems.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Caveworms"> 
+							<description>Adds lights to the caveworms.</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Caveworms.json" destination="LightPlacer\CS Light\CS Light - Caveworms.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+				<group name="Aetherium" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Shards"> 
+							<description>Adds lights to the Aetherium Shards</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Aetherium Shards.json" destination="LightPlacer\CS Light\CS Light - Aetherium Shards.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+				<group name="Bound Weapons" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Bound magic"> 
+							<description>Adds lights to the bound weapons</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Bound Weapons.json" destination="LightPlacer\CS Light\CS Light - Bound Weapons.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+				<group name="Traps" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Fire traps"> 
+							<description>Adds lights to the fire traps.</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Fire traps.json" destination="LightPlacer\CS Light\CS Light - Fire traps.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+				<group name="Misc Effects and Lights" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Misc Lights"> 
+							<description>Things like Soul cairn light wells and magical barriers.</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Misc Lights.json" destination="LightPlacer\CS Light\CS Light - Misc Lights.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Misc Effects"> 
+							<description>Misc magic effects and other things.</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Misc Effects.json" destination="LightPlacer\CS Light\CS Light - Misc Effects.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+				<group name="Meridia" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Meridia"> 
+							<description></description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Meridias Shrine.json" destination="LightPlacer\CS Light\CS Light - Meridias Shrine.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+				<group name="Saints and Seducers" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Saints and Seducers"> 
+							<description></description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Saints and Seducers.json" destination="LightPlacer\CS Light\CS Light - Saints and Seducers.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+				<group name="Misc" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Furniture"> 
+							<description>Adds lights to things like the black smith forges and oven.</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Furniture.json" destination="LightPlacer\CS Light\CS Light - Furniture.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Clutter"> 
+							<description>Adds lights to things like soul gems and ingredients.</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Clutter.json" destination="LightPlacer\CS Light\CS Light - Clutter.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Potions"> 
+							<description>Adds lights to potions</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Potions.json" destination="LightPlacer\CS Light\CS Light - Potions.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Standing Stones"> 
+							<description>Adds lights to the standing stones</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Standing Stones.json" destination="LightPlacer\CS Light\CS Light - Standing Stones.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Dwemer and Falmer lights"> 
+							<description>Json file to attach lights to all dwemer light sources.</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Dwemer.json" destination="LightPlacer\CS Light\CS Light - Dwemer.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Falmer.json" destination="LightPlacer\CS Light\CS Light - Falmer.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Dwemer Pipework Reworked.json" destination="LightPlacer\CS Light\CS Light - Dwemer Pipework Reworked.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Motes"> 
+							<description>Add light to motes</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Mote.json" destination="LightPlacer\CS Light\CS Light - Mote.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Wisps"> 
+							<description>Add light to wisps</description> 
+							<image path="wisps.png" /> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Witchlight.json" destination="LightPlacer\CS Light\CS Light - Witchlight.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Dwarven Spiders"> 
+							<description>Adds lights to the Dwarven Spiders</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Dwarven Spiders.json" destination="LightPlacer\CS Light\CS Light - Dwarven Spiders.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Ebonmere"> 
+							<description>Nocturnal</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Ebonmere.json" destination="LightPlacer\CS Light\CS Light - Ebonmere.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Glowing Mushrooms"> 
+							<description>Adds lights to vanilla glowing mushrooms</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Glowing Mushrooms.json" destination="LightPlacer\CS Light\CS Light - Glowing Mushrooms.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Blackreach"> 
+							<description>Adds lights to the foliage in blackreach.</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Blackreach.json" destination="LightPlacer\CS Light\CS Light - Blackreach.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+                </group>
+			</optionalFileGroups> 
+		</installStep> 
+		<installStep name="Anniversary Edition "> 
+			<optionalFileGroups order="Explicit"> 
+				<group name="Creations" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Ghosts of the Tribunal"> 
+							<description></description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Ghosts of the Tribunal.json" destination="LightPlacer\CS Light\CS Light - Ghosts of the Tribunal.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+			</optionalFileGroups> 
+		</installStep> 
+		<installStep name="Mods"> 
+			<optionalFileGroups order="Explicit"> 
+				<group name="Mods" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Wyrmstooth"> 
+							<description></description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Wyrmstooth.json" destination="LightPlacer\CS Light\CS Light - Wyrmstooth.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+			</optionalFileGroups> 
+		</installStep> 
+		<installStep name="Particle Patch"> 
+			<visible>
+				<dependencies operator="Or"> 
+ 					<fileDependency file="Particle Patch for ENB.esp" state="Active"/> 
+					<fileDependency file="Particle Patch.esp" state="Active"/> 
+				</dependencies> 
+            </visible>
+			<optionalFileGroups order="Explicit"> 
+				<group name="Particle Patch" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Particle Patch LP"> 
+							<description>Experimental! Adds autogenerated lights for Particle Patch meshes and fixes some inconsistencies. Make sure there is no Particle Lights/pp_dark.ini in the data folder or disable particle lights in CS UI. There is some overlap with the other placed lights.</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\Particle Patch LP.json" destination="LightPlacer\CS Light\Particle Patch LP.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+			</optionalFileGroups> 
+		</installStep> 
+	</installSteps> 
+</config>
