@@ -22,7 +22,77 @@
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
-        "points": [[300, 0, 300]]
+        "points": [[100, 0, 200]]
+      }
+    ],
+    "models": ["architecture\\solitude\\interiors\\slggwalsec05.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 1.0,
+          "externalEmittance": "weathersolitude",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [[150, 0, 100]]
+      }
+    ],
+    "models": ["architecture\\solitude\\interiors\\slggwalendsec01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 3.0,
+          "externalEmittance": "weathersolitude",
+          "light": "DefaultSunlight01NS",
+          "radius": 512.0
+        },
+        "points": [[60, 150, 520]]
+      }
+    ],
+    "models": ["architecture\\solitude\\interiors\\sshrinelsec01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 3.0,
+          "externalEmittance": "weathersolitude",
+          "light": "DefaultSunlight01NS",
+          "radius": 512.0
+        },
+        "points": [[60, 150, 520]]
+      }
+    ],
+    "models": ["architecture\\solitude\\interiors\\sshrinelsec02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 3.0,
+          "externalEmittance": "weathersolitude",
+          "light": "DefaultSunlight01NS",
+          "radius": 1024.0
+        },
+        "points": [[0, 200, 700]]
+      }
+    ],
+    "models": ["architecture\\solitude\\interiors\\slggcolend03.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 1.0,
+          "externalEmittance": "weathersolitude",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [[0, 0, 200]]
       }
     ],
     "models": ["architecture\\solitude\\interiors\\slgftracon03.nif"]
@@ -30,14 +100,13 @@
   {
     "lights": [
       {
-        "blackList": ["0x075bae"],
         "data": {
           "fade": 1.0,
           "externalEmittance": "weathersolitude",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
-        "points": [[250, 0, 350]]
+        "points": [[250, 0, 400]]
       }
     ],
     "models": ["architecture\\solitude\\interiors\\slgfwalsol01.nif"]
@@ -45,7 +114,6 @@
   {
     "lights": [
       {
-        "blackList": ["0x075bb5"],
         "data": {
           "fade": 1.0,
           "externalEmittance": "weathersolitude",
@@ -66,7 +134,7 @@
         "data": {
           "fade": 1.0,
           "externalEmittance": "weathersolitude",
-          "light": "AzuraBlue01",
+          "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
         "points": [[100, 0, 300]]
@@ -81,7 +149,7 @@
           "fade": 1.0,
           "externalEmittance": "weathersolitude",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 200.0
         },
         "points": [[0, -100, 300]]
       }
@@ -95,7 +163,7 @@
           "fade": 1.0,
           "externalEmittance": "weathersolitude",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 200.0
         },
         "points": [
           [-120, -150, 0],
@@ -112,7 +180,7 @@
           "fade": 1.0,
           "externalEmittance": "weathersolitude",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 160.0
         },
         "points": [[0, -100, 75]]
       }
@@ -126,7 +194,7 @@
           "fade": 1.0,
           "externalEmittance": "weathersolitude",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 160.0
         },
         "points": [[0, -225, 225]]
       }
@@ -143,7 +211,7 @@
           "fade": 1.0,
           "externalEmittance": "weathersolitude",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 160.0
         },
         "points": [[0, 75, 75]]
       }
@@ -162,7 +230,7 @@
         "data": {
           "fade": 1.0,
           "externalEmittance": "weathersolitude",
-          "light": "AzuraBlue01",
+          "light": "DefaultSunlight01NS",
           "radius": 250.0
         },
         "points": [[0, 0, 200]]
@@ -177,7 +245,7 @@
           "fade": 1.0,
           "externalEmittance": "weathersolitude",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 160.0
         },
         "points": [[0, 0, 100]]
       }
