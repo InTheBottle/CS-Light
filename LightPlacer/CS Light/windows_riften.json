@@ -3,10 +3,8 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
           "fade": 1.0,
-          "flags": "IgnoreScale",
-          "externalEmittance": "FXLightRegionSunlight",
+          "externalEmittance": "weatherriften",
           "light": "DefaultSunlight01NS",
           "radius": 200.0
         },
@@ -24,10 +22,8 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
           "fade": 1.0,
-          "flags": "IgnoreScale",
-          "externalEmittance": "FXLightRegionSunlight",
+          "externalEmittance": "weatherriften",
           "light": "DefaultSunlight01NS",
           "radius": 200.0
         },
@@ -43,10 +39,8 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
           "fade": 1.0,
-          "flags": "IgnoreScale",
-          "externalEmittance": "FXLightRegionSunlight",
+          "externalEmittance": "weatherriften",
           "light": "DefaultSunlight01NS",
           "radius": 200.0
         },
