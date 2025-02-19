@@ -1,0 +1,50 @@
+[b][size=5][center][color=#fff2cc]Description[/color][/center][/size][/b][size=4]This mod is a collection of configurations for [b]Light Placer[/b] created by myself and members of the Community Shaders Discord. These configurations are designed to be used with [b]Community Shaders[/b], the [b]Light Limit Fix[/b], and other lighting mods, offering better compatibility and customization.
+[b]
+Key Features[/b]:
+
+[/size][list]
+[*][size=4]Pre-configured JSON files for Light Placer[/size]
+[*][size=4]Compatibility with any lighting mod[b].[/b][/size]
+[*][size=4]Designed to work with [b]Community Shaders[/b] and [b]Light Limit Fix[/b], ensuring proper functionality without exceeding the light limit.[/size]
+[*][size=4]The option to mix ENB Light selectively for additional lighting effects.[/size]
+[*][size=4]Fully customizable fade and radius parameters to adjust brightness and light distance.[/size]
+[/list][b][size=5][center][color=#fff2cc]
+Who Is This Mod For?[/color][/center][/size][/b][size=5][b]This mod is ideal for:[/b][/size]
+
+[list]
+[*][size=4]Those who use [b]Light Placer[/b] and wish to enhance compatibility with other lighting mods.[/size]
+[*][size=4]Those who want to mix ENB light with Community Shader lighting setups.[/size]
+[/list][b][center][size=5][color=#fff2cc]
+Requirements[/color][/size][/center][/b][b][size=5]This mod requires the following:[/size][/b]
+
+[list]
+[*][size=4][b]Community Shaders[/b] [i](hard requirement)[/i][/size]
+[*][size=4][b]Light Limit Fix[/b] [i](hard requirement)[/i][/size]
+[*][size=4][b]Light Placer[/b] [i](hard requirement)[/i][/size]
+[*][size=4][b]powerofthree's tweaks[/b][/size]
+[/list][b][center][size=5][color=#fff2cc]Usage Instructions[/color][/size][/center][/b]
+[size=4]
+[/size][list=1]
+[*][size=4][b]Install the required mods[/b] as outlined above.[/size]
+[*][size=4][b]Download and install this mod[/b] via your preferred mod manager.[/size]
+[*][size=4][b]In the very first step of the FOMOD[/b], you'll have three choices. One for LUX, one for Embers XD and one for Vanilla. Select only from the options that pertain to you. If you're using Lux, only select from the group listed for Lux, etc. The Lux configs work for Lux and Embers XD so if you're using both of those mods, only choosing from the Lux section will be enough.[/size]
+[/list]
+[center][b][size=5][color=#fff2cc]Customization[/color][/size][/b][/center][list=1]
+[*][size=4]Review the included [b]JSON files[/b], which are named according to their content.[/size]
+[*][size=4]Open the JSON files containing the settings you want to tweak.[/size][list]
+[*][size=4][b]Fade Parameter[/b]: Adjust brightness by increasing or decreasing the value.[/size]
+[*][size=4][b]Radius Parameter[/b]: Adjust light distance by modifying this value.[/size]
+[/list]
+[*][size=4]Save your changes and reload your game.[/size]
+[/list][b][center][size=5][color=#fff2cc]Notes[/color][/size][/center][/b]
+[list]
+[*][size=4]Avoid stacking multiple configurations for the same objects, as this can lead to overly bright lights.[/size]
+[*][size=4][b]Mixing with ENB Light[/b]: This is supported, but ensure you don’t double stack lights, which could cause excessive brightening.[/size]
+[/list][size=4]
+[/size][b]Compatibility[/b][list]
+[*]Fully compatible with [b]Community Shaders[/b] and [b]Light Limit Fix[/b].
+[*]Designed for use with [b]Light Placer[/b] and any other lighting mods, provided that configurations are not stacked.
+[/list][line][b]Credits[/b][list]
+[*]Configurations by members of the [b]Community Shaders Discord[/b].
+[*][b]Light Placer[/b], [b]Community Shaders[/b], and related mods by their respective authors.
+[/list]
