@@ -3,10 +3,8 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
           "fade": 1.0,
-          "flags": "IgnoreScale",
-          "externalEmittance": "FXLightRegionSunlight",
+          "externalEmittance": "weatherwhiterun",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
@@ -24,10 +22,8 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
           "fade": 1.0,
-          "flags": "IgnoreScale",
-          "externalEmittance": "FXLightRegionSunlight",
+          "externalEmittance": "weatherwhiterun",
           "light": "DefaultSunlight01NS",
           "radius": 1024.0
         },
@@ -42,10 +38,8 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
           "fade": 1.0,
-          "flags": "IgnoreScale",
-          "externalEmittance": "FXLightRegionSunlight",
+          "externalEmittance": "weatherwhiterun",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
@@ -60,10 +54,8 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
           "fade": 1.0,
-          "flags": "IgnoreScale",
-          "externalEmittance": "FXLightRegionSunlight",
+          "externalEmittance": "weatherwhiterun",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
