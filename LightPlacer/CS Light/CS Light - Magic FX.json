@@ -187,9 +187,21 @@
     ]
   },
   {
+    "visualEffects": ["HealFXS"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 80.0]],
+        "data": {
+          "light": "MagicLightHealHand01",
+          "fade": 2.0,
+          "radius": 82.0
+        }
+      }
+    ]
+  },
+    {
     "visualEffects": [
       "BackupHealFXS",
-      "HealFXS",
       "HealMysticFXS",
       "HealCircleFXS",
       "RestoreHealthConcSelf",
@@ -461,28 +473,19 @@
     ],
     "models": ["dlc02\\effects\\dlc2hmdaedraimpact01.nif"]
   },
-  {
+  {   
+    "models": ["magic\\healcontargetfx01.nif"],
     "lights": [
       {
         "data": {
-          "color": [100, 100, 100],
-          "fade": 1.0,
+          "color": [255, 230, 178],
+          "fade": 3.0,
           "light": "MagicLightWhite01",
-          "radius": 149
+          "radius": 60
         },
-        "points": [[0.0, 8.0, 0.0]]
-      },
-      {
-        "data": {
-          "color": [90, 90, 90],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 158
-        },
-        "points": [[0.0, 8.0, 4.21]]
+        "points": [[0.0, 0.0, 80.0]]
       }
-    ],
-    "models": ["magic\\healcontargetfx01.nif"]
+    ]
   },
   {
     "lights": [
@@ -1193,27 +1196,18 @@
     "models": ["magic\\firewallfx01.nif"]
   },
   {
+    "visualEffects": ["magic\\healtargetfx.nif"],
     "lights": [
       {
         "data": {
-          "color": [100, 100, 100],
-          "fade": 1.0,
+          "color": [230, 211, 168],
+          "fade": 3.0,
           "light": "MagicLightWhite01",
-          "radius": 149
+          "radius": 60
         },
-        "points": [[0.0, 8.0, 0.0]]
-      },
-      {
-        "data": {
-          "color": [90, 90, 90],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 158
-        },
-        "points": [[0.0, 8.0, 4.21]]
+        "points": [[0.0, 0.0, 80.0]]
       }
-    ],
-    "models": ["magic\\healtargetfx.nif"]
+    ]
   },
   {
     "lights": [
