@@ -357,20 +357,6 @@
     "lights": [
       {
         "data": {
-          "color": [42, 92, 255],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 20
-        },
-        "points": [[0.0, -0.0, 0.0]]
-      }
-    ],
-    "models": ["magic\\lightspellprojectile.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
           "color": [127, 102, 204],
           "fade": 2.0,
           "light": "MagicLightWhite01",
