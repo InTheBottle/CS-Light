@@ -374,29 +374,6 @@
     "lights": [
       {
         "data": {
-          "color": [60, 67, 49],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 13
-        },
-        "points": [[0.22, 13.48, -0.31]]
-      },
-      {
-        "data": {
-          "color": [60, 67, 49],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 46
-        },
-        "points": [[0.22, -20.22, -0.31]]
-      }
-    ],
-    "models": ["dlc02\\effects\\dlc2hmdaedrahandprojectile01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
           "color": [255, 255, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -483,34 +460,6 @@
       }
     ],
     "models": ["magic\\healcontargetfx01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [64, 64, 64],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 31
-        },
-        "points": [[0.0, 2.5, -0.31]]
-      }
-    ],
-    "models": ["magic\\fireboltprojectile.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [29, 29, 29],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 13
-        },
-        "points": [[0.22, 13.48, -0.31]]
-      }
-    ],
-    "models": ["magic\\fireballprojectile01.nif"]
   },
   {
     "lights": [
@@ -758,20 +707,6 @@
     "lights": [
       {
         "data": {
-          "color": [231, 160, 7],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 244
-        },
-        "points": [[0.0, -0.0, 0.0]]
-      }
-    ],
-    "models": ["dlc01\\magic\\dlc1sunlightprojectile.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
           "color": [255, 18, 18],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -781,20 +716,6 @@
       }
     ],
     "models": ["dlc01\\magic\\dlc1vampireabsorbproj01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [14, 14, 14],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 17
-        },
-        "points": [[0.0, -0.0, 2.3]]
-      }
-    ],
-    "models": ["dlc02\\effects\\dlc2ashspawnhandeffects.nif"]
   },
   {
     "lights": [
@@ -841,43 +762,6 @@
       }
     ],
     "models": ["dlc02\\effects\\dlc2hmdaedramouthexp01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [122, 126, 114],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 48
-        },
-        "points": [[0.07, -3.34, -22.13]]
-      }
-    ],
-    "models": ["dlc02\\effects\\dlc2hmdaedramouthprojectile.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [251, 251, 251],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 13
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      },
-      {
-        "data": {
-          "color": [88, 88, 88],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 13
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["magic\\paralyzeprojectile.nif"]
   },
   {
     "lights": [
@@ -997,20 +881,6 @@
     "lights": [
       {
         "data": {
-          "color": [92, 175, 253],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 51
-        },
-        "points": [[0.0, 0.0, -0.62]]
-      }
-    ],
-    "models": ["magic\\fxicestormprojectile.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
           "color": [100, 100, 100],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -1031,18 +901,18 @@
     "models": ["magic\\healmysttargetfx.nif"]
   },
   {
+    "models": ["magic\\firesprayfx01.nif"],
     "lights": [
       {
         "data": {
-          "color": [64, 64, 64],
-          "fade": 1.0,
+          "color": [251, 162, 96],
+          "fade": 1.2,
           "light": "MagicLightWhite01",
-          "radius": 22
+          "radius": 300
         },
-        "points": [[0.0, 8.15, 0.0]]
+        "nodes": ["BrightGlowMesh01"]
       }
-    ],
-    "models": ["magic\\firesprayfx01.nif"]
+    ]
   },
   {
     "lights": [
@@ -1085,29 +955,6 @@
       }
     ],
     "models": ["magic\\firestormcastbodyfx.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [169, 169, 169],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 13
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      },
-      {
-        "data": {
-          "color": [235, 235, 235],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 17
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["magic\\illusionprojectile01.nif"]
   },
   {
     "lights": [
@@ -1359,29 +1206,6 @@
     "lights": [
       {
         "data": {
-          "color": [169, 169, 169],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 13
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      },
-      {
-        "data": {
-          "color": [235, 235, 235],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 17
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["magic\\illusionnegprojectile01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
           "color": [9, 136, 234],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -1396,20 +1220,6 @@
     "lights": [
       {
         "data": {
-          "color": [9, 136, 234],
-          "fade": 1.25,
-          "light": "MagicLightWhite01",
-          "radius": 244
-        },
-        "points": [[0.0, -0.0, 0.0]]
-      }
-    ],
-    "models": ["magic\\lightspellprojectile.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
           "color": [54, 101, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -1419,34 +1229,6 @@
       }
     ],
     "models": ["magic\\lightspellstaticlight.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [242, 242, 242],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 22
-        },
-        "points": [[0.0, 8.15, 0.0]]
-      }
-    ],
-    "models": ["magic\\magsprigganbugsprayprojectile.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [242, 242, 242],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 22
-        },
-        "points": [[0.0, 8.15, 0.0]]
-      }
-    ],
-    "models": ["magic\\magsprigganmatronbugsprayprojectile.nif"]
   },
   {
     "lights": [
@@ -1552,43 +1334,6 @@
       }
     ],
     "models": ["magic\\turnunimpact01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [50, 50, 50],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 148
-        },
-        "points": [[0.0, 0.0, -1.54]]
-      }
-    ],
-    "models": ["magic\\turnundareaprojectile01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [88, 88, 88],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 13
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      },
-      {
-        "data": {
-          "color": [28, 28, 28],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 13
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["magic\\turnundeadprojectile.nif"]
   },
   {
     "lights": [
