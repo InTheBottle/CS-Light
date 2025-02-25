@@ -1113,36 +1113,18 @@
     "models": ["magic\\illusionprojectile01.nif"]
   },
   {
+    "models": ["magic\\fxfirecloak01.nif"],
     "lights": [
       {
         "data": {
-          "color": [0, 0, 0],
-          "fade": 2.0,
+          "color": [255, 120, 0],
+          "fade": 1.4,
           "light": "MagicLightWhite01",
-          "radius": 45
+          "radius": 80
         },
-        "points": [[0.0, 0.0, 0.0]]
-      },
-      {
-        "data": {
-          "color": [11, 11, 11],
-          "fade": 1.2,
-          "light": "MagicLightWhite01",
-          "radius": 70
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      },
-      {
-        "data": {
-          "color": [0, 0, 0],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 39
-        },
-        "points": [[0.0, 8.0, 8.0]]
+        "points": [[0.0, 0.0, 80.0]]
       }
-    ],
-    "models": ["magic\\fxfirecloak01.nif"]
+    ]
   },
   {
     "models": ["magic\\shieldspellbodyfx.nif"],
