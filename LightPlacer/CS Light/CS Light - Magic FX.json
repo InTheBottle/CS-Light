@@ -918,6 +918,20 @@
     ]
   },
   {
+    "models": ["magic\\lightningbolt01.nif"],
+    "lights": [
+      {
+        "data": {
+          "color": [146, 136, 230],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 70
+        },
+         "points": [[0.0, 0.0, 0.0]]
+      }
+    ]
+  },
+  {
     "lights": [
       {
         "data": {
