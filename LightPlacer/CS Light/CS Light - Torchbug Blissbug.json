@@ -13,7 +13,7 @@
       }
     ]
   },
-    {
+  {
     "models": ["critters\\firefly\\fireflyinjar.nif"],
     "lights": [
       {
