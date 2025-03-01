@@ -3,20 +3,6 @@
     "lights": [
       {
         "data": {
-          "color": [255, 138, 34],
-          "fade": 2.8,
-          "light": "MagicLightWhite01",
-          "radius": 77
-        },
-        "points": [[0.25, -3.01, 2.17]]
-      }
-    ],
-    "models": ["creationclub\\bgssse025\\critters\\maniabug.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
           "color": [0, 111, 12],
           "fade": 1.2,
           "light": "MagicLightWhite01",
@@ -77,20 +63,6 @@
       }
     ],
     "models": ["creationclub\\_shared\\plants\\rootrotscaleactivator.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [255, 138, 34],
-          "fade": 2.8,
-          "light": "MagicLightWhite01",
-          "radius": 77
-        },
-        "points": [[1.29, 0.89, 5.47]]
-      }
-    ],
-    "models": ["creationclub\\bgssse025\\critters\\maniabuginjar.nif"]
   },
   {
     "lights": [

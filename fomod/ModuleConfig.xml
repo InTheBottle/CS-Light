@@ -83,6 +83,7 @@
 								<file source="LightPlacer\CS Light\CS Light - Spiders of Solstheim.json" destination="LightPlacer\CS Light\CS Light - Spiders of Solstheim.json" priority="0" /> 
 								<file source="LightPlacer\CS Light\CS Light - Stahlrim.json" destination="LightPlacer\CS Light\CS Light - Stahlrim.json" priority="0" /> 
 								<file source="LightPlacer\CS Light\CS Light - Standing Stones.json" destination="LightPlacer\CS Light\CS Light - Standing Stones.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Torchbug Blissbug.json" destination="LightPlacer\CS Light\CS Light - Torchbug Blissbug.json" priority="0" /> 
 								<file source="LightPlacer\CS Light\CS Light - Whiterun Windows.json" destination="LightPlacer\CS Light\CS Light - Whiterun Windows.json" priority="0" /> 
 								<file source="LightPlacer\CS Light\CS Light - Witchlight.json" destination="LightPlacer\CS Light\CS Light - Witchlight.json" priority="0" /> 
 								<file source="LightPlacer\CS Light\CS Light - Potions.json" destination="LightPlacer\CS Light\CS Light - Potions.json" priority="0" /> 
@@ -147,6 +148,7 @@
 								<file source="LightPlacer\CS Light\CS Light - Spiders of Solstheim.json" destination="LightPlacer\CS Light\CS Light - Spiders of Solstheim.json" priority="0" /> 
 								<file source="LightPlacer\CS Light\CS Light - Stahlrim.json" destination="LightPlacer\CS Light\CS Light - Stahlrim.json" priority="0" /> 
 								<file source="LightPlacer\CS Light\CS Light - Standing Stones.json" destination="LightPlacer\CS Light\CS Light - Standing Stones.json" priority="0" /> 
+								<file source="LightPlacer\CS Light\CS Light - Torchbug Blissbug.json" destination="LightPlacer\CS Light\CS Light - Torchbug Blissbug.json" priority="0" /> 
 								<file source="LightPlacer\CS Light\CS Light - Witchlight.json" destination="LightPlacer\CS Light\CS Light - Witchlight.json" priority="0" /> 
 							</files> 
 							<typeDescriptor> 
@@ -463,10 +465,10 @@
 						</plugin> 
 					</plugins> 
 				</group> 
-				<group name="Saints and Seducers" type="SelectAny"> 
+				<group name="Saints and Seducers - Plants and Ingredients" type="SelectAny"> 
 					<plugins order="Explicit"> 
 						<plugin name="Saints and Seducers"> 
-							<description></description> 
+							<description>Adds lights to plants and ingredients from Saints and Seducers</description> 
 							<files> 
 								<file source="LightPlacer\CS Light\CS Light - Saints and Seducers.json" destination="LightPlacer\CS Light\CS Light - Saints and Seducers.json" priority="0" /> 
 							</files> 
@@ -575,6 +577,15 @@
 							<description>Adds lights to the foliage in blackreach.</description> 
 							<files> 
 								<file source="LightPlacer\CS Light\CS Light - Blackreach.json" destination="LightPlacer\CS Light\CS Light - Blackreach.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Recommended"/> 
+							</typeDescriptor> 
+						</plugin> 
+ 						<plugin name="Torchbugs and Blissbugs"> 
+							<description>Adds lights to torchbugs and blissbuggs (from Saints and Seducers)(</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Torchbug Blissbug.json" destination="LightPlacer\CS Light\CS Light - Torchbug Blissbug.json" priority="0" /> 
 							</files> 
 							<typeDescriptor> 
 								<type name="Recommended"/> 
