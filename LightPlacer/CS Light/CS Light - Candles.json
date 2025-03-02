@@ -197,8 +197,8 @@
   },
   {
     "models": [
-        "clutter\\imperial\\impcandelabracandle01.nif",
-        "clutter\\candles\\candlehornfloor01.nif"
+      "clutter\\imperial\\impcandelabracandle01.nif",
+      "clutter\\candles\\candlehornfloor01.nif"
     ],
     "lights": [
       {
