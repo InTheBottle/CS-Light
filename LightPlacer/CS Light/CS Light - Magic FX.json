@@ -127,12 +127,8 @@
       }
     ]
   },
-    {
-    "visualEffects": [
-      "BackupHealFXS",
-      "HealMysticFXS",
-      "HealCircleFXS"
-    ],
+  {
+    "visualEffects": ["BackupHealFXS", "HealMysticFXS", "HealCircleFXS"],
     "lights": [
       {
         "points": [[0.0, 0.0, 5.0]],
@@ -362,7 +358,7 @@
     ],
     "models": ["dlc02\\effects\\dlc2hmdaedraimpact01.nif"]
   },
-  {   
+  {
     "models": ["magic\\healcontargetfx01.nif"],
     "lights": [
       {
@@ -839,7 +835,7 @@
           "light": "MagicLightWhite01",
           "radius": 70
         },
-         "points": [[0.0, 0.0, 0.0]]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ]
   },
