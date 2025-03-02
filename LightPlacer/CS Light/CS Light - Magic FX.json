@@ -6,27 +6,7 @@
       "AtronachFlameDeathFXS",
       "AtronachFlameGlowFXS",
       "TurnUndeadFlamesFXS",
-      "FireFXTrapShader",
-      "FireDamageFFAimed",
-      "FireDamageConcAimed",
-      "FireDamageFFAimedArea",
-      "HazardFireDamageFFContact",
-      "RuneFireFFLocation",
-      "AbFXAtronachFlame",
-      "AbAtronachCloakFlame",
-      "TrapRuneFireFFLocation01",
-      "SummonFlameThrall",
-      "BarrierFireConcAimed",
-      "HazardFireBarrierFFContact",
-      "MG01FireDamageFFAimed",
-      "SpellTomeFireDamageFFAimed",
-      "AbGhostFire",
-      "TrapFireDamageConcAimed",
-      "TrapFireDamageFFAimedArea",
-      "TrapFireDamageFFAimed",
-      "TrapGenericFireMagicEffect01",
-      "fxfireoilhazard",
-      "fxfireoilhazarddynamic"
+      "FireFXTrapShader"
     ],
     "lights": [
       {
@@ -42,7 +22,6 @@
   {
     "visualEffects": [
       "WardFXShader",
-      "WardConcSelf0",
       "FrostFXShader",
       "FrostshortFXShader",
       "GhostFXShader",
@@ -54,28 +33,7 @@
       "GhostEtherealFXShaderIntro",
       "AbsorbBlueFXS",
       "FrostIceFormFXShader",
-      "FrostIceFormFXShader02",
-      "FrostDamageConcAimed",
-      "FrostDamageFFAimed",
-      "FrostDamageFFAimedArea",
-      "WardConcSelf25",
-      "WardConcSelf50",
-      "AbAtronachCloakFrost",
-      "FrostDamageFFSelfArea65",
-      "FrostDamageFFSelfArea25",
-      "RuneFrostFFLocation",
-      "TrapRuneFrostFFLocation01",
-      "SummonFrostThrall",
-      "crVampireAbsorbMagickaConcAimed",
-      "BarrierFrostConcAimed",
-      "AbGhostNew",
-      "AbGhostFrost",
-      "TrapFrostDamageFFAimedArea",
-      "TrapFrostDamageFFAimed",
-      "TrapFrostDamageConcAimed",
-      "FrostDamageHazardArea20",
-      "FrostDamageHazardArea30",
-      "FrostDamageHazardArea40"
+      "FrostIceFormFXShader02"
     ],
     "lights": [
       {
@@ -102,37 +60,7 @@
       "ShockFXShaderNew",
       "GhostVioletFXShader",
       "ShockPlayerCloakFXShader",
-      "ShockDamageConcAimed",
-      "TGNightingaleShadowFFSelf",
-      "BoundBattleAxeFFSelf",
-      "BoundSwordFFSelf",
-      "BoundBowFFSelf",
-      "BoundBattleAxeFFSelf",
-      "ShockDamageFFAimed",
-      "SummonFlameAtronach",
-      "SummonFrostAtronach",
-      "SummonStormAtronach",
-      "InvisibillityFFSelf",
-      "InvisibillityFFActor",
-      "ShockDamageFFAimedArea",
-      "SummonFamiliar",
-      "VoiceMakeEthereal",
-      "RuneShockFFLocation",
-      "EnchBoundSwordFX",
-      "MGAbGhost",
-      "AbAtronachCloakShock",
-      "AbPhantom",
-      "TrapRuneLightningFFLocation01",
-      "SummonStormThrall",
-      "AbFXAtronachStorm",
-      "SpellTomeBoundSwordFFSelf",
-      "AbGhostStorm",
-      "TrapShockDamageFFAimedArea",
-      "TrapShockDamageFFAimed",
-      "TrapShockDamageConcAimed",
-      "SummonFlameThrallPotent",
-      "SummonFrostThrallPotent",
-      "SummonStormThrallPotent"
+      "EnchBoundSwordFX"
     ],
     "lights": [
       {
@@ -203,13 +131,7 @@
     "visualEffects": [
       "BackupHealFXS",
       "HealMysticFXS",
-      "HealCircleFXS",
-      "RestoreHealthConcSelf",
-      "RestoreHealthConcActor",
-      "RestoreHealthFFSelf",
-      "RestoreHealthFFSelfArea",
-      "RestoreHealthFFSelf50",
-      "RestoreHealthFFActor"
+      "HealCircleFXS"
     ],
     "lights": [
       {
@@ -229,12 +151,7 @@
       "MagicArmorStoneFleshFXS",
       "MagicArmorEbonyFleshFXS",
       "MagicArmorIronFleshFXS",
-      "AbsorbGreenFXS",
-      "FXIllusionMassGreenBodyHolder",
-      "crChaurusBiteFFContact",
-      "crChaurusSpitFFAimed",
-      "crVampireAbsorbStaminaConcAimed",
-      "AbFXSpriggan"
+      "AbsorbGreenFXS"
     ],
     "lights": [
       {
@@ -251,12 +168,7 @@
     "visualEffects": [
       "IlliusionFearFXS",
       "AbsorbHealthFXS",
-      "GhostRedFXShader",
-      "InfluenceConfDownFFAimed",
-      "InfluenceAggUpFFAimed",
-      "FXIllusionMassRedBodyHolder",
-      "FXIllusionMassGreenBodyHolder",
-      "crVampireAbsorbHealthConcAimed"
+      "GhostRedFXShader"
     ],
     "lights": [
       {
