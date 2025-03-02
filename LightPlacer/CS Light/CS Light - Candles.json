@@ -196,7 +196,10 @@
     ]
   },
   {
-    "models": [ "clutter\\imperial\\impcandelabracandle01.nif"],
+    "models": [ 
+        "clutter\\imperial\\impcandelabracandle01.nif",
+        "clutter\\candles\\candlehornfloor01.nif"
+    ],
     "lights": [
       {
         "points": [[0.0, 0.0, 110.0]],
@@ -228,20 +231,6 @@
     "lights": [
       {
         "points": [[-8.0, 0.0, 19.0]],
-        "data": {
-          "light": "DefaultCandleLight01NS",
-          "radius": 275.0,
-          "fade": 1.5,
-          "flags": "PortalStrict|IgnoreScale"
-        }
-      }
-    ]
-  },
-  {
-    "models": [ "clutter\\candles\\candlehornfloor01.nif"],
-    "lights": [
-      {
-        "points": [[0.0, 0.0, 110.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 275.0,
