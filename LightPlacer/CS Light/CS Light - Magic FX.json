@@ -6,27 +6,7 @@
       "AtronachFlameDeathFXS",
       "AtronachFlameGlowFXS",
       "TurnUndeadFlamesFXS",
-      "FireFXTrapShader",
-      "FireDamageFFAimed",
-      "FireDamageConcAimed",
-      "FireDamageFFAimedArea",
-      "HazardFireDamageFFContact",
-      "RuneFireFFLocation",
-      "AbFXAtronachFlame",
-      "AbAtronachCloakFlame",
-      "TrapRuneFireFFLocation01",
-      "SummonFlameThrall",
-      "BarrierFireConcAimed",
-      "HazardFireBarrierFFContact",
-      "MG01FireDamageFFAimed",
-      "SpellTomeFireDamageFFAimed",
-      "AbGhostFire",
-      "TrapFireDamageConcAimed",
-      "TrapFireDamageFFAimedArea",
-      "TrapFireDamageFFAimed",
-      "TrapGenericFireMagicEffect01",
-      "fxfireoilhazard",
-      "fxfireoilhazarddynamic"
+      "FireFXTrapShader"
     ],
     "lights": [
       {
@@ -42,7 +22,6 @@
   {
     "visualEffects": [
       "WardFXShader",
-      "WardConcSelf0",
       "FrostFXShader",
       "FrostshortFXShader",
       "GhostFXShader",
@@ -54,28 +33,7 @@
       "GhostEtherealFXShaderIntro",
       "AbsorbBlueFXS",
       "FrostIceFormFXShader",
-      "FrostIceFormFXShader02",
-      "FrostDamageConcAimed",
-      "FrostDamageFFAimed",
-      "FrostDamageFFAimedArea",
-      "WardConcSelf25",
-      "WardConcSelf50",
-      "AbAtronachCloakFrost",
-      "FrostDamageFFSelfArea65",
-      "FrostDamageFFSelfArea25",
-      "RuneFrostFFLocation",
-      "TrapRuneFrostFFLocation01",
-      "SummonFrostThrall",
-      "crVampireAbsorbMagickaConcAimed",
-      "BarrierFrostConcAimed",
-      "AbGhostNew",
-      "AbGhostFrost",
-      "TrapFrostDamageFFAimedArea",
-      "TrapFrostDamageFFAimed",
-      "TrapFrostDamageConcAimed",
-      "FrostDamageHazardArea20",
-      "FrostDamageHazardArea30",
-      "FrostDamageHazardArea40"
+      "FrostIceFormFXShader02"
     ],
     "lights": [
       {
@@ -102,37 +60,7 @@
       "ShockFXShaderNew",
       "GhostVioletFXShader",
       "ShockPlayerCloakFXShader",
-      "ShockDamageConcAimed",
-      "TGNightingaleShadowFFSelf",
-      "BoundBattleAxeFFSelf",
-      "BoundSwordFFSelf",
-      "BoundBowFFSelf",
-      "BoundBattleAxeFFSelf",
-      "ShockDamageFFAimed",
-      "SummonFlameAtronach",
-      "SummonFrostAtronach",
-      "SummonStormAtronach",
-      "InvisibillityFFSelf",
-      "InvisibillityFFActor",
-      "ShockDamageFFAimedArea",
-      "SummonFamiliar",
-      "VoiceMakeEthereal",
-      "RuneShockFFLocation",
-      "EnchBoundSwordFX",
-      "MGAbGhost",
-      "AbAtronachCloakShock",
-      "AbPhantom",
-      "TrapRuneLightningFFLocation01",
-      "SummonStormThrall",
-      "AbFXAtronachStorm",
-      "SpellTomeBoundSwordFFSelf",
-      "AbGhostStorm",
-      "TrapShockDamageFFAimedArea",
-      "TrapShockDamageFFAimed",
-      "TrapShockDamageConcAimed",
-      "SummonFlameThrallPotent",
-      "SummonFrostThrallPotent",
-      "SummonStormThrallPotent"
+      "EnchBoundSwordFX"
     ],
     "lights": [
       {
@@ -187,18 +115,20 @@
     ]
   },
   {
-    "visualEffects": [
-      "BackupHealFXS",
-      "HealFXS",
-      "HealMysticFXS",
-      "HealCircleFXS",
-      "RestoreHealthConcSelf",
-      "RestoreHealthConcActor",
-      "RestoreHealthFFSelf",
-      "RestoreHealthFFSelfArea",
-      "RestoreHealthFFSelf50",
-      "RestoreHealthFFActor"
-    ],
+    "visualEffects": ["HealFXS"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 80.0]],
+        "data": {
+          "light": "MagicLightHealHand01",
+          "fade": 2.0,
+          "radius": 82.0
+        }
+      }
+    ]
+  },
+  {
+    "visualEffects": ["BackupHealFXS", "HealMysticFXS", "HealCircleFXS"],
     "lights": [
       {
         "points": [[0.0, 0.0, 5.0]],
@@ -217,12 +147,7 @@
       "MagicArmorStoneFleshFXS",
       "MagicArmorEbonyFleshFXS",
       "MagicArmorIronFleshFXS",
-      "AbsorbGreenFXS",
-      "FXIllusionMassGreenBodyHolder",
-      "crChaurusBiteFFContact",
-      "crChaurusSpitFFAimed",
-      "crVampireAbsorbStaminaConcAimed",
-      "AbFXSpriggan"
+      "AbsorbGreenFXS"
     ],
     "lights": [
       {
@@ -239,12 +164,7 @@
     "visualEffects": [
       "IlliusionFearFXS",
       "AbsorbHealthFXS",
-      "GhostRedFXShader",
-      "InfluenceConfDownFFAimed",
-      "InfluenceAggUpFFAimed",
-      "FXIllusionMassRedBodyHolder",
-      "FXIllusionMassGreenBodyHolder",
-      "crVampireAbsorbHealthConcAimed"
+      "GhostRedFXShader"
     ],
     "lights": [
       {
@@ -439,27 +359,18 @@
     "models": ["dlc02\\effects\\dlc2hmdaedraimpact01.nif"]
   },
   {
+    "models": ["magic\\healcontargetfx01.nif"],
     "lights": [
       {
         "data": {
-          "color": [100, 100, 100],
-          "fade": 1.0,
+          "color": [255, 230, 178],
+          "fade": 3.0,
           "light": "MagicLightWhite01",
-          "radius": 149
+          "radius": 60
         },
-        "points": [[0.0, 8.0, 0.0]]
-      },
-      {
-        "data": {
-          "color": [90, 90, 90],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 158
-        },
-        "points": [[0.0, 8.0, 4.21]]
+        "points": [[0.0, 0.0, 80.0]]
       }
-    ],
-    "models": ["magic\\healcontargetfx01.nif"]
+    ]
   },
   {
     "lights": [
@@ -915,6 +826,20 @@
     ]
   },
   {
+    "models": ["magic\\lightningbolt01.nif"],
+    "lights": [
+      {
+        "data": {
+          "color": [146, 136, 230],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 70
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ]
+  },
+  {
     "lights": [
       {
         "data": {
@@ -927,6 +852,34 @@
       }
     ],
     "models": ["magic\\firestormareaeffect.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [251, 162, 96],
+          "fade": 4.0,
+          "light": "MagicLightWhite01",
+          "radius": 150
+        },
+        "points": [[0.0, 0.0, 50.0]]
+      }
+    ],
+    "models": ["effects\\fxfire01new.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [251, 162, 96],
+          "fade": 4.0,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 50.0]]
+      }
+    ],
+    "models": ["effects\\fxfire02new.nif"]
   },
   {
     "lights": [
@@ -957,59 +910,32 @@
     "models": ["magic\\firestormcastbodyfx.nif"]
   },
   {
+    "models": ["magic\\fxfirecloak01.nif"],
     "lights": [
       {
         "data": {
-          "color": [0, 0, 0],
-          "fade": 2.0,
+          "color": [255, 120, 0],
+          "fade": 1.4,
           "light": "MagicLightWhite01",
-          "radius": 45
+          "radius": 80
         },
-        "points": [[0.0, 0.0, 0.0]]
-      },
-      {
-        "data": {
-          "color": [11, 11, 11],
-          "fade": 1.2,
-          "light": "MagicLightWhite01",
-          "radius": 70
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      },
-      {
-        "data": {
-          "color": [0, 0, 0],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 39
-        },
-        "points": [[0.0, 8.0, 8.0]]
+        "points": [[0.0, 0.0, 80.0]]
       }
-    ],
-    "models": ["magic\\fxfirecloak01.nif"]
+    ]
   },
   {
+    "models": ["magic\\shieldspellbodyfx.nif"],
     "lights": [
       {
         "data": {
-          "color": [0, 0, 0],
-          "fade": 1.0,
+          "color": [76, 178, 229],
+          "fade": 1.4,
           "light": "MagicLightWhite01",
-          "radius": 76
+          "radius": 80
         },
-        "points": [[0.0, 8.0, 8.0]]
-      },
-      {
-        "data": {
-          "color": [0, 0, 0],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 54
-        },
-        "points": [[-0.0, 8.0, 8.0]]
+        "points": [[0.0, 0.0, 80.0]]
       }
-    ],
-    "models": ["magic\\shieldspellbodyfx.nif"]
+    ]
   },
   {
     "lights": [
@@ -1040,27 +966,18 @@
     "models": ["magic\\firewallfx01.nif"]
   },
   {
+    "visualEffects": ["magic\\healtargetfx.nif"],
     "lights": [
       {
         "data": {
-          "color": [100, 100, 100],
-          "fade": 1.0,
+          "color": [230, 211, 168],
+          "fade": 3.0,
           "light": "MagicLightWhite01",
-          "radius": 149
+          "radius": 60
         },
-        "points": [[0.0, 8.0, 0.0]]
-      },
-      {
-        "data": {
-          "color": [90, 90, 90],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 158
-        },
-        "points": [[0.0, 8.0, 4.21]]
+        "points": [[0.0, 0.0, 80.0]]
       }
-    ],
-    "models": ["magic\\healtargetfx.nif"]
+    ]
   },
   {
     "lights": [
