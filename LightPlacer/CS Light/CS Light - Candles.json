@@ -196,7 +196,7 @@
     ]
   },
   {
-    "models": [ "clutter\\imperial\\impcandelabracandle01.nif"],
+    "models": ["clutter\\imperial\\impcandelabracandle01.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, 110.0]],
@@ -238,7 +238,7 @@
     ]
   },
   {
-    "models": [ "clutter\\candles\\candlehornfloor01.nif"],
+    "models": ["clutter\\candles\\candlehornfloor01.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, 110.0]],
