@@ -53,7 +53,6 @@
       "SoulTrapTargetActFXS",
       "SoulTrapCastActFXS",
       "ShockFXShader",
-      "IllusionPositiveFXS",
       "IllusionNegativeFXS",
       "ShockDisintegrate01FXS",
       "ShockBigFXShader",
@@ -121,14 +120,46 @@
         "points": [[0.0, 0.0, 80.0]],
         "data": {
           "light": "MagicLightHealHand01",
-          "fade": 2.0,
-          "radius": 82.0
+          "radius": 100.0,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 2.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.7,
+                "value": 2.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 3.3,
+                "value": 0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 100000,
+                "value": 0
+              }
+            ]
+          }
         }
       }
     ]
   },
   {
-    "visualEffects": ["BackupHealFXS", "HealMysticFXS", "HealCircleFXS"],
+    "visualEffects": [
+      "BackupHealFXS",
+      "HealMysticFXS",
+      "HealCircleFXS"
+    ],
     "lights": [
       {
         "points": [[0.0, 0.0, 5.0]],
@@ -213,15 +244,85 @@
     "lights": [
       {
         "data": {
-          "color": [1, 1, 1],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 63
+          "fade": 2.0,
+          "light": "MagicLightIllusionPosHand01",
+          "radius": 120,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.0,
+                "value": 0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.2677,
+                "value": 2.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.0,
+                "value": 2.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.9,
+                "value": 0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1000000,
+                "value": 0
+              }
+            ]
+          }
         },
-        "points": [[0.0, 8.0, 8.0]]
+        "points": [[0.0, 0.0, 80.0]]
       }
     ],
     "models": ["magic\\illusionposfxbody01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 2.0,
+          "light": "MagicLightWardHand01",
+          "radius": 200,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.0,
+                "value": 0.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.0,
+                "value": 2.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1000000,
+                "value": 2.0
+              }
+            ]
+          }
+        },
+        "points": [[0.0, 25.0, 100.0]]
+      }
+    ],
+    "models": ["magic\\wardbodyfx.nif"]
   },
   {
     "lights": [
@@ -364,9 +465,37 @@
       {
         "data": {
           "color": [255, 230, 178],
-          "fade": 3.0,
           "light": "MagicLightWhite01",
-          "radius": 60
+          "radius": 100,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.0,
+                "value": 0.0
+              },
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.5,
+                "value": 0.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.2,
+                "value": 2.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1000000,
+                "value": 2.0
+              }
+            ]
+          }
         },
         "points": [[0.0, 0.0, 80.0]]
       }
@@ -966,14 +1095,43 @@
     "models": ["magic\\firewallfx01.nif"]
   },
   {
-    "visualEffects": ["magic\\healtargetfx.nif"],
+    "models": ["magic\\healtargetfx.nif"],
     "lights": [
       {
         "data": {
           "color": [230, 211, 168],
-          "fade": 3.0,
+          "fade": 2.0,
           "light": "MagicLightWhite01",
-          "radius": 60
+          "radius": 100,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.0,
+                "value": 0.0
+              },
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.7,
+                "value": 0.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.2,
+                "value": 2.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1000000,
+                "value": 2.0
+              }
+            ]
+          }
         },
         "points": [[0.0, 0.0, 80.0]]
       }
