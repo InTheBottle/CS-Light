@@ -4,7 +4,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weatherriften",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 200.0
         },
@@ -23,7 +23,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weatherriften",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 200.0
         },
@@ -40,7 +40,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weatherriften",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 200.0
         },

@@ -4,7 +4,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weathersolitude",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
@@ -18,7 +18,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weathersolitude",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
@@ -32,7 +32,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weathersolitude",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
@@ -46,7 +46,7 @@
       {
         "data": {
           "fade": 3.0,
-          "externalEmittance": "weathersolitude",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 512.0
         },
@@ -60,7 +60,7 @@
       {
         "data": {
           "fade": 3.0,
-          "externalEmittance": "weathersolitude",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 512.0
         },
@@ -74,7 +74,7 @@
       {
         "data": {
           "fade": 3.0,
-          "externalEmittance": "weathersolitude",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 1024.0
         },
@@ -88,7 +88,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weathersolitude",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
@@ -102,7 +102,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weathersolitude",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
@@ -116,7 +116,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weathersolitude",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
@@ -133,7 +133,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weathersolitude",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
@@ -147,7 +147,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weathersolitude",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 200.0
         },
@@ -161,7 +161,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weathersolitude",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 200.0
         },
@@ -178,7 +178,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weathersolitude",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 160.0
         },
@@ -192,7 +192,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weathersolitude",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 160.0
         },
@@ -209,7 +209,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weathersolitude",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 160.0
         },
@@ -229,7 +229,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weathersolitude",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 250.0
         },
@@ -243,7 +243,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weathersolitude",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 160.0
         },
