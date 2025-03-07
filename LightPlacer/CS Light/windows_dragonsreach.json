@@ -3,10 +3,10 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
-          "externalEmittance": "weatherwhiterun",
+          "fade": 0.7,
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 128.0
         },
         "points": [
           [-250, -50, 150],
@@ -22,8 +22,8 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
-          "externalEmittance": "weatherwhiterun",
+          "fade": 0.7,
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 1024.0
         },
@@ -38,10 +38,10 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
-          "externalEmittance": "weatherwhiterun",
+          "fade": 0.7,
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 128.0
         },
         "points": [[0, -50, 150]]
       }
@@ -54,10 +54,10 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
-          "externalEmittance": "weatherwhiterun",
+          "fade": 0.7,
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 128.0
         },
         "points": [
           [-130, -50, 150],
