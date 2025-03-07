@@ -871,20 +871,6 @@
     "lights": [
       {
         "data": {
-          "color": [180, 180, 180],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 196
-        },
-        "points": [[0.0, 0.0, 5.35]]
-      }
-    ],
-    "models": ["magic\\commandtargetfx.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
           "color": [0, 0, 0],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -957,29 +943,6 @@
       }
     ],
     "models": ["magic\\reanimateimpact01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [100, 100, 100],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 141
-        },
-        "points": [[0.0, 8.0, 0.0]]
-      },
-      {
-        "data": {
-          "color": [90, 90, 90],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 162
-        },
-        "points": [[0.0, 8.0, 4.21]]
-      }
-    ],
-    "models": ["magic\\healmysttargetfx.nif"]
   },
   {
     "models": ["magic\\firesprayfx01.nif"],
@@ -1134,49 +1097,6 @@
       }
     ],
     "models": ["magic\\firewallfx01.nif"]
-  },
-  {
-    "models": ["magic\\healtargetfx.nif"],
-    "lights": [
-      {
-        "data": {
-          "color": [230, 211, 168],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 0.0
-              },
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.7,
-                "value": 0.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 1.2,
-                "value": 2.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 1000000,
-                "value": 2.0
-              }
-            ]
-          }
-        },
-        "points": [[0.0, 0.0, 80.0]]
-      }
-    ]
   },
   {
     "lights": [
@@ -1450,28 +1370,5 @@
       }
     ],
     "models": ["magic\\turnunimpact01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [100, 100, 100],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 141
-        },
-        "points": [[0.0, 8.0, 0.0]]
-      },
-      {
-        "data": {
-          "color": [90, 90, 90],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 162
-        },
-        "points": [[0.0, 8.0, 4.21]]
-      }
-    ],
-    "models": ["magic\\waterbreathingtargetfx.nif"]
   }
 ]
