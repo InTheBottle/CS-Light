@@ -56,7 +56,9 @@
         "points": [[0.0, 0.0, 750.0]]
       }
     ],
-    "models": ["dungeons\\dwemer\\animated\\astrolabe\\lens\\dweastrolabelens01.nif"]
+    "models": [
+      "dungeons\\dwemer\\animated\\astrolabe\\lens\\dweastrolabelens01.nif"
+    ]
   },
   {
     "lights": [
