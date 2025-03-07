@@ -4,7 +4,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weatherwhiterun",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 175.0
         },
@@ -22,7 +22,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weatherwhiterun",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 175.0
         },
@@ -36,7 +36,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weatherwhiterun",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 220.0
         },
@@ -50,7 +50,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weatherwhiterun",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 220.0
         },
@@ -64,7 +64,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weatherwhiterun",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 220.0
         },
@@ -78,7 +78,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weatherwhiterun",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 220.0
         },
@@ -92,7 +92,7 @@
       {
         "data": {
           "fade": 1.0,
-          "externalEmittance": "weatherwhiterun",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 220.0
         },
@@ -107,7 +107,7 @@
         "data": {
           "color": [255, 255, 255],
           "fade": 1.0,
-          "externalEmittance": "weatherwhiterun",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
@@ -125,7 +125,7 @@
         "data": {
           "color": [255, 255, 255],
           "fade": 1.0,
-          "externalEmittance": "weatherwhiterun",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 512.0
         },
@@ -142,7 +142,7 @@
         "data": {
           "color": [255, 255, 255],
           "fade": 1.0,
-          "externalEmittance": "weatherwhiterun",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 200.0
         },
@@ -161,7 +161,7 @@
         "data": {
           "color": [255, 255, 255],
           "fade": 1.0,
-          "externalEmittance": "weatherwhiterun",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 228.0
         },
@@ -179,7 +179,7 @@
         "data": {
           "color": [255, 255, 255],
           "fade": 1.0,
-          "externalEmittance": "weatherwhiterun",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
@@ -196,7 +196,7 @@
         "data": {
           "color": [255, 255, 255],
           "fade": 1.0,
-          "externalEmittance": "weatherwhiterun",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 300.0
         },
@@ -217,7 +217,7 @@
         "data": {
           "color": [255, 255, 255],
           "fade": 1.0,
-          "externalEmittance": "weatherwhiterun",
+          "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
