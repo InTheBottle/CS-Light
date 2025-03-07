@@ -293,7 +293,7 @@
             "keys": [
               {
                 "backward": 0.0,
-                "forward": -0.0,
+                "forward": 0.0,
                 "time": 0.0,
                 "value": 0
               },
@@ -341,7 +341,7 @@
             "keys": [
               {
                 "backward": 0.0,
-                "forward": -0.0,
+                "forward": 0.0,
                 "time": 0.0,
                 "value": 0.0
               },
