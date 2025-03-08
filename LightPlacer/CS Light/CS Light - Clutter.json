@@ -104,10 +104,7 @@
     ]
   },
   {
-    "models": [
-      "critters\\moths\\crittermothgreen.nif",
-      "critters\\firefly\\FireflyGO.nif"
-    ],
+    "models": ["critters\\firefly\\FireflyGO.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, 4.5]],
@@ -122,14 +119,15 @@
     ]
   },
   {
-    "models": ["critters\\moths\\crittermothblue.nif"],
+    "models": ["critters\\moths\\crittermothgreen.nif"],
     "lights": [
       {
-        "points": [[0.0, 0.0, 4.5]],
+        "nodes": ["BoneBody"],
         "data": {
-          "light": "FXLightBlueGlow",
-          "radius": 5.5,
-          "fade": 15.0,
+          "color": [129, 173, 58],
+          "light": "GreenPoisonGasLight",
+          "radius": 16,
+          "fade": 2.0,
           "flags": "Simple|IgnoreScale"
         }
       }

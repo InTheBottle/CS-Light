@@ -7,9 +7,10 @@
           "color": [241, 255, 0],
           "fade": 2.8,
           "light": "MagicLightWhite01",
-          "radius": 77
+          "radius": 77,
+          "offset": [1.5, -2.5, -7.0]
         },
-        "points": [[0.25, -3.01, 2.17]]
+        "nodes": ["Bone01"]
       }
     ]
   },
@@ -21,9 +22,10 @@
           "color": [241, 255, 0],
           "fade": 1.1,
           "light": "MagicLightWhite01",
-          "radius": 77
+          "radius": 77,
+          "offset": [-0.5, 0.0, -1.0]
         },
-        "points": [[1.1, -0.0, 12.47]]
+        "nodes": ["Bee01"]
       }
     ]
   },
@@ -35,9 +37,10 @@
           "color": [255, 138, 34],
           "fade": 2.8,
           "light": "MagicLightWhite01",
-          "radius": 77
+          "radius": 77,
+          "offset": [0.5, -2.5, -7.0]
         },
-        "points": [[0.25, -3.01, 2.17]]
+        "nodes": ["Bone01"]
       }
     ]
   },
@@ -49,9 +52,10 @@
           "color": [255, 138, 34],
           "fade": 2.8,
           "light": "MagicLightWhite01",
-          "radius": 77
+          "radius": 77,
+          "offset": [-0.5, 0.0, -2.0]
         },
-        "points": [[1.29, 0.89, 5.47]]
+        "nodes": ["b_MoveHelper"]
       }
     ]
   }
