@@ -126,5 +126,19 @@
       }
     ],
     "models": ["magic\\commandtargetfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [180, 180, 180],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 196
+        },
+        "points": [[0.0, 0.0, 5.35]]
+      }
+    ],
+    "models": ["magic\\summontargetfx.nif"]
   }
 ]
