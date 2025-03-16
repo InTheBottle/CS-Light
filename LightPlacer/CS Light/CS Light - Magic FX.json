@@ -222,7 +222,7 @@
     "visualEffects": ["AbsorbGreenFXS"],
     "lights": [
       {
-        "points": [[0.0, 0.0, 5.0]],
+        "points": [[0.0, 0.0, 80.0]],
         "data": {
           "light": "GreenPoisonGasLight",
           "fade": 1.0,
