@@ -147,10 +147,7 @@
     ]
   },
   {
-    "visualEffects": [
-      "BackupHealFXS",
-      "HealCircleFXS"
-    ],
+    "visualEffects": ["BackupHealFXS", "HealCircleFXS"],
     "lights": [
       {
         "points": [[0.0, 0.0, 5.0]],
@@ -169,7 +166,7 @@
         "points": [[0.0, 0.0, 80.0]],
         "data": {
           "light": "MagicLightHealHand01",
-          "color" : [202,221,236],
+          "color": [202, 221, 236],
           "radius": 100.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -211,8 +208,8 @@
         "points": [[0.0, 0.0, 80.0]],
         "data": {
           "light": "MagicLightWhite01",
-          "fade" : 1.5,
-          "color" : [117,206,240],
+          "fade": 1.5,
+          "color": [117, 206, 240],
           "radius": 80.0
         }
       }
