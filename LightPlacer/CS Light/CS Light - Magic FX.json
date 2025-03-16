@@ -42,7 +42,6 @@
   {
     "visualEffects": [
       "ShockStormFXShader",
-      "SoulTrapFXShader",
       "SoulTrapTargetActFXS",
       "SoulTrapCastActFXS",
       "ShockFXShader",
@@ -101,6 +100,20 @@
               }
             ]
           }
+        }
+      }
+    ]
+  },
+  {
+    "visualEffects": ["SoulTrapFXShader"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 80.0]],
+        "data": {
+          "light": "MagicLightWhite01",
+          "fade": 1.5,
+          "color": [35, 35, 255],
+          "radius": 90.0
         }
       }
     ]
@@ -1405,5 +1418,47 @@
       }
     ],
     "models": ["magic\\turnunimpact01.nif"]
+  },
+  {
+    "models": ["magic\\soultraptargeteffects.nif"],
+    "lights": [
+      {
+        "data": {
+          "color": [100, 80, 150],
+          "light": "MagicLightWhite01",
+          "radius": 150,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.0,
+                "value": 0.0
+              },
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.3,
+                "value": 2.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.5,
+                "value": 0.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1000000,
+                "value": 0.0
+              }
+            ]
+          }
+        },
+        "points": [[0.0, 0.0, 80.0]]
+      }
+    ]
   }
 ]
