@@ -3,8 +3,6 @@
     "visualEffects": [
       "FireFXShader",
       "FireCloakFXShader",
-      "AtronachFlameDeathFXS",
-      "AtronachFlameGlowFXS",
       "TurnUndeadFlamesFXS",
       "FireFXTrapShader"
     ],
@@ -27,7 +25,6 @@
       "GhostFXShader",
       "GhostFXShaderNightingale",
       "IceWraithFXS",
-      "AtronachFrostFXS",
       "FrostSpikeFXShader",
       "GhostEtherealFXShader",
       "GhostEtherealFXShaderIntro",
@@ -554,31 +551,6 @@
         },
         "points": [[0.0, 0.0, 80.0]]
       }
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [156, 156, 156],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 44
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      },
-      {
-        "data": {
-          "color": [180, 180, 180],
-          "fade": 1.25,
-          "light": "MagicLightWhite01",
-          "radius": 34
-        },
-        "points": [[0.0, 0.0, -20.72]]
-      }
-    ],
-    "models": [
-      "actors\\atronachstorm\\character assets\\fxatronachstormcloak.nif"
     ]
   },
   {
