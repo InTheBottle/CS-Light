@@ -19,15 +19,12 @@
   },
   {
     "visualEffects": [
-      "WardFXShader",
       "FrostFXShader",
       "FrostshortFXShader",
       "GhostFXShader",
       "GhostFXShaderNightingale",
-      "IceWraithFXS",
       "FrostSpikeFXShader",
       "GhostEtherealFXShader",
-      "GhostEtherealFXShaderIntro",
       "AbsorbBlueFXS",
       "FrostIceFormFXShader",
       "FrostIceFormFXShader02"
@@ -53,7 +50,6 @@
       "IllusionNegativeFXS",
       "ShockDisintegrate01FXS",
       "ShockBigFXShader",
-      "ShockFXShaderNew",
       "GhostVioletFXShader",
       "ShockPlayerCloakFXShader",
       "EnchBoundSwordFX"
@@ -224,14 +220,7 @@
     ]
   },
   {
-    "visualEffects": [
-      "FXSspiderSpitHit",
-      "MagicArmorOakFleshFXS",
-      "MagicArmorStoneFleshFXS",
-      "MagicArmorEbonyFleshFXS",
-      "MagicArmorIronFleshFXS",
-      "AbsorbGreenFXS"
-    ],
+    "visualEffects": ["AbsorbGreenFXS"],
     "lights": [
       {
         "points": [[0.0, 0.0, 5.0]],
