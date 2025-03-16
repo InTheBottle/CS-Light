@@ -2,7 +2,6 @@
   {
     "visualEffects": [
       "FireFXShader",
-      "FireCloakFXShader",
       "TurnUndeadFlamesFXS",
       "FireFXTrapShader"
     ],
@@ -1023,9 +1022,31 @@
       {
         "data": {
           "color": [255, 120, 0],
-          "fade": 1.4,
           "light": "MagicLightWhite01",
-          "radius": 80
+          "radius": 140,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 0.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.7,
+                "value": 3.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1000000,
+                "value": 3.0
+              }
+            ]
+          }
         },
         "points": [[0.0, 0.0, 80.0]]
       }
