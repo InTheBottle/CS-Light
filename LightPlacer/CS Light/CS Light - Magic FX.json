@@ -147,7 +147,7 @@
     ]
   },
   {
-    "visualEffects": ["BackupHealFXS", "HealCircleFXS"],
+    "visualEffects": ["HealCircleFXS"],
     "lights": [
       {
         "points": [[0.0, 0.0, 5.0]],
