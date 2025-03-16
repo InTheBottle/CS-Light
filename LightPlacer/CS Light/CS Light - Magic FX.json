@@ -822,21 +822,34 @@
     "lights": [
       {
         "data": {
-          "color": [100, 100, 100],
-          "fade": 1.0,
+          "color": [150, 150, 200],
           "light": "MagicLightWhite01",
-          "radius": 141
+          "radius": 120,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 0.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.5,
+                "value": 3.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1000000,
+                "value": 3.0
+              }
+            ]
+          }
         },
-        "points": [[0.0, 8.0, 0.0]]
-      },
-      {
-        "data": {
-          "color": [90, 90, 90],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 162
-        },
-        "points": [[0.0, 8.0, 4.21]]
+        "points": [[0.0, 0.0, 80.0]]
       }
     ],
     "models": ["magic\\healmystcontargetfx01.nif"]
