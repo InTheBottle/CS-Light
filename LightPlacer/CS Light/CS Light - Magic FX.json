@@ -44,7 +44,6 @@
       "ShockStormFXShader",
       "SoulTrapTargetActFXS",
       "SoulTrapCastActFXS",
-      "ShockFXShader",
       "IllusionNegativeFXS",
       "ShockDisintegrate01FXS",
       "ShockBigFXShader",
@@ -97,6 +96,54 @@
               {
                 "time": 35.5,
                 "color": [45, 2, 97]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "visualEffects": ["ShockFXShader"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 80.0]],
+        "data": {
+          "light": "MagicLightWhite01",
+          "color": [100, 100, 200],
+          "radius": 90.0,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 0.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.2,
+                "value": 3.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.0,
+                "value": 3.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.5,
+                "value": 0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 100000,
+                "value": 0
               }
             ]
           }
@@ -960,8 +1007,22 @@
     "lights": [
       {
         "data": {
-          "color": [146, 136, 230],
+          "color": [120, 120, 200],
           "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 70
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ]
+  },
+    {
+    "models": ["magic\\lightningbolt02.nif"],
+    "lights": [
+      {
+        "data": {
+          "color": [120, 120, 200],
+          "fade": 2.5,
           "light": "MagicLightWhite01",
           "radius": 70
         },
