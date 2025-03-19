@@ -48,8 +48,7 @@
       "ShockDisintegrate01FXS",
       "ShockBigFXShader",
       "GhostVioletFXShader",
-      "ShockPlayerCloakFXShader",
-      "EnchBoundSwordFX"
+      "ShockPlayerCloakFXShader"
     ],
     "lights": [
       {
