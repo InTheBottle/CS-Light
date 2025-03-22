@@ -44,7 +44,6 @@
       "ShockStormFXShader",
       "SoulTrapTargetActFXS",
       "SoulTrapCastActFXS",
-      "IllusionNegativeFXS",
       "ShockDisintegrate01FXS",
       "ShockBigFXShader",
       "GhostVioletFXShader",
@@ -159,6 +158,19 @@
           "light": "MagicLightWhite01",
           "fade": 1.5,
           "color": [35, 35, 255],
+          "radius": 90.0
+        }
+      }
+    ]
+  },
+  {
+    "visualEffects": ["IllusionNegativeFXS"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 80.0]],
+        "data": {
+          "light": "MagicLightIllusionnegProjectile01",
+          "fade": 2.5,
           "radius": 90.0
         }
       }
@@ -289,7 +301,6 @@
   },
   {
     "visualEffects": [
-      "IlliusionFearFXS",
       "AbsorbHealthFXS",
       "GhostRedFXShader"
     ],
@@ -1273,12 +1284,45 @@
     "lights": [
       {
         "data": {
-          "color": [219, 219, 219],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 63
+          "light": "MagicLightIllusionnegProjectile01",
+          "radius": 120,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.2677,
+                "value": 2.5
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.4,
+                "value": 2.5
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.7,
+                "value": 0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1000000,
+                "value": 0
+              }
+            ]
+          }
         },
-        "points": [[0.0, 8.0, 8.0]]
+        "points": [[0.0, 0.0, 80.0]]
       }
     ],
     "models": ["magic\\illusionnegfxbody01.nif"]
