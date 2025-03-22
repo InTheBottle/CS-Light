@@ -177,6 +177,51 @@
     ]
   },
   {
+    "visualEffects": ["ReanimateFXShader"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 40.0]],
+        "data": {
+          "light": "MagicLightReanimate1",
+          "fade": 1.5,
+          "radius": 130.0,
+          "conditions": ["Self GetIsClass EncClassFrostbiteSpider NONE == 1 OR"]
+        }
+      }
+    ]
+  },
+  {
+    "visualEffects": ["ReanimateFXShader"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 10.0]],
+        "data": {
+          "light": "MagicLightReanimate1",
+          "fade": 1.5,
+          "radius": 140.0,
+          "conditions": ["Self GetIsClass EncClassChaurus NONE == 1 OR"]
+        }
+      }
+    ]
+  },
+  {
+    "visualEffects": ["ReanimateFXShader"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 80.0]],
+        "data": {
+          "light": "MagicLightReanimate1",
+          "fade": 1.5,
+          "radius": 90.0,
+          "conditions": [
+            "Self GetIsClass EncClassFrostbiteSpider NONE == 0 AND",
+            "Self GetIsClass EncClassChaurus NONE == 0 AND"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "visualEffects": ["HealFXS"],
     "lights": [
       {
@@ -922,18 +967,57 @@
     "models": ["magic\\healmystcontargetfx01.nif"]
   },
   {
+    "models": ["magic\\reanimatetargetfx.nif"],
     "lights": [
       {
         "data": {
-          "color": [0, 0, 0],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 152
+          "light": "MagicLightReanimate1",
+          "radius": 120,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 1.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.5,
+                "value": 1.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.5,
+                "value": 3.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 6.5,
+                "value": 3.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 7.0,
+                "value": 0.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1000000,
+                "value": 0.0
+              }
+            ]
+          }
         },
-        "points": [[0.0, 0.0, 5.35]]
+        "points": [[0.0,0.0,80.0]]
       }
-    ],
-    "models": ["magic\\reanimatetargetfx.nif"]
+    ]
   },
   {
     "lights": [
