@@ -490,14 +490,14 @@
 							</typeDescriptor> 
 						</plugin> 
 						<plugin name="Clutter"> 
-							<description>Adds lights to things like soul gems and ingredients.</description> 
+							<description>Adds lights to clutter, like ingredients, and critters</description> 
 							<files> 
 								<file source="LightPlacer\CS Light\CS Light - Clutter.json" destination="LightPlacer\CS Light\CS Light - Clutter.json" priority="0" /> 
 							</files> 
 							<typeDescriptor> 
 								<type name="Recommended"/> 
 							</typeDescriptor> 
-						</plugin> 
+						</plugin>  
 						<plugin name="Potions"> 
 							<description>Adds lights to potions</description> 
 							<files> 
@@ -620,6 +620,15 @@
 							<description></description> 
 							<files> 
 								<file source="LightPlacer\CS Light\CS Light - Wyrmstooth.json" destination="LightPlacer\CS Light\CS Light - Wyrmstooth.json" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Rustic Soulgems"> 
+							<description>Adds lights to filled soulgems from rustic soulgems</description> 
+							<files> 
+								<file source="LightPlacer\CS Light\CS Light - Rustic Soulgems.json" destination="LightPlacer\CS Light\CS Light - Rustic Soulgems.json" priority="0" /> 
 							</files> 
 							<typeDescriptor> 
 								<type name="Optional"/> 
