@@ -6,27 +6,12 @@
     ],
     "lights": [
       {
-        "points": [[30.0, 107.5, 110.0]],
-        "data": {
-          "light": "DefaultCandleLight01NS",
-          "radius": 80.0,
-          "fade": 1.25
-        }
-      }
-    ]
-  },
-  {
-    "models": [
-      "furniture\\enchantingworkbench.nif",
-      "furniture\\enchantingworkstation.nif"
-    ],
-    "lights": [
-      {
         "points": [[-30.0, 107.5, 110.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
-          "radius": 80.0,
-          "fade": 1.25
+          "cutoff":0.7,
+          "fade": 0.4,
+          "color":[158, 91, 37]
         }
       }
     ]
@@ -37,9 +22,10 @@
       {
         "points": [[0.0, 0.0, 0.0]],
         "data": {
-          "light": "Ilinalta_OrangeFlicker",
-          "radius": 75.0,
+          "light": "DefaultCandleLight01NS",
+          "radius": 1.0,
           "fade": 100.0,
+          "color":[158, 91, 37],
           "flags": "Simple|IgnoreScale"
         }
       }
@@ -51,9 +37,10 @@
       {
         "points": [[17.5, 155.0, 55.0]],
         "data": {
-          "light": "Ilinalta_OrangeFlicker",
-          "radius": 25.0,
-          "fade": 125.0,
+          "light": "DefaultCandleLight01NS",
+          "radius": 1.0,
+          "fade": 15.0,
+          "color":[158, 91, 37],
           "flags": "Simple|IgnoreScale"
         }
       }
@@ -66,8 +53,9 @@
         "points": [[15.0, 135.0, 85.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
-          "radius": 45.0,
+          "radius": 1.0,
           "fade": 5.0,
+          "color":[158, 91, 37],
           "flags": "Simple|IgnoreScale",
           "colorController": {
             "interpolation": "Linear",
@@ -115,12 +103,13 @@
     ],
     "lights": [
       {
-        "points": [[-12.0, 170.0, 35.0]],
+        "points": [[-12.0, 170.0, 85.0]],
         "data": {
-          "light": "Ilinalta_OrangeFlicker",
-          "radius": 68.0,
-          "fade": 100.0,
-          "flags": "IgnoreScale",
+          "light": "MagiclightWhite01",
+          "color": [255, 128, 0],
+          "cutoff": 0.3,
+          "fade": 0.8,
+          "flags": "IgnoreScale|InverseSquare",
           "fadeController": {
             "interpolation": "Linear",
             "keys": [
@@ -130,7 +119,7 @@
               },
               {
                 "time": 10.0,
-                "value": 100.0
+                "value": 3.5
               },
               {
                 "time": 15.0,
@@ -138,7 +127,7 @@
               },
               {
                 "time": 30.0,
-                "value": 100.0
+                "value": 3.5
               },
               {
                 "time": 35.0,
@@ -146,7 +135,7 @@
               },
               {
                 "time": 50.0,
-                "value": 100.0
+                "value": 3.5
               },
               {
                 "time": 60.0,
@@ -164,9 +153,10 @@
       {
         "points": [[-125.0, 120.0, 60.0]],
         "data": {
-          "light": "Ilinalta_OrangeFlicker",
-          "radius": 90.0,
-          "fade": 125.0
+          "light": "DefaultCandleLight01NS",
+          "radius": 1.0,
+          "fade": 0.8,
+          "color":[158, 91, 37]
         }
       }
     ]
@@ -182,9 +172,10 @@
         "nodes": ["Burner01"],
         "data": {
           "light": "DefaultCandleLight01NS",
-          "radius": 32.0,
-          "fade": 1.0,
-          "flags": "IgnoreScale"
+          "cutoff":0.5,
+          "fade": 0.4,
+          "color":[158, 91, 37],
+          "flags": "IgnoreScale|InverseSquare"
         }
       }
     ]
@@ -204,9 +195,10 @@
         "nodes": ["Burner01"],
         "data": {
           "light": "DefaultCandleLight01NS",
-          "radius": 32.0,
-          "fade": 1.0,
-          "flags": "IgnoreScale"
+          "cutoff":0.3,
+          "fade": 0.4,
+          "color":[158, 91, 37],
+          "flags": "IgnoreScale|InverseSquare"
         }
       }
     ]

@@ -11,8 +11,9 @@
         "points": [[0, 25, 30]],
         "data": {
           "light": "DefaultTorch01NS",
-          "radius": 300.0,
-          "fade": 1.5
+          "fade": 0.8,
+          "cutoff": 0.1,
+          "flags": "NoExternalEmittance|InverseSquare"
         }
       }
     ]

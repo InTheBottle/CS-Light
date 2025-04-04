@@ -3,7 +3,7 @@
     "lights": [
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -46,7 +46,8 @@
             ]
           },
           "light": "DefaultCandleLight01NS",
-          "radius": 51
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [-70.0, -110.0, 168.0],
@@ -56,9 +57,10 @@
       },
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "light": "DefaultCandleLight01NS",
-          "radius": 71
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [-70.0, -110.0, 168.0],
@@ -134,7 +136,8 @@
             ]
           },
           "light": "DefaultCandleLight01NS",
-          "radius": 51
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [-101.51, 168.0, 106.0],
@@ -143,9 +146,10 @@
       },
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "light": "DefaultCandleLight01NS",
-          "radius": 71
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [-105.0, -162.0, 138.0],
@@ -159,7 +163,7 @@
     "lights": [
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -202,7 +206,8 @@
             ]
           },
           "light": "DefaultCandleLight01NS",
-          "radius": 51
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [899.0, 51.0, 211.0],
@@ -215,9 +220,10 @@
       },
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "light": "DefaultCandleLight01NS",
-          "radius": 71
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [899.0, 51.0, 211.0],
@@ -235,7 +241,7 @@
     "lights": [
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -278,7 +284,8 @@
             ]
           },
           "light": "DefaultCandleLight01NS",
-          "radius": 51
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [899.0, 562.0, 211.0],
@@ -288,9 +295,10 @@
       },
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "light": "DefaultCandleLight01NS",
-          "radius": 71
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [899.0, 562.0, 211.0],
@@ -305,7 +313,7 @@
     "lights": [
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -348,7 +356,8 @@
             ]
           },
           "light": "DefaultCandleLight01NS",
-          "radius": 51
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [-92.09, 144.29, 174.7],
@@ -419,15 +428,17 @@
             ]
           },
           "light": "DefaultCandleLight01NS",
-          "radius": 51
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [[44.76, 134.31, 205.12]]
       },
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "light": "DefaultCandleLight01NS",
-          "radius": 71
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [-92.09, 144.29, 174.7],
@@ -504,7 +515,8 @@
             ]
           },
           "light": "DefaultCandleLight01NS",
-          "radius": 51
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [101.2, -168.09, 139.5],
@@ -513,9 +525,10 @@
       },
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "light": "DefaultCandleLight01NS",
-          "radius": 71
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [101.2, -168.09, 139.5],
@@ -529,7 +542,7 @@
     "lights": [
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -572,7 +585,8 @@
             ]
           },
           "light": "DefaultCandleLight01NS",
-          "radius": 51
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [-70.0, -110.0, 168.0],
@@ -582,9 +596,10 @@
       },
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "light": "DefaultCandleLight01NS",
-          "radius": 71
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [-70.0, -110.0, 168.0],
@@ -599,7 +614,7 @@
     "lights": [
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -642,7 +657,8 @@
             ]
           },
           "light": "DefaultCandleLight01NS",
-          "radius": 51
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [-134.34, -39.01, 200.9],
@@ -653,9 +669,10 @@
       },
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "light": "DefaultCandleLight01NS",
-          "radius": 71
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [-134.34, -39.01, 200.9],
@@ -671,7 +688,7 @@
     "lights": [
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -714,7 +731,8 @@
             ]
           },
           "light": "DefaultCandleLight01NS",
-          "radius": 51
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [194.68, 92.48, 139.59],
@@ -784,7 +802,8 @@
             ]
           },
           "light": "DefaultCandleLight01NS",
-          "radius": 51
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [221.16, -84.4, 175.26],
@@ -793,9 +812,10 @@
       },
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "light": "DefaultCandleLight01NS",
-          "radius": 71
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [194.68, 92.48, 139.59],
@@ -872,7 +892,8 @@
             ]
           },
           "light": "DefaultCandleLight01NS",
-          "radius": 51
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [114.0, -2.0, 136.61],
@@ -881,7 +902,7 @@
       },
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -924,15 +945,17 @@
             ]
           },
           "light": "DefaultCandleLight01NS",
-          "radius": 51
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [[-104.0, -162.0, 102.0]]
       },
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "light": "DefaultCandleLight01NS",
-          "radius": 71
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [114.0, -2.0, 136.61],
@@ -1008,7 +1031,8 @@
             ]
           },
           "light": "DefaultCandleLight01NS",
-          "radius": 51
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [-94.0, -144.0, 203.0],
@@ -1018,7 +1042,7 @@
       },
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -1061,7 +1085,8 @@
             ]
           },
           "light": "DefaultCandleLight01NS",
-          "radius": 51
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [89.0, 220.0, 44.0],
@@ -1070,9 +1095,10 @@
       },
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "light": "DefaultCandleLight01NS",
-          "radius": 71
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [-94.0, -144.0, 203.0],
@@ -1150,7 +1176,8 @@
             ]
           },
           "light": "DefaultCandleLight01NS",
-          "radius": 51
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [80.0, 151.0, 46.0],
@@ -1161,9 +1188,10 @@
       },
       {
         "data": {
-          "fade": 1.5,
+          "fade": 0.8,
           "light": "DefaultCandleLight01NS",
-          "radius": 71
+          "cutoff": 0.1,
+          "flags": "IgnoreScale|InverseSquare"
         },
         "points": [
           [80.0, 151.0, 46.0],

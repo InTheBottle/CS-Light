@@ -4,8 +4,6 @@
       "clutter\\imperial\\impchandelliercandle01.nif",
       "clutter\\imperial\\impchandelliercandle02.nif",
       "clutter\\imperial\\impchandelliercandle03.nif",
-      "clutter\\candles\\candlehornchandelier01.nif",
-      "clutter\\candles\\candlehornchandelier02.nif",
       "dlc01\\architecture\\snowelfruins\\seruinschandelier01.nif"
     ],
     "lights": [
@@ -13,9 +11,44 @@
         "points": [[0.0, 0.0, 10.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
-          "radius": 120.0,
-          "fade": 1.2,
-          "flags": "PortalStrict"
+          "cutoff": 0.1,
+          "fade": 1.0,
+          "flags": "PortalStrict|NoExternalEmittance|InverseSquare"
+        }
+      },
+      {
+        "points": [[0.0, 0.0, -25.0]],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "cutoff": 0.1,
+          "fade": 0.7,
+          "flags": "PortalStrict|NoExternalEmittance|InverseSquare"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\candles\\candlehornchandelier01.nif",
+      "clutter\\candles\\candlehornchandelier02.nif"
+    ],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 10.0]],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "cutoff": 0.1,
+          "fade": 0.8,
+          "flags": "PortalStrict|NoExternalEmittance|InverseSquare"
+        }
+      },
+      {
+        "points": [[0.0, 0.0, -50.0]],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "cutoff": 0.1,
+          "fade": 0.7,
+          "flags": "PortalStrict|NoExternalEmittance|InverseSquare"
         }
       }
     ]
