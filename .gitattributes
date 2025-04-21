@@ -1,4 +1,4 @@
 # convert all text files to CRLF on checkout, xmls won't be converted they are utf-16 encoded and thus need to be treated as binary
 * text=auto eol=crlf
 
-*.xml text working-tree-encoding=UTF-16 eol=crlf
+*.xml text working-tree-encoding=UTF-8 eol=crlf
