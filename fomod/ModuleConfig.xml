@@ -35,12 +35,16 @@
 						</plugin> 
 						<plugin name="Light placer Overhauls"> 
 							<description>Are you using any lighting mod that requires Light Placer, such as Placed Light or LPO? If yes, select this.</description> 
+							<files>
+							</files>
 							<typeDescriptor> 
 								<type name="Optional"/> 
 							</typeDescriptor> 
 						</plugin> 
 						<plugin name="Skip"> 
 							<description>Select this to skip this step if you do not want these.</description> 
+							<files>
+							</files>
 							<typeDescriptor> 
 								<type name="Optional"/> 
 							</typeDescriptor> 
