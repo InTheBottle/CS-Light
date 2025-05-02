@@ -7,13 +7,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            -25.0,
-            45.0
-          ]
-        ],
+        "points": [[0.0, -25.0, 45.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
           "fade": 0.35,
@@ -24,18 +18,10 @@
     ]
   },
   {
-    "models": [
-      "DynamicCandles\\candlehornwall01.nif"
-    ],
+    "models": ["DynamicCandles\\candlehornwall01.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            -25.0,
-            45.0
-          ]
-        ],
+        "points": [[0.0, -25.0, 45.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
           "fade": 0.35,
@@ -52,13 +38,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            -25.0,
-            45.0
-          ]
-        ],
+        "points": [[0.0, -25.0, 45.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
           "fade": 0.35,
@@ -90,13 +70,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0,
-            45.0
-          ]
-        ],
+        "points": [[0.0, 0, 45.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
           "fade": 0.2,
@@ -136,13 +110,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            22.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 22.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
           "fade": 0.2,
@@ -159,13 +127,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            -23.0,
-            0.0,
-            30.0
-          ]
-        ],
+        "points": [[-23.0, 0.0, 30.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
           "radius": 200.0,
@@ -197,13 +159,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            50.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 50.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
           "fade": 0.2,
@@ -221,13 +177,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            30.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 30.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
           "fade": 0.2,
@@ -238,18 +188,10 @@
     ]
   },
   {
-    "models": [
-      "clutter\\ruins\\RuinSmallFloorSconce.nif"
-    ],
+    "models": ["clutter\\ruins\\RuinSmallFloorSconce.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            40.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 40.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
           "fade": 1.4,
@@ -267,13 +209,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            100.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 100.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
           "fade": 0.25,
@@ -284,18 +220,10 @@
     ]
   },
   {
-    "models": [
-      "clutter\\candles\\candlehornfloor01.nif"
-    ],
+    "models": ["clutter\\candles\\candlehornfloor01.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            130.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 130.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
           "fade": 0.25,
@@ -321,13 +249,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            -20.0,
-            0.0,
-            40.0
-          ]
-        ],
+        "points": [[-20.0, 0.0, 40.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
           "fade": 0.9,
@@ -360,13 +282,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            15.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 15.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
           "radius": 64.0,
@@ -395,13 +311,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            -20.0,
-            0.0,
-            15.0
-          ]
-        ],
+        "points": [[-20.0, 0.0, 15.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
           "fade": 0.2,
