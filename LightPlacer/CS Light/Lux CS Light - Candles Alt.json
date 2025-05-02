@@ -1,6 +1,52 @@
 [
   {
     "models": [
+      "DynamicCandles\\arcandleplate01.nif",
+      "DynamicCandles\\arcandleplate01off.nif",
+      "DynamicCandles\\arcandleplate02.nif"
+    ],
+    "lights": [
+      {
+        "points": [[0.0, -10.0, 45.0]],
+        "data": {
+          "light": "Lux_FakeFlickerNS",
+          "radius": 64.0,
+          "fade": 1.2,
+          "flags": "PortalStrict|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": ["DynamicCandles\\candlehornwall01.nif"],
+    "lights": [
+      {
+        "points": [[0.0, -25.0, 45.0]],
+        "data": {
+          "light": "Lux_FakeFlickerNS",
+          "radius": 64.0,
+          "fade": 1.2,
+          "flags": "PortalStrict|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": ["clutter\\candles\\candlehornwall01.nif"],
+    "lights": [
+      {
+        "points": [[0.0, -25.0, 45.0]],
+        "data": {
+          "light": "Lux_FakeFlickerNS",
+          "radius": 75.0,
+          "fade": 1.2,
+          "flags": "PortalStrict|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
       "clutter\\imperial\\impcandle01.nif",
       "clutter\\imperial\\impcandle01_B.nif",
       "clutter\\imperial\\impcandle01_C.nif",
@@ -18,8 +64,7 @@
       "clutter\\sovngarde\\sovcandlestick03.nif",
       "clutter\\sovngarde\\sovcandlestick01static.nif",
       "clutter\\sovngarde\\sovcandlestick03static.nif",
-      "clutter\\candles\\candlehorntable01.nif",
-      "clutter\\candles\\candlehornwall01.nif"
+      "clutter\\candles\\candlehorntable01.nif"
     ],
     "lights": [
       {
@@ -27,7 +72,7 @@
         "data": {
           "light": "Lux_FakeFlickerNS",
           "radius": 64.0,
-          "fade": 1.0,
+          "fade": 1.2,
           "flags": "PortalStrict|IgnoreScale"
         }
       }
@@ -53,21 +98,21 @@
       "clutter\\GlazedCandlesStatic07.nif",
       "clutter\\GlazedCandlesStatic08.nif",
       "clutter\\GlazedCandlesStatic09.nif",
-      "clutter\\GlazedCandlesStatic10.nif",
-      "clutter\\GlazedCandlesStatic11.nif",
-      "clutter\\GlazedCandlesStatic12.nif",
-      "clutter\\GlazedCandlesStatic13.nif",
-      "clutter\\GlazedCandlesStatic14.nif",
-      "clutter\\GlazedCandlesStatic15.nif",
-      "clutter\\GlazedCandlesStatic16.nif"
+      "clutter\\GlazedCandlesStatic010.nif",
+      "clutter\\GlazedCandlesStatic011.nif",
+      "clutter\\GlazedCandlesStatic012.nif",
+      "clutter\\GlazedCandlesStatic013.nif",
+      "clutter\\GlazedCandlesStatic014.nif",
+      "clutter\\GlazedCandlesStatic015.nif",
+      "clutter\\GlazedCandlesStatic016.nif"
     ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 15.0]],
+        "points": [[0.0, 0.0, 22.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
-          "radius": 64.0,
-          "fade": 1.0,
+          "radius": 100.0,
+          "fade": 1.2,
           "flags": "PortalStrict|IgnoreScale"
         }
       }
@@ -84,7 +129,7 @@
         "data": {
           "light": "Lux_FakeFlickerNS",
           "radius": 200.0,
-          "fade": 1.0,
+          "fade": 1.2,
           "flags": "PortalStrict|IgnoreScale"
         }
       }
@@ -116,7 +161,7 @@
         "data": {
           "light": "Lux_FakeFlickerNS",
           "radius": 200.0,
-          "fade": 1.0,
+          "fade": 1.2,
           "flags": "PortalStrict|IgnoreScale"
         }
       }
@@ -134,7 +179,7 @@
         "data": {
           "light": "Lux_FakeFlickerNS",
           "radius": 220.0,
-          "fade": 1.0,
+          "fade": 1.2,
           "flags": "PortalStrict|IgnoreScale"
         }
       }
@@ -144,15 +189,30 @@
     "models": [
       "clutter\\ruins\\ruinsfloorcandlelampmidon.nif",
       "clutter\\ruins\\ruinsfloorcandlelampmidon02.nif",
-      "clutter\\candles\\candlehornfloor01.nif"
+      "clutter\\imperial\\impcandelabracandle01.nif",
+      "clutter\\imperial\\impcandelabracandle02.nif"
     ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 75.0]],
+        "points": [[0.0, 0.0, 100.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
           "radius": 220.0,
-          "fade": 1.0,
+          "fade": 1.2,
+          "flags": "PortalStrict|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": ["clutter\\candles\\candlehornfloor01.nif"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 130.0]],
+        "data": {
+          "light": "Lux_FakeFlickerNS",
+          "radius": 220.0,
+          "fade": 1.2,
           "flags": "PortalStrict|IgnoreScale"
         }
       }
@@ -160,8 +220,6 @@
   },
   {
     "models": [
-      "clutter\\imperial\\impcandelabracandle01.nif",
-      "clutter\\imperial\\impcandelabracandle02.nif",
       "clutter\\imperial\\impwallsconce02candleon01.nif",
       "clutter\\imperial\\impwallsconce02candleon01_B.nif",
       "clutter\\imperial\\impwallsconce02candleon01_C.nif",
@@ -179,8 +237,8 @@
         "points": [[-20.0, 0.0, 40.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
-          "radius": 220.0,
-          "fade": 1.0,
+          "radius": 275.0,
+          "fade": 1.5,
           "flags": "PortalStrict|IgnoreScale"
         }
       }
@@ -213,7 +271,7 @@
         "data": {
           "light": "Lux_FakeFlickerNS",
           "radius": 64.0,
-          "fade": 1.0,
+          "fade": 1.2,
           "flags": "PortalStrict|IgnoreScale"
         }
       }
@@ -238,11 +296,11 @@
     ],
     "lights": [
       {
-        "points": [[-20.0, 0.0, 30.0]],
+        "points": [[-20.0, 0.0, 15.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
-          "radius": 64.0,
-          "fade": 1.0,
+          "radius": 75.0,
+          "fade": 1.2,
           "flags": "PortalStrict|IgnoreScale"
         }
       }
