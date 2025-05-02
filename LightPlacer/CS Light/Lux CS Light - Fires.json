@@ -1,16 +1,12 @@
 [
   {
     "models": [
-      "effects\\fxfirepit01.nif",
       "effects\\fxfirewithemberslogs01.nif",
       "effects\\fxfirewithemberslogs02.nif",
       "effects\\fxfirewithemberslogs03.nif",
       "effects\\fxfirewithemberslogs04.nif",
       "effects\\fxfirewithembers01.nif",
-      "effects\\fxfirewithembers02.nif",
-      "effects\\fxfirewithembers03.nif",
-      "effects\\fxfirewithembers04.nif",
-      "effects\\fxfirewithembers05.nif"
+      "effects\\fxfirewithembers02.nif"
     ],
     "lights": [
       {
@@ -18,7 +14,21 @@
         "data": {
           "light": "Lux_DefaultEmberNS",
           "radius": 256.0,
-          "fade": 1.0,
+          "fade": 0.8,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": ["effects\\fxfirepit01.nif"],
+    "lights": [
+      {
+        "points": [[0, 0, 90]],
+        "data": {
+          "light": "Lux_DefaultEmberNS",
+          "radius": 320.0,
+          "fade": 0.8,
           "flags": "IgnoreScale"
         }
       }
@@ -36,7 +46,7 @@
         "data": {
           "light": "Lux_DefaultEmberNS",
           "radius": 256.0,
-          "fade": 1.0,
+          "fade": 0.8,
           "flags": "IgnoreScale"
         }
       }
@@ -51,7 +61,7 @@
           "light": "Lux_DefaultEmberNS",
           "color": [0, 127, 255],
           "radius": 256.0,
-          "fade": 1.0,
+          "fade": 0.8,
           "flags": "IgnoreScale"
         }
       }
@@ -70,8 +80,9 @@
         "points": [[0, 0, 50]],
         "data": {
           "light": "Lux_DefaultEmberNS",
-          "radius": 256.0,
-          "fade": 1.0
+          "radius": 400.0,
+          "fade": 0.8,
+          "flags": "IgnoreScale"
         }
       }
     ]
@@ -115,8 +126,9 @@
         "points": [[0, 0, 60]],
         "data": {
           "light": "Lux_DefaultEmberNS",
-          "radius": 256.0,
-          "fade": 1.0
+          "radius": 512.0,
+          "fade": 0.8,
+          "flags": "IgnoreScale"
         }
       }
     ]

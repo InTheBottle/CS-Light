@@ -1,0 +1,50 @@
+[
+  {
+    "models": [
+      "clutter\\imperial\\impchandelliercandle01.nif",
+      "clutter\\imperial\\impchandelliercandle02.nif",
+      "clutter\\imperial\\impchandelliercandle03.nif",
+      "dlc01\\architecture\\snowelfruins\\seruinschandelier01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            -15.0
+          ]
+        ],
+        "data": {
+          "light": "Lux_FarmFakeFlickerNS",
+          "fade": 1.2,
+          "cutoff": 0.03,
+          "flags": "InverseSquare|NoExternalEmittance"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\candles\\candlehornchandelier01.nif",
+      "clutter\\candles\\candlehornchandelier02.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            -30.0
+          ]
+        ],
+        "data": {
+          "light": "Lux_FarmFakeFlickerNS",
+          "fade": 0.5,
+          "cutoff": 0.03,
+          "flags": "InverseSquare|NoExternalEmittance"
+        }
+      }
+    ]
+  }
+]

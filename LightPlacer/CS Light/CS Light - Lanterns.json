@@ -6,8 +6,8 @@
         "points": [[0.0, 0.0, 5.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
-          "radius": 72.0,
-          "fade": 1.0,
+          "radius": 100.0,
+          "fade": 1.5,
           "flags": "IgnoreScale"
         }
       }
@@ -64,8 +64,8 @@
         "points": [[0.0, 0.0, 5.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
-          "radius": 72.0,
-          "fade": 1.0,
+          "radius": 100.0,
+          "fade": 1.5,
           "flags": "IgnoreScale"
         }
       }
@@ -92,7 +92,7 @@
         "points": [[0.0, 85.0, 245.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
-          "radius": 72.0,
+          "radius": 100.0,
           "fade": 5.0,
           "shadowDepthBias": 0.0,
           "rotation": [0.0, 180.0, 180.0],
@@ -108,8 +108,29 @@
         "nodes": ["CandleFlameSm", "CandleFlameLg"],
         "data": {
           "light": "DefaultCandleLight01NS",
-          "radius": 72.0,
-          "fade": 1.0,
+          "radius": 100.0,
+          "fade": 1.5,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\common\\candlelanternwithcandle01.nif",
+      "sialivi\\movablelantern08a.nif",
+      "sialivi\\movablelantern09a.nif",
+      "sialivi\\movablelantern10a.nif",
+      "sialivi\\movablelanternNL01a.nif",
+      "sialivi\\movablelanternSM01a.nif"
+    ],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 5.0]],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "radius": 100.0,
+          "fade": 1.5,
           "flags": "IgnoreScale"
         }
       }
