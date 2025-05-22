@@ -1,0 +1,130 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "IgnoreScale",
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 96.0
+        },
+        "points": [[125, 0, 425]]
+      }
+    ],
+    "models": ["architecture\\solitude\\interiors\\ws_slgcceiwin01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "IgnoreScale",
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 512.0
+        },
+        "points": [[0, 0, -400]]
+      }
+    ],
+    "models": ["architecture\\solitude\\interiors\\ws_slgcdome01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "IgnoreScale",
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [[0, 15, 75]]
+      }
+    ],
+    "models": [
+      "architecture\\solitude\\interiors\\ws_slgcwalwin02.nif",
+      "architecture\\solitude\\interiors\\ws_smdcwinsol04.nif",
+      "architecture\\solitude\\interiors\\ws_smdcwinsol05.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "blackList": ["0x06ad6d"],
+        "data": {
+          "flags": "IgnoreScale",
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [
+          [-30, 15, 75],
+          [30, 15, 75]
+        ]
+      }
+    ],
+    "models": ["architecture\\solitude\\interiors\\ws_smdcwinsol03.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "IgnoreScale",
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 96.0
+        },
+        "points": [[125, 0, 425]]
+      }
+    ],
+    "models": ["architecture\\solitude\\interiors\\slgcceiwin01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "IgnoreScale",
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 512.0
+        },
+        "points": [[0, 0, -400]]
+      }
+    ],
+    "models": ["architecture\\solitude\\interiors\\slgcdome01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "IgnoreScale",
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [[0, 15, 75]]
+      }
+    ],
+    "models": [
+      "architecture\\solitude\\interiors\\slgcwalwin02.nif",
+      "architecture\\solitude\\interiors\\smdcwinsol04.nif",
+      "architecture\\solitude\\interiors\\smdcwinsol05.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "blackList": ["0x06ad6d"],
+        "data": {
+          "flags": "IgnoreScale",
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [
+          [-30, 15, 75],
+          [30, 15, 75]
+        ]
+      }
+    ],
+    "models": ["architecture\\solitude\\interiors\\smdcwinsol03.nif"]
+  }
+]
