@@ -3,10 +3,133 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
+          "fade": 0.5,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 128.0
+        },
+        "points": [
+          [-105, -100, 490],
+          [-105, 100, 490]
+        ]
+      }
+    ],
+    "models": ["architecture\\farmhouse\\interior\\ws_farmint2end01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 0.5,
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 128.0
+        },
+        "points": [
+          [105, -100, 490],
+          [105, 100, 490]
+        ]
+      }
+    ],
+    "models": ["architecture\\farmhouse\\interior\\ws_farmint2end02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 0.5,
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 128.0
+        },
+        "points": [
+          [120, 120, 300],
+          [120, -120, 300]
+        ]
+      }
+    ],
+    "models": ["architecture\\farmhouse\\interior\\ws_farmintinnend02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 0.5,
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 128.0
+        },
+        "points": [
+          [-120, 120, 300],
+          [-120, -120, 300]
+        ]
+      }
+    ],
+    "models": ["architecture\\farmhouse\\interior\\ws_farmintinnend01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 0.5,
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 128.0
+        },
+        "points": [
+          [-120, 120, 300],
+          [-120, -120, 300],
+          [120, -120, 300],
+          [120, 120, 300]
+        ]
+      }
+    ],
+    "models": ["architecture\\farmhouse\\interior\\ws_farmintinnend06.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 0.5,
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 128.0
+        },
+        "points": [
+          [-15, 120, 300],
+          [-15, -120, 300]
+        ]
+      }
+    ],
+    "models": ["architecture\\farmhouse\\interior\\ws_farmintinnwall01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 0.5,
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 128.0
+        },
+        "points": [
+          [-15, 120, 300],
+          [-15, -120, 300]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\farmhouse\\interior\\ws_farmintinnwallentrance01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 0.5,
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 128.0
         },
         "points": [
           [-105, -100, 490],
@@ -20,10 +143,10 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
+          "fade": 0.5,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 128.0
         },
         "points": [
           [105, -100, 490],
@@ -37,10 +160,10 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
+          "fade": 0.5,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 128.0
         },
         "points": [
           [120, 120, 300],
@@ -54,10 +177,10 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
+          "fade": 0.5,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 128.0
         },
         "points": [
           [-120, 120, 300],
@@ -71,10 +194,10 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
+          "fade": 0.5,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 128.0
         },
         "points": [
           [-120, 120, 300],
@@ -90,10 +213,10 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
+          "fade": 0.5,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 128.0
         },
         "points": [
           [-15, 120, 300],
@@ -107,10 +230,10 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
+          "fade": 0.5,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "radius": 128.0
         },
         "points": [
           [-15, 120, 300],

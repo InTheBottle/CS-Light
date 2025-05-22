@@ -15,6 +15,58 @@
       }
     ],
     "models": [
+      "architecture\\riften\\interior\\smallroomfirst\\ws_rifrmsmfirstcorinwin02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 1.0,
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 200.0
+        },
+        "points": [[-75, 0, 100]]
+      }
+    ],
+    "models": [
+      "architecture\\riften\\interior\\smallroomfirst\\ws_rifrmsmfirstwallwin01.nif",
+      "architecture\\riften\\interior\\smallroomsecond\\ws_rifrmsmsecondwallwin01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 1.0,
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 200.0
+        },
+        "points": [[-100, 0, 120]]
+      }
+    ],
+    "models": [
+      "architecture\\riften\\interior\\smallroomfirst\\ws_rifrmsmfirstwallwin02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 1.0,
+          "externalEmittance": "FXLightRegionSunlight",
+          "light": "DefaultSunlight01NS",
+          "radius": 200.0
+        },
+        "points": [
+          [-100, 0, 120],
+          [0, -100, 120]
+        ]
+      }
+    ],
+    "models": [
       "architecture\\riften\\interior\\smallroomfirst\\rifrmsmfirstcorinwin02.nif"
     ]
   },
