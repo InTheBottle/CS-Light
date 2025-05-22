@@ -1,0 +1,210 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            73,
+            255,
+            242
+          ],
+          "fade": 1.3,
+          "light": "MagicLightWhite01",
+          "radius": 5.0
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\soulgem\\soulgemgrand_full.nif"
+    ]
+  },
+    {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            181,
+            114,
+            224
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 5.0
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\soulgem\\soulgemblack_full.nif"
+    ]
+  },
+    {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            73,
+            255,
+            242
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 5.0
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\soulgem\\soulgemgreater_full.nif"
+    ]
+  },
+    {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            73,
+            255,
+            242
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 5.0
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\soulgem\\soulgemcommon_full.nif"
+    ]
+  },
+    {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            73,
+            255,
+            242
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 5.0
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\soulgem\\soulgemlesser_full.nif"
+    ]
+  },
+    {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            181,
+            114,
+            224
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 5.0
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            12.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc01\\clutter\\dlc01soulgembowlfull.nif"
+    ]
+  },
+    {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            181,
+            114,
+            224
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 5.0
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc01\\clutter\\dlc01soulgemchunk01.nif"
+    ]
+  },
+    {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            73,
+            255,
+            242
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 5.0
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\soulgem\\soulgempetty_full.nif"
+    ]
+  }
+]
