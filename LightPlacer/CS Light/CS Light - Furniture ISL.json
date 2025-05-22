@@ -1,0 +1,221 @@
+[
+  {
+    "models": [
+      "furniture\\enchantingworkbench.nif",
+      "furniture\\enchantingworkstation.nif"
+    ],
+    "lights": [
+      {
+        "points": [[30.0, 107.5, 110.0]],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "cutoff": 0.3,
+          "fade": 0.3,
+          "flags": "IgnoreScale|InverseSquare|Flicker"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "furniture\\enchantingworkbench.nif",
+      "furniture\\enchantingworkstation.nif"
+    ],
+    "lights": [
+      {
+        "points": [[-30.0, 107.5, 110.0]],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "cutoff": 0.3,
+          "fade": 0.3,
+          "flags": "IgnoreScale|InverseSquare|Flicker"
+        }
+      }
+    ]
+  },
+  {
+    "models": ["dlc01\\furniture\\oven01.nif"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 0.0]],
+        "data": {
+          "light": "MagicLightWhite01",
+          "color":[139, 71, 11],
+          "cutoff": 0.166,
+          "fade": 0.675,
+          "flags": "IgnoreScale|InverseSquare"
+        }
+      }
+    ]
+  },
+  {
+    "models": ["_byoh\\furniture\\ovenmarker.nif"],
+    "lights": [
+      {
+        "points": [[17.5, 155.0, 55.0]],
+        "data": {
+          "light": "MagicLightWhite01",
+          "color":[139, 71, 11],
+          "cutoff": 0.166,
+          "fade": 0.675,
+          "flags": "IgnoreScale|InverseSquare"
+        }
+      }
+    ]
+  },
+  {
+    "models": ["_byoh\\furniture\\ovenmarker.nif"],
+    "lights": [
+      {
+        "points": [[15.0, 135.0, 85.0]],
+        "data": {
+          "light": "MagicLightWhite01",
+          "color":[139, 71, 11],
+          "cutoff": 0.166,
+          "fade": 0.675,
+          "flags": "IgnoreScale|InverseSquare",
+          "colorController": {
+            "interpolation": "Linear",
+            "keys": [
+              {
+                "time": 0.0,
+                "color": [230, 112, 0]
+              },
+              {
+                "time": 3.0,
+                "color": [250, 160, 70]
+              },
+              {
+                "time": 8.0,
+                "color": [230, 112, 0]
+              },
+              {
+                "time": 13.0,
+                "color": [250, 160, 70]
+              },
+              {
+                "time": 20.0,
+                "color": [230, 112, 0]
+              },
+              {
+                "time": 23.0,
+                "color": [250, 160, 70]
+              },
+              {
+                "time": 30.0,
+                "color": [230, 112, 0]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "furniture\\blacksmithforgemarker.nif",
+      "furniture\\blacksmithforgemarkerwr.nif",
+      "furniture\\blacksmithingskyforgemarker.nif",
+      "furniture\\blacksmithforgemarker_pieter82.nif"
+    ],
+    "lights": [
+      {
+        "points": [[-12.0, 170.0, 35.0]],
+        "data": {
+          "light": "Defaulttorch01NS",
+          "radius": 68.0,
+          "fade": 100.0,
+          "flags": "IgnoreScale",
+          "fadeController": {
+            "interpolation": "Linear",
+            "keys": [
+              {
+                "time": 0.0,
+                "value": 2.5
+              },
+              {
+                "time": 10.0,
+                "value": 100.0
+              },
+              {
+                "time": 15.0,
+                "value": 2.5
+              },
+              {
+                "time": 30.0,
+                "value": 100.0
+              },
+              {
+                "time": 35.0,
+                "value": 2.5
+              },
+              {
+                "time": 50.0,
+                "value": 100.0
+              },
+              {
+                "time": 60.0,
+                "value": 2.5
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "models": ["furniture\\smeltermarker.nif"],
+    "lights": [
+      {
+        "points": [[-125.0, 120.0, 60.0]],
+        "data": {
+          "light": "MagicLightWhite01",
+          "color":[139, 71, 11],
+          "cutoff": 0.166,
+          "fade": 0.675,
+          "flags": "IgnoreScale|InverseSquare"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "furniture\\alchemyworkbench.nif",
+      "furniture\\alchemyworkstation.nif",
+      "furniture\\workbenches\\alchemyworkbench01.nif"
+    ],
+    "lights": [
+      {
+        "nodes": ["Burner01"],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "cutoff": 0.3,
+          "fade": 0.3,
+          "flags": "IgnoreScale|InverseSquare"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "furniture\\alchemyworkbench_1.nif",
+      "furniture\\alchemyworkbench_2.nif",
+      "furniture\\alchemyworkbench_3.nif",
+      "furniture\\alchemyworkstation_1.nif",
+      "furniture\\alchemyworkstation_2.nif",
+      "furniture\\alchemyworkstation_3.nif",
+      "furniture\\workbenches\\alchemyworkstation01.nif"
+    ],
+    "lights": [
+      {
+        "nodes": ["Burner01"],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "cutoff": 0.3,
+          "fade": 0.3,
+          "flags": "IgnoreScale|InverseSquare"
+        }
+      }
+    ]
+  }
+]
