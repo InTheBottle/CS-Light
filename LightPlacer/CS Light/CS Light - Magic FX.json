@@ -44,13 +44,10 @@
       "ShockStormFXShader",
       "SoulTrapTargetActFXS",
       "SoulTrapCastActFXS",
-      "ShockFXShader",
-      "IllusionNegativeFXS",
       "ShockDisintegrate01FXS",
       "ShockBigFXShader",
       "GhostVioletFXShader",
-      "ShockPlayerCloakFXShader",
-      "EnchBoundSwordFX"
+      "ShockPlayerCloakFXShader"
     ],
     "lights": [
       {
@@ -105,6 +102,54 @@
     ]
   },
   {
+    "visualEffects": ["ShockFXShader"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 80.0]],
+        "data": {
+          "light": "MagicLightWhite01",
+          "color": [100, 100, 200],
+          "radius": 90.0,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 0.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.2,
+                "value": 3.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.0,
+                "value": 3.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.5,
+                "value": 0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 100000,
+                "value": 0
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
     "visualEffects": ["SoulTrapFXShader"],
     "lights": [
       {
@@ -114,6 +159,64 @@
           "fade": 1.5,
           "color": [35, 35, 255],
           "radius": 90.0
+        }
+      }
+    ]
+  },
+  {
+    "visualEffects": ["IllusionNegativeFXS"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 80.0]],
+        "data": {
+          "light": "MagicLightIllusionnegProjectile01",
+          "fade": 2.5,
+          "radius": 90.0
+        }
+      }
+    ]
+  },
+  {
+    "visualEffects": ["ReanimateFXShader"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 40.0]],
+        "data": {
+          "light": "MagicLightReanimate1",
+          "fade": 1.5,
+          "radius": 130.0,
+          "conditions": ["Self GetIsClass EncClassFrostbiteSpider NONE == 1 OR"]
+        }
+      }
+    ]
+  },
+  {
+    "visualEffects": ["ReanimateFXShader"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 10.0]],
+        "data": {
+          "light": "MagicLightReanimate1",
+          "fade": 1.5,
+          "radius": 140.0,
+          "conditions": ["Self GetIsClass EncClassChaurus NONE == 1 OR"]
+        }
+      }
+    ]
+  },
+  {
+    "visualEffects": ["ReanimateFXShader"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 80.0]],
+        "data": {
+          "light": "MagicLightReanimate1",
+          "fade": 1.5,
+          "radius": 90.0,
+          "conditions": [
+            "Self GetIsClass EncClassFrostbiteSpider NONE == 0 AND",
+            "Self GetIsClass EncClassChaurus NONE == 0 AND"
+          ]
         }
       }
     ]
@@ -242,11 +345,7 @@
     ]
   },
   {
-    "visualEffects": [
-      "IlliusionFearFXS",
-      "AbsorbHealthFXS",
-      "GhostRedFXShader"
-    ],
+    "visualEffects": ["AbsorbHealthFXS", "GhostRedFXShader"],
     "lights": [
       {
         "points": [[0.0, 0.0, 5.0]],
@@ -865,18 +964,57 @@
     "models": ["magic\\healmystcontargetfx01.nif"]
   },
   {
+    "models": ["magic\\reanimatetargetfx.nif"],
     "lights": [
       {
         "data": {
-          "color": [0, 0, 0],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 152
+          "light": "MagicLightReanimate1",
+          "radius": 120,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 1.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.5,
+                "value": 1.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.5,
+                "value": 3.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 6.5,
+                "value": 3.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 7.0,
+                "value": 0.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1000000,
+                "value": 0.0
+              }
+            ]
+          }
         },
-        "points": [[0.0, 0.0, 5.35]]
+        "points": [[0.0, 0.0, 80.0]]
       }
-    ],
-    "models": ["magic\\reanimatetargetfx.nif"]
+    ]
   },
   {
     "lights": [
@@ -960,8 +1098,22 @@
     "lights": [
       {
         "data": {
-          "color": [146, 136, 230],
+          "color": [120, 120, 200],
           "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 70
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ]
+  },
+  {
+    "models": ["magic\\lightningbolt02.nif"],
+    "lights": [
+      {
+        "data": {
+          "color": [120, 120, 200],
+          "fade": 2.5,
           "light": "MagicLightWhite01",
           "radius": 70
         },
@@ -1213,12 +1365,45 @@
     "lights": [
       {
         "data": {
-          "color": [219, 219, 219],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 63
+          "light": "MagicLightIllusionnegProjectile01",
+          "radius": 120,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.2677,
+                "value": 2.5
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.4,
+                "value": 2.5
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.7,
+                "value": 0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1000000,
+                "value": 0
+              }
+            ]
+          }
         },
-        "points": [[0.0, 8.0, 8.0]]
+        "points": [[0.0, 0.0, 80.0]]
       }
     ],
     "models": ["magic\\illusionnegfxbody01.nif"]
