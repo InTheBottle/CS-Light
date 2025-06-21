@@ -122,40 +122,41 @@
       {
         "points": [[-12.0, 170.0, 35.0]],
         "data": {
-          "light": "Defaulttorch01NS",
-          "radius": 68.0,
-          "fade": 100.0,
-          "flags": "IgnoreScale",
+          "color":[139, 71, 11],
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "fade": 3.0,
+          "flags": "IgnoreScale|InverseSquare",
           "fadeController": {
             "interpolation": "Linear",
             "keys": [
               {
                 "time": 0.0,
-                "value": 2.5
+                "value": 1.5
               },
               {
                 "time": 10.0,
-                "value": 100.0
+                "value": 3.0
               },
               {
                 "time": 15.0,
-                "value": 2.5
+                "value": 1.5
               },
               {
                 "time": 30.0,
-                "value": 100.0
+                "value": 3.0
               },
               {
                 "time": 35.0,
-                "value": 2.5
+                "value": 1.5
               },
               {
                 "time": 50.0,
-                "value": 100.0
+                "value": 3.0
               },
               {
                 "time": 60.0,
-                "value": 2.5
+                "value": 1.5
               }
             ]
           }
@@ -188,7 +189,8 @@
       {
         "nodes": ["Burner01"],
         "data": {
-          "light": "DefaultCandleLight01NS",
+          "color":[139, 71, 11],
+          "light": "MagicLightWhite01",
           "cutoff": 0.3,
           "fade": 0.3,
           "flags": "IgnoreScale|InverseSquare"
@@ -210,7 +212,8 @@
       {
         "nodes": ["Burner01"],
         "data": {
-          "light": "DefaultCandleLight01NS",
+          "color":[139, 71, 11],
+          "light": "MagicLightWhite01",
           "cutoff": 0.3,
           "fade": 0.3,
           "flags": "IgnoreScale|InverseSquare"
