@@ -227,7 +227,8 @@
       {
         "points": [[0.0, -2.0, 0.0]],
         "data": {
-          "light": "DwarvenOmniLight_NoMove",
+          "color": [80, 235, 255],
+          "light": "MagicLightWhite01",
           "radius": 6.25,
           "fade": 1.0,
           "flags": "IgnoreScale"
