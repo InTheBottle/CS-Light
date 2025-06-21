@@ -122,7 +122,7 @@
       {
         "points": [[-12.0, 170.0, 35.0]],
         "data": {
-          "color":[139, 71, 11],
+          "color": [139, 71, 11],
           "light": "MagicLightWhite01",
           "cutoff": 0.1,
           "fade": 3.0,
@@ -189,7 +189,7 @@
       {
         "nodes": ["Burner01"],
         "data": {
-          "color":[139, 71, 11],
+          "color": [139, 71, 11],
           "light": "MagicLightWhite01",
           "cutoff": 0.3,
           "fade": 0.3,
@@ -212,7 +212,7 @@
       {
         "nodes": ["Burner01"],
         "data": {
-          "color":[139, 71, 11],
+          "color": [139, 71, 11],
           "light": "MagicLightWhite01",
           "cutoff": 0.3,
           "fade": 0.3,
