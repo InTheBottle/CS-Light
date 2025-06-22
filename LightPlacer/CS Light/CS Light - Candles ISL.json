@@ -123,16 +123,18 @@
   {
     "models": [
       "clutter\\ruins\\ruinscandlesconceon01.nif",
-      "clutter\\ruins\\ruinscandlesconceon02.nif"
+      "clutter\\ruins\\ruinscandlesconceon02.nif",
+      "fuzzbeed\\dragoncultbronze\\clutter\\ruins\\ruinscandlesconceon01bronze.nif",
+      "fuzzbeed\\dragoncultbronze\\clutter\\ruins\\ruinscandlesconceon02bronze.nif"
     ],
     "lights": [
       {
         "points": [[-23.0, 0.0, 30.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
-          "radius": 200.0,
-          "fade": 1.2,
-          "flags": "IgnoreScale"
+          "fade": 0.3,
+          "cutoff": 0.15,
+          "flags": "IgnoreScale|InverseSquare"
         }
       }
     ]
@@ -173,6 +175,8 @@
     "models": [
       "clutter\\ruins\\ruinsfloorcandlelampsmon.nif",
       "clutter\\ruins\\ruinsfloorcandlelampsmon02.nif",
+      "fuzzbeed\\dragoncultbronze\\clutter\\ruins\\ruinsfloorcandlelampsmonbronze.nif",
+      "fuzzbeed\\dragoncultbronze\\clutter\\ruins\\ruinsfloorcandlelampsmon02bronze.nif",
       "clutter\\shrines\\shrinebase.nif"
     ],
     "lights": [
@@ -180,7 +184,7 @@
         "points": [[0.0, 0.0, 30.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
-          "fade": 0.2,
+          "fade": 0.5,
           "cutoff": 0.15,
           "flags": "InverseSquare|Flicker|IgnoreScale"
         }
@@ -188,13 +192,16 @@
     ]
   },
   {
-    "models": ["clutter\\ruins\\RuinSmallFloorSconce.nif"],
+    "models": [
+      "clutter\\ruins\\RuinSmallFloorSconce.nif",
+      "fuzzbeed\\dragoncultbronze\\clutter\\ruins\\RuinSmallFloorSconcebronze.nif"
+    ],
     "lights": [
       {
         "points": [[0.0, 0.0, 40.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
-          "fade": 1.4,
+          "fade": 0.7,
           "flags": "InverseSquare|Flicker|IgnoreScale|PortalStrict"
         }
       }
@@ -204,6 +211,8 @@
     "models": [
       "clutter\\ruins\\ruinsfloorcandlelampmidon.nif",
       "clutter\\ruins\\ruinsfloorcandlelampmidon02.nif",
+      "fuzzbeed\\dragoncultbronze\\clutter\\ruins\\ruinsfloorcandlelampmidonbronze.nif",
+      "fuzzbeed\\dragoncultbronze\\clutter\\ruins\\ruinsfloorcandlelampmidon02bronze.nif",
       "clutter\\imperial\\impcandelabracandle01.nif",
       "clutter\\imperial\\impcandelabracandle02.nif"
     ],
@@ -212,7 +221,7 @@
         "points": [[0.0, 0.0, 100.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
-          "fade": 0.25,
+          "fade": 0.5,
           "cutoff": 0.04,
           "flags": "InverseSquare|IgnoreScale"
         }
