@@ -6,7 +6,7 @@
           "color": [9, 136, 234],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 239
+          "radius": 100
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -20,7 +20,7 @@
           "color": [255, 255, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 247
+          "radius": 100
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -34,7 +34,7 @@
           "color": [255, 255, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 247
+          "radius": 150
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -46,9 +46,9 @@
       {
         "data": {
           "color": [80, 198, 255],
-          "fade": 2.5,
+          "fade": 1.5,
           "light": "MagicLightWhite01",
-          "radius": 77
+          "radius": 85
         },
         "points": [[0.0, 0.0, -137.26]]
       }
@@ -62,7 +62,7 @@
           "color": [203, 191, 173],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 249
+          "radius": 250
         },
         "points": [[0.0, -0.0, 0.0]]
       },
@@ -71,7 +71,7 @@
           "color": [203, 144, 78],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 405
+          "radius": 200
         },
         "points": [[0.0, -0.0, 0.0]]
       }
@@ -105,24 +105,10 @@
     "lights": [
       {
         "data": {
-          "color": [203, 144, 78],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 146
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["clutter\\woodfires\\campfire01burning.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
           "color": [255, 255, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 247
+          "radius": 100
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -150,7 +136,7 @@
           "color": [9, 136, 234],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 128
+          "radius": 100
         },
         "points": [[-3.37, 40.18, 20.25]]
       }
@@ -245,7 +231,7 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 8
+          "radius": 25
         },
         "points": [
           [0.0, 9.35, 0.0],
