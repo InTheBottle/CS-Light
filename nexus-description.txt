@@ -9,6 +9,7 @@ Key Features[/b]:
 [*][size=4]Designed to work with [b]Community Shaders[/b] and [b]Light Limit Fix[/b], ensuring proper functionality without exceeding the light limit.[/size]
 [*][size=4]The option to mix ENB Light selectively for additional lighting effects by customizing which lights should be installed[/size]
 [*][size=4]Fully customizable fade and radius parameters to adjust brightness and light distance[/size]
+[*][size=4]Optional support for [url=https://www.nexusmods.com/skyrimspecialedition/mods/153542]Inverse Suqare Lighting[/url][/size]
 [/list][b][size=5][center][color=#fff2cc]
 Who Is This Mod For?[/color][/center][/size][/b][size=5][b]This mod is ideal for:[/b][/size]
 
@@ -45,13 +46,13 @@ Requirements[/color][/size][/center][/b][b][size=5]This mod requires the followi
 [/list]
 [center][size=4][b]Compatibility[/b][/size][/center]
 [list]
-[*]Designed for use with [url=https://www.nexusmods.com/skyrimspecialedition/mods/135488]Placed light[/url] any other interior lighting mods, provided that configurations are not stacked
+[*]Designed for use with [url=https://www.nexusmods.com/skyrimspecialedition/mods/135488]True light[/url] or any other interior lighting mods, provided that configurations are not stacked
 [*][url=https://www.nexusmods.com/skyrimspecialedition/mods/99768]LLF Particle lights instead of fake glow[/url] - places many particle lights based on billboard texture names, [b]not recommended[/b] to use in combination with this mod
 [*][url=https://www.nexusmods.com/skyrimspecialedition/mods/65720]Particle Patch[/url] - places particle lights but they are per default inactive when using latest Community Shaders, so [b]compatible[/b] (if no [i]pp_black.ini[/i] was created manually)
 [*][url=https://www.nexusmods.com/skyrimspecialedition/mods/56362]ENB lights for effect shaders[/url] - places lights for effect shaders, [b]overlaps[/b] with "Magic FX lights" option
 [*]Any mod that places ENB lights like [url=https://www.nexusmods.com/skyrimspecialedition/mods/40991]More lights for ENB SE - Glowing mushrooms[/url] - [b]compatible[/b] if the option in the installer is not used, otherwise double lighting
-[*][url=https://www.nexusmods.com/skyrimspecialedition/mods/22574]ENB light[/url] - many overlaps so there will be [b]double lighting[/b] if the options in the installers are not carefully checked against each other. With the current version of light placer it is not possible to place lights for explosions,projectiles, hazards and impacts, so those effects won't overlap currently
-[*][url=https://www.nexusmods.com/skyrimspecialedition/mods/27732]Luminous Atronachs[/url] - CS light does not place lights for atronachs, so [b]fully compatible[/b]
+[*][url=https://www.nexusmods.com/skyrimspecialedition/mods/22574]ENB light[/url] - many overlaps so there will be [b]double lighting[/b] if the options in the installers are not carefully checked against each other. The  magic effects not handled by CS light currently are explosions and impacts, so those won't overlap. Note that projectiles are handled by Light Limit Fix already so ENB light is not needed. See also the article [url=https://www.nexusmods.com/skyrimspecialedition/articles/9833]Magic effect lights[/url]
+[*][url=https://www.nexusmods.com/skyrimspecialedition/mods/27732]Luminous Atronachs[/url] and [url=https://www.nexusmods.com/skyrimspecialedition/mods/138128]iLluminous Elementals[/url] - CS light does not place lights for atronachs, so [b]fully compatible[/b]
 [/list][line][b]Credits[/b][list]
 [*]Configurations by members of the [b]Community Shaders Discord[/b].
 [*][b]Light Placer[/b], [b]Community Shaders[/b], and related mods by their respective authors.
