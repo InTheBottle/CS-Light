@@ -9,7 +9,7 @@ Key Features[/b]:
 [*][size=4]Designed to work with [b]Community Shaders[/b] and [b]Light Limit Fix[/b], ensuring proper functionality without exceeding the light limit.[/size]
 [*][size=4]The option to mix ENB Light selectively for additional lighting effects by customizing which lights should be installed[/size]
 [*][size=4]Fully customizable fade and radius parameters to adjust brightness and light distance[/size]
-[*][size=4]Optional support for [url=https://www.nexusmods.com/skyrimspecialedition/mods/153542]Inverse Suqare Lighting[/url][/size]
+[*][size=4]Optional support for [url=https://www.nexusmods.com/skyrimspecialedition/mods/153542]Inverse Square Lighting[/url][/size]
 [/list][b][size=5][center][color=#fff2cc]
 Who Is This Mod For?[/color][/center][/size][/b][size=5][b]This mod is ideal for:[/b][/size]
 
