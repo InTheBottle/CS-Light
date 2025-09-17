@@ -22,20 +22,6 @@
           "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
-        "points": [[100, 0, 200]]
-      }
-    ],
-    "models": ["architecture\\solitude\\interiors\\ws_slggwalsec05.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 256.0
-        },
         "points": [[150, 0, 100]]
       }
     ],
@@ -45,7 +31,7 @@
     "lights": [
       {
         "data": {
-          "fade": 3.0,
+          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 512.0
@@ -59,7 +45,7 @@
     "lights": [
       {
         "data": {
-          "fade": 3.0,
+          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 512.0
@@ -73,7 +59,7 @@
     "lights": [
       {
         "data": {
-          "fade": 3.0,
+          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 1024.0
@@ -101,7 +87,7 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
+          "fade": 0.7,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
@@ -132,7 +118,7 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
+          "fade": 0.7,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
@@ -270,7 +256,7 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
+          "fade": 1,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
@@ -298,7 +284,7 @@
     "lights": [
       {
         "data": {
-          "fade": 3.0,
+          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 512.0
@@ -312,7 +298,7 @@
     "lights": [
       {
         "data": {
-          "fade": 3.0,
+          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 512.0
@@ -326,7 +312,7 @@
     "lights": [
       {
         "data": {
-          "fade": 3.0,
+          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 1024.0

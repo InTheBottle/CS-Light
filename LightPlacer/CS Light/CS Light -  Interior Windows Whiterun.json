@@ -63,7 +63,7 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
+          "fade": 0.5,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 220.0
@@ -91,7 +91,7 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
+          "fade": 0.5,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "radius": 220.0

@@ -3,10 +3,12 @@
     "lights": [
       {
         "data": {
-          "fade": 0.7,
+          "fade": 1.5,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 128.0
+          "cutoff": 0.2,
+		  "size": 3.4,
+          "flags": "InverseSquare"
         },
         "points": [
           [-250, -50, 150],
@@ -22,10 +24,12 @@
     "lights": [
       {
         "data": {
-          "fade": 0.7,
+          "fade": 12,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 1024.0
+          "cutoff": 0.2,
+		  "size": 10,
+          "flags": "InverseSquare"
         },
         "points": [[0, 0, 150]]
       }
@@ -38,10 +42,12 @@
     "lights": [
       {
         "data": {
-          "fade": 0.7,
+          "fade": 1.5,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 128.0
+          "cutoff": 0.2,
+		  "size": 3.4,
+          "flags": "InverseSquare"
         },
         "points": [[0, -50, 150]]
       }
@@ -54,10 +60,12 @@
     "lights": [
       {
         "data": {
-          "fade": 0.7,
+          "fade": 1.5,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 128.0
+          "cutoff": 0.2,
+		  "size": 3.4,
+          "flags": "InverseSquare"
         },
         "points": [
           [-130, -50, 150],
@@ -73,10 +81,12 @@
     "lights": [
       {
         "data": {
-          "fade": 0.7,
+          "fade": 1.5,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 128.0
+          "cutoff": 0.2,
+		  "size": 3.4,
+          "flags": "InverseSquare"
         },
         "points": [
           [-250, -50, 150],
@@ -92,10 +102,12 @@
     "lights": [
       {
         "data": {
-          "fade": 0.7,
+          "fade": 12,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 1024.0
+          "cutoff": 0.2,
+		  "size": 10,
+          "flags": "InverseSquare"
         },
         "points": [[0, 0, 150]]
       }
@@ -108,10 +120,12 @@
     "lights": [
       {
         "data": {
-          "fade": 0.7,
+          "fade": 1.5,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 128.0
+          "cutoff": 0.2,
+		  "size": 3.4,
+          "flags": "InverseSquare"
         },
         "points": [[0, -50, 150]]
       }
@@ -124,10 +138,12 @@
     "lights": [
       {
         "data": {
-          "fade": 0.7,
+          "fade": 1.5,
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
-          "radius": 128.0
+          "cutoff": 0.2,
+		  "size": 3.4,
+          "flags": "InverseSquare"
         },
         "points": [
           [-130, -50, 150],
