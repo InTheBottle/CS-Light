@@ -7,7 +7,7 @@
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "cutoff": 0.2,
-		  "size": 3.4,
+          "size": 3.4,
           "flags": "InverseSquare"
         },
         "points": [
@@ -28,7 +28,7 @@
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "cutoff": 0.2,
-		  "size": 10,
+          "size": 10,
           "flags": "InverseSquare"
         },
         "points": [[0, 0, 150]]
@@ -46,7 +46,7 @@
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "cutoff": 0.2,
-		  "size": 3.4,
+          "size": 3.4,
           "flags": "InverseSquare"
         },
         "points": [[0, -50, 150]]
@@ -64,7 +64,7 @@
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "cutoff": 0.2,
-		  "size": 3.4,
+          "size": 3.4,
           "flags": "InverseSquare"
         },
         "points": [
@@ -85,7 +85,7 @@
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "cutoff": 0.2,
-		  "size": 3.4,
+          "size": 3.4,
           "flags": "InverseSquare"
         },
         "points": [
@@ -106,7 +106,7 @@
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "cutoff": 0.2,
-		  "size": 10,
+          "size": 10,
           "flags": "InverseSquare"
         },
         "points": [[0, 0, 150]]
@@ -124,7 +124,7 @@
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "cutoff": 0.2,
-		  "size": 3.4,
+          "size": 3.4,
           "flags": "InverseSquare"
         },
         "points": [[0, -50, 150]]
@@ -142,7 +142,7 @@
           "externalEmittance": "FXLightRegionSunlight",
           "light": "DefaultSunlight01NS",
           "cutoff": 0.2,
-		  "size": 3.4,
+          "size": 3.4,
           "flags": "InverseSquare"
         },
         "points": [
