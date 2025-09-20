@@ -10,9 +10,7 @@
           "size": 3,
           "cutoff": 1
         },
-        "points": [
-          [0, 0, 120]
-        ]
+        "points": [[0, 0, 120]]
       }
     ],
     "models": [
@@ -119,9 +117,7 @@
         "points": [[0, -350, 720]]
       }
     ],
-    "models": [
-      "architecture\\riften\\RTMaraWindow01YU.nif"
-    ]
+    "models": ["architecture\\riften\\RTMaraWindow01YU.nif"]
   },
   {
     "lights": [
@@ -160,8 +156,6 @@
         ]
       }
     ],
-    "models": [
-      "architecture\\riften\\RTOrphWindow01YU.nif"
-    ]
+    "models": ["architecture\\riften\\RTOrphWindow01YU.nif"]
   }
 ]
