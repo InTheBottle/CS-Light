@@ -3,70 +3,20 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 200.0
+          "fade": 1,
+          "size": 3,
+          "cutoff": 1
         },
         "points": [
-          [-100, 0, 120],
-          [0, -100, 120]
+          [0, 0, 120]
         ]
       }
     ],
     "models": [
-      "architecture\\riften\\interior\\smallroomfirst\\ws_rifrmsmfirstcorinwin02.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 200.0
-        },
-        "points": [[-75, 0, 100]]
-      }
-    ],
-    "models": [
-      "architecture\\riften\\interior\\smallroomfirst\\ws_rifrmsmfirstwallwin01.nif",
-      "architecture\\riften\\interior\\smallroomsecond\\ws_rifrmsmsecondwallwin01.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 200.0
-        },
-        "points": [[-100, 0, 120]]
-      }
-    ],
-    "models": [
-      "architecture\\riften\\interior\\smallroomfirst\\ws_rifrmsmfirstwallwin02.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 200.0
-        },
-        "points": [
-          [-100, 0, 120],
-          [0, -100, 120]
-        ]
-      }
-    ],
-    "models": [
+      "architecture\\riften\\interior\\smallroomfirst\\ws_rifrmsmfirstcorinwin02.nif",
       "architecture\\riften\\interior\\smallroomfirst\\rifrmsmfirstcorinwin02.nif"
     ]
   },
@@ -74,16 +24,28 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 200.0
+          "fade": 1,
+          "size": 3,
+          "cutoff": 1
         },
-        "points": [[-75, 0, 100]]
+        "points": [[-60, 0, 120]]
       }
     ],
     "models": [
+      "architecture\\riften\\interior\\smallroomsingle\\ws_rifrmsmsinglecorinlwin01.nif",
+      "architecture\\riften\\interior\\smallroomsingle\\ws_rifrmsmsinglewallwin01.nif",
+      "architecture\\riften\\interior\\smallroomsingle\\ws_rifrmsmsinglecorinrwin01.nif",
+      "architecture\\riften\\interior\\smallroomfirst\\ws_rifrmsmfirstwallwin01.nif",
+      "architecture\\riften\\interior\\smallroomfirst\\ws_rifrmsmfirstwallwin02.nif",
+      "architecture\\riften\\interior\\smallroomsecond\\ws_rifrmsmsecondwallwin01.nif",
+      "architecture\\riften\\interior\\smallroomsingle\\rifrmsmsinglecorinlwin01.nif",
+      "architecture\\riften\\interior\\smallroomsingle\\rifrmsmsinglewallwin01.nif",
+      "architecture\\riften\\interior\\smallroomsingle\\rifrmsmsinglecorinrwin01.nif",
       "architecture\\riften\\interior\\smallroomfirst\\rifrmsmfirstwallwin01.nif",
+      "architecture\\riften\\interior\\smallroomfirst\\rifrmsmfirstwallwin02.nif",
       "architecture\\riften\\interior\\smallroomsecond\\rifrmsmsecondwallwin01.nif"
     ]
   },
@@ -91,16 +53,115 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 200.0
+          "fade": 1,
+          "size": 3,
+          "cutoff": 1
         },
-        "points": [[-100, 0, 120]]
+        "points": [[0, -30, 170]]
       }
     ],
     "models": [
-      "architecture\\riften\\interior\\smallroomfirst\\rifrmsmfirstwallwin02.nif"
+      "architecture\\riften\\interior\\smallroomsingle\\ws_rifrmsmsinglecorinlwin02.nif",
+      "architecture\\riften\\interior\\smallroomsingle\\rifrmsmsinglecorinlwin02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 3,
+          "cutoff": 1
+        },
+        "points": [[0, 60, 170]]
+      }
+    ],
+    "models": [
+      "architecture\\riften\\interior\\smallroomsingle\\ws_rifrmsmsinglecorinrwin02.nif",
+      "architecture\\riften\\interior\\smallroomsingle\\rifrmsmsinglecorinrwin02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 3,
+          "cutoff": 1
+        },
+        "points": [[-40, -40, 170]]
+      }
+    ],
+    "models": [
+      "architecture\\riften\\interior\\smallroomsingle\\rifrmsmsinglecorinlwin01YU.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 3,
+          "size": 5,
+          "cutoff": 0.05
+        },
+        "points": [[0, -350, 720]]
+      }
+    ],
+    "models": [
+      "architecture\\riften\\RTMaraWindow01YU.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 3,
+          "cutoff": 1
+        },
+        "points": [[1350, -81, 350]]
+      }
+    ],
+    "models": [
+      "architecture\\riften\\RTMultiWin01YU.nif",
+      "architecture\\riften\\RTMultiWin02YU.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 3,
+          "cutoff": 1
+        },
+        "points": [
+          [0, 0, 0],
+          [0, 0, 0],
+          [0, 0, 0]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\riften\\RTOrphWindow01YU.nif"
     ]
   }
 ]
