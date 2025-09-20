@@ -11,25 +11,17 @@
           "cutoff": 0.08
         },
         "points": [
-          [
-            0,
-            -90,
-            435
-          ],
-          [
-            0,
-            90,
-            435
-          ]
+          [0, -90, 435],
+          [0, 90, 435]
         ]
       }
     ],
     "models": [
-		"architecture\\farmhouse\\interior\\ws_farmint2end01.nif",
-		"architecture\\farmhouse\\interior\\ws_farmint2end02.nif",
-    "architecture\\farmhouse\\interior\\farmint2end01.nif",
-		"architecture\\farmhouse\\interior\\farmint2end02.nif"
-	]
+      "architecture\\farmhouse\\interior\\ws_farmint2end01.nif",
+      "architecture\\farmhouse\\interior\\ws_farmint2end02.nif",
+      "architecture\\farmhouse\\interior\\farmint2end01.nif",
+      "architecture\\farmhouse\\interior\\farmint2end02.nif"
+    ]
   },
   {
     "lights": [
@@ -53,7 +45,7 @@
       "architecture\\farmhouse\\interior\\ws_farmintinnend05.nif",
       "architecture\\farmhouse\\interior\\farmintinnend02.nif",
       "architecture\\farmhouse\\interior\\farmintinnend05.nif"
-  ]
+    ]
   },
   {
     "lights": [
@@ -91,7 +83,7 @@
         "points": [
           [-100, -830, 200],
           [-120, -120, 300],
-		      [120, -120, 300],
+          [120, -120, 300],
           [100, -830, 200]
         ]
       }
@@ -115,7 +107,7 @@
         "points": [
           [-100, 830, 200],
           [-120, 120, 300],
-		      [120, 120, 300],
+          [120, 120, 300],
           [100, 830, 200]
         ]
       }
@@ -163,22 +155,14 @@
           "cutoff": 0.08
         },
         "points": [
-          [
-            0,
-            -90,
-            435
-          ],
-          [
-            0,
-            90,
-            435
-          ]
+          [0, -90, 435],
+          [0, 90, 435]
         ]
       }
     ],
     "models": [
       "architecture\\farmhouse\\interior\\ws_farmintwoodend01.nif",
-	    "architecture\\farmhouse\\interior\\ws_farmintwoodend02.nif",
+      "architecture\\farmhouse\\interior\\ws_farmintwoodend02.nif",
       "architecture\\farmhouse\\interior\\farmintwoodend01.nif",
       "architecture\\farmhouse\\interior\\farmintwoodend02.nif"
     ]
@@ -195,23 +179,15 @@
           "cutoff": 0.08
         },
         "points": [
-          [
-            250,
-            -90,
-            235
-          ],
-          [
-            250,
-            90,
-            235
-          ]
+          [250, -90, 235],
+          [250, 90, 235]
         ]
       }
     ],
     "models": [
-		  "architecture\\farmhouse\\interior\\ws_farmintend01.nif",
+      "architecture\\farmhouse\\interior\\ws_farmintend01.nif",
       "architecture\\farmhouse\\interior\\farmintend01.nif"
-	]
+    ]
   },
   {
     "lights": [
@@ -225,23 +201,15 @@
           "cutoff": 0.08
         },
         "points": [
-          [
-            -250,
-            -90,
-            235
-          ],
-          [
-            -250,
-            90,
-            235
-          ]
+          [-250, -90, 235],
+          [-250, 90, 235]
         ]
       }
     ],
     "models": [
-		  "architecture\\farmhouse\\interior\\ws_farmintend02.nif",
+      "architecture\\farmhouse\\interior\\ws_farmintend02.nif",
       "architecture\\farmhouse\\interior\\farmintend02.nif"
-	]
+    ]
   },
   {
     "lights": [
@@ -255,23 +223,15 @@
           "cutoff": 0.08
         },
         "points": [
-          [
-            90,
-            290,
-            235
-          ],
-          [
-            -90,
-            290,
-            235
-          ]
+          [90, 290, 235],
+          [-90, 290, 235]
         ]
       }
     ],
     "models": [
-		  "architecture\\farmhouse\\interior\\ws_farmintend03.nif",
+      "architecture\\farmhouse\\interior\\ws_farmintend03.nif",
       "architecture\\farmhouse\\interior\\farmintend03.nif"
-	]
+    ]
   },
   {
     "lights": [
@@ -285,23 +245,15 @@
           "cutoff": 0.08
         },
         "points": [
-          [
-            0,
-            130,
-            435
-          ],
-          [
-            0,
-            -130,
-            435
-          ]
+          [0, 130, 435],
+          [0, -130, 435]
         ]
       }
     ],
     "models": [
-		  "architecture\\farmhouse\\interior\\ws_farmintlhmid01.nif",
+      "architecture\\farmhouse\\interior\\ws_farmintlhmid01.nif",
       "architecture\\farmhouse\\interior\\farmintlhmid01.nif"
-	]
+    ]
   },
   {
     "lights": [
@@ -315,25 +267,17 @@
           "cutoff": 0.08
         },
         "points": [
-          [
-            0,
-            -125,
-            435
-          ],
-          [
-            0,
-            125,
-            435
-          ]
+          [0, -125, 435],
+          [0, 125, 435]
         ]
       }
     ],
     "models": [
-		  "architecture\\farmhouse\\interior\\ws_farmintlhend01.nif",
+      "architecture\\farmhouse\\interior\\ws_farmintlhend01.nif",
       "architecture\\farmhouse\\interior\\ws_farmintlhend02.nif",
       "architecture\\farmhouse\\interior\\farmintlhend01.nif",
       "architecture\\farmhouse\\interior\\farmintlhend02.nif"
-	]
+    ]
   },
   {
     "lights": [
@@ -347,34 +291,18 @@
           "cutoff": 0.08
         },
         "points": [
-          [
-            130,
-            130,
-            435
-          ],
-          [
-            -130,
-            130,
-            435
-          ],
-          [
-            -130,
-            -130,
-            435
-          ],
-          [
-            130,
-            -130,
-            435
-          ]
+          [130, 130, 435],
+          [-130, 130, 435],
+          [-130, -130, 435],
+          [130, -130, 435]
         ]
       }
     ],
     "models": [
-		  "architecture\\farmhouse\\interior\\ws_farmintlhfront01.nif",
+      "architecture\\farmhouse\\interior\\ws_farmintlhfront01.nif",
       "architecture\\farmhouse\\interior\\ws_farmintlhback01.nif",
       "architecture\\farmhouse\\interior\\farmintlhfront01.nif",
       "architecture\\farmhouse\\interior\\farmintlhback01.nif"
-	]
+    ]
   }
 ]
