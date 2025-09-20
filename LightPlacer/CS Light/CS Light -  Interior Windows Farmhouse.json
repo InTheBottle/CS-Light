@@ -3,44 +3,44 @@
     "lights": [
       {
         "data": {
-          "fade": 0.5,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 128.0
+          "fade": 1,
+          "size": 3.5,
+          "cutoff": 0.08
         },
         "points": [
-          [-105, -100, 490],
-          [-105, 100, 490]
+          [
+            0,
+            -90,
+            435
+          ],
+          [
+            0,
+            90,
+            435
+          ]
         ]
       }
     ],
-    "models": ["architecture\\farmhouse\\interior\\ws_farmint2end01.nif"]
+    "models": [
+		"architecture\\farmhouse\\interior\\ws_farmint2end01.nif",
+		"architecture\\farmhouse\\interior\\ws_farmint2end02.nif",
+    "architecture\\farmhouse\\interior\\farmint2end01.nif",
+		"architecture\\farmhouse\\interior\\farmint2end02.nif"
+	]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 0.5,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 128.0
-        },
-        "points": [
-          [105, -100, 490],
-          [105, 100, 490]
-        ]
-      }
-    ],
-    "models": ["architecture\\farmhouse\\interior\\ws_farmint2end02.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 0.5,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 128.0
+          "fade": 1,
+          "size": 3.5,
+          "cutoff": 0.08
         },
         "points": [
           [120, 120, 300],
@@ -48,16 +48,23 @@
         ]
       }
     ],
-    "models": ["architecture\\farmhouse\\interior\\ws_farmintinnend02.nif"]
+    "models": [
+      "architecture\\farmhouse\\interior\\ws_farmintinnend02.nif",
+      "architecture\\farmhouse\\interior\\ws_farmintinnend05.nif",
+      "architecture\\farmhouse\\interior\\farmintinnend02.nif",
+      "architecture\\farmhouse\\interior\\farmintinnend05.nif"
+  ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 0.5,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 128.0
+          "fade": 1,
+          "size": 3.5,
+          "cutoff": 0.08
         },
         "points": [
           [-120, 120, 300],
@@ -65,52 +72,71 @@
         ]
       }
     ],
-    "models": ["architecture\\farmhouse\\interior\\ws_farmintinnend01.nif"]
+    "models": [
+      "architecture\\farmhouse\\interior\\ws_farmintinnend01.nif",
+      "architecture\\farmhouse\\interior\\farmintinnend01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 0.5,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 128.0
+          "fade": 1,
+          "size": 3.5,
+          "cutoff": 0.08
         },
         "points": [
-          [-120, 120, 300],
+          [-100, -830, 200],
           [-120, -120, 300],
-          [120, -120, 300],
-          [120, 120, 300]
+		      [120, -120, 300],
+          [100, -830, 200]
         ]
       }
     ],
-    "models": ["architecture\\farmhouse\\interior\\ws_farmintinnend06.nif"]
+    "models": [
+      "architecture\\farmhouse\\interior\\ws_farmintinnend03.nif",
+      "architecture\\farmhouse\\interior\\farmintinnend03.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 0.5,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 128.0
+          "fade": 1,
+          "size": 3.5,
+          "cutoff": 0.08
         },
         "points": [
-          [-15, 120, 300],
-          [-15, -120, 300]
+          [-100, 830, 200],
+          [-120, 120, 300],
+		      [120, 120, 300],
+          [100, 830, 200]
         ]
       }
     ],
-    "models": ["architecture\\farmhouse\\interior\\ws_farmintinnwall01.nif"]
+    "models": [
+      "architecture\\farmhouse\\interior\\ws_farmintinnend04.nif",
+      "architecture\\farmhouse\\interior\\ws_farmintinnend06.nif",
+      "architecture\\farmhouse\\interior\\farmintinnend04.nif",
+      "architecture\\farmhouse\\interior\\farmintinnend06.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 0.5,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 128.0
+          "fade": 1,
+          "size": 3.5,
+          "cutoff": 0.08
         },
         "points": [
           [-15, 120, 300],
@@ -119,130 +145,236 @@
       }
     ],
     "models": [
-      "architecture\\farmhouse\\interior\\ws_farmintinnwallentrance01.nif"
+      "architecture\\farmhouse\\interior\\ws_farmintinnwallentrance01.nif",
+      "architecture\\farmhouse\\interior\\ws_farmintinnwall01.nif",
+      "architecture\\farmhouse\\interior\\farmintinnwallentrance01.nif",
+      "architecture\\farmhouse\\interior\\farmintinnwall01.nif"
     ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 0.5,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 128.0
+          "fade": 1,
+          "size": 3.5,
+          "cutoff": 0.08
         },
         "points": [
-          [-105, -100, 490],
-          [-105, 100, 490]
-        ]
-      }
-    ],
-    "models": ["architecture\\farmhouse\\interior\\farmint2end01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 0.5,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 128.0
-        },
-        "points": [
-          [105, -100, 490],
-          [105, 100, 490]
-        ]
-      }
-    ],
-    "models": ["architecture\\farmhouse\\interior\\farmint2end02.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 0.5,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 128.0
-        },
-        "points": [
-          [120, 120, 300],
-          [120, -120, 300]
-        ]
-      }
-    ],
-    "models": ["architecture\\farmhouse\\interior\\farmintinnend02.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 0.5,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 128.0
-        },
-        "points": [
-          [-120, 120, 300],
-          [-120, -120, 300]
-        ]
-      }
-    ],
-    "models": ["architecture\\farmhouse\\interior\\farmintinnend01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 0.5,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 128.0
-        },
-        "points": [
-          [-120, 120, 300],
-          [-120, -120, 300],
-          [120, -120, 300],
-          [120, 120, 300]
-        ]
-      }
-    ],
-    "models": ["architecture\\farmhouse\\interior\\farmintinnend06.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 0.5,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 128.0
-        },
-        "points": [
-          [-15, 120, 300],
-          [-15, -120, 300]
-        ]
-      }
-    ],
-    "models": ["architecture\\farmhouse\\interior\\farmintinnwall01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 0.5,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 128.0
-        },
-        "points": [
-          [-15, 120, 300],
-          [-15, -120, 300]
+          [
+            0,
+            -90,
+            435
+          ],
+          [
+            0,
+            90,
+            435
+          ]
         ]
       }
     ],
     "models": [
-      "architecture\\farmhouse\\interior\\farmintinnwallentrance01.nif"
+      "architecture\\farmhouse\\interior\\ws_farmintwoodend01.nif",
+	    "architecture\\farmhouse\\interior\\ws_farmintwoodend02.nif",
+      "architecture\\farmhouse\\interior\\farmintwoodend01.nif",
+      "architecture\\farmhouse\\interior\\farmintwoodend02.nif"
     ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 3.5,
+          "cutoff": 0.08
+        },
+        "points": [
+          [
+            250,
+            -90,
+            235
+          ],
+          [
+            250,
+            90,
+            235
+          ]
+        ]
+      }
+    ],
+    "models": [
+		  "architecture\\farmhouse\\interior\\ws_farmintend01.nif",
+      "architecture\\farmhouse\\interior\\farmintend01.nif"
+	]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 3.5,
+          "cutoff": 0.08
+        },
+        "points": [
+          [
+            -250,
+            -90,
+            235
+          ],
+          [
+            -250,
+            90,
+            235
+          ]
+        ]
+      }
+    ],
+    "models": [
+		  "architecture\\farmhouse\\interior\\ws_farmintend02.nif",
+      "architecture\\farmhouse\\interior\\farmintend02.nif"
+	]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 3.5,
+          "cutoff": 0.08
+        },
+        "points": [
+          [
+            90,
+            290,
+            235
+          ],
+          [
+            -90,
+            290,
+            235
+          ]
+        ]
+      }
+    ],
+    "models": [
+		  "architecture\\farmhouse\\interior\\ws_farmintend03.nif",
+      "architecture\\farmhouse\\interior\\farmintend03.nif"
+	]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 3.5,
+          "cutoff": 0.08
+        },
+        "points": [
+          [
+            0,
+            130,
+            435
+          ],
+          [
+            0,
+            -130,
+            435
+          ]
+        ]
+      }
+    ],
+    "models": [
+		  "architecture\\farmhouse\\interior\\ws_farmintlhmid01.nif",
+      "architecture\\farmhouse\\interior\\farmintlhmid01.nif"
+	]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 3.5,
+          "cutoff": 0.08
+        },
+        "points": [
+          [
+            0,
+            -125,
+            435
+          ],
+          [
+            0,
+            125,
+            435
+          ]
+        ]
+      }
+    ],
+    "models": [
+		  "architecture\\farmhouse\\interior\\ws_farmintlhend01.nif",
+      "architecture\\farmhouse\\interior\\ws_farmintlhend02.nif",
+      "architecture\\farmhouse\\interior\\farmintlhend01.nif",
+      "architecture\\farmhouse\\interior\\farmintlhend02.nif"
+	]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 3.5,
+          "cutoff": 0.08
+        },
+        "points": [
+          [
+            130,
+            130,
+            435
+          ],
+          [
+            -130,
+            130,
+            435
+          ],
+          [
+            -130,
+            -130,
+            435
+          ],
+          [
+            130,
+            -130,
+            435
+          ]
+        ]
+      }
+    ],
+    "models": [
+		  "architecture\\farmhouse\\interior\\ws_farmintlhfront01.nif",
+      "architecture\\farmhouse\\interior\\ws_farmintlhback01.nif",
+      "architecture\\farmhouse\\interior\\farmintlhfront01.nif",
+      "architecture\\farmhouse\\interior\\farmintlhback01.nif"
+	]
   }
 ]
