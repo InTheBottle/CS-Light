@@ -3,366 +3,146 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "fade": 1.5,
+          "size": 2,
+          "cutoff": 0.1
         },
-        "points": [[100, 0, 200]]
+        "points": [[50, 0, 125]]
       }
     ],
-    "models": ["architecture\\solitude\\interiors\\ws_slgcwalwin01.nif"]
+    "models": [
+      "architecture\\solitude\\interiors\\ws_slgcwalwin01.nif",
+      "architecture\\solitude\\interiors\\slgcwalwin01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "fade": 2,
+          "size": 2,
+          "cutoff": 1
         },
-        "points": [[150, 0, 100]]
+        "points": [[60, 150, 500]]
       }
     ],
-    "models": ["architecture\\solitude\\interiors\\ws_slggwalendsec01.nif"]
+    "models": [
+      "architecture\\solitude\\interiors\\ws_sshrinelsec01.nif",
+      "architecture\\solitude\\interiors\\sshrinelsec01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 512.0
+          "fade": 2,
+          "size": 2,
+          "cutoff": 1
         },
-        "points": [[60, 150, 520]]
+        "points": [[60, 150, 500]]
       }
     ],
-    "models": ["architecture\\solitude\\interiors\\ws_sshrinelsec01.nif"]
+    "models": [
+      "architecture\\solitude\\interiors\\ws_sshrinelsec02.nif",
+      "architecture\\solitude\\interiors\\sshrinelsec02.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 512.0
+          "fade": 2,
+          "size": 4,
+          "cutoff": 0.1
         },
-        "points": [[60, 150, 520]]
+        "points": [
+          [0, 200, 750],
+          [0, 200, 525],
+          [125, 200, 650],
+          [-125, 200, 650]
+        ]
       }
     ],
-    "models": ["architecture\\solitude\\interiors\\ws_sshrinelsec02.nif"]
+    "models": [
+      "architecture\\solitude\\interiors\\ws_slggcolend03.nif",
+      "architecture\\solitude\\interiors\\slggcolend03.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 1024.0
+          "fade": 1,
+          "size": 4,
+          "cutoff": 0.1
         },
-        "points": [[0, 200, 700]]
+        "points": [[50, 0, 400]]
       }
     ],
-    "models": ["architecture\\solitude\\interiors\\ws_slggcolend03.nif"]
+    "models": [
+      "architecture\\solitude\\interiors\\ws_slgftracon03.nif",
+      "architecture\\solitude\\interiors\\ws_slgftracon05_2.nif",
+      "architecture\\solitude\\interiors\\slgftracon03.nif",
+      "architecture\\solitude\\interiors\\slgftracon05_2.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "fade": 1,
+          "size": 4,
+          "cutoff": 0.1
         },
-        "points": [[0, 0, 200]]
+        "points": [
+          [250, 0, 400],
+          [10, 0, 400]
+        ]
       }
     ],
-    "models": ["architecture\\solitude\\interiors\\ws_slgftracon03.nif"]
+    "models": [
+      "architecture\\solitude\\interiors\\ws_slgfwalsol01.nif",
+      "architecture\\solitude\\interiors\\slgfwalsol01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 0.7,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "fade": 1,
+          "size": 4,
+          "cutoff": 0.1
         },
-        "points": [[250, 0, 400]]
-      }
-    ],
-    "models": ["architecture\\solitude\\interiors\\ws_slgfwalsol01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 256.0
-        },
-        "points": [[0, 0, 350]]
+        "points": [
+          [50, 0, 400],
+          [250, 0, 400]
+        ]
       }
     ],
     "models": [
       "architecture\\solitude\\interiors\\ws_slgfwalsol02.nif",
-      "architecture\\solitude\\interiors\\ws_slgfwalsol03.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 0.7,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 256.0
-        },
-        "points": [[100, 0, 300]]
-      }
-    ],
-    "models": ["architecture\\solitude\\interiors\\ws_slggwalsec05.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 200.0
-        },
-        "points": [[0, -100, 300]]
-      }
-    ],
-    "models": ["architecture\\solitude\\interiors\\ws_smdastasol02.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 200.0
-        },
-        "points": [
-          [-120, -150, 0],
-          [-120, 150, 0]
-        ]
-      }
-    ],
-    "models": ["architecture\\solitude\\interiors\\ws_smdastasol03.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 160.0
-        },
-        "points": [[0, -100, 75]]
-      }
-    ],
-    "models": ["architecture\\solitude\\interiors\\ws_smddwinsol01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 160.0
-        },
-        "points": [[0, -225, 225]]
-      }
-    ],
-    "models": [
-      "architecture\\solitude\\interiors\\ws_smdestasol01.nif",
-      "architecture\\solitude\\interiors\\ws_smdestasol05.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 160.0
-        },
-        "points": [[0, 75, 75]]
-      }
-    ],
-    "models": [
-      "architecture\\solitude\\interiors\\ws_smdewinsol01.nif",
-      "architecture\\solitude\\interiors\\ws_smdewinsol02.nif",
-      "architecture\\solitude\\interiors\\ws_smdewinsol03.nif",
-      "architecture\\solitude\\interiors\\ws_smdewinsol04.nif",
-      "architecture\\solitude\\interiors\\ws_smdewinsol05.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 250.0
-        },
-        "points": [[0, 0, 200]]
-      }
-    ],
-    "models": ["architecture\\solitude\\interiors\\ws_smdfflosol03.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 160.0
-        },
-        "points": [[0, 0, 100]]
-      }
-    ],
-    "models": ["architecture\\solitude\\interiors\\ws_smdfwinsol01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 256.0
-        },
-        "points": [[100, 0, 200]]
-      }
-    ],
-    "models": ["architecture\\solitude\\interiors\\slgcwalwin01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 256.0
-        },
-        "points": [[100, 0, 200]]
-      }
-    ],
-    "models": ["architecture\\solitude\\interiors\\slggwalsec05.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 256.0
-        },
-        "points": [[150, 0, 100]]
-      }
-    ],
-    "models": ["architecture\\solitude\\interiors\\slggwalendsec01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 512.0
-        },
-        "points": [[60, 150, 520]]
-      }
-    ],
-    "models": ["architecture\\solitude\\interiors\\sshrinelsec01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 512.0
-        },
-        "points": [[60, 150, 520]]
-      }
-    ],
-    "models": ["architecture\\solitude\\interiors\\sshrinelsec02.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 1024.0
-        },
-        "points": [[0, 200, 700]]
-      }
-    ],
-    "models": ["architecture\\solitude\\interiors\\slggcolend03.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 256.0
-        },
-        "points": [[0, 0, 200]]
-      }
-    ],
-    "models": ["architecture\\solitude\\interiors\\slgftracon03.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 256.0
-        },
-        "points": [[250, 0, 400]]
-      }
-    ],
-    "models": ["architecture\\solitude\\interiors\\slgfwalsol01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 256.0
-        },
-        "points": [[0, 0, 350]]
-      }
-    ],
-    "models": [
+      "architecture\\solitude\\interiors\\ws_slgfwalsol03.nif",
       "architecture\\solitude\\interiors\\slgfwalsol02.nif",
       "architecture\\solitude\\interiors\\slgfwalsol03.nif"
     ]
@@ -371,38 +151,90 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "fade": 1,
+          "size": 4,
+          "cutoff": 0.1
         },
-        "points": [[100, 0, 300]]
+        "points": [[230, 0, 400]]
       }
     ],
-    "models": ["architecture\\solitude\\interiors\\slggwalsec05.nif"]
+    "models": [
+      "architecture\\solitude\\interiors\\ws_slgfwalsol01_1.nif",
+      "architecture\\solitude\\interiors\\ws_slgfTraCon03_2.nif",
+      "architecture\\solitude\\interiors\\slgfwalsol01_1.nif",
+      "architecture\\solitude\\interiors\\slgfTraCon03_2.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 200.0
+          "fade": 1,
+          "size": 3,
+          "cutoff": 0.1
+        },
+        "points": [[50, 0, 350]]
+      }
+    ],
+    "models": [
+      "architecture\\solitude\\interiors\\ws_slggwalsec05.nif",
+      "architecture\\solitude\\interiors\\slggwalsec05.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1.5,
+          "size": 3,
+          "cutoff": 0.1
+        },
+        "points": [[150, 0, 50]]
+      }
+    ],
+    "models": [
+      "architecture\\solitude\\interiors\\ws_slggwalendsec01.nif",
+      "architecture\\solitude\\interiors\\slggwalendsec01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 4,
+          "cutoff": 0.075
         },
         "points": [[0, -100, 300]]
       }
     ],
-    "models": ["architecture\\solitude\\interiors\\smdastasol02.nif"]
+    "models": [
+      "architecture\\solitude\\interiors\\ws_smdastasol02.nif",
+      "architecture\\solitude\\interiors\\smdastasol02.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 200.0
+          "fade": 1,
+          "size": 4,
+          "cutoff": 0.075
         },
         "points": [
           [-120, -150, 0],
@@ -410,35 +242,161 @@
         ]
       }
     ],
-    "models": ["architecture\\solitude\\interiors\\smdastasol03.nif"]
+    "models": [
+      "architecture\\solitude\\interiors\\ws_smdastasol03.nif",
+      "architecture\\solitude\\interiors\\smdastasol03.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 160.0
+          "fade": 1,
+          "size": 4,
+          "cutoff": 0.1
         },
-        "points": [[0, -100, 75]]
+        "points": [[0, -100, 100]]
       }
     ],
-    "models": ["architecture\\solitude\\interiors\\smddwinsol01.nif"]
+    "models": [
+      "architecture\\solitude\\interiors\\ws_smdawinsol01.nif",
+      "architecture\\solitude\\interiors\\smdawinsol01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 160.0
+          "fade": 1,
+          "size": 4,
+          "cutoff": 0.1
+        },
+        "points": [[0, 50, 100]]
+      }
+    ],
+    "models": [
+      "architecture\\solitude\\interiors\\ws_smdbwinsol01.nif",
+      "architecture\\solitude\\interiors\\smdbwinsol01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 0.7,
+          "size": 4,
+          "cutoff": 0.1
+        },
+        "points": [[0, 50, 100]]
+      }
+    ],
+    "models": [
+      "architecture\\solitude\\interiors\\ws_smdbwinsol02.nif",
+      "architecture\\solitude\\interiors\\smdbwinsol02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 4,
+          "cutoff": 0.1
+        },
+        "points": [[0, 50, 100]]
+      }
+    ],
+    "models": [
+      "architecture\\solitude\\interiors\\ws_smdcwinsol01.nif",
+      "architecture\\solitude\\interiors\\smdcwinsol01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 0.7,
+          "size": 4,
+          "cutoff": 0.1
+        },
+        "points": [[0, 50, 100]]
+      }
+    ],
+    "models": [
+      "architecture\\solitude\\interiors\\ws_smdcwinsol02.nif",
+      "architecture\\solitude\\interiors\\smdcwinsol02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 4,
+          "cutoff": 0.1
+        },
+        "points": [[0, -100, 100]]
+      }
+    ],
+    "models": [
+      "architecture\\solitude\\interiors\\ws_smddwinsol01.nif",
+      "architecture\\solitude\\interiors\\smddwinsol01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 4,
+          "cutoff": 0.1
+        },
+        "points": [[0, 100, 125]]
+      }
+    ],
+    "models": [
+      "architecture\\solitude\\interiors\\ws_smdewinsol01.nif",
+      "architecture\\solitude\\interiors\\smdewinsol01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 4,
+          "cutoff": 0.075
         },
         "points": [[0, -225, 225]]
       }
     ],
     "models": [
+      "architecture\\solitude\\interiors\\ws_smdestasol01.nif",
+      "architecture\\solitude\\interiors\\ws_smdestasol05.nif",
       "architecture\\solitude\\interiors\\smdestasol01.nif",
       "architecture\\solitude\\interiors\\smdestasol05.nif"
     ]
@@ -447,16 +405,21 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 160.0
+          "fade": 1,
+          "size": 4,
+          "cutoff": 0.1
         },
-        "points": [[0, 75, 75]]
+        "points": [[0, 50, 100]]
       }
     ],
     "models": [
-      "architecture\\solitude\\interiors\\smdewinsol01.nif",
+      "architecture\\solitude\\interiors\\ws_smdewinsol02.nif",
+      "architecture\\solitude\\interiors\\ws_smdewinsol03.nif",
+      "architecture\\solitude\\interiors\\ws_smdewinsol04.nif",
+      "architecture\\solitude\\interiors\\ws_smdewinsol05.nif",
       "architecture\\solitude\\interiors\\smdewinsol02.nif",
       "architecture\\solitude\\interiors\\smdewinsol03.nif",
       "architecture\\solitude\\interiors\\smdewinsol04.nif",
@@ -467,28 +430,116 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 250.0
+          "fade": 3,
+          "size": 2,
+          "cutoff": 0.2
         },
         "points": [[0, 0, 200]]
       }
     ],
-    "models": ["architecture\\solitude\\interiors\\smdfflosol03.nif"]
+    "models": [
+      "architecture\\solitude\\interiors\\ws_smdfflosol03.nif",
+      "architecture\\solitude\\interiors\\smdfflosol03.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 160.0
+          "fade": 1,
+          "size": 4,
+          "cutoff": 0.1
+        },
+        "points": [[0, -50, 100]]
+      }
+    ],
+    "models": [
+      "architecture\\solitude\\interiors\\ws_smdfwinsol01.nif",
+      "architecture\\solitude\\interiors\\smdfwinsol01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 0.7,
+          "size": 4,
+          "cutoff": 0.1
         },
         "points": [[0, 0, 100]]
       }
     ],
-    "models": ["architecture\\solitude\\interiors\\smdfwinsol01.nif"]
+    "models": [
+      "architecture\\solitude\\interiors\\ws_ssmawincor01.nif",
+      "architecture\\solitude\\interiors\\ssmawincor01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 0.7,
+          "size": 4,
+          "cutoff": 0.1
+        },
+        "points": [[-50, 0, 100]]
+      }
+    ],
+    "models": [
+      "architecture\\solitude\\interiors\\ws_ssmawinsol01.nif",
+      "architecture\\solitude\\interiors\\ws_ssmawinsol02.nif",
+      "architecture\\solitude\\interiors\\ssmawinsol01.nif",
+      "architecture\\solitude\\interiors\\ssmawinsol02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1.5,
+          "size": 3,
+          "cutoff": 0.25
+        },
+        "points": [[0, 0, 575]]
+      }
+    ],
+    "models": [
+      "architecture\\solitude\\interiors\\ws_smdfceicell01.nif",
+      "architecture\\solitude\\interiors\\smdfceicell01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1.5,
+          "size": 4,
+          "cutoff": 1
+        },
+        "points": [[-600, 610, 240]]
+      }
+    ],
+    "models": [
+      "architecture\\solitude\\interiors\\ws_smdfceljail01.nif",
+      "architecture\\solitude\\interiors\\smdfceljail01.nif"
+    ]
   }
 ]
