@@ -17,84 +17,7 @@
       }
     ],
     "models": [
-      "architecture\\whiterun\\wrinteriors\\wrcastle\\ws_wrintcastlewallbasestr01win.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 12,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "cutoff": 0.2,
-          "size": 10,
-          "flags": "InverseSquare"
-        },
-        "points": [[0, 0, 150]]
-      }
-    ],
-    "models": [
-      "architecture\\whiterun\\wrinteriors\\wrcastle\\ws_wrintcastlewallbasestrdouble02.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.5,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "cutoff": 0.2,
-          "size": 3.4,
-          "flags": "InverseSquare"
-        },
-        "points": [[0, -50, 150]]
-      }
-    ],
-    "models": [
-      "architecture\\whiterun\\wrinteriors\\wrcastle\\ws_wrintcastlewallstrwin01.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.5,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "cutoff": 0.2,
-          "size": 3.4,
-          "flags": "InverseSquare"
-        },
-        "points": [
-          [-130, -50, 150],
-          [130, -50, 150]
-        ]
-      }
-    ],
-    "models": [
-      "architecture\\whiterun\\wrinteriors\\wrcastle\\ws_wrintcastlewallstrwin01double.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.5,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "cutoff": 0.2,
-          "size": 3.4,
-          "flags": "InverseSquare"
-        },
-        "points": [
-          [-250, -50, 150],
-          [0, -50, 150]
-        ]
-      }
-    ],
-    "models": [
+      "architecture\\whiterun\\wrinteriors\\wrcastle\\ws_wrintcastlewallbasestr01win.nif",
       "architecture\\whiterun\\wrinteriors\\wrcastle\\wrintcastlewallbasestr01win.nif"
     ]
   },
@@ -113,6 +36,7 @@
       }
     ],
     "models": [
+      "architecture\\whiterun\\wrinteriors\\wrcastle\\ws_wrintcastlewallbasestrdouble02.nif",
       "architecture\\whiterun\\wrinteriors\\wrcastle\\wrintcastlewallbasestrdouble02.nif"
     ]
   },
@@ -131,6 +55,7 @@
       }
     ],
     "models": [
+      "architecture\\whiterun\\wrinteriors\\wrcastle\\ws_wrintcastlewallstrwin01.nif",
       "architecture\\whiterun\\wrinteriors\\wrcastle\\wrintcastlewallstrwin01.nif"
     ]
   },
@@ -152,6 +77,7 @@
       }
     ],
     "models": [
+      "architecture\\whiterun\\wrinteriors\\wrcastle\\ws_wrintcastlewallstrwin01double.nif",
       "architecture\\whiterun\\wrinteriors\\wrcastle\\wrintcastlewallstrwin01double.nif"
     ]
   }

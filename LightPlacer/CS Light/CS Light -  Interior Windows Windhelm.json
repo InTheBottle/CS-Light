@@ -3,15 +3,37 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 225.0
+          "fade": 0.7,
+          "size": 4,
+          "cutoff": 0.075
         },
-        "points": [[100, 0, 386]]
+        "points": [[0, 50, 150]]
       }
     ],
     "models": [
+      "architecture\\windhelm\\interiorkits\\gray quarter\\ws_whintwoodwallstonewindowGQ04.nif",
+      "architecture\\windhelm\\interiorkits\\gray quarter\\whintwoodwallstonewindowGQ04.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 0.5,
+          "size": 2.5,
+          "cutoff": 0.075
+        },
+        "points": [[150, 0, 425]]
+      }
+    ],
+    "models": [
+      "architecture\\windhelm\\interiorkits\\wood\\ws_whintwoodbackwallwindow01.nif",
       "architecture\\windhelm\\interiorkits\\wood\\whintwoodbackwallwindow01.nif"
     ]
   },
@@ -19,15 +41,76 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 225.0
+          "fade": 0.5,
+          "size": 2.5,
+          "cutoff": 0.075
         },
-        "points": [[0, 100, 386]]
+        "points": [[150, 0, 425]]
       }
     ],
     "models": [
+      "architecture\\windhelm\\animated\\secretwall\\ws_whintwoodbacksecwall01.nif",
+      "architecture\\windhelm\\animated\\secretwall\\whintwoodbacksecwall01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "blackList": ["0x0815ff"],
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 0.5,
+          "size": 2,
+          "cutoff": 0.075
+        },
+        "points": [[95, 0, 432]]
+      }
+    ],
+    "models": [
+      "architecture\\windhelm\\interiorkits\\wood\\ws_whintwoodbackwallstone01.nif",
+      "architecture\\windhelm\\interiorkits\\wood\\whintwoodbackwallstone01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 0.5,
+          "size": 2,
+          "cutoff": 0.075
+        },
+        "points": [[95, 0, 432]]
+      }
+    ],
+    "models": [
+      "architecture\\windhelm\\interiorkits\\wood\\ws_whintwoodbackwall02.nif",
+      "architecture\\windhelm\\interiorkits\\wood\\whintwoodbackwall02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 0.5,
+          "size": 2,
+          "cutoff": 0.075
+        },
+        "points": [[0, 100, 425]]
+      }
+    ],
+    "models": [
+      "architecture\\windhelm\\interiorkits\\wood\\ws_whintwoodroofleftwindow01.nif",
       "architecture\\windhelm\\interiorkits\\wood\\whintwoodroofleftwindow01.nif"
     ]
   },
@@ -35,36 +118,43 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 225.0
+          "fade": 0.5,
+          "size": 2,
+          "cutoff": 0.075
         },
-        "points": [[0, -100, 386]]
+        "points": [[0, -100, 425]]
       }
     ],
     "models": [
+      "architecture\\windhelm\\interiorkits\\wood\\ws_whintwoodroofrightwindow01.nif",
       "architecture\\windhelm\\interiorkits\\wood\\whintwoodroofrightwindow01.nif"
     ]
   },
   {
     "lights": [
       {
+        "blackList": ["0x0813ef"],
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 160.0
+          "fade": 1,
+          "size": 4,
+          "cutoff": 0.1
         },
-        "points": [[0, 50, 75]]
+        "points": [[0, 50, 125]]
       }
     ],
     "models": [
-      "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow01.nif",
-      "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow02.nif",
+      "architecture\\windhelm\\interiorkits\\wood\\ws_whintwoodwallstonewindow03.nif",
+      "architecture\\windhelm\\interiorkits\\wood\\ws_whintwoodwallstonewindow04.nif",
+      "architecture\\windhelm\\interiorkits\\wood\\ws_whintwoodwallstonewindow06.nif",
+      "architecture\\windhelm\\interiorkits\\wood\\ws_whintwoodwallstonewindow07.nif",
       "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow03.nif",
       "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow04.nif",
-      "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow05.nif",
       "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow06.nif",
       "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallstonewindow07.nif"
     ]
@@ -73,18 +163,127 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 225.0
+          "fade": 0.7,
+          "size": 4,
+          "cutoff": 0.075
         },
-        "points": [[0, 0, 100]]
+        "points": [[0, 50, 150]]
       }
     ],
     "models": [
+      "architecture\\windhelm\\interiorkits\\wood\\ws_whintwoodwallwindow01.nif",
+      "architecture\\windhelm\\interiorkits\\wood\\ws_whintwoodwallwindow02.nif",
+      "architecture\\windhelm\\interiorkits\\wood\\ws_whintwoodwallwindow03.nif",
       "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallwindow01.nif",
       "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallwindow02.nif",
       "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallwindow03.nif"
     ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1.2,
+          "size": 3,
+          "cutoff": 0.1
+        },
+        "points": [
+          [-800, 0, 150],
+          [-800, 0, 400],
+          [800, 0, 150],
+          [800, 0, 400]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\windhelm\\interiorkits\\wood\\ws_whintinn01.nif",
+      "architecture\\windhelm\\interiorkits\\wood\\whintinn01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 4,
+          "cutoff": 0.075
+        },
+        "points": [
+          [-485, 350, 250],
+          [-485, -350, 250],
+          [525, 350, 250],
+          [525, -350, 250],
+          [15, 350, 250],
+          [15, -350, 250],
+          [270, 250, 250]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\windhelm\\interiorkits\\wood\\ws_whintinn01.nif",
+      "architecture\\windhelm\\interiorkits\\wood\\whintinn01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1.5,
+          "size": 2.5,
+          "cutoff": 1
+        },
+        "points": [
+          [-320, 170, 330],
+          [-320, 710, 330],
+          [300, 170, 330],
+          [300, 710, 330]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\windhelm\\interiorkits\\ws_whinttemple01.nif",
+      "architecture\\windhelm\\interiorkits\\whinttemple01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 4,
+          "cutoff": 0.075
+        },
+        "points": [
+          [220, 220, 850],
+          [-220, 220, 850],
+          [220, 655, 850],
+          [-220, 655, 850],
+          [0, 900, 850],
+          [0, 0, 850],
+          [0, 50, 1190],
+          [0, 850, 1190]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\windhelm\\interiorkits\\ws_whinttemple01.nif",
+      "architecture\\windhelm\\interiorkits\\whinttemple01.nif"
+    ]
   }
 ]
+

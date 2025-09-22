@@ -3,370 +3,293 @@
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 80.0
+          "fade": 1,
+          "size": 3,
+          "cutoff": 0.1
         },
         "points": [[0, 225, 575]]
       }
     ],
-    "models": ["architecture\\highhrothgar\\hhlgbaylendl.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 80.0
-        },
-        "points": [[0, 225, 550]]
-      }
-    ],
-    "models": ["architecture\\highhrothgar\\hhlgbayr01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 80.0
-        },
-        "points": [[-5, 250, 575]]
-      }
-    ],
-    "models": ["architecture\\highhrothgar\\hhlgbayrangle.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 256.0
-        },
-        "points": [[-260, 275, -75]]
-      }
-    ],
     "models": [
-      "architecture\\highhrothgar\\hhlgbaysm01.nif",
-      "architecture\\highhrothgar\\hhlgbaysmcon01.nif"
+      "architecture\\highhrothgar\\hhlgbaylendl.nif",
+      "architecture\\highhrothgar\\ws_hhlgbaylendl.nif"
     ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
-        },
-        "points": [[260, 275, -75]]
-      }
-    ],
-    "models": ["architecture\\highhrothgar\\hhlgbaysm02.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 256.0
-        },
-        "points": [[-15, 375, -75]]
-      }
-    ],
-    "models": ["architecture\\highhrothgar\\hhlgbaysmangle.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 256.0
-        },
-        "points": [[260, -275, 75]]
-      }
-    ],
-    "models": ["architecture\\highhrothgar\\hhlgbaysmcon02.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 256.0
-        },
-        "points": [[250, 275, -75]]
-      }
-    ],
-    "models": ["architecture\\highhrothgar\\hhlgbaysmend01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 256.0
-        },
-        "points": [[260, -270, 75]]
-      }
-    ],
-    "models": ["architecture\\highhrothgar\\hhlgbaysment02.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 386.0
-        },
-        "points": [[-315, 250, -1050]]
-      }
-    ],
-    "models": ["architecture\\highhrothgar\\HHMainHallCon01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 386.0
-        },
-        "points": [[315, -250, 1050]]
-      }
-    ],
-    "models": ["architecture\\highhrothgar\\HHMainHallCon02.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 80.0
-        },
-        "points": [[-775, 360, -700]]
-      }
-    ],
-    "models": ["architecture\\highhrothgar\\hhmainhalllgbaycon01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 80.0
-        },
-        "points": [[775, -360, 700]]
-      }
-    ],
-    "models": ["architecture\\highhrothgar\\hhmainhalllgbaycon02.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 80.0
-        },
-        "points": [[0, 225, 575]]
-      }
-    ],
-    "models": ["architecture\\highhrothgar\\hhlgbaylendl.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 80.0
+          "fade": 1,
+          "size": 3,
+          "cutoff": 0.1
         },
         "points": [[0, 225, 550]]
       }
     ],
-    "models": ["architecture\\highhrothgar\\hhlgbayr01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 80.0
-        },
-        "points": [[-5, 250, 575]]
-      }
-    ],
-    "models": ["architecture\\highhrothgar\\hhlgbayrangle.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "fade": 1.0,
-          "externalEmittance": "FXLightRegionSunlight",
-          "light": "DefaultSunlight01NS",
-          "radius": 256.0
-        },
-        "points": [[-260, 275, -75]]
-      }
-    ],
     "models": [
-      "architecture\\highhrothgar\\hhlgbaysm01.nif",
-      "architecture\\highhrothgar\\hhlgbaysmcon01.nif"
+      "architecture\\highhrothgar\\hhlgbayr01.nif",
+      "architecture\\highhrothgar\\ws_hhlgbayr01.nif"
     ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "fade": 1,
+          "size": 3,
+          "cutoff": 0.1
         },
-        "points": [[260, 275, -75]]
+        "points": [[-5, 250, 575]]
       }
     ],
-    "models": ["architecture\\highhrothgar\\hhlgbaysm02.nif"]
+    "models": [
+      "architecture\\highhrothgar\\hhlgbayrangle.nif",
+      "architecture\\highhrothgar\\ws_hhlgbayrangle.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "fade": 1,
+          "size": 3,
+          "cutoff": 0.1
         },
-        "points": [[-15, 375, -75]]
+        "points": [[-260, 200, -50]]
       }
     ],
-    "models": ["architecture\\highhrothgar\\hhlgbaysmangle.nif"]
+    "models": [
+      "architecture\\highhrothgar\\hhlgbaysm01.nif",
+      "architecture\\highhrothgar\\hhlgbaysmcon01.nif",
+      "architecture\\highhrothgar\\ws_hhlgbaysm01.nif",
+      "architecture\\highhrothgar\\ws_hhlgbaysmcon01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "fade": 1,
+          "size": 3,
+          "cutoff": 0.1
         },
-        "points": [[260, -275, 75]]
+        "points": [[260, 200, -50]]
       }
     ],
-    "models": ["architecture\\highhrothgar\\hhlgbaysmcon02.nif"]
+    "models": [
+      "architecture\\highhrothgar\\hhlgbaysm02.nif",
+      "architecture\\highhrothgar\\ws_hhlgbaysm02.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "fade": 1,
+          "size": 3,
+          "cutoff": 0.1
         },
-        "points": [[250, 275, -75]]
+        "points": [[-65, 300, -50]]
       }
     ],
-    "models": ["architecture\\highhrothgar\\hhlgbaysmend01.nif"]
+    "models": [
+      "architecture\\highhrothgar\\hhlgbaysmangle.nif",
+      "architecture\\highhrothgar\\ws_hhlgbaysmangle.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 256.0
+          "fade": 1,
+          "size": 3,
+          "cutoff": 0.1
         },
-        "points": [[260, -270, 75]]
+        "points": [[260, -200, 50]]
       }
     ],
-    "models": ["architecture\\highhrothgar\\hhlgbaysment02.nif"]
+    "models": [
+      "architecture\\highhrothgar\\hhlgbaysmcon02.nif",
+      "architecture\\highhrothgar\\ws_hhlgbaysmcon02.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 386.0
+          "fade": 1,
+          "size": 3,
+          "cutoff": 0.1
+        },
+        "points": [[250, 200, -50]]
+      }
+    ],
+    "models": [
+      "architecture\\highhrothgar\\hhlgbaysmend01.nif",
+      "architecture\\highhrothgar\\ws_hhlgbaysmend01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 3,
+          "cutoff": 0.1
+        },
+        "points": [[260, -200, 50]]
+      }
+    ],
+    "models": [
+      "architecture\\highhrothgar\\hhlgbaysment02.nif",
+      "architecture\\highhrothgar\\ws_hhlgbaysment02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 8,
+          "size": 4,
+          "cutoff": 0.1
         },
         "points": [[-315, 250, -1050]]
       }
     ],
-    "models": ["architecture\\highhrothgar\\HHMainHallCon01.nif"]
+    "models": [
+      "architecture\\highhrothgar\\HHMainHallCon01.nif",
+      "architecture\\highhrothgar\\ws_HHMainHallCon01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 386.0
+          "fade": 8,
+          "size": 4,
+          "cutoff": 0.1
         },
         "points": [[315, -250, 1050]]
       }
     ],
-    "models": ["architecture\\highhrothgar\\HHMainHallCon02.nif"]
+    "models": [
+      "architecture\\highhrothgar\\HHMainHallCon02.nif",
+      "architecture\\highhrothgar\\ws_HHMainHallCon02.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 80.0
+          "fade": 2,
+          "size": 3,
+          "cutoff": 0.2
         },
-        "points": [[-775, 360, -700]]
+        "points": [[-675, 360, -700]]
       }
     ],
-    "models": ["architecture\\highhrothgar\\hhmainhalllgbaycon01.nif"]
+    "models": [
+      "architecture\\highhrothgar\\hhmainhalllgbaycon01.nif",
+      "architecture\\highhrothgar\\ws_hhmainhalllgbaycon01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "fade": 1.0,
           "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "radius": 80.0
+          "fade": 1,
+          "size": 3,
+          "cutoff": 1
         },
-        "points": [[775, -360, 700]]
+        "points": [
+          [-445, 260, -870],
+          [-445, 460, -870]
+        ]
       }
     ],
-    "models": ["architecture\\highhrothgar\\hhmainhalllgbaycon02.nif"]
+    "models": [
+      "architecture\\highhrothgar\\hhmainhalllgbaycon01.nif",
+      "architecture\\highhrothgar\\ws_hhmainhalllgbaycon01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 2,
+          "size": 3,
+          "cutoff": 0.2
+        },
+        "points": [[700, -360, 700]]
+      }
+    ],
+    "models": [
+      "architecture\\highhrothgar\\hhmainhalllgbaycon02.nif",
+      "architecture\\highhrothgar\\ws_hhmainhalllgbaycon02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "externalEmittance": "FXLightRegionSunlight",
+          "flags": "InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "fade": 1,
+          "size": 3,
+          "cutoff": 1
+        },
+        "points": [
+          [445, -260, 870],
+          [445, -460, 870]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\highhrothgar\\hhmainhalllgbaycon02.nif",
+      "architecture\\highhrothgar\\ws_hhmainhalllgbaycon02.nif"
+    ]
   }
 ]
