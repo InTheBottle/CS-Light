@@ -326,9 +326,7 @@
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [0.0, 0.0, -100.0]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
     "models": ["dungeons\\dwemer\\dwechandelier01simple.nif"]
@@ -361,9 +359,7 @@
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [0.0, 0.0, -100.0]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
     "models": ["dungeons\\dwemer\\dwechandelier01sputter.nif"]
@@ -396,9 +392,7 @@
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [0.0, 0.0, -100.0]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
     "models": ["dungeons\\dwemer\\dwechandelier01bareonsputter.nif"]
@@ -447,9 +441,7 @@
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [0.0, 0.0, -100.0]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
     "models": ["dungeons\\dwemer\\dwechandelier03.nif"]
@@ -482,9 +474,7 @@
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [0.0, 0.0, -100.0]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
     "models": ["dungeons\\dwemer\\dwechandelier01simplesputter.nif"]
@@ -492,10 +482,7 @@
   {
     "lights": [
       {
-        "blackList": [
-          "0x048255",
-          "0x10F453"
-        ],
+        "blackList": ["0x048255", "0x10F453"],
         "data": {
           "color": [57, 75, 253],
           "flags": "InverseSquare|IgnoreScale",
@@ -513,10 +500,7 @@
         ]
       },
       {
-        "blackList": [
-          "0x048255",
-          "0x10F453"
-        ],
+        "blackList": ["0x048255", "0x10F453"],
         "data": {
           "color": [118, 140, 137],
           "flags": "InverseSquare|IgnoreScale",
@@ -525,9 +509,7 @@
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [0.0, 0.0, -100.0]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
     "models": ["dungeons\\dwemer\\dwechandelier01.nif"]
@@ -560,9 +542,7 @@
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [0.0, 0.0, -100.0]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
     "models": ["dungeons\\dwemer\\dwechandelier01bare.nif"]
@@ -595,9 +575,7 @@
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [0.0, 0.0, -100.0]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
     "models": ["dungeons\\dwemer\\dwechandelier01simpleon.nif"]
@@ -834,9 +812,7 @@
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [0.0, 0.0, -100.0]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
     "models": ["dungeons\\dwemer\\dwechandelier01onsputter.nif"]
@@ -874,11 +850,7 @@
   {
     "lights": [
       {
-        "blackList": [
-          "0x0dc763",
-          "0x0dc764",
-          "0x04822f"
-        ],
+        "blackList": ["0x0dc763", "0x0dc764", "0x04822f"],
         "data": {
           "color": [118, 140, 137],
           "flags": "InverseSquare|IgnoreScale",
@@ -936,9 +908,7 @@
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [0.0, 0.0, -100.0]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
     "models": ["dungeons\\dwemer\\dwechandelier01bareonsputter.nif"]
@@ -971,9 +941,7 @@
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [0.0, 0.0, -100.0]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
     "models": ["dungeons\\dwemer\\dwechandelier01bareon.nif"]
@@ -981,10 +949,7 @@
   {
     "lights": [
       {
-        "blackList": [
-          "0x048267",
-          "0x0927a8"
-        ],
+        "blackList": ["0x048267", "0x0927a8"],
         "data": {
           "color": [118, 140, 137],
           "flags": "InverseSquare|IgnoreScale",
@@ -1026,9 +991,7 @@
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [0.0, 0.0, -100.0]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
     "models": ["dungeons\\dwemer\\dwechandelier01on.nif"]
@@ -1061,9 +1024,7 @@
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [0.0, 0.0, -100.0]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
     "models": ["dungeons\\dwemer\\dwechandelier01simpleonsputter.nif"]
