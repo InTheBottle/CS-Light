@@ -1,0 +1,954 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 247
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxglowfillrndlitbrt.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternwhiterunhanging01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanterndawnstartable01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternwindhelmtable01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 247
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxglowfillrndlitxbrt.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 247
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxglowfillrndlitdim.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [54, 101, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 19
+        },
+        "points": [[0.24, 0.41, 19.32]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternwinterholdhanging01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 247
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxglowfillrndlitmid.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternsolitudetabledeadbugged01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternsolitudetable01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternwindhelmhanging02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternwhiteruntable01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 247
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxglowfillrndlitxdim.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [57, 75, 253],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 69
+        },
+        "points": [[-10.0, -0.63, -20.54]]
+      },
+      {
+        "data": {
+          "color": [119, 146, 128],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 97
+        },
+        "points": [[-10.38, -0.63, -16.45]]
+      }
+    ],
+    "models": ["effects\\lux_fxdwegreenflamecalm.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternwindhelmhanging01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanterndawnstarhanging01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternmarkarthtable01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternsolitudetable02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanterndawnguardtable01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 248
+        },
+        "points": [[0.0, 0.0, -120.74]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxambbeamdust_dim02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 247
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxglowfillroundxbrt.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [69, 69, 69],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 206
+        },
+        "points": [[-165.75, -7.81, -4.56]]
+      },
+      {
+        "data": {
+          "color": [70, 70, 70],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 206
+        },
+        "points": [[193.2, 7.18, -4.56]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxsmokewetmistlg2x1.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternwinterholdhanging02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [204, 204, 204],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 67
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["effects\\fxfogrollingfacing01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 118
+        },
+        "points": [[0.0, 0.0, -0.0]]
+      }
+    ],
+    "models": ["effects\\ambient\\lux_fxnosmokelargeclose01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternorsimerhanging01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternwhiterunhanging02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternwindhelmtable02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternsolitudehanging01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternsolitudetablebugged01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternriftenhanging02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternwinterholdtable02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [57, 75, 253],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 69
+        },
+        "points": [
+          [-0.6, 0.79, -22.4],
+          [-0.49, 0.79, -23.11]
+        ]
+      }
+    ],
+    "models": ["effects\\lux_fxdwegreenflame.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 12.0]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternruinshanging01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 244
+        },
+        "points": [[0.0, 0.0, -120.74]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxambbeamdust_dim01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternfalkreathtable01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternmarkarthhanging01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternsolitudehanging02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternfalkreathhanging01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternfarmstable01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternwhiteruntable02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[41.67, 3.85, 100.35]]
+      }
+    ],
+    "models": ["clutter\\crucifiedskele\\lux_skeletoncrucifiedlantern.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanterndawnguardhanging01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternmorthalhanging01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternsolitudehangingbugged01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternorsimertable01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternriftentable02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternmorthaltable01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 247
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxglowfillroundmid.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternfarmshanging01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternriftenhanging01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 247
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxglowfillroundbrt.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternsolitudehanging03.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternriftentable01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 8.33]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternsolitudetable03.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [244, 145, 46],
+          "fade": 1.6,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 12.0]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternruinstable01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [85, 85, 85],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 206
+        },
+        "points": [[0.0, 0.0, -0.0]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxsmokewetmistlg1x1.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [54, 101, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 19
+        },
+        "points": [[0.24, 0.41, 17.65]]
+      }
+    ],
+    "models": ["clutter\\lanterns\\lux_lanternwinterholdtable01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 242
+        },
+        "points": [[0.0, 0.0, -120.74]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxambbeamdust_dim00.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 118
+        },
+        "points": [[0.0, 0.0, -0.0]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxsmokelargeclose01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 263
+        },
+        "points": [[0.0, 0.0, -120.74]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxambbeamdust_dim03.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 285
+        },
+        "points": [[0.0, 0.0, -120.74]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxambbeamdust_dim04.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 247
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxglowfillrounddim.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 247
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxglowfillroundxdim.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [70, 70, 70],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 206
+        },
+        "points": [
+          [-165.75, 116.41, -4.56],
+          [193.2, 131.41, -4.56]
+        ]
+      },
+      {
+        "data": {
+          "color": [85, 85, 85],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 206
+        },
+        "points": [[166.39, -183.27, -4.56]]
+      },
+      {
+        "data": {
+          "color": [69, 69, 69],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 206
+        },
+        "points": [[-185.69, -167.54, -4.56]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxsmokewetmistlgvol01.nif"]
+  }
+]
