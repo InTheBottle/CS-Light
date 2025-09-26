@@ -3,10 +3,54 @@
     "lights": [
       {
         "data": {
-          "color": [136, 136, 136],
-          "fade": 0.8,
+          "color": [166, 101, 5],
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 60.0,
+          "flags": "Simple",
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
+        },
+        "points": [[-296.0, 87.0, -72.0]]
+      },
+      {
+        "data": {
+          "color": [166, 101, 5],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 60.0,
+          "flags": "Simple",
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
+        },
+        "points": [
+          [-296.0, 39.0, -72.0],
+          [-66.0, -168.0, -70.0],
+          [152.0, 104.0, -72.0],
+          [-243.0, -168.0, -70.0],
+          [104.0, 104.0, -72.0]
+        ]
+      }
+    ],
+    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilhousewind01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [166, 101, 5],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 60.0,
+          "flags": "Simple",
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [420.6, 20.56, 232.04],
@@ -57,10 +101,15 @@
       },
       {
         "data": {
-          "color": [136, 136, 136],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 60.0,
+          "flags": "Simple",
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [-14.28, -434.48, 866.64],
@@ -76,10 +125,15 @@
     "lights": [
       {
         "data": {
-          "color": [136, 136, 136],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 60.0,
+          "flags": "Simple",
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [-139.0, 244.0, -91.0],
@@ -92,10 +146,15 @@
       },
       {
         "data": {
-          "color": [136, 136, 136],
-          "fade": 0.8,
+          "color": [166, 101, 5],
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 60.0,
+          "flags": "Simple",
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [-242.0, -46.0, -91.0],
@@ -108,7 +167,12 @@
           "color": [235, 191, 146],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 60.0,
+          "flags": "Simple",
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [[0.0, -2.0, 292.0]]
       }
@@ -119,39 +183,15 @@
     "lights": [
       {
         "data": {
-          "color": [136, 136, 136],
-          "fade": 0.8,
-          "light": "MagicLightWhite01",
-          "radius": 256
-        },
-        "points": [[-296.0, 87.0, -72.0]]
-      },
-      {
-        "data": {
-          "color": [136, 136, 136],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
-        },
-        "points": [
-          [-296.0, 39.0, -72.0],
-          [-66.0, -168.0, -70.0],
-          [152.0, 104.0, -72.0],
-          [-243.0, -168.0, -70.0],
-          [104.0, 104.0, -72.0]
-        ]
-      }
-    ],
-    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilhousewind01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [136, 136, 136],
-          "fade": 0.8,
-          "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 60.0,
+          "flags": "Simple",
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [241.0, -51.0, -91.0],
@@ -162,10 +202,15 @@
       },
       {
         "data": {
-          "color": [136, 136, 136],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 60.0,
+          "flags": "Simple",
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [241.0, 46.0, -91.0],
@@ -180,7 +225,12 @@
           "color": [235, 191, 146],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 60.0,
+          "flags": "Simple",
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [[0.0, -2.0, 292.0]]
       }
@@ -191,10 +241,15 @@
     "lights": [
       {
         "data": {
-          "color": [136, 136, 136],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 60.0,
+          "flags": "Simple",
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [155.0, -147.0, -74.0],
@@ -205,10 +260,15 @@
       },
       {
         "data": {
-          "color": [136, 136, 136],
-          "fade": 0.8,
+          "color": [166, 101, 5],
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 60.0,
+          "flags": "Simple",
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [362.0, 44.5, -98.0],
@@ -226,10 +286,15 @@
     "lights": [
       {
         "data": {
-          "color": [136, 136, 136],
-          "fade": 0.8,
+          "color": [166, 101, 5],
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 60.0,
+          "flags": "Simple",
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [53.0, -119.0, -190.0],
@@ -239,10 +304,15 @@
       },
       {
         "data": {
-          "color": [136, 136, 136],
+          "color": [166, 101, 5],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 60.0,
+          "flags": "Simple",
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [94.0, 28.0, -190.0],
