@@ -6,7 +6,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [-212.0, -417.0, 354.0],
@@ -34,7 +38,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [-591.0, 103.0, 326.0],
@@ -80,7 +88,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [986.0, -77.0, 761.0],
@@ -116,7 +128,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [-216.0, 88.0, 492.0],
@@ -140,7 +156,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [1119.0, -1757.0, 396.0],
@@ -157,7 +177,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [153.0, -244.0, 688.0],
@@ -212,7 +236,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [271.0, -176.0, 121.0],
@@ -236,7 +264,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [118.0, 59.0, 394.0],
@@ -263,7 +295,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [-307.0, -228.0, 264.0],
@@ -302,7 +338,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [946.0, 456.0, 113.0],
@@ -325,7 +365,11 @@
           "color": [136, 161, 160],
           "fade": 0.5,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [[-1174.0, 456.0, 580.0]]
       }
@@ -339,7 +383,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [272.0, -175.0, 122.0],
@@ -361,7 +409,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [624.0, -1333.0, 520.0],
@@ -399,7 +451,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [249.0, 1678.0, 1863.0],
@@ -428,7 +484,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [-144.0, -150.0, 318.0],
@@ -452,7 +512,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [289.0, -519.0, 442.0],
@@ -510,7 +574,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [-67.0, -580.0, 373.0],
@@ -557,7 +625,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [189.0, 275.0, 171.0],
@@ -596,7 +668,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [189.0, -102.0, 125.0],
@@ -638,7 +714,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [-440.0, 608.0, 60.0],
@@ -753,7 +833,11 @@
           "color": [136, 161, 160],
           "fade": 0.5,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [[-1165.0, 456.0, 836.0]]
       }
@@ -767,7 +851,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [495.0, -668.0, 501.0],
@@ -798,7 +886,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [-31.0, 284.0, 260.0],
@@ -817,7 +909,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [271.0, -76.0, 121.0],
@@ -839,7 +935,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [8.0, 793.0, 260.0],
@@ -898,7 +998,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [45.0, 307.0, 682.0],
@@ -928,7 +1032,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [-128.0, -1054.0, 671.0],
@@ -992,7 +1100,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [-110.0, -46.0, 358.0],
@@ -1018,7 +1130,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [123.0, -21.0, 428.0],
@@ -1041,7 +1157,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [-373.0, 37.0, 436.0],
@@ -1066,7 +1186,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [87.0, 385.0, 375.0],
@@ -1118,7 +1242,11 @@
           "color": [136, 161, 160],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 256
+          "radius": 256,
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
         },
         "points": [
           [618.0, 136.0, 271.0],
