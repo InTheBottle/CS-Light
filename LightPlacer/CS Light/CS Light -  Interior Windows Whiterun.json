@@ -419,7 +419,7 @@
           "fade": 1.5,
           "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "size": 3.0
+          "size": 4.0
         },
         "points": [[0, 0, 100]]
       }
@@ -461,7 +461,7 @@
           "fade": 1.5,
           "flags": "InverseSquare",
           "light": "DefaultSunlight01NS",
-          "size": 3.0
+          "size": 4.0
         },
         "points": [[-10, 0, 120]]
       }
