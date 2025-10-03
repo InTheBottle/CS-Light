@@ -1,4 +1,4 @@
-[b][size=5][center][color=#fff2cc]Description[/color][/center][/size][/b][size=4]This mod is a collection of configurations for [b]Light Placer[/b] created by myself and members of the Community Shaders Discord. These configurations are designed to be used with [b]Community Shaders[/b], the [b]Light Limit Fix[/b], and other lighting mods, offering better compatibility and customization.
+[center]Description[/center][b][size=5][center][/center][/size][/b][size=4]This mod is a collection of configurations for [b]Light Placer[/b] created by myself and members of the Community Shaders Discord. These configurations are designed to be used with [b]Community Shaders[/b], the [b]Light Limit Fix[/b], and other lighting mods, offering better compatibility and customization.
 [b]
 Key Features[/b]:
 
@@ -9,14 +9,13 @@ Key Features[/b]:
 [*][size=4]Designed to work with [b]Community Shaders[/b] and [b]Light Limit Fix[/b], ensuring proper functionality without exceeding the light limit.[/size]
 [*][size=4]The option to mix ENB Light selectively for additional lighting effects by customizing which lights should be installed[/size]
 [*][size=4]Fully customizable fade and radius parameters to adjust brightness and light distance[/size]
-[*][size=4]Optional support for [url=https://www.nexusmods.com/skyrimspecialedition/mods/153542]Inverse Square Lighting[/url][/size]
+[*][size=4]Semi-Optional support for [/size][size=4][url=https://www.nexusmods.com/skyrimspecialedition/mods/153542]Inverse Square Lighting[/url] (Some jsons are available for ISL only)[/size]
 [/list][b][size=5][center][color=#fff2cc]
 Who Is This Mod For?[/color][/center][/size][/b][size=5][b]This mod is ideal for:[/b][/size]
 
 [list]
 [*][size=4]Those who use [b]Light Placer[/b] and wish to enhance compatibility with other lighting mods.[/size]
-[*][size=4]Those who want to get lights for glowing objects without using ENB lights[/size]
-[*][size=4]Those who want to mix ENB light with Community Shader lighting setups.[/size]
+[*][size=4]Those who are looking for an alternative for ENB Light.[/size]
 [/list][b][center][size=5][color=#fff2cc]
 Requirements[/color][/size][/center][/b][b][size=5]This mod requires the following:[/size][/b]
 
@@ -42,7 +41,7 @@ Requirements[/color][/size][/center][/b][b][size=5]This mod requires the followi
 [/list][b][center][size=5][color=#fff2cc]Notes[/color][/size][/center][/b]
 [list]
 [*][size=4]Avoid stacking multiple configurations for the same objects, as this can lead to overly bright lights.[/size]
-[*][size=4][b]Mixing with ENB Light[/b]: This is supported, but ensure you don’t double stack lights, which could cause excessive brightening.[/size]
+[*][size=4][b]Mixing with ENB Light[/b]: from CS version 1.4 ENB Light is not supported from the side of CS so there is no point in worrying about this.[/size]
 [/list]
 [center][size=4][b]Compatibility[/b][/size][/center]
 [list]
