@@ -2,7 +2,6 @@
   {
     "lights": [
       {
-        "whiteList": ["0x08786a", "0x08785f", "0x0dcafd", "0x0D7D38"],
         "data": {
           "fade": 1.5,
           "externalEmittance": "FXLightRegionSunlight",
@@ -25,6 +24,7 @@
   {
     "lights": [
       {
+        "whiteList": ["0x08786a", "0x08785f", "0x0dcafd", "0x0D7D38"],
         "data": {
           "fade": 12,
           "externalEmittance": "FXLightRegionSunlight",
