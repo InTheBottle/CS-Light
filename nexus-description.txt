@@ -1,13 +1,13 @@
-[center]Description[/center][b][size=5][center][/center][/size][/b][size=4]This mod is a collection of configurations for [b]Light Placer[/b] created by myself and members of the Community Shaders Discord. These configurations are designed to be used with [b]Community Shaders[/b], the [b]Light Limit Fix[/b], and other lighting mods, offering better compatibility and customization.
+[center]Description[/center][b][size=5][center][/center][/size][/b][size=4]This mod is a collection of configurations for [b]Light Placer[/b] created by myself and members of the Community Shaders Discord. These configurations are designed to be used with [b]Community Shaders[/b] and other lighting mods, offering compatibility and customization.
 [b]
 Key Features[/b]:
 
 [/size][list]
 [*][size=4]Pre-configured JSON files for Light Placer[/size]
 [*][size=4]Covers many objects that emit light in the game like [b]candles[/b], [b]lanterns[/b], [b]fires[/b], [b]ingredients[/b], [b]potions[/b], [b]windows[/b], [b]effect shaders[/b], [b]plants[/b], [b]insects[/b] and many more [/size]
-[*][size=4]Compatibility with any lighting mod[b].[/b][/size]
-[*][size=4]Designed to work with [b]Community Shaders[/b] and [b]Light Limit Fix[/b], ensuring proper functionality without exceeding the light limit.[/size]
-[*][size=4]The option to mix ENB Light selectively for additional lighting effects by customizing which lights should be installed[/size]
+[*][size=4]Compatibility with any lighting mod.[/size]
+[*][size=4]Designed to work with [b]Community Shaders[/b] ensuring proper functionality without exceeding the light limit.[/size]
+[*][size=4]Fully customizable which lights should be installed[/size]
 [*][size=4]Fully customizable fade and radius parameters to adjust brightness and light distance[/size]
 [*][size=4]Semi-Optional support for [/size][size=4][url=https://www.nexusmods.com/skyrimspecialedition/mods/153542]Inverse Square Lighting[/url] (Some jsons are available for ISL only)[/size]
 [/list][b][size=5][center][color=#fff2cc]
@@ -15,13 +15,12 @@ Who Is This Mod For?[/color][/center][/size][/b][size=5][b]This mod is ideal for
 
 [list]
 [*][size=4]Those who use [b]Light Placer[/b] and wish to enhance compatibility with other lighting mods.[/size]
-[*][size=4]Those who are looking for an alternative for ENB Light.[/size]
+[*][size=4]Those who are looking for an alternative for ENB lights, aka particle lights[/size]
 [/list][b][center][size=5][color=#fff2cc]
 Requirements[/color][/size][/center][/b][b][size=5]This mod requires the following:[/size][/b]
 
 [list]
 [*][size=4][b][url=https://www.nexusmods.com/skyrimspecialedition/mods/86492]Community Shaders[/url][/b] [i](hard requirement)[/i][/size]
-[*][size=4][b][url=https://www.nexusmods.com/skyrimspecialedition/mods/99548]Light Limit Fix[/url][/b] [i](hard requirement)[/i][/size]
 [*][size=4][b][url=https://www.nexusmods.com/skyrimspecialedition/mods/127557]Light Placer[/url][/b] [i](hard requirement)[/i][/size]
 [*][size=4][b][url=https://www.nexusmods.com/skyrimspecialedition/mods/51073]powerofthree's tweaks[/url][/b][/size]
 [/list][b][center][size=5][color=#fff2cc]Usage Instructions[/color][/size][/center][/b]
@@ -40,17 +39,12 @@ Requirements[/color][/size][/center][/b][b][size=5]This mod requires the followi
 [*][size=4]Save your changes and reload your game.[/size]
 [/list][b][center][size=5][color=#fff2cc]Notes[/color][/size][/center][/b]
 [list]
-[*][size=4]Avoid stacking multiple configurations for the same objects, as this can lead to overly bright lights.[/size]
-[*][size=4][b]Mixing with ENB Light[/b]: from CS version 1.4 ENB Light is not supported from the side of CS so there is no point in worrying about this.[/size]
+[*][size=4][b]Mixing with ENB lights[/b]: from CS version 1.4 ENB lights are not supported from the side of CS so the enb light mods in your mod list are not contributing to lighting when using CS[/size]
 [/list]
 [center][size=4][b]Compatibility[/b][/size][/center]
 [list]
 [*]Designed for use with [url=https://www.nexusmods.com/skyrimspecialedition/mods/135488]True light[/url] or any other interior lighting mods, provided that configurations are not stacked
-[*][url=https://www.nexusmods.com/skyrimspecialedition/mods/99768]LLF Particle lights instead of fake glow[/url] - places many particle lights based on billboard texture names, [b]not recommended[/b] to use in combination with this mod
-[*][url=https://www.nexusmods.com/skyrimspecialedition/mods/65720]Particle Patch[/url] - places particle lights but they are per default inactive when using latest Community Shaders, so [b]compatible[/b] (if no [i]pp_black.ini[/i] was created manually)
-[*][url=https://www.nexusmods.com/skyrimspecialedition/mods/56362]ENB lights for effect shaders[/url] - places lights for effect shaders, [b]overlaps[/b] with "Magic FX lights" option
-[*]Any mod that places ENB lights like [url=https://www.nexusmods.com/skyrimspecialedition/mods/40991]More lights for ENB SE - Glowing mushrooms[/url] - [b]compatible[/b] if the option in the installer is not used, otherwise double lighting
-[*][url=https://www.nexusmods.com/skyrimspecialedition/mods/22574]ENB light[/url] - many overlaps so there will be [b]double lighting[/b] if the options in the installers are not carefully checked against each other. The  magic effects not handled by CS light currently are explosions and impacts, so those won't overlap. Note that projectiles are handled by Light Limit Fix already so ENB light is not needed. See also the article [url=https://www.nexusmods.com/skyrimspecialedition/articles/9833]Magic effect lights[/url]
+[*][url=https://www.nexusmods.com/skyrimspecialedition/mods/65720]Particle Patch[/url] - places particle lights but they are inactive when using latest Community Shaders, so [b]compatible[/b]
 [*][url=https://www.nexusmods.com/skyrimspecialedition/mods/27732]Luminous Atronachs[/url] and [url=https://www.nexusmods.com/skyrimspecialedition/mods/138128]iLluminous Elementals[/url] - CS light does not place lights for atronachs, so [b]fully compatible[/b]
 [/list][line][b]Credits[/b][list]
 [*]Configurations by members of the [b]Community Shaders Discord[/b].
