@@ -1,0 +1,150 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [158, 249, 228],
+          "fade": 0.8,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 58.0]]
+      }
+    ],
+    "models": ["plants\\floranirnroot01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [94, 202, 235],
+          "fade": 0.8,
+          "light": "MagicLightWhite01",
+          "radius": 77
+        },
+        "points": [
+          [14.0, -14.0, 27.0],
+          [5.0, 17.0, 25.0]
+        ]
+      }
+    ],
+    "models": [
+      "_byoh\\plants\\switchnodechildren\\byohhouseingrdglowmushrm01_1.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [166, 99, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 3.0, 40.0]]
+      }
+    ],
+    "models": ["_byoh\\plants\\byohhouseingrddeathbell01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 120, 113],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 58.0]]
+      }
+    ],
+    "models": ["plants\\floranirnroot01red.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [166, 99, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 12.0, 99.0]]
+      }
+    ],
+    "models": ["plants\\floradeathbell01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [94, 202, 235],
+          "fade": 0.8,
+          "light": "MagicLightWhite01",
+          "radius": 77
+        },
+        "points": [[1.0, -1.0, 11.0]]
+      }
+    ],
+    "models": ["plants\\glowingmushroom01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [94, 202, 235],
+          "fade": 0.8,
+          "light": "MagicLightWhite01",
+          "radius": 77
+        },
+        "points": [[6.0, -12.0, 22.0]]
+      }
+    ],
+    "models": ["plants\\glowingmushroomsingle01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [166, 99, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 8.0, 99.0]]
+      }
+    ],
+    "models": ["plants\\floradeathbell02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [94, 202, 235],
+          "fade": 0.8,
+          "light": "MagicLightWhite01",
+          "radius": 77
+        },
+        "points": [
+          [29.0, -10.0, 30.0],
+          [-5.0, 17.0, 22.0]
+        ]
+      }
+    ],
+    "models": ["_byoh\\plants\\byohhouseingrdglowmushrm01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [94, 202, 235],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 77
+        },
+        "points": [[17.0, -18.0, 43.0]]
+      }
+    ],
+    "models": ["plants\\glowingmushroomcluster01.nif"]
+  }
+]

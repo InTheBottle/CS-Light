@@ -4,9 +4,9 @@
       {
         "data": {
           "color": [190, 255, 248],
-          "fade": 2.0,
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 64
         },
         "points": [
           [28.0, 0.0, 13.0],
@@ -21,9 +21,9 @@
       {
         "data": {
           "color": [190, 255, 248],
-          "fade": 2.0,
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 64
         },
         "points": [
           [25.0, -10.0, 8.0],
@@ -38,9 +38,9 @@
       {
         "data": {
           "color": [190, 255, 248],
-          "fade": 2.0,
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 64
         },
         "points": [
           [70.0, 0.0, 23.0],
@@ -56,9 +56,9 @@
       {
         "data": {
           "color": [190, 255, 248],
-          "fade": 2.0,
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 64
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -70,9 +70,9 @@
       {
         "data": {
           "color": [190, 255, 248],
-          "fade": 2.0,
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 64
         },
         "points": [
           [15.0, 0.0, 5.0],

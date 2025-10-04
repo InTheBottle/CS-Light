@@ -4,7 +4,7 @@
       {
         "data": {
           "color": [240, 244, 45],
-          "fade": 3.0,
+          "fade": 1.0,
           "light": "GreenPoisonGasLight",
           "radius": 71
         },
