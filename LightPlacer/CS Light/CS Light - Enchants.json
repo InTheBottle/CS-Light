@@ -73,7 +73,7 @@
       }
     ]
   },
-    {
+  {
     "lights": [
       {
         "data": {
@@ -139,7 +139,7 @@
     ],
     "models": ["weapons\\dawnbreaker\\dawnbreaker.nif"]
   },
-    {
+  {
     "lights": [
       {
         "data": {

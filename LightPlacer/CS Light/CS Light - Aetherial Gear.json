@@ -3,234 +3,126 @@
     "lights": [
       {
         "data": {
-          "color": [
-            45,
-            175,
-            472
-          ],
+          "color": [45, 175, 472],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 64
         },
-        "points": [
-          [
-            0.0,
-            8.7,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 8.7, 0.0]]
       }
     ],
-    "models": [
-      "dlc01\\armor\\circlets\\circletcrystal_go.nif"
-    ]
+    "models": ["dlc01\\armor\\circlets\\circletcrystal_go.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            45,
-            175,
-            472
-          ],
+          "color": [45, 175, 472],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 64
         },
-        "points": [
-          [
-            0.0,
-            53.7,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 53.7, 0.0]]
       }
     ],
-    "models": [
-      "dlc01\\weapons\\dwarven\\dwarvenstaffcrystal.nif"
-    ]
+    "models": ["dlc01\\weapons\\dwarven\\dwarvenstaffcrystal.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            45,
-            175,
-            472
-          ],
+          "color": [45, 175, 472],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 64
         },
-        "points": [
-          [
-            0.0,
-            9.7,
-            129.0
-          ]
-        ]
+        "points": [[0.0, 9.7, 129.0]]
       }
     ],
-    "models": [
-      "dlc01\\armor\\circlets\\circletkhaajitmcrystal.nif"
-    ]
+    "models": ["dlc01\\armor\\circlets\\circletkhaajitmcrystal.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            45,
-            175,
-            472
-          ],
+          "color": [45, 175, 472],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 64
         },
-        "points": [
-          [
-            0.0,
-            8.7,
-            128.0
-          ]
-        ]
+        "points": [[0.0, 8.7, 128.0]]
       }
     ],
-    "models": [
-      "dlc01\\armor\\circlets\\circletmcrystal.nif"
-    ]
+    "models": ["dlc01\\armor\\circlets\\circletmcrystal.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            45,
-            175,
-            472
-          ],
+          "color": [45, 175, 472],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 64
         },
-        "points": [
-          [
-            0.0,
-            9.7,
-            131.0
-          ]
-        ]
+        "points": [[0.0, 9.7, 131.0]]
       }
     ],
-    "models": [
-      "dlc01\\armor\\circlets\\circletargonianmcrystal.nif"
-    ]
+    "models": ["dlc01\\armor\\circlets\\circletargonianmcrystal.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            45,
-            175,
-            472
-          ],
+          "color": [45, 175, 472],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 64
         },
-        "points": [
-          [
-            0.0,
-            9.7,
-            129.0
-          ]
-        ]
+        "points": [[0.0, 9.7, 129.0]]
       }
     ],
-    "models": [
-      "dlc01\\armor\\circlets\\circletkhaajitfcrystal.nif"
-    ]
+    "models": ["dlc01\\armor\\circlets\\circletkhaajitfcrystal.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            45,
-            175,
-            472
-          ],
+          "color": [45, 175, 472],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 64
         },
-        "points": [
-          [
-            0.0,
-            7.7,
-            127.0
-          ]
-        ]
+        "points": [[0.0, 7.7, 127.0]]
       }
     ],
-    "models": [
-      "dlc01\\armor\\circlets\\circletfcrystal.nif"
-    ]
+    "models": ["dlc01\\armor\\circlets\\circletfcrystal.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            45,
-            175,
-            472
-          ],
+          "color": [45, 175, 472],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 64
         },
-        "points": [
-          [
-            0.0,
-            8.7,
-            130.0
-          ]
-        ]
+        "points": [[0.0, 8.7, 130.0]]
       }
     ],
-    "models": [
-      "dlc01\\armor\\circlets\\circletargonianfcrystsal.nif"
-    ]
+    "models": ["dlc01\\armor\\circlets\\circletargonianfcrystsal.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            45,
-            175,
-            472
-          ],
+          "color": [45, 175, 472],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 64
         },
-        "points": [
-          [
-            0.0,
-            53.7,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 53.7, 0.0]]
       }
     ],
-    "models": [
-      "dlc01\\weapons\\dwarven\\1stpersondwarvenstaffcrystal.nif"
-    ]
+    "models": ["dlc01\\weapons\\dwarven\\1stpersondwarvenstaffcrystal.nif"]
   }
 ]
