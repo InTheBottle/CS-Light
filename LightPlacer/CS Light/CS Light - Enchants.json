@@ -72,5 +72,137 @@
         }
       }
     ]
+  },
+    {
+    "lights": [
+      {
+        "data": {
+          "color": [0, 0, 0],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 29
+        },
+        "points": [[-0.1, 10.36, -0.01]]
+      },
+      {
+        "data": {
+          "color": [76, 76, 76],
+          "fade": 1.0,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.03333299979567528,
+                "value": 1.5
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 25
+        },
+        "points": [[-0.1, 9.87, 0.01]]
+      },
+      {
+        "data": {
+          "color": [255, 255, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 247
+        },
+        "points": [[0.19, 8.61, -0.01]]
+      },
+      {
+        "data": {
+          "color": [170, 170, 170],
+          "fade": 1.0,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.03333299979567528,
+                "value": 1.0
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 8
+        },
+        "points": [
+          [-0.07, 9.44, -0.01],
+          [-0.1, 9.44, -0.01]
+        ]
+      }
+    ],
+    "models": ["weapons\\dawnbreaker\\dawnbreaker.nif"]
+  },
+    {
+    "lights": [
+      {
+        "data": {
+          "color": [8, 8, 8],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 247
+        },
+        "points": [[0.0, 9.35, 0.0]]
+      },
+      {
+        "data": {
+          "color": [76, 76, 76],
+          "fade": 1.0,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.03333299979567528,
+                "value": 1.5
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 25
+        },
+        "points": [[0.0, 9.35, 0.0]]
+      },
+      {
+        "data": {
+          "color": [0, 0, 0],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 29
+        },
+        "points": [[0.0, 9.35, 0.0]]
+      },
+      {
+        "data": {
+          "color": [170, 170, 170],
+          "fade": 1.0,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.03333299979567528,
+                "value": 1.0
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 25
+        },
+        "points": [
+          [0.0, 9.35, 0.0],
+          [0.0, 9.35, 0.0]
+        ]
+      }
+    ],
+    "models": ["weapons\\dawnbreaker\\1stpersondawnbreaker.nif"]
   }
 ]
