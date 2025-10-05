@@ -124,9 +124,7 @@
     ]
   },
   {
-    "models": [
-      "clutter\\glazedcandlesstatic02.nif"
-    ],
+    "models": ["clutter\\glazedcandlesstatic02.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, 10.0]],
@@ -160,9 +158,7 @@
     ]
   },
   {
-   "models": [
-      "clutter\\ruins\\ruinscandlesconceon02.nif"
-    ],
+    "models": ["clutter\\ruins\\ruinscandlesconceon02.nif"],
     "lights": [
       {
         "points": [[-23.0, 0.0, 30.0]],
@@ -230,7 +226,7 @@
     ]
   },
   {
-    "models": [ "clutter\\shrines\\shrinebase.nif"],
+    "models": ["clutter\\shrines\\shrinebase.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, 12.0]],
@@ -292,7 +288,7 @@
     ]
   },
   {
-    "models": [ "clutter\\ruins\\ruinsfloorcandlelampmidon.nif"],
+    "models": ["clutter\\ruins\\ruinsfloorcandlelampmidon.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, 75.0]],
@@ -307,9 +303,7 @@
     ]
   },
   {
-    "models": [
-      "clutter\\ruins\\ruinsfloorcandlelampmidon02.nif"
-    ],
+    "models": ["clutter\\ruins\\ruinsfloorcandlelampmidon02.nif"],
     "lights": [
       {
         "points": [[0.0, 0.0, 75.0]],
