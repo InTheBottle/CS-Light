@@ -1,0 +1,322 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [182, 231, 180],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberigreenlightnpcfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [226, 140, 63],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberifirelight1stfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [226, 140, 63],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberifirelightsmoothfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [235, 235, 231],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberiicelightsmoothfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [235, 235, 231],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberiicelight1stfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [182, 231, 180],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberigreenlight1stfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [182, 231, 180],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberigreenlightsmoothfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [226, 140, 63],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberifirelightnpcfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [235, 235, 231],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberiicelightnpcfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [235, 235, 231],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberiicelightfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [79, 66, 232],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberipurplelightsmoothfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [182, 231, 180],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberigreenlightfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [226, 140, 63],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberifirelightfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [79, 66, 232],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberipurplelightfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [204, 176, 148],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberipurelight1stfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [204, 176, 148],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberipurelightnpcfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [204, 176, 148],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberipurelightfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [79, 66, 232],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberipurplelight1stfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [204, 176, 148],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberipurelightsmoothfx.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [79, 66, 232],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["quickberi\\quickberipurplelightnpcfx.nif"]
+  }
+]

@@ -34,6 +34,70 @@
     ]
   },
   {
+    "lights": [
+      {
+        "data": {
+          "color": [9, 0, 185],
+          "fade": 0.7,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 64.0, 79.0]]
+      }
+    ],
+    "models": ["furniture\\workbenches\\enchantingworkstation01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [9, 0, 185],
+          "fade": 0.7,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 92.0, 78.0]]
+      }
+    ],
+    "models": ["furniture\\enchantingworkbench.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [9, 0, 185],
+          "fade": 0.7,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 92.0, 78.0]]
+      }
+    ],
+    "models": ["furniture\\workbenches\\enchantingworkbench01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [9, 0, 185],
+          "fade": 0.7,
+          "light": "MagicLightWhite01",
+          "cutoff": 0.1,
+          "size": 2.0,
+          "flags": "InverseSquare"
+        },
+        "points": [[0.0, 64.0, 79.0]]
+      }
+    ],
+    "models": ["furniture\\enchantingworkstation.nif"]
+  },
+  {
     "models": ["dlc01\\furniture\\oven01.nif"],
     "lights": [
       {

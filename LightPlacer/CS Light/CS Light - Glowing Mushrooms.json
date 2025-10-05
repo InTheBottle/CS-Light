@@ -64,5 +64,49 @@
         }
       }
     ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "offset": [29.0, -10.0, 30.0],
+          "color": [94, 202, 235],
+          "fade": 0.8,
+          "light": "MagicLightWhite01",
+          "radius": 77
+        },
+        "nodes": "BYOHHouseIngrdGlowMushrm01:0"
+      },
+      {
+        "data": {
+          "offset": [-5.0, 17.0, 22.0],
+          "color": [94, 202, 235],
+          "fade": 0.8,
+          "light": "MagicLightWhite01",
+          "radius": 77
+        },
+        "nodes": "BYOHHouseIngrdGlowMushrm01:0"
+      }
+    ],
+    "models": ["_byoh\\plants\\byohhouseingrdglowmushrm01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [94, 202, 235],
+          "fade": 0.8,
+          "light": "MagicLightWhite01",
+          "radius": 77
+        },
+        "points": [
+          [14.0, -14.0, 27.0],
+          [5.0, 17.0, 25.0]
+        ]
+      }
+    ],
+    "models": [
+      "_byoh\\plants\\switchnodechildren\\byohhouseingrdglowmushrm01_1.nif"
+    ]
   }
 ]
