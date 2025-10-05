@@ -34,33 +34,10 @@
   {
     "models": [
       "clutter\\candles\\candlehornwall01.nif",
-      "clutter\\candles\\candlehorntable01.nif"
-    ],
-    "lights": [
-      {
-        "points": [[0.0, -25.0, 45.0]],
-        "data": {
-          "light": "DefaultCandleLight01NS",
-          "fade": 0.35,
-          "cutoff": 0.08,
-          "flags": "InverseSquare|Flicker|IgnoreScale"
-        }
-      }
-    ]
-  },
-  {
-    "models": [
+      "clutter\\candles\\candlehorntable01.nif",
+      "clutter\\imperial\\impwallsconcecandle01.nif",
+      "clutter\\imperial\\impwallsconcecandle02.nif",
       "clutter\\imperial\\impcandle01.nif",
-      "clutter\\imperial\\impcandle01_B.nif",
-      "clutter\\imperial\\impcandle01_C.nif",
-      "clutter\\imperial\\impcandle01_D.nif",
-      "clutter\\imperial\\impcandle01_E.nif",
-      "clutter\\imperial\\impcandle01_F.nif",
-      "clutter\\imperial\\impcandle01_G.nif",
-      "clutter\\imperial\\impcandle01_H.nif",
-      "clutter\\imperial\\impcandle01_I.nif",
-      "clutter\\imperial\\impcandle01_J.nif",
-      "clutter\\imperial\\impcandle01_K.nif",
       "clutter\\silver\\silvercandlestick01.nif",
       "clutter\\silver\\silvercandlestick03.nif",
       "clutter\\sovngarde\\sovcandlestick01.nif",
@@ -70,10 +47,36 @@
     ],
     "lights": [
       {
-        "points": [[0.0, 0, 45.0]],
+        "nodes": ["AddOnNode49"],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.2,
+          "size": 0.5,
+          "cutoff": 0.15,
+          "flags": "InverseSquare|Flicker|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\imperial\\impcandle01_B.nif",
+      "clutter\\imperial\\impcandle01_C.nif",
+      "clutter\\imperial\\impcandle01_D.nif",
+      "clutter\\imperial\\impcandle01_E.nif",
+      "clutter\\imperial\\impcandle01_F.nif",
+      "clutter\\imperial\\impcandle01_G.nif",
+      "clutter\\imperial\\impcandle01_H.nif",
+      "clutter\\imperial\\impcandle01_I.nif",
+      "clutter\\imperial\\impcandle01_J.nif",
+      "clutter\\imperial\\impcandle01_K.nif"
+    ],
+    "lights": [
+      {
+        "nodes": ["AddOnNode49"],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "fade": 0.6,
           "cutoff": 0.15,
           "flags": "InverseSquare|Flicker|IgnoreScale"
         }
@@ -83,7 +86,6 @@
   {
     "models": [
       "clutter\\glazedcandles01.nif",
-      "clutter\\glazedcandlesstatic02.nif",
       "clutter\\GlazedCandles01_B.nif",
       "clutter\\GlazedCandles01_C.nif",
       "clutter\\GlazedCandles01_D.nif",
@@ -110,10 +112,28 @@
     ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 22.0]],
+        "points": [[0.0, 0.0, 10.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.2,
+          "size": 0.5,
+          "cutoff": 0.15,
+          "flags": "InverseSquare|Flicker|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\glazedcandlesstatic02.nif"
+    ],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 10.0]],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "fade": 0.2,
+          "size": 0.5,
           "cutoff": 0.15,
           "flags": "InverseSquare|Flicker|IgnoreScale"
         }
@@ -123,7 +143,6 @@
   {
     "models": [
       "clutter\\ruins\\ruinscandlesconceon01.nif",
-      "clutter\\ruins\\ruinscandlesconceon02.nif",
       "fuzzbeed\\dragoncultbronze\\clutter\\ruins\\ruinscandlesconceon01bronze.nif",
       "fuzzbeed\\dragoncultbronze\\clutter\\ruins\\ruinscandlesconceon02bronze.nif"
     ],
@@ -132,7 +151,25 @@
         "points": [[-23.0, 0.0, 30.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
-          "fade": 0.3,
+          "fade": 0.2,
+          "size": 0.5,
+          "cutoff": 0.15,
+          "flags": "IgnoreScale|InverseSquare"
+        }
+      }
+    ]
+  },
+  {
+   "models": [
+      "clutter\\ruins\\ruinscandlesconceon02.nif"
+    ],
+    "lights": [
+      {
+        "points": [[-23.0, 0.0, 30.0]],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "fade": 0.2,
+          "size": 0.5,
           "cutoff": 0.15,
           "flags": "IgnoreScale|InverseSquare"
         }
@@ -165,6 +202,7 @@
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.2,
+          "size": 0.5,
           "cutoff": 0.15,
           "flags": "InverseSquare|Flicker|IgnoreScale"
         }
@@ -176,16 +214,29 @@
       "clutter\\ruins\\ruinsfloorcandlelampsmon.nif",
       "clutter\\ruins\\ruinsfloorcandlelampsmon02.nif",
       "fuzzbeed\\dragoncultbronze\\clutter\\ruins\\ruinsfloorcandlelampsmonbronze.nif",
-      "fuzzbeed\\dragoncultbronze\\clutter\\ruins\\ruinsfloorcandlelampsmon02bronze.nif",
-      "clutter\\shrines\\shrinebase.nif"
+      "fuzzbeed\\dragoncultbronze\\clutter\\ruins\\ruinsfloorcandlelampsmon02bronze.nif"
     ],
     "lights": [
       {
         "points": [[0.0, 0.0, 30.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
-          "fade": 0.5,
+          "fade": 0.2,
+          "size": 0.5,
           "cutoff": 0.15,
+          "flags": "InverseSquare|Flicker|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [ "clutter\\shrines\\shrinebase.nif"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 12.0]],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "fade": 0.9,
           "flags": "InverseSquare|Flicker|IgnoreScale"
         }
       }
@@ -201,7 +252,7 @@
         "points": [[0.0, 0.0, 40.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
-          "fade": 0.7,
+          "fade": 0.25,
           "flags": "InverseSquare|Flicker|IgnoreScale|PortalStrict"
         }
       }
@@ -209,20 +260,64 @@
   },
   {
     "models": [
-      "clutter\\ruins\\ruinsfloorcandlelampmidon.nif",
-      "clutter\\ruins\\ruinsfloorcandlelampmidon02.nif",
       "fuzzbeed\\dragoncultbronze\\clutter\\ruins\\ruinsfloorcandlelampmidonbronze.nif",
       "fuzzbeed\\dragoncultbronze\\clutter\\ruins\\ruinsfloorcandlelampmidon02bronze.nif",
-      "clutter\\imperial\\impcandelabracandle01.nif",
-      "clutter\\imperial\\impcandelabracandle02.nif"
+      "clutter\\imperial\\impcandelabracandle01.nif"
     ],
     "lights": [
       {
         "points": [[0.0, 0.0, 100.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
-          "fade": 0.5,
-          "cutoff": 0.04,
+          "fade": 0.2,
+          "size": 0.5,
+          "cutoff": 0.15,
+          "flags": "InverseSquare|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": ["clutter\\imperial\\impcandelabracandle02.nif"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 168.0]],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "fade": 0.9,
+          "cutoff": 0.15,
+          "flags": "InverseSquare|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [ "clutter\\ruins\\ruinsfloorcandlelampmidon.nif"],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 75.0]],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "fade": 0.15,
+          "size": 0.5,
+          "cutoff": 0.15,
+          "flags": "InverseSquare|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\ruins\\ruinsfloorcandlelampmidon02.nif"
+    ],
+    "lights": [
+      {
+        "points": [[0.0, 0.0, 75.0]],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "fade": 0.35,
+          "size": 0.75,
+          "cutoff": 0.15,
           "flags": "InverseSquare|IgnoreScale"
         }
       }
@@ -235,8 +330,9 @@
         "points": [[0.0, 0.0, 130.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
-          "fade": 0.25,
-          "cutoff": 0.04,
+          "fade": 0.2,
+          "size": 0.5,
+          "cutoff": 0.15,
           "flags": "InverseSquare|IgnoreScale"
         }
       }
@@ -258,11 +354,10 @@
     ],
     "lights": [
       {
-        "points": [[-20.0, 0.0, 40.0]],
+        "points": [[-7.0, 0.0, 20.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.9,
-          "cutoff": 0.2,
           "flags": "InverseSquare|Flicker|IgnoreScale"
         }
       }
@@ -295,7 +390,7 @@
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 64.0,
-          "fade": 1.2,
+          "fade": 0.6,
           "flags": "IgnoreScale"
         }
       }
@@ -303,7 +398,6 @@
   },
   {
     "models": [
-      "clutter\\imperial\\impwallsconcecandle01.nif",
       "clutter\\imperial\\ImpWallSconceCandle01_B.nif",
       "clutter\\imperial\\ImpWallSconceCandle01_C.nif",
       "clutter\\imperial\\ImpWallSconceCandle01_D.nif",
@@ -315,15 +409,15 @@
       "clutter\\imperial\\ImpWallSconceCandle01_J.nif",
       "clutter\\imperial\\ImpWallSconceCandle01_K.nif",
       "clutter\\imperial\\ImpWallSconceCandle01_L.nif",
-      "clutter\\imperial\\ImpWallSconceCandle01_M.nif",
-      "clutter\\imperial\\impwallsconcecandle02.nif"
+      "clutter\\imperial\\ImpWallSconceCandle01_M.nif"
     ],
     "lights": [
       {
-        "points": [[-20.0, 0.0, 15.0]],
+        "points": [[-9.0, 0.0, 7.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.2,
+          "size": 0.5,
           "cutoff": 0.15,
           "flags": "InverseSquare|Flicker|IgnoreScale"
         }
