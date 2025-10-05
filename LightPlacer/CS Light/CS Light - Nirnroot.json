@@ -1,0 +1,30 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [158, 249, 228],
+          "fade": 0.8,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 58.0]]
+      }
+    ],
+    "models": ["plants\\floranirnroot01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 120, 113],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [[0.0, 0.0, 58.0]]
+      }
+    ],
+    "models": ["plants\\floranirnroot01red.nif"]
+  }
+]
