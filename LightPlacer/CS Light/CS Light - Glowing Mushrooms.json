@@ -75,7 +75,7 @@
           "light": "MagicLightWhite01",
           "radius": 77
         },
-	  "nodes": ["BYOHHouseIngrdGlowMushrm01:0"]
+        "nodes": ["BYOHHouseIngrdGlowMushrm01:0"]
       },
       {
         "data": {
