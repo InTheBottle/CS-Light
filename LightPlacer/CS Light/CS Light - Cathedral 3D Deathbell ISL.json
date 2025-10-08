@@ -10,7 +10,7 @@
           "color": [165, 100, 255],
           "fade": 0.04,
           "size": 1.0,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -21,7 +21,7 @@
           "color": [165, 100, 255],
           "fade": 0.04,
           "size": 1.0,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -32,7 +32,7 @@
           "color": [165, 100, 255],
           "fade": 0.04,
           "size": 1.0,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -43,7 +43,7 @@
           "color": [165, 100, 255],
           "fade": 0.04,
           "size": 1.0,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -54,7 +54,7 @@
           "color": [165, 100, 255],
           "fade": 0.04,
           "size": 1.0,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -65,7 +65,7 @@
           "color": [165, 100, 255],
           "fade": 0.04,
           "size": 1.0,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       }
     ]
@@ -81,7 +81,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -92,7 +92,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -103,7 +103,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -114,7 +114,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -125,7 +125,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -136,7 +136,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       }
     ]
@@ -152,7 +152,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -163,7 +163,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -174,7 +174,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -185,7 +185,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -196,7 +196,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -207,7 +207,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -218,7 +218,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -229,7 +229,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -240,7 +240,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -251,7 +251,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -262,7 +262,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -273,7 +273,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -284,7 +284,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -295,7 +295,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -306,7 +306,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -317,7 +317,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -328,7 +328,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       },
       {
@@ -339,7 +339,7 @@
           "color": [165, 100, 255],
           "fade": 0.3,
           "size": 2.5,
-          "flags": "InverseSquare"
+          "flags": "InverseSquare|PortalStrict"
         }
       }
     ]

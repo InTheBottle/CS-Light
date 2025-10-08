@@ -3,6 +3,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "offset": [0.0, 3.0, 40.0],
           "color": [166, 99, 255],
           "fade": 1.0,
@@ -18,6 +19,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "offset": [0.0, 12.0, 99.0],
           "color": [166, 99, 255],
           "fade": 1.0,
@@ -33,6 +35,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "offset": [63.0, -40.0, 50.0],
           "color": [166, 99, 255],
           "fade": 1.0,
