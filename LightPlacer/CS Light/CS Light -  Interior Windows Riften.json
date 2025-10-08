@@ -4,7 +4,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare",
+          "flags": "InverseSquare|PortalStrict",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3,
@@ -23,7 +23,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare",
+          "flags": "InverseSquare|PortalStrict",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3,
@@ -52,7 +52,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare",
+          "flags": "InverseSquare|PortalStrict",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3,
@@ -71,7 +71,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare",
+          "flags": "InverseSquare|PortalStrict",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3,
@@ -90,7 +90,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare",
+          "flags": "InverseSquare|PortalStrict",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3,
@@ -108,7 +108,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare",
+          "flags": "InverseSquare|PortalStrict",
           "light": "DefaultSunlight01NS",
           "fade": 3,
           "size": 5,
@@ -124,7 +124,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare",
+          "flags": "InverseSquare|PortalStrict",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3,
@@ -143,7 +143,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare",
+          "flags": "InverseSquare|PortalStrict",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3,
