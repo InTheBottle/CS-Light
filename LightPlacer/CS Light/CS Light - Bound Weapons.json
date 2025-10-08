@@ -3,6 +3,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [127, 102, 204],
           "fade": 2.0,
           "light": "MagicLightShockHand",
@@ -17,6 +18,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [97, 11, 247],
           "fade": 1.0,
           "light": "MagicLightShockHand",
@@ -31,6 +33,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [127, 102, 204],
           "fade": 1.0,
           "light": "MagicLightShockHand",
@@ -45,6 +48,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [127, 102, 204],
           "fade": 1.0,
           "light": "MagicLightShockHand",
@@ -59,6 +63,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [127, 102, 204],
           "fade": 2.0,
           "light": "MagicLightShockHand",
@@ -84,6 +89,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [127, 102, 204],
           "fade": 2.0,
           "light": "MagicLightShockHand",
@@ -98,6 +104,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [127, 102, 204],
           "fade": 2.0,
           "light": "MagicLightShockHand",
