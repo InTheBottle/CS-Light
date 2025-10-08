@@ -18,7 +18,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -86,7 +86,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -130,7 +130,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -153,7 +153,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -177,7 +177,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -205,7 +205,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -251,7 +251,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -285,7 +285,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -316,7 +316,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -366,7 +366,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -387,7 +387,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -414,7 +414,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -444,7 +444,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -473,7 +473,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -529,7 +529,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -583,7 +583,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -610,7 +610,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -662,7 +662,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -707,7 +707,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -733,7 +733,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -785,7 +785,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -847,7 +847,7 @@
           "light": "WRWindowFill",
           "radius": 55.0,
           "fade": 0.7,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
