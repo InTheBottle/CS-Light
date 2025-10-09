@@ -13,7 +13,7 @@
           "light": "DefaultTorch01NS",
           "radius": 300.0,
           "fade": 1.5,
-          "flags": "NoExternalEmittance"
+          "flags": "NoExternalEmittance|PortalStrict"
         }
       }
     ]
