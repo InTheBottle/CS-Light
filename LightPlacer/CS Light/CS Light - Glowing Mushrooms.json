@@ -4,6 +4,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [80, 255, 142],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -19,6 +20,7 @@
       {
         "nodes": ["GlowingMushRoomSingle01:0"],
         "data": {
+          "flags": "PortalStrict",
           "offset": [2.0, -4.0, 14.0],
           "color": [80, 255, 142],
           "fade": 1.0,
@@ -29,6 +31,7 @@
       {
         "nodes": ["GlowingMushRoomSingle01_1:0"],
         "data": {
+          "flags": "PortalStrict",
           "offset": [2.0, -4.0, 14.0],
           "color": [80, 255, 142],
           "fade": 0.5,
@@ -44,6 +47,7 @@
       {
         "nodes": ["GlowingMushroomCluster01:0 - L1_GlowingMushroomCLuster01:0"],
         "data": {
+          "flags": "PortalStrict",
           "offset": [14.0, -14.0, 30.0],
           "color": [80, 255, 142],
           "fade": 1.2,
@@ -56,6 +60,7 @@
           "GlowingMushroomCluster01_1:0 - L1_GlowingMushroomCLuster02:0"
         ],
         "data": {
+          "flags": "PortalStrict",
           "offset": [14.0, -14.0, 30.0],
           "color": [80, 255, 142],
           "fade": 0.75,
@@ -69,6 +74,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "offset": [29.0, -10.0, 30.0],
           "color": [94, 202, 235],
           "fade": 0.8,
@@ -79,6 +85,7 @@
       },
       {
         "data": {
+          "flags": "PortalStrict",
           "offset": [-5.0, 17.0, 22.0],
           "color": [94, 202, 235],
           "fade": 0.8,
@@ -94,6 +101,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [94, 202, 235],
           "fade": 0.8,
           "light": "MagicLightWhite01",

@@ -18,7 +18,7 @@
           "light": "LightCampFire01",
           "cutoff": 0.1,
           "fade": 1.0,
-          "flags": "IgnoreScale|InverseSquare"
+          "flags": "IgnoreScale|InverseSquare|PortalStrict"
         }
       }
     ]
@@ -38,7 +38,7 @@
           "light": "LightCampFire01",
           "fade": 3.5,
           "cutoff": 0.1,
-          "flags": "InverseSquare|IgnoreScale"
+          "flags": "InverseSquare|PortalStrict|IgnoreScale"
         }
       }
     ]
@@ -84,7 +84,7 @@
           "light": "LightCampFire01",
           "fade": 3.0,
           "cutoff": 0.1,
-          "flags": "IgnoreScale|InverseSquare"
+          "flags": "IgnoreScale|InverseSquare|PortalStrict"
         }
       }
     ]
