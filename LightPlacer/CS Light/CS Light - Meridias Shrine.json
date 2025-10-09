@@ -3,6 +3,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [255, 244, 163],
           "fade": 5.0,
           "light": "MagicLightWhite01",
@@ -17,6 +18,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [255, 244, 163],
           "fade": 5.0,
           "light": "MagicLightWhite01",
@@ -32,6 +34,7 @@
       },
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [255, 255, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
@@ -41,6 +44,7 @@
       },
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [76, 76, 76],
           "fade": 1.5,
           "light": "MagicLightWhite01",
@@ -55,6 +59,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [255, 244, 163],
           "fade": 5.0,
           "light": "MagicLightWhite01",
@@ -69,6 +74,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [255, 244, 163],
           "fade": 2.5,
           "light": "MagicLightWhite01",
@@ -83,6 +89,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [255, 244, 163],
           "fade": 5.0,
           "light": "MagicLightWhite01",
@@ -97,6 +104,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [129, 129, 129],
           "fade": 2.0,
           "light": "MagicLightWhite01",
@@ -109,6 +117,7 @@
       },
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [213, 213, 213],
           "fade": 1.5,
           "light": "MagicLightWhite01",
@@ -121,6 +130,7 @@
       },
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [76, 76, 76],
           "fade": 1.5,
           "light": "MagicLightWhite01",
@@ -130,6 +140,7 @@
       },
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [170, 170, 170],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -142,6 +153,7 @@
       },
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [255, 255, 221],
           "fade": 1.0,
           "light": "MagicLightWhite01",

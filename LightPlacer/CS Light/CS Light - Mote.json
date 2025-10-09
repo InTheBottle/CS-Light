@@ -5,6 +5,7 @@
       {
         "points": [[0.0, 0.0, 0.0]],
         "data": {
+          "flags": "PortalStrict",
           "light": "MagicLightWhite01",
           "color": [80, 235, 255],
           "radius": 64.0,
