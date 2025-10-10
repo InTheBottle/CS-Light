@@ -9,7 +9,7 @@
           "light": "nocturnallight",
           "radius": 20.0,
           "fade": 1,
-          "flags": "Simple"
+          "flags": "Simple|PortalStrict"
         }
       }
     ]
@@ -24,7 +24,7 @@
           "light": "nocturnallight",
           "radius": 20.0,
           "fade": 1,
-          "flags": "Simple"
+          "flags": "Simple|PortalStrict"
         }
       }
     ]
@@ -39,7 +39,7 @@
           "light": "nocturnallight",
           "radius": 20.0,
           "fade": 1,
-          "flags": "Simple"
+          "flags": "Simple|PortalStrict"
         }
       }
     ]
@@ -54,7 +54,7 @@
           "light": "nocturnallight",
           "radius": 20.0,
           "fade": 1,
-          "flags": "Simple"
+          "flags": "Simple|PortalStrict"
         }
       }
     ]
@@ -69,7 +69,7 @@
           "light": "nocturnallight",
           "radius": 20.0,
           "fade": 5,
-          "flags": "Simple"
+          "flags": "Simple|PortalStrict"
         }
       }
     ]

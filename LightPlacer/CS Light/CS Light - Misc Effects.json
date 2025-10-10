@@ -3,6 +3,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [189, 140, 91],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -12,6 +13,7 @@
       },
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [26, 77, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -28,6 +30,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [127, 102, 204],
           "fade": 2.0,
           "light": "MagicLightWhite01",
@@ -42,6 +45,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [130, 79, 255],
           "fade": 3.0,
           "light": "MagicLightWhite01",
@@ -56,6 +60,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [106, 106, 106],
           "fade": 1.5,
           "light": "MagicLightWhite01",
@@ -65,6 +70,7 @@
       },
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [161, 161, 161],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -79,6 +85,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [54, 101, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -93,6 +100,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [189, 143, 91],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -102,6 +110,7 @@
       },
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [82, 184, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -116,6 +125,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [85, 85, 85],
           "fade": 2.8,
           "light": "MagicLightWhite01",
@@ -130,6 +140,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [189, 143, 91],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -139,6 +150,7 @@
       },
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [77, 179, 255],
           "fade": 0.6,
           "light": "MagicLightWhite01",
@@ -153,6 +165,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [255, 44, 4],
           "fade": 6.0,
           "light": "MagicLightWhite01",
@@ -167,6 +180,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [97, 11, 247],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -181,6 +195,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [25, 37, 47],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -195,6 +210,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [7, 35, 91],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -204,6 +220,7 @@
       },
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [26, 77, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
@@ -227,6 +244,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [23, 77, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -241,6 +259,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [244, 244, 128],
           "fade": 2.0,
           "light": "MagicLightWhite01",
@@ -250,6 +269,7 @@
       },
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [202, 150, 86],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -259,6 +279,7 @@
       },
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [255, 255, 252],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -273,6 +294,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [10, 47, 122],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -282,6 +304,7 @@
       },
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [26, 77, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
@@ -296,6 +319,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [21, 76, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -310,6 +334,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [26, 77, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
@@ -324,6 +349,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [7, 35, 91],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -333,6 +359,7 @@
       },
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [26, 77, 255],
           "fade": 0.5,
           "light": "MagicLightWhite01",
@@ -357,6 +384,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [127, 102, 204],
           "fade": 2.0,
           "light": "MagicLightWhite01",

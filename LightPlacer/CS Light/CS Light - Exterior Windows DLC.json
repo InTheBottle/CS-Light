@@ -7,7 +7,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -21,7 +21,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -46,7 +46,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -105,7 +105,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -129,7 +129,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -150,7 +150,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -168,7 +168,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -187,7 +187,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -206,7 +206,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -226,7 +226,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -245,7 +245,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -264,7 +264,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -290,7 +290,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
@@ -308,7 +308,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple",
+          "flags": "Simple|PortalStrict",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"

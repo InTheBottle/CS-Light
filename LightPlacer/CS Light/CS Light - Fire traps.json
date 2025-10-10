@@ -3,6 +3,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [255, 193, 111],
           "fade": 2.0,
           "light": "LightCampFire01",
@@ -28,6 +29,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [255, 193, 111],
           "fade": 2.5,
           "light": "LightCampFire01",

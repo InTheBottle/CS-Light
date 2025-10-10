@@ -3,6 +3,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [240, 244, 45],
           "fade": 1.0,
           "light": "GreenPoisonGasLight",
@@ -17,6 +18,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [45, 244, 108],
           "fade": 1.2,
           "light": "GreenPoisonGasLight",
@@ -31,6 +33,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [45, 244, 108],
           "fade": 1.2,
           "light": "GreenPoisonGasLight",
@@ -45,6 +48,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [45, 244, 108],
           "fade": 1.2,
           "light": "GreenPoisonGasLight",
@@ -59,6 +63,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [240, 244, 45],
           "fade": 1.2,
           "light": "GreenPoisonGasLight",
@@ -73,6 +78,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [45, 244, 108],
           "fade": 0.8,
           "light": "GreenPoisonGasLight",

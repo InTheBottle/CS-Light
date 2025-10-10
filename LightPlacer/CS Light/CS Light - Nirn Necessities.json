@@ -3,6 +3,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [255, 239, 200],
           "fade": 2.0,
           "fadeController": {
@@ -58,6 +59,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [229, 200, 255],
           "fade": 10.0,
           "fadeController": {
@@ -113,6 +115,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [217, 206, 193],
           "fade": 1.0,
           "fadeController": {
@@ -163,6 +166,7 @@
       },
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [255, 163, 100],
           "fade": 1.0,
           "fadeController": {
@@ -216,6 +220,7 @@
       },
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [220, 205, 187],
           "fade": 1.0,
           "fadeController": {
@@ -271,6 +276,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [200, 223, 255],
           "fade": 10.0,
           "fadeController": {

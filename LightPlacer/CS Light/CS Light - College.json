@@ -17,6 +17,7 @@
           "AttachLight01"
         ],
         "data": {
+          "flags": "PortalStrict",
           "light": "MGFirePillarLightBlue",
           "radius": 350.0,
           "fade": 2.0
@@ -30,6 +31,7 @@
       {
         "points": [[0.0, 0.0, 0.0]],
         "data": {
+          "flags": "PortalStrict",
           "light": "MGFirePillarLightBlue",
           "radius": 128.0,
           "fade": 1.0
@@ -43,6 +45,7 @@
       {
         "points": [[0.0, 0.0, 0.0]],
         "data": {
+          "flags": "PortalStrict",
           "light": "MagicLightWhite01",
           "radius": 128.0,
           "fade": 1.0

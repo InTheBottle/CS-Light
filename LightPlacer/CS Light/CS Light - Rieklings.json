@@ -6,7 +6,8 @@
           "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 71,
+          "flags": "PortalStrict"
         },
         "points": [
           [14.0, -12.0, 145.0],
@@ -25,7 +26,8 @@
           "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 71,
+          "flags": "PortalStrict"
         },
         "points": [
           [-161.0, 10.0, 214.97],
@@ -45,7 +47,8 @@
           "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 71,
+          "flags": "PortalStrict"
         },
         "points": [
           [105.0, 110.0, 89.0],
@@ -64,7 +67,8 @@
           "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 71,
+          "flags": "PortalStrict"
         },
         "points": [[-100.0, 2.0, 108.0]]
       }
@@ -78,7 +82,8 @@
           "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 71,
+          "flags": "PortalStrict"
         },
         "points": [[2.0, -1.0, 108.0]]
       }
@@ -92,7 +97,8 @@
           "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 71,
+          "flags": "PortalStrict"
         },
         "points": [[0.0, -4.0, 126.0]]
       }
@@ -106,7 +112,8 @@
           "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 71,
+          "flags": "PortalStrict"
         },
         "points": [
           [112.0, -71.0, 200.0],
@@ -128,7 +135,8 @@
           "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 71,
+          "flags": "PortalStrict"
         },
         "points": [
           [152.0, 3.0, 30.0],
@@ -148,7 +156,8 @@
           "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 71,
+          "flags": "PortalStrict"
         },
         "points": [[-2.0, 2.0, 108.0]]
       }
@@ -162,7 +171,8 @@
           "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 71,
+          "flags": "PortalStrict"
         },
         "points": [
           [42.0, 127.0, 105.0],
@@ -179,7 +189,8 @@
           "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 71,
+          "flags": "PortalStrict"
         },
         "points": [
           [-120.0, 88.0, 55.0],
@@ -206,7 +217,8 @@
           "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 71,
+          "flags": "PortalStrict"
         },
         "points": [
           [105.0, 98.0, 55.0],
@@ -233,7 +245,8 @@
           "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 71,
+          "flags": "PortalStrict"
         },
         "points": [
           [38.0, 92.0, 95.0],

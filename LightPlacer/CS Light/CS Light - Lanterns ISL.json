@@ -8,7 +8,7 @@
           "light": "DefaultCandleLight01NS",
           "fade": 0.3,
           "cutoff": 0.15,
-          "flags": "InverseSquare|IgnoreScale"
+          "flags": "InverseSquare|IgnoreScale|PortalStrict"
         }
       }
     ]
@@ -66,7 +66,7 @@
           "light": "DefaultCandleLight01NS",
           "fade": 0.3,
           "cutoff": 0.15,
-          "flags": "InverseSquare|IgnoreScale"
+          "flags": "InverseSquare|IgnoreScale|PortalStrict"
         }
       }
     ]
@@ -96,7 +96,7 @@
           "shadowDepthBias": 0.0,
           "rotation": [0.0, 180.0, 180.0],
           "cutoff": 0.15,
-          "flags": "InverseSquare|Shadow|IgnoreScale"
+          "flags": "InverseSquare|Shadow|IgnoreScale|PortalStrict"
         }
       }
     ]
@@ -110,7 +110,7 @@
           "light": "DefaultCandleLight01NS",
           "fade": 0.3,
           "cutoff": 0.15,
-          "flags": "InverseSquare|IgnoreScale"
+          "flags": "InverseSquare|IgnoreScale|PortalStrict"
         }
       }
     ]
@@ -131,7 +131,7 @@
           "light": "DefaultCandleLight01NS",
           "fade": 0.3,
           "cutoff": 0.15,
-          "flags": "InverseSquare|IgnoreScale"
+          "flags": "InverseSquare|IgnoreScale|PortalStrict"
         }
       }
     ]

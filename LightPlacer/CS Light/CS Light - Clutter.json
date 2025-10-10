@@ -3,6 +3,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [75, 197, 158],
           "fade": 1.1,
           "light": "MagicLightWhite01",
@@ -23,7 +24,7 @@
           "light": "GreenPoisonGasLight",
           "radius": 5.5,
           "fade": 15.0,
-          "flags": "Simple|IgnoreScale"
+          "flags": "Simple|IgnoreScale|PortalStrict"
         }
       }
     ]
@@ -38,7 +39,7 @@
           "light": "GreenPoisonGasLight",
           "radius": 5.5,
           "fade": 15.0,
-          "flags": "Simple|IgnoreScale"
+          "flags": "Simple|IgnoreScale|PortalStrict"
         }
       }
     ]
@@ -53,7 +54,7 @@
           "light": "GreenPoisonGasLight",
           "radius": 16,
           "fade": 2.0,
-          "flags": "Simple|IgnoreScale"
+          "flags": "Simple|IgnoreScale|PortalStrict"
         }
       }
     ]
@@ -71,7 +72,7 @@
           "light": "GreenPoisonGasLight",
           "radius": 6.0,
           "fade": 3.5,
-          "flags": "IgnoreScale|RandomAnimStart",
+          "flags": "IgnoreScale|RandomAnimStart|PortalStrict",
           "colorController": {
             "interpolation": "Linear",
             "keys": [
@@ -119,7 +120,7 @@
           "light": "MagicLightWhite01",
           "radius": 5.25,
           "fade": 35.0,
-          "flags": "IgnoreScale"
+          "flags": "IgnoreScale|PortalStrict"
         }
       }
     ]
@@ -133,7 +134,7 @@
           "light": "MagicLightWhite01",
           "radius": 7.5,
           "fade": 7.5,
-          "flags": "IgnoreScale"
+          "flags": "IgnoreScale|PortalStrict"
         }
       }
     ]
@@ -147,7 +148,7 @@
           "light": "FXLightBlueGlow",
           "radius": 5.25,
           "fade": 35.0,
-          "flags": "IgnoreScale"
+          "flags": "IgnoreScale|PortalStrict"
         }
       }
     ]
@@ -161,7 +162,7 @@
           "light": "FXLightBlueGlow",
           "radius": 5.25,
           "fade": 35.0,
-          "flags": "IgnoreScale|RandomAnimStart",
+          "flags": "IgnoreScale|RandomAnimStart|PortalStrict",
           "colorController": {
             "interpolation": "Linear",
             "keys": [
@@ -216,7 +217,7 @@
           "light": "AzuraSuperBlue01",
           "radius": 5.25,
           "fade": 15.0,
-          "flags": "IgnoreScale"
+          "flags": "IgnoreScale|PortalStrict"
         }
       }
     ]
@@ -231,7 +232,7 @@
           "light": "MagicLightWhite01",
           "radius": 6.25,
           "fade": 1.0,
-          "flags": "IgnoreScale"
+          "flags": "IgnoreScale|PortalStrict"
         }
       }
     ]
@@ -245,7 +246,7 @@
           "light": "GreenPoisonGasLight",
           "radius": 6.25,
           "fade": 1.5,
-          "flags": "IgnoreScale"
+          "flags": "IgnoreScale|PortalStrict"
         }
       }
     ]
@@ -255,6 +256,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [80, 235, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
@@ -269,6 +271,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [80, 235, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
@@ -283,6 +286,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [80, 235, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
@@ -297,6 +301,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [80, 235, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
@@ -311,6 +316,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [80, 235, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
@@ -329,7 +335,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 15,
-          "flags": "Simple"
+          "flags": "Simple|PortalStrict"
         },
         "points": [[0.0, 0.0, 4.5]]
       }
@@ -341,6 +347,7 @@
       {
         "nodes": ["Eggsacs:0"],
         "data": {
+          "flags": "PortalStrict",
           "offset": [0.0, 0.0, 50.0],
           "color": [80, 235, 255],
           "fade": 5.0,
@@ -356,6 +363,7 @@
       {
         "nodes": ["Eggsacs01:0"],
         "data": {
+          "flags": "PortalStrict",
           "offset": [0.0, 0.0, 32.0],
           "color": [80, 235, 255],
           "fade": 2.0,
@@ -371,6 +379,7 @@
       {
         "nodes": ["Eggsacs02:0"],
         "data": {
+          "flags": "PortalStrict",
           "offset": [0.0, 0.0, 20.0],
           "color": [80, 235, 255],
           "fade": 2.0,

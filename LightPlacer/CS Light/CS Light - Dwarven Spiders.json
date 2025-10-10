@@ -3,6 +3,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict",
           "color": [255, 51, 0],
           "fade": 1.8,
           "light": "MagicLightWhite01",
