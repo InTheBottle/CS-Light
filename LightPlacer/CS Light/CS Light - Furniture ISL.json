@@ -38,13 +38,13 @@
       {
         "data": {
           "color": [9, 0, 185],
-          "fade": 0.7,
+          "fade": 0.45,
           "light": "MagicLightWhite01",
-          "cutoff": 0.1,
+          "cutoff": 0.25,
           "size": 2.0,
           "flags": "InverseSquare|PortalStrict"
         },
-        "points": [[0.0, 64.0, 79.0]]
+        "points": [[0.0, 64.0, 90.0]]
       }
     ],
     "models": ["furniture\\workbenches\\enchantingworkstation01.nif"]
