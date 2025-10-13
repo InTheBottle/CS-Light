@@ -1,0 +1,128 @@
+[
+  {
+    "models": ["plants\\glowingmushroom01.nif"],
+    "lights": [
+      {
+        "data": {
+          "flags": "InverseSquare|PortalStrict",
+          "color": [80, 255, 142],
+          "fade": 0.5,
+          "light": "MagicLightWhite01",
+          "size": 2,
+          "cutoff": 0.3
+        },
+        "points": [[0.0, -2.0, 12.0]]
+      }
+    ]
+  },
+  {
+    "models": ["plants\\glowingmushroomsingle01.nif"],
+    "lights": [
+      {
+        "nodes": ["GlowingMushRoomSingle01:0"],
+        "data": {
+          "flags": "InverseSquare|PortalStrict",
+          "offset": [2.0, -4.0, 14.0],
+          "color": [80, 255, 142],
+          "fade": 0.5,
+          "light": "MagicLightWhite01",
+          "size": 2,
+          "cutoff": 0.3
+        }
+      },
+      {
+        "nodes": ["GlowingMushRoomSingle01_1:0"],
+        "data": {
+          "flags": "InverseSquare|PortalStrict",
+          "offset": [2.0, -4.0, 14.0],
+          "color": [80, 255, 142],
+          "fade": 0.25,
+          "light": "MagicLightWhite01",
+          "size": 2,
+          "cutoff": 0.3
+        }
+      }
+    ]
+  },
+  {
+    "models": ["plants\\glowingmushroomcluster01.nif"],
+    "lights": [
+      {
+        "nodes": ["GlowingMushroomCluster01:0 - L1_GlowingMushroomCLuster01:0"],
+        "data": {
+          "flags": "InverseSquare|PortalStrict",
+          "offset": [14.0, -14.0, 30.0],
+          "color": [80, 255, 142],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "size": 2,
+          "cutoff": 0.3
+        }
+      },
+      {
+        "nodes": [
+          "GlowingMushroomCluster01_1:0 - L1_GlowingMushroomCLuster02:0"
+        ],
+        "data": {
+          "flags": "InverseSquare|PortalStrict",
+          "offset": [14.0, -14.0, 30.0],
+          "color": [80, 255, 142],
+          "fade": 0.3,
+          "light": "MagicLightWhite01",
+          "size": 2,
+          "cutoff": 0.3
+        }
+      }
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "InverseSquare|PortalStrict",
+          "offset": [29.0, -10.0, 30.0],
+          "color": [94, 202, 235],
+          "fade": 0.4,
+          "light": "MagicLightWhite01",
+          "size": 2,
+          "cutoff": 0.3
+        },
+        "nodes": ["BYOHHouseIngrdGlowMushrm01:0"]
+      },
+      {
+        "data": {
+          "flags": "InverseSquare|PortalStrict",
+          "offset": [-5.0, 17.0, 22.0],
+          "color": [94, 202, 235],
+          "fade": 0.4,
+          "light": "MagicLightWhite01",
+          "size": 2,
+          "cutoff": 0.3
+        },
+        "nodes": ["BYOHHouseIngrdGlowMushrm01:0"]
+      }
+    ],
+    "models": ["_byoh\\plants\\byohhouseingrdglowmushrm01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "InverseSquare|PortalStrict",
+          "color": [94, 202, 235],
+          "fade": 0.4,
+          "light": "MagicLightWhite01",
+          "size": 2,
+          "cutoff": 0.3
+        },
+        "points": [
+          [14.0, -14.0, 27.0],
+          [5.0, 17.0, 25.0]
+        ]
+      }
+    ],
+    "models": [
+      "_byoh\\plants\\switchnodechildren\\byohhouseingrdglowmushrm01_1.nif"
+    ]
+  }
+]
