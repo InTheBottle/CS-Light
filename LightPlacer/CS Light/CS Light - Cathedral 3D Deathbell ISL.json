@@ -79,8 +79,8 @@
           "offset": [-37.0, 38.0, 88.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -90,8 +90,8 @@
           "offset": [-37.0, 44.0, 65.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -101,8 +101,8 @@
           "offset": [-13.0, -25.0, 100.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -112,8 +112,8 @@
           "offset": [-13.0, -27.0, 80.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -123,8 +123,8 @@
           "offset": [54.0, 0.0, 85.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -134,8 +134,8 @@
           "offset": [52.0, -1.0, 65.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       }
@@ -150,8 +150,8 @@
           "offset": [29.0, -84.0, 85.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -161,8 +161,8 @@
           "offset": [29.0, -84.0, 65.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -172,8 +172,8 @@
           "offset": [80.0, -47.0, 65.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -183,8 +183,8 @@
           "offset": [80.0, -47.0, 50.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -194,8 +194,8 @@
           "offset": [74.0, -22.0, 70.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -205,8 +205,8 @@
           "offset": [73.0, -23.0, 50.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -216,8 +216,8 @@
           "offset": [-8.0, -37.0, 70.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -227,8 +227,8 @@
           "offset": [-9.0, -30.0, 50.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -238,8 +238,8 @@
           "offset": [9.0, -5.0, 85.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -249,8 +249,8 @@
           "offset": [9.0, -4.0, 65.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -260,8 +260,8 @@
           "offset": [29.0, 56.0, 70.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -271,8 +271,8 @@
           "offset": [31.0, 59.0, 55.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -282,8 +282,8 @@
           "offset": [-44.0, 0.0, 65.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -293,8 +293,8 @@
           "offset": [-44.0, 0.0, 50.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -304,8 +304,8 @@
           "offset": [-9.0, 86.0, 70.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -315,8 +315,8 @@
           "offset": [-6.0, 86.0, 55.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -326,8 +326,8 @@
           "offset": [-71.0, 60.0, 85.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       },
@@ -337,8 +337,8 @@
           "offset": [-73.0, 61.0, 60.0],
           "light": "MagicLightWhite01",
           "color": [165, 100, 255],
-          "fade": 0.3,
-          "size": 2.5,
+          "fade": 0.1,
+          "size": 3,
           "flags": "InverseSquare|PortalStrict"
         }
       }
