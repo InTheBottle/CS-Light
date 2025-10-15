@@ -4,7 +4,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -58,7 +58,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
         },
@@ -147,7 +147,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
         },
@@ -164,7 +164,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -221,7 +221,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
         },
@@ -242,7 +242,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -296,7 +296,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
         },
@@ -314,7 +314,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -436,7 +436,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
         },
@@ -526,7 +526,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
         },
@@ -543,7 +543,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -597,7 +597,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
         },
@@ -615,7 +615,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -670,7 +670,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
         },
@@ -689,7 +689,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -813,7 +813,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
         },
@@ -903,7 +903,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -953,7 +953,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
         },
@@ -1043,7 +1043,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -1096,7 +1096,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
         },
@@ -1189,7 +1189,7 @@
       {
         "data": {
           "flags": "PortalStrict",
-          "fade": 1.5,
+          "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
         },
