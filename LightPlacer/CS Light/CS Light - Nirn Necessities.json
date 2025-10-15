@@ -3,52 +3,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|InverseSquare",
           "color": [255, 239, 200],
-          "fade": 2.0,
-          "fadeController": {
-            "interpolation": "Linear",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.0,
-                "value": 0.699999988079071
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 3.0,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 4.0,
-                "value": 0.6000000238418579
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 6.0,
-                "value": 1.2999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 11.0,
-                "value": 0.800000011920929
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 14.0,
-                "value": 0.699999988079071
-              }
-            ]
-          },
-          "light": "MagicLightWhite01",
-          "radius": 72
+          "fade": 0.4,
+          "size": 2.0,
+          "light": "MagicLightWhite01"
         },
         "points": [[0.0, -26.0, 10.0]]
       }
@@ -59,52 +18,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|InverseSquare",
           "color": [229, 200, 255],
-          "fade": 10.0,
-          "fadeController": {
-            "interpolation": "Linear",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.0,
-                "value": 0.699999988079071
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 3.0,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 4.0,
-                "value": 0.6000000238418579
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 6.0,
-                "value": 1.2999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 11.0,
-                "value": 0.800000011920929
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 14.0,
-                "value": 0.699999988079071
-              }
-            ]
-          },
-          "light": "MagicLightWhite01",
-          "radius": 72
+          "fade": 0.4,
+          "size": 2.0,
+          "light": "MagicLightWhite01"
         },
         "points": [[0.0, -26.0, 10.0]]
       }
@@ -115,157 +33,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [217, 206, 193],
-          "fade": 1.0,
-          "fadeController": {
-            "interpolation": "Linear",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.0,
-                "value": 0.699999988079071
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 3.0,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 4.0,
-                "value": 0.6000000238418579
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 6.0,
-                "value": 1.2999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 11.0,
-                "value": 0.800000011920929
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 14.0,
-                "value": 0.699999988079071
-              }
-            ]
-          },
-          "light": "MagicLightWhite01",
-          "radius": 72
-        },
-        "points": [[16.0, 30.0, 70.0]]
-      },
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "color": [255, 163, 100],
-          "fade": 1.0,
-          "fadeController": {
-            "interpolation": "Linear",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.0,
-                "value": 0.699999988079071
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 3.0,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 4.0,
-                "value": 0.6000000238418579
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 6.0,
-                "value": 1.2999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 11.0,
-                "value": 0.800000011920929
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 14.0,
-                "value": 0.699999988079071
-              }
-            ]
-          },
-          "light": "MagicLightWhite01",
-          "radius": 72
-        },
-        "points": [
-          [25.0, 25.0, 75.0],
-          [5.0, 25.0, 75.0]
-        ]
-      },
-      {
-        "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|InverseSquare",
           "color": [220, 205, 187],
-          "fade": 1.0,
-          "fadeController": {
-            "interpolation": "Linear",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.0,
-                "value": 0.699999988079071
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 3.0,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 4.0,
-                "value": 0.6000000238418579
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 6.0,
-                "value": 1.2999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 11.0,
-                "value": 0.800000011920929
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 14.0,
-                "value": 0.699999988079071
-              }
-            ]
-          },
-          "light": "MagicLightWhite01",
-          "radius": 72
+          "fade": 0.4,
+          "size": 2.0,
+          "light": "MagicLightWhite01"
         },
         "points": [[16.0, 27.0, 67.0]]
       }
@@ -276,52 +48,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|InverseSquare",
           "color": [200, 223, 255],
-          "fade": 10.0,
-          "fadeController": {
-            "interpolation": "Linear",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.0,
-                "value": 0.699999988079071
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 3.0,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 4.0,
-                "value": 0.6000000238418579
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 6.0,
-                "value": 1.2999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 11.0,
-                "value": 0.800000011920929
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 14.0,
-                "value": 0.699999988079071
-              }
-            ]
-          },
-          "light": "MagicLightWhite01",
-          "radius": 72
+          "fade": 0.4,
+          "size": 2.0,
+          "light": "MagicLightWhite01"
         },
         "points": [[0.0, -26.0, 10.0]]
       }

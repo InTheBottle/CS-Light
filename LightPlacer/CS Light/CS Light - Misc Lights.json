@@ -3,7 +3,6 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
           "color": [174, 95, 146],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -18,7 +17,6 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
           "color": [174, 95, 146],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -33,7 +31,6 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
           "color": [255, 182, 33],
           "fade": 1.0,
           "fadeController": {
@@ -89,7 +86,6 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -204,7 +200,6 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
           "fade": 1.0,
           "light": "Ilinalta_OrangeFlicker",
           "radius": 71
