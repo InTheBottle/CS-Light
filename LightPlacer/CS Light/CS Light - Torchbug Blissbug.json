@@ -5,11 +5,11 @@
       {
         "data": {
           "color": [241, 255, 0],
-          "fade": 2.8,
+          "fade": 0.07,
+          "size": 0.3,
           "light": "MagicLightWhite01",
-          "radius": 77,
           "offset": [1.5, -2.5, -7.0],
-          "flags": "PortalStrict"
+          "flags" : "InverseSquare"
         },
         "nodes": ["Bone01"]
       }
@@ -21,11 +21,11 @@
       {
         "data": {
           "color": [241, 255, 0],
-          "fade": 1.1,
+          "fade": 0.03,
+          "size" : 0.2,
           "light": "MagicLightWhite01",
-          "radius": 77,
           "offset": [-0.5, 0.0, -1.0],
-          "flags": "PortalStrict"
+          "flags" : "InverseSquare"
         },
         "nodes": ["Bee01"]
       }
@@ -37,11 +37,11 @@
       {
         "data": {
           "color": [255, 138, 34],
-          "fade": 2.8,
+          "fade": 0.05,
+          "size": 0.3,
           "light": "MagicLightWhite01",
-          "radius": 77,
           "offset": [0.5, -2.5, -7.0],
-          "flags": "PortalStrict"
+          "flags" : "InverseSquare"
         },
         "nodes": ["Bone01"]
       }
@@ -53,11 +53,11 @@
       {
         "data": {
           "color": [255, 138, 34],
-          "fade": 2.8,
+          "fade": 0.02,
+          "size": 0.2,
           "light": "MagicLightWhite01",
-          "radius": 77,
           "offset": [-0.5, 0.0, -2.0],
-          "flags": "PortalStrict"
+          "flags" : "InverseSquare"
         },
         "nodes": ["b_MoveHelper"]
       }
