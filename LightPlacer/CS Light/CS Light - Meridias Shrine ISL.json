@@ -26,7 +26,6 @@
           "size": 2,
           "fade": 1.5,
           "flags": "PortalStrict|InverseSquare|IgnoreScale"
-
         },
         "points": [[-0.0, 0.0, 105]]
       }
@@ -44,7 +43,6 @@
           "size": 0.01,
           "fade": 0.1,
           "flags": "PortalStrict|InverseSquare|IgnoreScale"
-
         },
         "points": [
           [30.0, 30.0, 57.0],
@@ -99,9 +97,7 @@
           "fade": 1.5,
           "flags": "PortalStrict|InverseSquare|IgnoreScale"
         },
-        "points": [
-          [0, -125, 65]
-        ]
+        "points": [[0, -125, 65]]
       }
     ],
     "models": ["clutter\\dawnbreakerpedestal\\da09meridiastatuefx.nif"]
