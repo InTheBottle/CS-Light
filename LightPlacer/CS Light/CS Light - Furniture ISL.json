@@ -54,9 +54,9 @@
       {
         "data": {
           "color": [9, 0, 185],
-          "fade": 0.7,
+          "fade": 0.45,
           "light": "MagicLightWhite01",
-          "cutoff": 0.1,
+          "cutoff": 0.25,
           "size": 2.0,
           "flags": "InverseSquare|PortalStrict"
         },
@@ -70,9 +70,9 @@
       {
         "data": {
           "color": [9, 0, 185],
-          "fade": 0.7,
+          "fade": 0.45,
           "light": "MagicLightWhite01",
-          "cutoff": 0.1,
+          "cutoff": 0.25,
           "size": 2.0,
           "flags": "InverseSquare|PortalStrict"
         },
@@ -86,9 +86,9 @@
       {
         "data": {
           "color": [9, 0, 185],
-          "fade": 0.7,
+          "fade": 0.45,
           "light": "MagicLightWhite01",
-          "cutoff": 0.1,
+          "cutoff": 0.25,
           "size": 2.0,
           "flags": "InverseSquare|PortalStrict"
         },
