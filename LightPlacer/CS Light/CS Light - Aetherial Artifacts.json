@@ -3,11 +3,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "InverseSquare",
           "color": [45, 175, 472],
-          "fade": 1.0,
+          "fade": 0.4,
           "light": "MagicLightWhite01",
-          "radius": 64
+          "size": 2.0
         },
         "points": [[0.0, 8.7, 0.0]]
       }
@@ -18,11 +18,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "InverseSquare",
           "color": [45, 175, 472],
-          "fade": 1.0,
+          "fade": 0.4,
           "light": "MagicLightWhite01",
-          "radius": 64
+          "size": 2.0
         },
         "points": [[0.0, 53.7, 0.0]]
       }
@@ -33,11 +33,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "InverseSquare",
           "color": [45, 175, 472],
-          "fade": 1.0,
+          "fade": 0.4,
           "light": "MagicLightWhite01",
-          "radius": 64
+          "size": 2.0
         },
         "points": [[0.0, 9.7, 129.0]]
       }
@@ -48,11 +48,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "InverseSquare",
           "color": [45, 175, 472],
-          "fade": 1.0,
+          "fade": 0.4,
           "light": "MagicLightWhite01",
-          "radius": 64
+          "size": 2.0
         },
         "points": [[0.0, 8.7, 128.0]]
       }
@@ -63,11 +63,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "InverseSquare",
           "color": [45, 175, 472],
-          "fade": 1.0,
+          "fade": 0.4,
           "light": "MagicLightWhite01",
-          "radius": 64
+          "size": 2.0
         },
         "points": [[0.0, 9.7, 131.0]]
       }
@@ -78,11 +78,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "InverseSquare",
           "color": [45, 175, 472],
-          "fade": 1.0,
+          "fade": 0.4,
           "light": "MagicLightWhite01",
-          "radius": 64
+          "size": 2.0
         },
         "points": [[0.0, 9.7, 129.0]]
       }
@@ -93,11 +93,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "InverseSquare",
           "color": [45, 175, 472],
-          "fade": 1.0,
+          "fade": 0.4,
           "light": "MagicLightWhite01",
-          "radius": 64
+          "size": 2.0
         },
         "points": [[0.0, 7.7, 127.0]]
       }
@@ -108,11 +108,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "InverseSquare",
           "color": [45, 175, 472],
-          "fade": 1.0,
+          "fade": 0.4,
           "light": "MagicLightWhite01",
-          "radius": 64
+          "size": 2.0
         },
         "points": [[0.0, 8.7, 130.0]]
       }
@@ -123,11 +123,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "InverseSquare",
           "color": [45, 175, 472],
-          "fade": 1.0,
+          "fade": 0.4,
           "light": "MagicLightWhite01",
-          "radius": 64
+          "size": 2.0
         },
         "points": [[0.0, 53.7, 0.0]]
       }

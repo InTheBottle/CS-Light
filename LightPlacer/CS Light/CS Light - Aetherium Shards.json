@@ -3,11 +3,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "InverseSquare",
           "color": [127, 255, 255],
-          "fade": 10.0,
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 12
+          "size": 2.0
         },
         "points": [[-0.26, -0.15, 0.22]]
       }
@@ -20,11 +20,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "InverseSquare",
           "color": [127, 255, 255],
-          "fade": 10.0,
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 12
+          "size": 2.0
         },
         "points": [
           [0.67, -0.43, 77.96],
@@ -42,11 +42,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "InverseSquare",
           "color": [127, 255, 255],
-          "fade": 10.0,
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 12
+          "size": 2.0
         },
         "points": [[-0.26, -0.15, 0.22]]
       }
@@ -59,11 +59,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "InverseSquare",
           "color": [127, 255, 255],
-          "fade": 10.0,
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 12
+          "size": 2.0
         },
         "points": [
           [-0.23, -0.27, 181.87],
@@ -82,11 +82,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "InverseSquare",
           "color": [127, 255, 255],
-          "fade": 10.0,
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 12
+          "size": 2.0
         },
         "points": [[-0.26, -0.15, 0.22]]
       }
@@ -99,11 +99,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "InverseSquare",
           "color": [127, 255, 255],
-          "fade": 10.0,
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 12
+          "size": 2.0
         },
         "points": [[-0.26, -0.15, 0.22]]
       }
@@ -116,11 +116,11 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "InverseSquare",
           "color": [127, 255, 255],
-          "fade": 10.0,
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 12
+          "size": 2.0
         },
         "points": [[-0.26, -0.15, 0.22]]
       }
