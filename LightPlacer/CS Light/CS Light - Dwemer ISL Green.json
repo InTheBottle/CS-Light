@@ -506,7 +506,11 @@
   {
     "lights": [
       {
-        "blackList": ["0xDC764~Skyrim.esm", "0xDC763~Skyrim.esm", "0xDC768~Skyrim.esm"],
+        "blackList": [
+          "0xDC764~Skyrim.esm",
+          "0xDC763~Skyrim.esm",
+          "0xDC768~Skyrim.esm"
+        ],
         "data": {
           "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict",
@@ -518,7 +522,11 @@
         "points": [[0.0, 0.0, 100.0]]
       },
       {
-        "blackList": ["0xDC764~Skyrim.esm", "0xDC763~Skyrim.esm", "0xDC768~Skyrim.esm"],
+        "blackList": [
+          "0xDC764~Skyrim.esm",
+          "0xDC763~Skyrim.esm",
+          "0xDC768~Skyrim.esm"
+        ],
         "data": {
           "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict",
