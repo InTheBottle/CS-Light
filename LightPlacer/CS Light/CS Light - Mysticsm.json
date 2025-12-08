@@ -3,1068 +3,570 @@
     "lights": [
       {
         "data": {
-          "color": [
-            84,
-            84,
-            84
-          ],
+          "color": [84, 84, 84],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 6
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
-          "color": [
-            86,
-            86,
-            86
-          ],
+          "color": [86, 86, 86],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 8
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\metalhand01.nif"
-    ]
+    "models": ["magus\\mysticism\\metalhand01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            18,
-            18,
-            18
-          ],
+          "color": [18, 18, 18],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 18
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\firestormhandeffects1h.nif"
-    ]
+    "models": ["magus\\mysticism\\firestormhandeffects1h.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            194,
-            194,
-            194
-          ],
+          "color": [194, 194, 194],
           "fade": 0.2,
           "light": "MagicLightWhite01",
           "radius": 21
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\poisonhandfx.nif"
-    ]
+    "models": ["magus\\mysticism\\poisonhandfx.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            123,
-            164,
-            70
-          ],
+          "color": [123, 164, 70],
           "fade": 0.0,
           "light": "MagicLightWhite01",
           "radius": 100
         },
-        "points": [
-          [
-            -0.44,
-            0.0,
-            3.3
-          ]
-        ]
+        "points": [[-0.44, 0.0, 3.3]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\poisonwallfx01.nif"
-    ]
+    "models": ["magus\\mysticism\\poisonwallfx01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            75,
-            75,
-            75
-          ],
+          "color": [75, 75, 75],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 18
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\baneundeadhandeffects1h.nif"
-    ]
+    "models": ["magus\\mysticism\\baneundeadhandeffects1h.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            29,
-            29,
-            29
-          ],
+          "color": [29, 29, 29],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 13
         },
-        "points": [
-          [
-            -0.55,
-            151.71,
-            -0.65
-          ]
-        ]
+        "points": [[-0.55, 151.71, -0.65]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\fireboltmassprojectile.nif"
-    ]
+    "models": ["magus\\mysticism\\fireboltmassprojectile.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            30,
-            30,
-            30
-          ],
+          "color": [30, 30, 30],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 261
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\sunbeammassbolt.nif"
-    ]
+    "models": ["magus\\mysticism\\sunbeammassbolt.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            175,
-            175,
-            175
-          ],
+          "color": [175, 175, 175],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 18
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\shieldritualhandeffects1h.nif"
-    ]
+    "models": ["magus\\mysticism\\shieldritualhandeffects1h.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            190,
-            190,
-            190
-          ],
+          "color": [190, 190, 190],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 18
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\blizzardhandeffects1h.nif"
-    ]
+    "models": ["magus\\mysticism\\blizzardhandeffects1h.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            74,
-            74,
-            74
-          ],
+          "color": [74, 74, 74],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 18
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\healmystritualhandeffects1h.nif"
-    ]
+    "models": ["magus\\mysticism\\healmystritualhandeffects1h.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            80,
-            80,
-            80
-          ],
+          "color": [80, 80, 80],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 18
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\illusionmassgreenhandeffects1h.nif"
-    ]
+    "models": ["magus\\mysticism\\illusionmassgreenhandeffects1h.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            0,
-            0,
-            0
-          ],
+          "color": [0, 0, 0],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 76
         },
-        "points": [
-          [
-            0.0,
-            8.0,
-            8.0
-          ]
-        ]
+        "points": [[0.0, 8.0, 8.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\rustbodyfx02.nif"
-    ]
+    "models": ["magus\\mysticism\\rustbodyfx02.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            118,
-            118,
-            118
-          ],
+          "color": [118, 118, 118],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 11
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            10.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 10.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\maginvpoison.nif"
-    ]
+    "models": ["magus\\mysticism\\maginvpoison.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            44,
-            133,
-            44
-          ],
+          "color": [44, 133, 44],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 18
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\healritualgreenlhandeffects1h.nif"
-    ]
+    "models": ["magus\\mysticism\\healritualgreenlhandeffects1h.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            64,
-            64,
-            64
-          ],
+          "color": [64, 64, 64],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 22
         },
-        "points": [
-          [
-            0.0,
-            16.29,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 16.29, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\firesprayfx03.nif"
-    ]
+    "models": ["magus\\mysticism\\firesprayfx03.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            84,
-            84,
-            84
-          ],
+          "color": [84, 84, 84],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 6
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
-          "color": [
-            86,
-            86,
-            86
-          ],
+          "color": [86, 86, 86],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 8
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\shieldspellhand01.nif"
-    ]
+    "models": ["magus\\mysticism\\shieldspellhand01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            75,
-            75,
-            75
-          ],
+          "color": [75, 75, 75],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 18
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\healritualhandeffects1h.nif"
-    ]
+    "models": ["magus\\mysticism\\healritualhandeffects1h.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            145,
-            63,
-            0
-          ],
+          "color": [145, 63, 0],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 61
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -0.62
-          ]
-        ]
+        "points": [[0.0, 0.0, -0.62]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\fxfireorbprojectile02.nif"
-    ]
+    "models": ["magus\\mysticism\\fxfireorbprojectile02.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            230,
-            230,
-            230
-          ],
+          "color": [230, 230, 230],
           "fade": 0.0,
           "light": "MagicLightWhite01",
           "radius": 89
         },
-        "points": [
-          [
-            0.0,
-            8.0,
-            8.0
-          ]
-        ]
+        "points": [[0.0, 8.0, 8.0]]
       },
       {
         "data": {
-          "color": [
-            223,
-            223,
-            223
-          ],
+          "color": [223, 223, 223],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 45
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\fxpoisoncloak.nif"
-    ]
+    "models": ["magus\\mysticism\\fxpoisoncloak.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            80,
-            80,
-            80
-          ],
+          "color": [80, 80, 80],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 18
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\illusionmassredhandeffects1h.nif"
-    ]
+    "models": ["magus\\mysticism\\illusionmassredhandeffects1h.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            25,
-            25,
-            25
-          ],
+          "color": [25, 25, 25],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 18
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\lightningstormhandeffects1h.nif"
-    ]
+    "models": ["magus\\mysticism\\lightningstormhandeffects1h.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            145,
-            63,
-            0
-          ],
+          "color": [145, 63, 0],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 79
         },
-        "points": [
-          [
-            74.85,
-            0.0,
-            -0.47
-          ]
-        ]
+        "points": [[74.85, 0.0, -0.47]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\fxfireorbprojectile.nif"
-    ]
+    "models": ["magus\\mysticism\\fxfireorbprojectile.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            0,
-            0,
-            0
-          ],
+          "color": [0, 0, 0],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 76
         },
-        "points": [
-          [
-            0.0,
-            8.0,
-            8.0
-          ]
-        ]
+        "points": [[0.0, 8.0, 8.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\metalbody01.nif"
-    ]
+    "models": ["magus\\mysticism\\metalbody01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            172,
-            89,
-            38
-          ],
+          "color": [172, 89, 38],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 45
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            1.5
-          ]
-        ]
+        "points": [[0.0, 0.0, 1.5]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\runerustprojectile.nif"
-    ]
+    "models": ["magus\\mysticism\\runerustprojectile.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            84,
-            84,
-            84
-          ],
+          "color": [84, 84, 84],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 6
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
-          "color": [
-            86,
-            86,
-            86
-          ],
+          "color": [86, 86, 86],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 8
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\metalrusthand01.nif"
-    ]
+    "models": ["magus\\mysticism\\metalrusthand01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            86,
-            86,
-            86
-          ],
+          "color": [86, 86, 86],
           "fade": 0.25,
           "light": "MagicLightWhite01",
           "radius": 14
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\rustmasshandeffects1h.nif"
-    ]
+    "models": ["magus\\mysticism\\rustmasshandeffects1h.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            216,
-            90,
-            38
-          ],
+          "color": [216, 90, 38],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 62
         },
-        "points": [
-          [
-            0.0,
-            -0.0,
-            -51.12
-          ]
-        ]
+        "points": [[0.0, -0.0, -51.12]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\rustmassexplosion01.nif"
-    ]
+    "models": ["magus\\mysticism\\rustmassexplosion01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            85,
-            85,
-            85
-          ],
+          "color": [85, 85, 85],
           "fade": 1.1,
           "light": "MagicLightWhite01",
           "radius": 9
         },
-        "points": [
-          [
-            -0.0,
-            0.0,
-            2.04
-          ]
-        ]
+        "points": [[-0.0, 0.0, 2.04]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\maginvboundshield.nif"
-    ]
+    "models": ["magus\\mysticism\\maginvboundshield.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 0.0,
           "light": "MagicLightWhite01",
           "radius": 21
         },
-        "points": [
-          [
-            0.0,
-            16.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 16.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\poisonsprayprojectile01.nif"
-    ]
+    "models": ["magus\\mysticism\\poisonsprayprojectile01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            80,
-            80,
-            80
-          ],
+          "color": [80, 80, 80],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 14
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\poisonmasshandeffects1h.nif"
-    ]
+    "models": ["magus\\mysticism\\poisonmasshandeffects1h.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            251,
-            251,
-            251
-          ],
+          "color": [251, 251, 251],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 13
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
-          "color": [
-            88,
-            88,
-            88
-          ],
+          "color": [88, 88, 88],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 13
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\rustprojectile01.nif"
-    ]
+    "models": ["magus\\mysticism\\rustprojectile01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 0.5,
           "light": "MagicLightWhite01",
           "radius": 21
         },
-        "points": [
-          [
-            0.0,
-            32.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 32.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\poisonsprayprojectile02.nif"
-    ]
+    "models": ["magus\\mysticism\\poisonsprayprojectile02.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            30,
-            30,
-            30
-          ],
+          "color": [30, 30, 30],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 261
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\sunbeam.nif"
-    ]
+    "models": ["magus\\mysticism\\sunbeam.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            72,
-            102,
-            63
-          ],
+          "color": [72, 102, 63],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 45
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            1.5
-          ]
-        ]
+        "points": [[0.0, 0.0, 1.5]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\runeburdenprojectile.nif"
-    ]
+    "models": ["magus\\mysticism\\runeburdenprojectile.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            80,
-            80,
-            80
-          ],
+          "color": [80, 80, 80],
           "fade": 0.25,
           "light": "MagicLightWhite01",
           "radius": 14
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\paralyzemasshandeffects1h.nif"
-    ]
+    "models": ["magus\\mysticism\\paralyzemasshandeffects1h.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            190,
-            190,
-            190
-          ],
+          "color": [190, 190, 190],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 18
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\reanimateritualhandeffects1h.nif"
-    ]
+    "models": ["magus\\mysticism\\reanimateritualhandeffects1h.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            25,
-            89,
-            89
-          ],
+          "color": [25, 89, 89],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 45
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            1.5
-          ]
-        ]
+        "points": [[0.0, 0.0, 1.5]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\runecalmprojectile.nif"
-    ]
+    "models": ["magus\\mysticism\\runecalmprojectile.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            140,
-            140,
-            140
-          ],
+          "color": [140, 140, 140],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -1080,166 +582,88 @@
           "light": "MagicLightWhite01",
           "radius": 27
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\poisonimpactfx01.nif"
-    ]
+    "models": ["magus\\mysticism\\poisonimpactfx01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            251,
-            251,
-            251
-          ],
+          "color": [251, 251, 251],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 13
         },
-        "points": [
-          [
-            0.0,
-            90.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 90.0, 0.0]]
       },
       {
         "data": {
-          "color": [
-            88,
-            88,
-            88
-          ],
+          "color": [88, 88, 88],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 13
         },
-        "points": [
-          [
-            0.0,
-            90.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 90.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\rustprojectilemass01.nif"
-    ]
+    "models": ["magus\\mysticism\\rustprojectilemass01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            119,
-            149,
-            99
-          ],
+          "color": [119, 149, 99],
           "fade": 0.0,
           "light": "MagicLightWhite01",
           "radius": 65
         },
-        "points": [
-          [
-            0.0,
-            -0.0,
-            8.17
-          ]
-        ]
+        "points": [[0.0, -0.0, 8.17]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\poisonmassexplosion01.nif"
-    ]
+    "models": ["magus\\mysticism\\poisonmassexplosion01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            190,
-            190,
-            190
-          ],
+          "color": [190, 190, 190],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 18
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\summonblueritualhandeffects1h.nif"
-    ]
+    "models": ["magus\\mysticism\\summonblueritualhandeffects1h.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            190,
-            190,
-            190
-          ],
+          "color": [190, 190, 190],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 18
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\summonritualhandeffects1h.nif"
-    ]
+    "models": ["magus\\mysticism\\summonritualhandeffects1h.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            165,
-            101,
-            70
-          ],
+          "color": [165, 101, 70],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 102
         },
-        "points": [
-          [
-            -0.44,
-            0.0,
-            3.3
-          ]
-        ]
+        "points": [[-0.44, 0.0, 3.3]]
       }
     ],
-    "models": [
-      "magus\\mysticism\\sunfirewallfx01.nif"
-    ]
+    "models": ["magus\\mysticism\\sunfirewallfx01.nif"]
   }
 ]

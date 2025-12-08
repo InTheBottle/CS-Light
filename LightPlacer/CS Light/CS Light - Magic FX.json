@@ -1,10 +1,6 @@
 [
   {
-    "formIDs": [
-      "FireFXShader",
-      "TurnUndeadFlamesFXS",
-      "FireFXTrapShader"
-    ],
+    "formIDs": ["FireFXShader", "TurnUndeadFlamesFXS", "FireFXTrapShader"],
     "lights": [
       {
         "points": [[0.0, 0.0, 80.0]],
@@ -941,7 +937,7 @@
           "flags": "InverseSquare|IgnoreScale",
           "light": "MagicLightReanimate1",
           "size": 2.0,
-          "fade":0.4
+          "fade": 0.4
         },
         "points": [[0.0, 0.0, 80.0]]
       }
@@ -1142,7 +1138,7 @@
           "flags": "InverseSquare|IgnoreScale",
           "color": [255, 120, 0],
           "light": "MagicLightWhite01",
-          "size": 2.00,
+          "size": 2.0,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [

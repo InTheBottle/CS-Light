@@ -282,9 +282,7 @@
     ]
   },
   {
-    "models": [
-      "furniture\\alchemyworkstation.nif"
-    ],
+    "models": ["furniture\\alchemyworkstation.nif"],
     "lights": [
       {
         "points": [[0.0, 50.0, 74.0]],
