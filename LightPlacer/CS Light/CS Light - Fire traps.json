@@ -1,60 +1,38 @@
 [
   {
+    "formIDs": [
+      "HazardFireDamageFFContact",
+      "TrapFlamePillarMagicEffect01",
+      "TrapGenericFireMagicEffect01",
+      "TrapOilHazardFireDamageFFContact01",
+      "TrapOilHazardFireDamageFFContact02",
+      "TrapOilHazardFireDamageFFContact03",
+      "TrapOilHazardFireDamageFFContact04",
+      "TrapOilHazardFireDamageFFContact05",
+      "TrapOilHazardFireDamageFFContact06",
+      "TrapExplGasEnchFireDamageFFContact01",
+      "TrapExplGasEnchFireDamageFFContact02",
+      "TrapExplGasEnchFireDamageFFContact03",
+      "TrapExplGasEnchFireDamageFFContact04",
+      "TrapExplGasEnchFireDamageFFContact05",
+      "TrapExplGasEnchFireDamageFFContact06",
+      "TrapFlames01",
+      "TrapFlames02",
+      "TrapFlames03",
+      "TrapFlames04",
+      "TrapFlames05",
+      "TrapFlames06"
+    ],
     "lights": [
       {
+        "points": [[0.0, 0.0, 0.0]],
         "data": {
-          "flags": "PortalStrict",
-          "color": [255, 193, 111],
-          "fade": 2.0,
-          "light": "LightCampFire01",
-          "radius": 71
-        },
-        "points": [
-          [0.0, 75.0, 75.0],
-          [0.0, 75.0, 150.0],
-          [0.0, 0.0, 220.0],
-          [0.0, -75.0, 75.0],
-          [0.0, -75.0, 150.0],
-          [75.0, 0.0, 75.0],
-          [75.0, 0.0, 150.0],
-          [-75.0, 0.0, 75.0],
-          [-75.0, 0.0, 150.0],
-          [0.0, 0.0, 20.0]
-        ]
+          "flags": "InverseSquare|IgnoreScale",
+          "light": "MagicLightFireStormHand",
+          "fade": 0.7,
+          "size": 2.0
+        }
       }
-    ],
-    "models": ["traps\\pressureplatefire\\nortrapfireplatefx.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "color": [255, 193, 111],
-          "fade": 2.5,
-          "light": "LightCampFire01",
-          "radius": 71
-        },
-        "points": [
-          [188.52, 78.46, 123.12],
-          [98.06, 40.81, 116.37],
-          [143.31, 59.61, 120.12],
-          [92.55, 38.08, 92.12],
-          [78.46, -188.52, 123.12],
-          [40.81, -98.06, 116.37],
-          [59.61, -143.31, 120.12],
-          [38.08, -92.55, 92.12],
-          [-188.52, -78.46, 123.12],
-          [-98.06, -40.81, 116.37],
-          [-143.31, -59.61, 120.12],
-          [-92.55, -38.08, 92.12],
-          [-78.46, 188.52, 123.12],
-          [-40.81, 98.06, 116.37],
-          [-59.61, 143.31, 120.12],
-          [-38.08, 92.55, 92.12]
-        ]
-      }
-    ],
-    "models": ["traps\\dwefirepillar\\trapdwefirepillar01.nif"]
+    ]
   }
 ]
