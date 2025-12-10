@@ -291,6 +291,7 @@
           "light": "MagicLightWhite01",
           "cutoff": 0.2,
           "fade": 0.275,
+          "size": 2.0,
           "flags": "IgnoreScale|InverseSquare|PortalStrict"
         }
       }
@@ -314,7 +315,8 @@
           "color": [139, 71, 11],
           "light": "MagicLightWhite01",
           "cutoff": 0.2,
-          "fade": 10.1,
+          "fade": 0.4,
+          "size": 2.0,
           "flags": "IgnoreScale|InverseSquare|PortalStrict"
         }
       }
