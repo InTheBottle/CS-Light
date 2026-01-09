@@ -129,7 +129,7 @@
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 1.0,
-                "value": 3.0
+                "value": 1.5
               },
               {
                 "backward": 0.0,
@@ -307,7 +307,7 @@
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 1.5,
-                "value": 2.0
+                "value": 1.0
               },
               {
                 "backward": 0.0,
@@ -370,164 +370,94 @@
       }
     ]
   },
-  {
+    {
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [204, 204, 204],
-          "fade": 0.4,
+          "color": [
+            75,
+            75,
+            75
+          ],
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "size": 2
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [168, 168, 168],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [130, 130, 130],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 8.0, 8.0]]
-      }
-    ],
-    "models": ["magic\\fxicecloak01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "fade": 0.4,
-          "light": "MagicLightIllusionPosHand01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 80.0]]
-      }
-    ],
-    "models": ["magic\\illusionposfxbody01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "fade": 0.4,
-          "light": "MagicLightWardHand01",
-          "size": 2.0
-        },
-        "points": [[0.0, 25.0, 100.0]]
-      }
-    ],
-    "models": ["magic\\wardbodyfx.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [255, 255, 255],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 2.25]]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [186, 186, 186],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[-0.12, -0.08, -0.18]]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [56, 56, 56],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [97, 97, 97],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 2.29]]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [186, 186, 186],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 18
         },
         "points": [
-          [0.02, 0.02, 5.76],
-          [0.02, 0.02, 3.09],
-          [0.03, 0.03, 0.4],
-          [0.02, 0.02, -1.54]
-        ]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [186, 186, 186],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [
-          [0.02, 0.02, 3.09],
-          [-0.12, -0.08, -0.18]
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
         ]
       }
     ],
-    "models": ["magic\\icicleimpactfast01.nif"]
+    "models": [
+      "magic\\healritualhandeffects.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [255, 255, 255],
-          "fade": 0.4,
+          "color": [
+            75,
+            75,
+            75
+          ],
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 18
         },
-        "points": [[0.0, 0.0, -3.36]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\effects\\dlc2skallvillageprayereffect.nif"]
+    "models": [
+      "magic\\baneundeadhandeffects.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [281, 295, 264],
-          "fade": 0.4,
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 247
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            -3.36
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\effects\\dlc2skallvillageprayereffect.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            281,
+            295,
+            264
+          ],
+          "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -540,15 +470,24 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 9
         },
-        "points": [[0.0, 0.0, -0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            -0.0
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [344, 362, 334],
-          "fade": 0.4,
+          "color": [
+            344,
+            362,
+            334
+          ],
+          "fade": 1.5,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -561,98 +500,408 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 33
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [-26, 0, -42],
-          "fade": 0.4,
+          "color": [
+            -26,
+            0,
+            -42
+          ],
+          "fade": 1.5,
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 46
         },
-        "points": [[0.0, -1.34, 0.0]]
+        "points": [
+          [
+            0.0,
+            -1.34,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\effects\\dlc2hmdaedraimpact01.nif"]
-  },
-  {
-    "models": ["magic\\healcontargetfx01.nif"],
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [255, 230, 178],
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 80.0]]
-      }
+    "models": [
+      "dlc02\\effects\\dlc2hmdaedraimpact01.nif"
     ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [51, 51, 51],
-          "fade": 0.4,
+          "color": [
+            100,
+            100,
+            100
+          ],
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 149
         },
-        "points": [[0.0, 0.0, -1.54]]
+        "points": [
+          [
+            0.0,
+            8.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            90,
+            90,
+            90
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 158
+        },
+        "points": [
+          [
+            0.0,
+            8.0,
+            4.21
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\magic\\dlc2bloodskalprojhorz.nif"]
+    "models": [
+      "magic\\healcontargetfx01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [255, 255, 255],
-          "fade": 0.4,
+          "color": [
+            64,
+            64,
+            64
+          ],
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 31
         },
-        "points": [[0.0, 0.0, 4.5]]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [56, 56, 56],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [97, 97, 97],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 4.58]]
+        "points": [
+          [
+            0.0,
+            2.5,
+            -0.31
+          ]
+        ]
       }
     ],
-    "models": ["magic\\icicleimpactactor01.nif"]
+    "models": [
+      "magic\\fireboltprojectile.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [242, 242, 242],
-          "fade": 0.4,
+          "color": [
+            4,
+            4,
+            4
+          ],
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 4
         },
-        "points": [[0.0, 8.15, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.23
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 3
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.23
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc01\\magic\\dlc1_vampirebanehandfx.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 152
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.35
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\reanimatetargetfx.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            100,
+            100,
+            100
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 13
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\shockthunderbolthandfx.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            204,
+            204,
+            204
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 45
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            168,
+            168,
+            168
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            130,
+            130,
+            130
+          ],
+          "fade": 1.25,
+          "light": "MagicLightWhite01",
+          "radius": 35
+        },
+        "points": [
+          [
+            0.0,
+            8.0,
+            8.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\fxicecloak01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            1,
+            1,
+            1
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 63
+        },
+        "points": [
+          [
+            0.0,
+            8.0,
+            8.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\illusionposfxbody01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            60,
+            67,
+            49
+          ],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 13
+        },
+        "points": [
+          [
+            0.22,
+            13.48,
+            -0.31
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            60,
+            67,
+            49
+          ],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 46
+        },
+        "points": [
+          [
+            0.22,
+            -20.22,
+            -0.31
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\effects\\dlc2hmdaedrahandprojectile01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            4,
+            4,
+            4
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 5
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.23
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 3
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.23
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc01\\magic\\dlc1_suncloakspellhandfx.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            242,
+            242,
+            242
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 22
+        },
+        "points": [
+          [
+            0.0,
+            8.15,
+            0.0
+          ]
+        ]
       }
     ],
     "models": [
@@ -663,303 +912,593 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [51, 51, 51],
-          "fade": 0.4,
+          "color": [
+            29,
+            29,
+            29
+          ],
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, -1.54]]
-      }
-    ],
-    "models": ["dlc02\\magic\\dlc2bloodskalprojvert.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [180, 180, 180],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, -2.7]]
-      }
-    ],
-    "models": ["magic\\turnundeadtargetfx.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [255, 255, 255],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 4.5]]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [186, 186, 186],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[-0.25, -0.16, -0.36]]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [56, 56, 56],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [97, 97, 97],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 4.58]]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [186, 186, 186],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 13
         },
         "points": [
-          [0.03, 0.04, 11.52],
-          [0.03, 0.04, 6.17],
-          [0.06, 0.07, 0.81],
-          [0.04, 0.05, -3.09]
+          [
+            0.22,
+            13.48,
+            -0.31
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\fireballprojectile01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            165,
+            101,
+            70
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 100
+        },
+        "points": [
+          [
+            -0.44,
+            0.0,
+            3.3
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\shockwallfx01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            156,
+            156,
+            156
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 44
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
         ]
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [186, 186, 186],
-          "fade": 0.4,
+          "color": [
+            180,
+            180,
+            180
+          ],
+          "fade": 1.25,
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 34
         },
         "points": [
-          [0.03, 0.04, 6.17],
-          [-0.25, -0.16, -0.36]
+          [
+            0.0,
+            0.0,
+            -20.72
+          ]
         ]
       }
     ],
-    "models": ["magic\\icicleimpact01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [24, 24, 24],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["dlc01\\magic\\dlc01_sunaurabodyfx.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [255, 255, 255],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [255, 255, 255],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 0.06]]
-      }
-    ],
-    "models": ["dlc01\\magic\\dlc1impactsunfirespell.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [0, 0, 0],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [180, 180, 180],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 8.0, 8.0]]
-      }
-    ],
-    "models": ["magic\\fxshockcloak01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [255, 18, 18],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.22, 4.77, -1.03]]
-      }
-    ],
-    "models": ["dlc01\\magic\\dlc1vampireabsorbproj01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [104, 124, 93],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["dlc02\\effects\\dlc2hmdaedra01handeffects.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [116, 142, 100],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, -1.34, -10.72]]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [89, 107, 79],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [85, 99, 68],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, -0.0]]
-      }
-    ],
-    "models": ["dlc02\\effects\\dlc2hmdaedramouthexp01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [150, 150, 200],
-          "light": "MagicLightWhite01",
-          "size": 2.0,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.0,
-                "value": 0.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.5,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 1,
-                "value": 1.0
-              }
-            ]
-          }
-        },
-        "points": [[0.0, 0.0, 80.0]]
-      }
-    ],
-    "models": ["magic\\healmystcontargetfx01.nif"]
-  },
-  {
-    "models": ["magic\\reanimatetargetfx.nif"],
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "light": "MagicLightReanimate1",
-          "size": 2.0,
-          "fade": 0.4
-        },
-        "points": [[0.0, 0.0, 80.0]]
-      }
+    "models": [
+      "actors\\atronachstorm\\character assets\\fxatronachstormcloak.nif"
     ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [0, 0, 0],
-          "fade": 0.4,
+          "color": [
+            7,
+            35,
+            91
+          ],
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 352
         },
-        "points": [[0.0, -1.34, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "effects\\mgmagicfirepillar01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            92,
+            175,
+            253
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 51
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            -0.62
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\fxicestormprojectile.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            180,
+            180,
+            180
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 152
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            -2.7
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\turnundeadtargetfx.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            190,
+            190,
+            190
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 18
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\blizzardhandeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            7,
+            35,
+            91
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 166
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "effects\\mgmagicfirepillareye01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 3
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            -1.26
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\alterposfxhand01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.5
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [255, 255, 255],
-          "fade": 0.4,
+          "color": [
+            186,
+            186,
+            186
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 4
+        },
+        "points": [
+          [
+            -0.5,
+            -0.33,
+            -0.73
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            56,
+            56,
+            56
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 39
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            97,
+            97,
+            97
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 19
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.58
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            186,
+            186,
+            186
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 5
+        },
+        "points": [
+          [
+            0.07,
+            0.08,
+            23.04
+          ],
+          [
+            0.07,
+            0.08,
+            12.34
+          ],
+          [
+            0.11,
+            0.13,
+            1.62
+          ],
+          [
+            0.08,
+            0.1,
+            -6.17
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            186,
+            186,
+            186
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 6
+        },
+        "points": [
+          [
+            0.07,
+            0.08,
+            12.34
+          ],
+          [
+            -0.5,
+            -0.33,
+            -0.73
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\icicleimpact01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            127,
+            127,
+            127
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 9
+        },
+        "points": [
+          [
+            2.15,
+            0.07,
+            -0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            67,
+            67,
+            67
+          ],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 4
+        },
+        "points": [
+          [
+            1.76,
+            0.0,
+            -0.03
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\turnundeadfxhand01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            24,
+            24,
+            24
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 91
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc01\\magic\\dlc01_sunaurabodyfx.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            15,
+            15,
+            15
+          ],
+          "fade": 1.25,
+          "light": "MagicLightWhite01",
+          "radius": 17
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\fireincineratehandeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            15,
+            15,
+            15
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 17
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\firebolt01handeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 3
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.23
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            4,
+            4,
+            4
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 3
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.23
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\fxlightspellhandeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 46
+        },
+        "points": [
+          [
+            0.0,
+            -1.34,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.5,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -972,15 +1511,24 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 33
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [85, 85, 85],
-          "fade": 0.4,
+          "color": [
+            85,
+            85,
+            85
+          ],
+          "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -993,242 +1541,753 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 9
         },
-        "points": [[0.0, 0.0, -0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            -0.0
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [255, 255, 255],
-          "fade": 0.4,
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.5,
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 71
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["magic\\reanimateimpact01.nif"]
-  },
-  {
-    "models": ["magic\\firesprayfx01.nif"],
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [251, 162, 96],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "nodes": ["BrightGlowMesh01"]
-      }
-    ]
-  },
-  {
-    "models": ["magic\\lightningbolt01.nif"],
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [120, 120, 200],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ]
-  },
-  {
-    "models": ["magic\\lightningbolt02.nif"],
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [120, 120, 200],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
+    "models": [
+      "magic\\illusionnegimpact01.nif"
     ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [161, 67, 16],
-          "fade": 0.4,
+          "color": [
+            137,
+            193,
+            255
+          ],
+          "fade": 1.5,
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 315
         },
-        "points": [[0.0, -0.0, 8.17]]
-      }
-    ],
-    "models": ["magic\\firestormareaeffect.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [251, 162, 96],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 50.0]]
-      }
-    ],
-    "models": ["effects\\fxfire01new.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [251, 162, 96],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 50.0]]
-      }
-    ],
-    "models": ["effects\\fxfire02new.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [0, 0, 0],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 0.07]]
-      }
-    ],
-    "models": ["magic\\frostbarrier01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [27, 27, 27],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["magic\\firestormcastbodyfx.nif"]
-  },
-  {
-    "models": ["magic\\fxfirecloak01.nif"],
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [255, 120, 0],
-          "light": "MagicLightWhite01",
-          "size": 2.0,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.0,
-                "value": 0.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.7,
-                "value": 3.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 1,
-                "value": 3.0
-              }
-            ]
-          }
-        },
-        "points": [[0.0, 0.0, 80.0]]
-      }
-    ]
-  },
-  {
-    "models": ["magic\\shieldspellbodyfx.nif"],
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [76, 178, 229],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 80.0]]
-      }
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [119, 119, 119],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 24.0]]
-      }
-    ],
-    "models": ["magic\\frostbarrierlarge01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [165, 101, 70],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[-0.44, 0.0, 3.3]]
-      }
-    ],
-    "models": ["magic\\firewallfx01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [85, 85, 85],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, -1.34, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            -4.24
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [7, 7, 7],
-          "fade": 0.4,
+          "color": [
+            37,
+            65,
+            246
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 165
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            -4.24
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "effects\\mgaugurfx01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 45
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            180,
+            180,
+            180
+          ],
+          "fade": 1.25,
+          "light": "MagicLightWhite01",
+          "radius": 35
+        },
+        "points": [
+          [
+            0.0,
+            8.0,
+            8.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\fxshockcloak01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            15,
+            15,
+            15
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 17
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\fireflameshandeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            231,
+            160,
+            7
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 244
+        },
+        "points": [
+          [
+            0.0,
+            -0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc01\\magic\\dlc1sunlightprojectile.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 41
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.06
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc01\\magic\\dlc1impactsunfirespell.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            18,
+            18
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 14
+        },
+        "points": [
+          [
+            0.22,
+            4.77,
+            -1.03
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc01\\magic\\dlc1vampireabsorbproj01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            100,
+            100,
+            100
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 141
+        },
+        "points": [
+          [
+            0.0,
+            8.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            90,
+            90,
+            90
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 162
+        },
+        "points": [
+          [
+            0.0,
+            8.0,
+            4.21
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\healmysttargetfx.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            190,
+            190,
+            190
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 18
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\reanimateritualhandeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            77,
+            77,
+            77
+          ],
+          "fade": 1.33,
+          "light": "MagicLightWhite01",
+          "radius": 21
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\frosticyspearhandfx01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.5
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            56,
+            56,
+            56
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 39
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            97,
+            97,
+            97
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 12
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.58
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\icicleimpactactor01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            80,
+            80,
+            80
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 18
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\illusionmassredhandeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            14,
+            14,
+            14
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 17
+        },
+        "points": [
+          [
+            0.0,
+            -0.0,
+            2.3
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\effects\\dlc2ashspawnhandeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            77,
+            77,
+            77
+          ],
+          "fade": 1.25,
+          "light": "MagicLightWhite01",
+          "radius": 21
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\frosticestormhandfx01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            116,
+            142,
+            100
+          ],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 8
+        },
+        "points": [
+          [
+            0.0,
+            -1.34,
+            -10.72
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            89,
+            107,
+            79
+          ],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 34
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            85,
+            99,
+            68
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 9
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            -0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\effects\\dlc2hmdaedramouthexp01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            122,
+            126,
+            114
+          ],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 48
+        },
+        "points": [
+          [
+            0.07,
+            -3.34,
+            -22.13
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\effects\\dlc2hmdaedramouthprojectile.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            104,
+            124,
+            93
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 17
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\effects\\dlc2hmdaedra01handeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            251,
+            251,
+            251
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 13
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            88,
+            88,
+            88
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 13
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\paralyzeprojectile.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            100,
+            100,
+            100
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 141
+        },
+        "points": [
+          [
+            0.0,
+            8.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            90,
+            90,
+            90
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 162
+        },
+        "points": [
+          [
+            0.0,
+            8.0,
+            4.21
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\healmystcontargetfx01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            180,
+            180,
+            180
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 196
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.35
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\commandtargetfx.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 46
+        },
+        "points": [
+          [
+            0.0,
+            -1.34,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.5,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -1241,15 +2300,24 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 33
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [99, 99, 99],
-          "fade": 0.4,
+          "color": [
+            85,
+            85,
+            85
+          ],
+          "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -1262,196 +2330,618 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 9
         },
-        "points": [[0.0, 0.0, -0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            -0.0
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [255, 255, 255],
-          "fade": 0.4,
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.5,
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 71
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["magic\\illusionimpact01.nif"]
+    "models": [
+      "magic\\reanimateimpact01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "light": "MagicLightIllusionnegProjectile01",
-          "size": 2.0,
-          "fade": 0.3
+          "color": [
+            64,
+            64,
+            64
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 22
         },
-        "points": [[0.0, 0.0, 80.0]]
+        "points": [
+          [
+            0.0,
+            8.15,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["magic\\illusionnegfxbody01.nif"]
+    "models": [
+      "magic\\firesprayfx01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [0, 0, 0],
-          "fade": 0.4,
+          "color": [
+            15,
+            15,
+            15
+          ],
+          "fade": 1.25,
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 17
         },
-        "points": [[0.0, -1.34, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\fireball01handeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            165,
+            101,
+            70
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 102
+        },
+        "points": [
+          [
+            -0.44,
+            0.0,
+            3.3
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\firewallfx01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            169,
+            169,
+            169
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 13
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [255, 255, 255],
-          "fade": 0.4,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.0
-              }
-            ]
-          },
+          "color": [
+            235,
+            235,
+            235
+          ],
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 17
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\illusionprojectile01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            77,
+            77,
+            77
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 21
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\frostbolthandfx01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            18,
+            18,
+            18
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 18
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\firestormhandeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            27,
+            27,
+            27
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 73
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\firestormcastbodyfx.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            100,
+            100,
+            100
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 12
+        },
+        "points": [
+          [
+            -0.01,
+            0.03,
+            0.03
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\wardinhandfx.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 139
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.07
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\frostbarrier01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            77,
+            77,
+            77
+          ],
+          "fade": 1.1,
+          "light": "MagicLightWhite01",
+          "radius": 21
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\frosticespikehandfx01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            150,
+            150,
+            150
+          ],
+          "fade": 1.2,
+          "light": "MagicLightWhite01",
+          "radius": 4
+        },
+        "points": [
+          [
+            0.01,
+            -0.08,
+            1.6
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [85, 85, 85],
-          "fade": 0.4,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.0
-              }
-            ]
-          },
+          "color": [
+            117,
+            117,
+            117
+          ],
+          "fade": 1.5,
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 10
         },
-        "points": [[0.0, 0.0, -0.0]]
+        "points": [
+          [
+            0.01,
+            -0.08,
+            1.6
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\fxicecloakhandeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            22,
+            22,
+            22
+          ],
+          "fade": 1.2,
+          "light": "MagicLightWhite01",
+          "radius": 4
+        },
+        "points": [
+          [
+            0.01,
+            -0.08,
+            1.64
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [255, 255, 255],
-          "fade": 0.4,
+          "color": [
+            8,
+            8,
+            8
+          ],
+          "fade": 1.5,
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 10
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.01,
+            -0.08,
+            1.64
+          ]
+        ]
       }
     ],
-    "models": ["magic\\illusionnegimpact01.nif"]
+    "models": [
+      "magic\\fxfirecloakhandeffects.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [9, 136, 234],
-          "fade": 0.4,
+          "color": [
+            190,
+            190,
+            190
+          ],
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 18
         },
-        "points": [[-3.37, 40.18, 20.25]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["magic\\lightspellactorfx.nif"]
+    "models": [
+      "magic\\summonritualhandeffects.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [54, 101, 255],
-          "fade": 0.4,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "fade": 2.0,
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 45
         },
-        "points": [[0.24, 0.41, -0.02]]
-      }
-    ],
-    "models": ["magic\\lightspellstaticlight.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [9, 136, 234],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["magic\\lightspellhazard.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [180, 180, 180],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, 0.0, 5.35]]
-      }
-    ],
-    "models": ["magic\\paralyzetargetfx.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [165, 101, 70],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[-0.44, 0.0, 3.3]]
-      }
-    ],
-    "models": ["magic\\shockwallfx01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [0, 0, 0],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [[0.0, -1.34, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [255, 255, 255],
-          "fade": 0.4,
+          "color": [
+            11,
+            11,
+            11
+          ],
+          "fade": 1.2,
+          "light": "MagicLightWhite01",
+          "radius": 70
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 39
+        },
+        "points": [
+          [
+            0.0,
+            8.0,
+            8.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\fxfirecloak01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            160,
+            160,
+            160
+          ],
+          "fade": 1.7,
+          "light": "MagicLightWhite01",
+          "radius": 13
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            100,
+            100,
+            100
+          ],
+          "fade": 1.2,
+          "light": "MagicLightWhite01",
+          "radius": 4
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.99
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\fxshockcloakhandeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            100,
+            100,
+            100
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 149
+        },
+        "points": [
+          [
+            0.0,
+            8.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            90,
+            90,
+            90
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 158
+        },
+        "points": [
+          [
+            0.0,
+            8.0,
+            4.21
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\healtargetfx.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            85,
+            85,
+            85
+          ],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 46
+        },
+        "points": [
+          [
+            0.0,
+            -1.34,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            7,
+            7,
+            7
+          ],
+          "fade": 1.5,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -1464,15 +2954,24 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 33
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [85, 85, 85],
-          "fade": 0.4,
+          "color": [
+            99,
+            99,
+            99
+          ],
+          "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -1485,32 +2984,735 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 9
         },
-        "points": [[0.0, 0.0, -0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            -0.0
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [255, 255, 255],
-          "fade": 0.4,
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.5,
           "light": "MagicLightWhite01",
-          "size": 2.0
+          "radius": 71
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["magic\\turnunimpact01.nif"]
+    "models": [
+      "magic\\illusionimpact01.nif"
+    ]
   },
   {
-    "models": ["magic\\soultraptargeteffects.nif"],
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
-          "color": [100, 80, 150],
+          "color": [
+            219,
+            219,
+            219
+          ],
+          "fade": 1.0,
           "light": "MagicLightWhite01",
-          "size": 2.0,
+          "radius": 63
+        },
+        "points": [
+          [
+            0.0,
+            8.0,
+            8.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\illusionnegfxbody01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            80,
+            80,
+            80
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 18
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\illusionmassgreenhandeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.5
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            186,
+            186,
+            186
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 4
+        },
+        "points": [
+          [
+            -0.5,
+            -0.33,
+            -0.73
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            56,
+            56,
+            56
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 39
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            97,
+            97,
+            97
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 19
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.58
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            186,
+            186,
+            186
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 5
+        },
+        "points": [
+          [
+            0.07,
+            0.08,
+            23.04
+          ],
+          [
+            0.07,
+            0.08,
+            12.34
+          ],
+          [
+            0.11,
+            0.13,
+            1.62
+          ],
+          [
+            0.08,
+            0.1,
+            -6.17
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            186,
+            186,
+            186
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 6
+        },
+        "points": [
+          [
+            0.07,
+            0.08,
+            12.34
+          ],
+          [
+            -0.5,
+            -0.33,
+            -0.73
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\icicleimpactfast01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            169,
+            169,
+            169
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 13
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            235,
+            235,
+            235
+          ],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 17
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\illusionnegprojectile01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            175,
+            175,
+            175
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 18
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\shieldritualhandeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            242,
+            242,
+            242
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 22
+        },
+        "points": [
+          [
+            0.0,
+            8.15,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\magsprigganbugsprayprojectile.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            25,
+            25,
+            25
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 18
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\lightningstormhandeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            242,
+            242,
+            242
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 22
+        },
+        "points": [
+          [
+            0.0,
+            8.15,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\magsprigganmatronbugsprayprojectile.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            85,
+            85,
+            85
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 9
+        },
+        "points": [
+          [
+            -0.0,
+            0.0,
+            0.04
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\summonbanishhandfx01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            180,
+            180,
+            180
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 152
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.35
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\paralyzetargetfx.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            62,
+            62,
+            62
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 3
+        },
+        "points": [
+          [
+            0.0,
+            -0.0,
+            1.48
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\nighteyefxhand01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            60,
+            81,
+            113
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 2
+        },
+        "points": [
+          [
+            -0.0,
+            0.0,
+            0.04
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\reanimatehandfx01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            80,
+            80,
+            80
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 14
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\paralyzemasshandeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 76
+        },
+        "points": [
+          [
+            0.0,
+            8.0,
+            8.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 54
+        },
+        "points": [
+          [
+            -0.0,
+            8.0,
+            8.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\shieldspellbodyfx.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            100,
+            100,
+            100
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 13
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\shockchainlightninghandfx.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            100,
+            100,
+            100
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 13
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\shocklightningbolthandfx.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            191,
+            191,
+            191
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 13
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            3.03
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\soultraphandeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            84,
+            84,
+            84
+          ],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 5
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            86,
+            86,
+            86
+          ],
+          "fade": 4.0,
+          "light": "MagicLightWhite01",
+          "radius": 3
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\shieldspellhand01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            100,
+            100,
+            100
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 13
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\shockhandeffects.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 46
+        },
+        "points": [
+          [
+            0.0,
+            -1.34,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.5,
           "fadeController": {
             "interpolation": "Cubic",
             "keys": [
@@ -1518,31 +3720,241 @@
                 "backward": 0.0,
                 "forward": -0.0,
                 "time": 0.0,
-                "value": 0.0
-              },
+                "value": 1.5
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 33
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            85,
+            85,
+            85
+          ],
+          "fade": 1.0,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
               {
                 "backward": 0.0,
                 "forward": -0.0,
-                "time": 0.3,
-                "value": 2.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.5,
-                "value": 0.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 1,
-                "value": 0.0
+                "time": 0.0,
+                "value": 1.0
               }
             ]
-          }
+          },
+          "light": "MagicLightWhite01",
+          "radius": 9
         },
-        "points": [[0.0, 0.0, 80.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            -0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
+    ],
+    "models": [
+      "magic\\turnunimpact01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            88,
+            88,
+            88
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 13
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            28,
+            28,
+            28
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 13
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\turnundeadprojectile.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            50,
+            50,
+            50
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 148
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            -1.54
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\turnundareaprojectile01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            116,
+            116,
+            116
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 6
+        },
+        "points": [
+          [
+            -0.0,
+            0.0,
+            0.04
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\summonhandfx01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            105,
+            105,
+            105
+          ],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 11
+        },
+        "points": [
+          [
+            -0.0,
+            0.0,
+            0.56
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\summoncommandhandfx01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            100,
+            100,
+            100
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 141
+        },
+        "points": [
+          [
+            0.0,
+            8.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            90,
+            90,
+            90
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 162
+        },
+        "points": [
+          [
+            0.0,
+            8.0,
+            4.21
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\waterbreathingtargetfx.nif"
     ]
   }
 ]
