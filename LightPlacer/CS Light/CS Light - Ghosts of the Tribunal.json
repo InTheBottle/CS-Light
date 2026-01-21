@@ -12,7 +12,7 @@
         "points": [[0.0, 0.0, 113.0]]
       }
     ],
-	"formIDs": ["ccASVSSE001_CandleRed"]
+    "formIDs": ["ccASVSSE001_CandleRed"]
   },
   {
     "lights": [
@@ -27,7 +27,7 @@
         "points": [[0.0, 0.0, -45.0]]
       }
     ],
-	"formIDs": ["ccASVSSE001_CeilingLightBlue01"]
+    "formIDs": ["ccASVSSE001_CeilingLightBlue01"]
   },
   {
     "lights": [
@@ -42,7 +42,7 @@
         "points": [[0.0, 0.0, -45.0]]
       }
     ],
-	"formIDs": ["ccASVSSE001_CeilingLightRed01"]
+    "formIDs": ["ccASVSSE001_CeilingLightRed01"]
   },
   {
     "lights": [
@@ -57,6 +57,6 @@
         "points": [[0.0, 0.0, 113.0]]
       }
     ],
-	"formIDs": ["ccASVSSE001_CandleBlue"]
+    "formIDs": ["ccASVSSE001_CandleBlue"]
   }
 ]
