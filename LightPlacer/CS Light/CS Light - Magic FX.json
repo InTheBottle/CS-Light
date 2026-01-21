@@ -848,30 +848,7 @@
           "flags": "InverseSquare|IgnoreScale",
           "color": [150, 150, 200],
           "light": "MagicLightWhite01",
-          "size": 2.0,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.0,
-                "value": 0.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.5,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 1,
-                "value": 1.0
-              }
-            ]
-          }
+          "size": 2.0
         },
         "points": [[0.0, 0.0, 80.0]]
       }
