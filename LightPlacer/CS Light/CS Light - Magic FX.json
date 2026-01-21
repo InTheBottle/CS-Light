@@ -293,36 +293,7 @@
           "light": "MagicLightHealHand01",
           "color": [202, 221, 236],
           "fade": 0.5,
-          "size": 2.0,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.0,
-                "value": 0.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 1.5,
-                "value": 2.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 3.5,
-                "value": 0.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 1,
-                "value": 0.0
-              }
-            ]
-          }
+          "size": 2.0
         }
       }
     ]
@@ -528,17 +499,6 @@
           "flags": "InverseSquare|IgnoreScale",
           "color": [281, 295, 264],
           "fade": 0.4,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.0
-              }
-            ]
-          },
           "light": "MagicLightWhite01",
           "size": 2.0
         },
@@ -549,17 +509,6 @@
           "flags": "InverseSquare|IgnoreScale",
           "color": [344, 362, 334],
           "fade": 0.4,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.5
-              }
-            ]
-          },
           "light": "MagicLightWhite01",
           "size": 2.0
         },
@@ -899,30 +848,7 @@
           "flags": "InverseSquare|IgnoreScale",
           "color": [150, 150, 200],
           "light": "MagicLightWhite01",
-          "size": 2.0,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.0,
-                "value": 0.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.5,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 1,
-                "value": 1.0
-              }
-            ]
-          }
+          "size": 2.0
         },
         "points": [[0.0, 0.0, 80.0]]
       }
@@ -960,17 +886,6 @@
           "flags": "InverseSquare|IgnoreScale",
           "color": [255, 255, 255],
           "fade": 0.4,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.5
-              }
-            ]
-          },
           "light": "MagicLightWhite01",
           "size": 2.0
         },
@@ -981,17 +896,6 @@
           "flags": "InverseSquare|IgnoreScale",
           "color": [85, 85, 85],
           "fade": 0.4,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.0
-              }
-            ]
-          },
           "light": "MagicLightWhite01",
           "size": 2.0
         },
@@ -1138,30 +1042,7 @@
           "flags": "InverseSquare|IgnoreScale",
           "color": [255, 120, 0],
           "light": "MagicLightWhite01",
-          "size": 2.0,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.0,
-                "value": 0.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.7,
-                "value": 3.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 1,
-                "value": 3.0
-              }
-            ]
-          }
+          "size": 2.0
         },
         "points": [[0.0, 0.0, 80.0]]
       }
@@ -1229,17 +1110,6 @@
           "flags": "InverseSquare|IgnoreScale",
           "color": [7, 7, 7],
           "fade": 0.4,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.5
-              }
-            ]
-          },
           "light": "MagicLightWhite01",
           "size": 2.0
         },
@@ -1250,17 +1120,6 @@
           "flags": "InverseSquare|IgnoreScale",
           "color": [99, 99, 99],
           "fade": 0.4,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.0
-              }
-            ]
-          },
           "light": "MagicLightWhite01",
           "size": 2.0
         },
@@ -1310,17 +1169,6 @@
           "flags": "InverseSquare|IgnoreScale",
           "color": [255, 255, 255],
           "fade": 0.4,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.0
-              }
-            ]
-          },
           "light": "MagicLightWhite01",
           "size": 2.0
         },
@@ -1331,17 +1179,6 @@
           "flags": "InverseSquare|IgnoreScale",
           "color": [85, 85, 85],
           "fade": 0.4,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.0
-              }
-            ]
-          },
           "light": "MagicLightWhite01",
           "size": 2.0
         },
@@ -1452,17 +1289,6 @@
           "flags": "InverseSquare|IgnoreScale",
           "color": [255, 255, 255],
           "fade": 0.4,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.5
-              }
-            ]
-          },
           "light": "MagicLightWhite01",
           "size": 2.0
         },
@@ -1473,17 +1299,6 @@
           "flags": "InverseSquare|IgnoreScale",
           "color": [85, 85, 85],
           "fade": 0.4,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.0
-              }
-            ]
-          },
           "light": "MagicLightWhite01",
           "size": 2.0
         },
@@ -1510,36 +1325,7 @@
           "flags": "InverseSquare|IgnoreScale",
           "color": [100, 80, 150],
           "light": "MagicLightWhite01",
-          "size": 2.0,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 0.0
-              },
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.3,
-                "value": 2.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.5,
-                "value": 0.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 1,
-                "value": 0.0
-              }
-            ]
-          }
+          "size": 2.0
         },
         "points": [[0.0, 0.0, 80.0]]
       }
