@@ -12,7 +12,7 @@
         "points": [[0.0, 0.0, 113.0]]
       }
     ],
-    "models": ["creationclub\\asvsse001\\clutter\\velothi\\mwcandle01red.nif"]
+	"formIDs": ["ccASVSSE001_CandleRed"]
   },
   {
     "lights": [
@@ -27,9 +27,7 @@
         "points": [[0.0, 0.0, -45.0]]
       }
     ],
-    "models": [
-      "creationclub\\asvsse001\\clutter\\velothi\\mwceilinglight01.nif"
-    ]
+	"formIDs": ["ccASVSSE001_CeilingLightBlue01"]
   },
   {
     "lights": [
@@ -44,9 +42,7 @@
         "points": [[0.0, 0.0, -45.0]]
       }
     ],
-    "models": [
-      "creationclub\\asvsse001\\clutter\\velothi\\mwceilinglight01red.nif"
-    ]
+	"formIDs": ["ccASVSSE001_CeilingLightRed01"]
   },
   {
     "lights": [
@@ -61,6 +57,6 @@
         "points": [[0.0, 0.0, 113.0]]
       }
     ],
-    "models": ["creationclub\\asvsse001\\clutter\\velothi\\mwcandle01.nif"]
+	"formIDs": ["ccASVSSE001_CandleBlue"]
   }
 ]
