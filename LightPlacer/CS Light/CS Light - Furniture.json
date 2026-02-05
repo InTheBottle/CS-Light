@@ -6,9 +6,15 @@
     ],
     "lights": [
       {
-        "points": [[30.0, 107.5, 110.0]],
+        "points": [
+          [
+            30.0,
+            107.5,
+            110.0
+          ]
+        ],
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "light": "DefaultCandleLight01NS",
           "radius": 80.0,
           "fade": 1.25
@@ -23,9 +29,15 @@
     ],
     "lights": [
       {
-        "points": [[-30.0, 107.5, 110.0]],
+        "points": [
+          [
+            -30.0,
+            107.5,
+            110.0
+          ]
+        ],
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "light": "DefaultCandleLight01NS",
           "radius": 80.0,
           "fade": 1.25
@@ -34,73 +46,125 @@
     ]
   },
   {
-    "models": ["dlc01\\furniture\\oven01.nif"],
+    "models": [
+      "dlc01\\furniture\\oven01.nif"
+    ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 0.0]],
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
         "data": {
           "light": "Ilinalta_OrangeFlicker",
           "radius": 75.0,
           "fade": 100.0,
-          "flags": "Simple|IgnoreScale|PortalStrict"
+          "flags": "Simple|IgnoreScale|PortalStrict|Linear"
         }
       }
     ]
   },
   {
-    "models": ["_byoh\\furniture\\ovenmarker.nif"],
+    "models": [
+      "_byoh\\furniture\\ovenmarker.nif"
+    ],
     "lights": [
       {
-        "points": [[17.5, 155.0, 55.0]],
+        "points": [
+          [
+            17.5,
+            155.0,
+            55.0
+          ]
+        ],
         "data": {
           "light": "Ilinalta_OrangeFlicker",
           "radius": 25.0,
           "fade": 125.0,
-          "flags": "Simple|IgnoreScale|PortalStrict"
+          "flags": "Simple|IgnoreScale|PortalStrict|Linear"
         }
       }
     ]
   },
   {
-    "models": ["_byoh\\furniture\\ovenmarker.nif"],
+    "models": [
+      "_byoh\\furniture\\ovenmarker.nif"
+    ],
     "lights": [
       {
-        "points": [[15.0, 135.0, 85.0]],
+        "points": [
+          [
+            15.0,
+            135.0,
+            85.0
+          ]
+        ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 45.0,
           "fade": 5.0,
-          "flags": "Simple|IgnoreScale|PortalStrict",
+          "flags": "Simple|IgnoreScale|PortalStrict|Linear",
           "colorController": {
             "interpolation": "Linear",
             "keys": [
               {
                 "time": 0.0,
-                "color": [230, 112, 0]
+                "color": [
+                  230,
+                  112,
+                  0
+                ]
               },
               {
                 "time": 3.0,
-                "color": [250, 160, 70]
+                "color": [
+                  250,
+                  160,
+                  70
+                ]
               },
               {
                 "time": 8.0,
-                "color": [230, 112, 0]
+                "color": [
+                  230,
+                  112,
+                  0
+                ]
               },
               {
                 "time": 13.0,
-                "color": [250, 160, 70]
+                "color": [
+                  250,
+                  160,
+                  70
+                ]
               },
               {
                 "time": 20.0,
-                "color": [230, 112, 0]
+                "color": [
+                  230,
+                  112,
+                  0
+                ]
               },
               {
                 "time": 23.0,
-                "color": [250, 160, 70]
+                "color": [
+                  250,
+                  160,
+                  70
+                ]
               },
               {
                 "time": 30.0,
-                "color": [230, 112, 0]
+                "color": [
+                  230,
+                  112,
+                  0
+                ]
               }
             ]
           }
@@ -117,12 +181,18 @@
     ],
     "lights": [
       {
-        "points": [[-12.0, 170.0, 35.0]],
+        "points": [
+          [
+            -12.0,
+            170.0,
+            35.0
+          ]
+        ],
         "data": {
           "light": "Ilinalta_OrangeFlicker",
           "radius": 68.0,
           "fade": 100.0,
-          "flags": "IgnoreScale|PortalStrict",
+          "flags": "IgnoreScale|PortalStrict|Linear",
           "fadeController": {
             "interpolation": "Linear",
             "keys": [
@@ -161,12 +231,20 @@
     ]
   },
   {
-    "models": ["furniture\\smeltermarker.nif"],
+    "models": [
+      "furniture\\smeltermarker.nif"
+    ],
     "lights": [
       {
-        "points": [[-125.0, 120.0, 60.0]],
+        "points": [
+          [
+            -125.0,
+            120.0,
+            60.0
+          ]
+        ],
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "light": "Ilinalta_OrangeFlicker",
           "radius": 90.0,
           "fade": 125.0
@@ -182,12 +260,14 @@
     ],
     "lights": [
       {
-        "nodes": ["Burner01"],
+        "nodes": [
+          "Burner01"
+        ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 32.0,
           "fade": 1.0,
-          "flags": "IgnoreScale|PortalStrict"
+          "flags": "IgnoreScale|PortalStrict|Linear"
         }
       }
     ]
@@ -204,12 +284,14 @@
     ],
     "lights": [
       {
-        "nodes": ["Burner01"],
+        "nodes": [
+          "Burner01"
+        ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 32.0,
           "fade": 1.0,
-          "flags": "IgnoreScale|PortalStrict"
+          "flags": "IgnoreScale|PortalStrict|Linear"
         }
       }
     ]

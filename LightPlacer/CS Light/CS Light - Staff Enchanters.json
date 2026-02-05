@@ -3,58 +3,112 @@
     "lights": [
       {
         "data": {
-          "color": [250, 85, 77],
+          "color": [
+            250,
+            85,
+            77
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 50,
-          "flags": "PortalStrict"
-        },
-        "points": [[0.0, 75.78, 63.46]]
-      },
-      {
-        "data": {
-          "color": [137, 255, 239],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [0.0, 41.78, 66.0],
-          [0.0, 115.78, 121.0]
+          [
+            0.0,
+            75.78,
+            63.46
+          ]
         ]
       },
       {
         "data": {
-          "color": [255, 245, 125],
+          "color": [
+            137,
+            255,
+            239
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 50,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[39.5, 59.08, 67.0]]
+        "points": [
+          [
+            0.0,
+            41.78,
+            66.0
+          ],
+          [
+            0.0,
+            115.78,
+            121.0
+          ]
+        ]
       },
       {
         "data": {
-          "color": [158, 249, 228],
+          "color": [
+            255,
+            245,
+            125
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 50,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[-42.5, 49.28, 69.0]]
+        "points": [
+          [
+            39.5,
+            59.08,
+            67.0
+          ]
+        ]
       },
       {
         "data": {
-          "color": [103, 192, 255],
+          "color": [
+            158,
+            249,
+            228
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 50,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[-28.4, 104.63, 79.0]]
+        "points": [
+          [
+            -42.5,
+            49.28,
+            69.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            103,
+            192,
+            255
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 50,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            -28.4,
+            104.63,
+            79.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\furniture\\craftingstaffworkbench01.nif"]
+    "models": [
+      "dlc02\\furniture\\craftingstaffworkbench01.nif"
+    ]
   }
 ]

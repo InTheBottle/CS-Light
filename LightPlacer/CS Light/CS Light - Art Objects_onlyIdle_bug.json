@@ -3,8 +3,12 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [160, 170, 210],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            160,
+            170,
+            210
+          ],
           "light": "MagicLightWhite01",
           "radius": 120,
           "fadeController": {
@@ -43,18 +47,32 @@
             ]
           }
         },
-        "points": [[0.0, 0.0, 80.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            80.0
+          ]
+        ]
       }
     ],
-    "models": ["magic\\healmysttargetfx.nif"]
+    "models": [
+      "magic\\healmysttargetfx.nif"
+    ]
   },
   {
-    "models": ["magic\\healtargetfx.nif"],
+    "models": [
+      "magic\\healtargetfx.nif"
+    ],
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [230, 211, 168],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            230,
+            211,
+            168
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 100,
@@ -88,7 +106,13 @@
             ]
           }
         },
-        "points": [[0.0, 0.0, 80.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            80.0
+          ]
+        ]
       }
     ]
   },
@@ -96,55 +120,101 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [100, 100, 100],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            100,
+            100,
+            100
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 141
         },
-        "points": [[0.0, 8.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            8.0,
+            0.0
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [90, 90, 90],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            90,
+            90,
+            90
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 162
         },
-        "points": [[0.0, 8.0, 4.21]]
+        "points": [
+          [
+            0.0,
+            8.0,
+            4.21
+          ]
+        ]
       }
     ],
-    "models": ["magic\\waterbreathingtargetfx.nif"]
+    "models": [
+      "magic\\waterbreathingtargetfx.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [180, 180, 180],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            180,
+            180,
+            180
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 196
         },
-        "points": [[0.0, 0.0, 5.35]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.35
+          ]
+        ]
       }
     ],
-    "models": ["magic\\commandtargetfx.nif"]
+    "models": [
+      "magic\\commandtargetfx.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [180, 180, 180],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            180,
+            180,
+            180
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 196
         },
-        "points": [[0.0, 0.0, 5.35]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.35
+          ]
+        ]
       }
     ],
-    "models": ["magic\\summontargetfx.nif"]
+    "models": [
+      "magic\\summontargetfx.nif"
+    ]
   }
 ]

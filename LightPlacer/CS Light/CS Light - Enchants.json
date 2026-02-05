@@ -1,11 +1,19 @@
 [
   {
-    "visualEffects": ["EnchFireFXShader"],
+    "visualEffects": [
+      "EnchFireFXShader"
+    ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 0.0]],
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "light": "Ilinalta_OrangeFlicker",
           "fade": 1.0,
           "radius": 50.0
@@ -22,9 +30,15 @@
     ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 0.0]],
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "light": "MGFirePillarLightBlue",
           "fade": 1.0,
           "radius": 50.0
@@ -40,9 +54,15 @@
     ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 0.0]],
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "light": "nocturnallight",
           "fade": 1.0,
           "radius": 50.0
@@ -51,12 +71,21 @@
     ]
   },
   {
-    "visualEffects": ["EnchGreenFXShader", "EnchDamageGreenFXS"],
+    "visualEffects": [
+      "EnchGreenFXShader",
+      "EnchDamageGreenFXS"
+    ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 0.0]],
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "light": "GreenPoisonGasLight",
           "fade": 1.0,
           "radius": 50.0
@@ -65,12 +94,20 @@
     ]
   },
   {
-    "visualEffects": ["EnchRedFXShader"],
+    "visualEffects": [
+      "EnchRedFXShader"
+    ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 0.0]],
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "light": "BlackDoorLightExterior01NS",
           "fade": 1.0,
           "radius": 50.0
@@ -82,18 +119,32 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 0, 0],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            0,
+            0
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 29
         },
-        "points": [[-0.1, 10.36, -0.01]]
+        "points": [
+          [
+            -0.1,
+            10.36,
+            -0.01
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [76, 76, 76],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            76,
+            76,
+            76
+          ],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -109,22 +160,42 @@
           "light": "MagicLightWhite01",
           "radius": 25
         },
-        "points": [[-0.1, 9.87, 0.01]]
+        "points": [
+          [
+            -0.1,
+            9.87,
+            0.01
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [255, 255, 255],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 247
         },
-        "points": [[0.19, 8.61, -0.01]]
+        "points": [
+          [
+            0.19,
+            8.61,
+            -0.01
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [170, 170, 170],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            170,
+            170,
+            170
+          ],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -141,29 +212,53 @@
           "radius": 8
         },
         "points": [
-          [-0.07, 9.44, -0.01],
-          [-0.1, 9.44, -0.01]
+          [
+            -0.07,
+            9.44,
+            -0.01
+          ],
+          [
+            -0.1,
+            9.44,
+            -0.01
+          ]
         ]
       }
     ],
-    "models": ["weapons\\dawnbreaker\\dawnbreaker.nif"]
+    "models": [
+      "weapons\\dawnbreaker\\dawnbreaker.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [8, 8, 8],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            8,
+            8,
+            8
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 247
         },
-        "points": [[0.0, 9.35, 0.0]]
+        "points": [
+          [
+            0.0,
+            9.35,
+            0.0
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [76, 76, 76],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            76,
+            76,
+            76
+          ],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -179,22 +274,42 @@
           "light": "MagicLightWhite01",
           "radius": 25
         },
-        "points": [[0.0, 9.35, 0.0]]
+        "points": [
+          [
+            0.0,
+            9.35,
+            0.0
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 0, 0],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            0,
+            0
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 29
         },
-        "points": [[0.0, 9.35, 0.0]]
+        "points": [
+          [
+            0.0,
+            9.35,
+            0.0
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [170, 170, 170],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            170,
+            170,
+            170
+          ],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -211,11 +326,21 @@
           "radius": 25
         },
         "points": [
-          [0.0, 9.35, 0.0],
-          [0.0, 9.35, 0.0]
+          [
+            0.0,
+            9.35,
+            0.0
+          ],
+          [
+            0.0,
+            9.35,
+            0.0
+          ]
         ]
       }
     ],
-    "models": ["weapons\\dawnbreaker\\1stpersondawnbreaker.nif"]
+    "models": [
+      "weapons\\dawnbreaker\\1stpersondawnbreaker.nif"
+    ]
   }
 ]

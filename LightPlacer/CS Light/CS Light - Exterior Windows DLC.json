@@ -3,324 +3,758 @@
     "lights": [
       {
         "data": {
-          "color": [166, 101, 5],
+          "color": [
+            166,
+            101,
+            5
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple|PortalStrict",
-          "conditions": [
-            "Self GetCurrentTime NONE NONE >= 19.00 OR",
-            "Self GetCurrentTime NONE NONE <= 6.00 OR"
-          ]
-        },
-        "points": [[-296.0, 87.0, -72.0]]
-      },
-      {
-        "data": {
-          "color": [166, 101, 5],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 60.0,
-          "flags": "Simple|PortalStrict",
+          "flags": "Simple|PortalStrict|Linear",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
           ]
         },
         "points": [
-          [-296.0, 39.0, -72.0],
-          [-66.0, -168.0, -70.0],
-          [152.0, 104.0, -72.0],
-          [-243.0, -168.0, -70.0],
-          [104.0, 104.0, -72.0]
+          [
+            -296.0,
+            87.0,
+            -72.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            166,
+            101,
+            5
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 60.0,
+          "flags": "Simple|PortalStrict|Linear",
+          "conditions": [
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+            "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          ]
+        },
+        "points": [
+          [
+            -296.0,
+            39.0,
+            -72.0
+          ],
+          [
+            -66.0,
+            -168.0,
+            -70.0
+          ],
+          [
+            152.0,
+            104.0,
+            -72.0
+          ],
+          [
+            -243.0,
+            -168.0,
+            -70.0
+          ],
+          [
+            104.0,
+            104.0,
+            -72.0
+          ]
         ]
       }
     ],
-    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilhousewind01.nif"]
+    "models": [
+      "dlc02\\architecture\\skaalvillage\\dlc2skaalvilhousewind01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [166, 101, 5],
+          "color": [
+            166,
+            101,
+            5
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple|PortalStrict",
+          "flags": "Simple|PortalStrict|Linear",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
           ]
         },
         "points": [
-          [420.6, 20.56, 232.04],
-          [420.6, 20.08, 340.72],
-          [420.6, -124.32, 340.72],
-          [420.6, -125.84, 232.04],
-          [420.6, -267.48, 340.72],
-          [420.6, -267.48, 232.8],
-          [-357.24, -268.28, 232.04],
-          [-357.24, -123.36, 232.04],
-          [-357.24, 20.28, 232.04],
-          [-357.24, 20.28, 339.2],
-          [-357.24, -124.6, 339.2],
-          [-357.24, -268.0, 339.2],
-          [248.68, -439.4, 231.28],
-          [248.68, -439.4, 340.72],
-          [-185.08, -439.4, 340.72],
-          [-185.08, -439.4, 231.28],
-          [-358.28, -125.12, 529.76],
-          [-358.28, -102.32, 530.76],
-          [-358.28, -147.92, 529.76],
-          [422.68, -125.32, 530.0],
-          [422.68, -147.36, 530.0],
-          [422.68, -102.76, 530.0],
-          [-357.24, 513.44, 232.04],
-          [-357.24, 513.92, 340.72],
-          [-357.24, 658.32, 340.72],
-          [-357.24, 659.84, 232.04],
-          [-357.24, 801.48, 340.72],
-          [-357.24, 801.48, 232.8],
-          [422.24, 801.28, 232.04],
-          [422.24, 657.36, 232.04],
-          [422.24, 513.72, 232.04],
-          [422.24, 513.72, 339.2],
-          [422.24, 658.6, 339.2],
-          [422.24, 802.0, 339.2],
-          [-185.68, 973.4, 231.28],
-          [-185.68, 973.4, 340.72],
-          [248.08, 973.4, 340.72],
-          [248.08, 973.4, 231.28],
-          [422.68, 659.12, 529.76],
-          [422.68, 636.32, 530.76],
-          [422.68, 681.92, 529.76],
-          [-358.28, 659.32, 530.0],
-          [-358.28, 681.36, 530.0],
-          [-358.28, 636.76, 530.0]
+          [
+            420.6,
+            20.56,
+            232.04
+          ],
+          [
+            420.6,
+            20.08,
+            340.72
+          ],
+          [
+            420.6,
+            -124.32,
+            340.72
+          ],
+          [
+            420.6,
+            -125.84,
+            232.04
+          ],
+          [
+            420.6,
+            -267.48,
+            340.72
+          ],
+          [
+            420.6,
+            -267.48,
+            232.8
+          ],
+          [
+            -357.24,
+            -268.28,
+            232.04
+          ],
+          [
+            -357.24,
+            -123.36,
+            232.04
+          ],
+          [
+            -357.24,
+            20.28,
+            232.04
+          ],
+          [
+            -357.24,
+            20.28,
+            339.2
+          ],
+          [
+            -357.24,
+            -124.6,
+            339.2
+          ],
+          [
+            -357.24,
+            -268.0,
+            339.2
+          ],
+          [
+            248.68,
+            -439.4,
+            231.28
+          ],
+          [
+            248.68,
+            -439.4,
+            340.72
+          ],
+          [
+            -185.08,
+            -439.4,
+            340.72
+          ],
+          [
+            -185.08,
+            -439.4,
+            231.28
+          ],
+          [
+            -358.28,
+            -125.12,
+            529.76
+          ],
+          [
+            -358.28,
+            -102.32,
+            530.76
+          ],
+          [
+            -358.28,
+            -147.92,
+            529.76
+          ],
+          [
+            422.68,
+            -125.32,
+            530.0
+          ],
+          [
+            422.68,
+            -147.36,
+            530.0
+          ],
+          [
+            422.68,
+            -102.76,
+            530.0
+          ],
+          [
+            -357.24,
+            513.44,
+            232.04
+          ],
+          [
+            -357.24,
+            513.92,
+            340.72
+          ],
+          [
+            -357.24,
+            658.32,
+            340.72
+          ],
+          [
+            -357.24,
+            659.84,
+            232.04
+          ],
+          [
+            -357.24,
+            801.48,
+            340.72
+          ],
+          [
+            -357.24,
+            801.48,
+            232.8
+          ],
+          [
+            422.24,
+            801.28,
+            232.04
+          ],
+          [
+            422.24,
+            657.36,
+            232.04
+          ],
+          [
+            422.24,
+            513.72,
+            232.04
+          ],
+          [
+            422.24,
+            513.72,
+            339.2
+          ],
+          [
+            422.24,
+            658.6,
+            339.2
+          ],
+          [
+            422.24,
+            802.0,
+            339.2
+          ],
+          [
+            -185.68,
+            973.4,
+            231.28
+          ],
+          [
+            -185.68,
+            973.4,
+            340.72
+          ],
+          [
+            248.08,
+            973.4,
+            340.72
+          ],
+          [
+            248.08,
+            973.4,
+            231.28
+          ],
+          [
+            422.68,
+            659.12,
+            529.76
+          ],
+          [
+            422.68,
+            636.32,
+            530.76
+          ],
+          [
+            422.68,
+            681.92,
+            529.76
+          ],
+          [
+            -358.28,
+            659.32,
+            530.0
+          ],
+          [
+            -358.28,
+            681.36,
+            530.0
+          ],
+          [
+            -358.28,
+            636.76,
+            530.0
+          ]
         ]
       },
       {
         "data": {
-          "color": [166, 101, 5],
+          "color": [
+            166,
+            101,
+            5
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple|PortalStrict",
+          "flags": "Simple|PortalStrict|Linear",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
           ]
         },
         "points": [
-          [-14.28, -434.48, 866.64],
-          [98.96, -442.48, 866.64],
-          [88.28, 977.48, 864.64],
-          [-14.96, 968.48, 864.64]
+          [
+            -14.28,
+            -434.48,
+            866.64
+          ],
+          [
+            98.96,
+            -442.48,
+            866.64
+          ],
+          [
+            88.28,
+            977.48,
+            864.64
+          ],
+          [
+            -14.96,
+            968.48,
+            864.64
+          ]
         ]
       }
     ],
-    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilgreathall01.nif"]
+    "models": [
+      "dlc02\\architecture\\skaalvillage\\dlc2skaalvilgreathall01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [166, 101, 5],
+          "color": [
+            166,
+            101,
+            5
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple|PortalStrict",
+          "flags": "Simple|PortalStrict|Linear",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
           ]
         },
         "points": [
-          [-139.0, 244.0, -91.0],
-          [137.0, -244.0, -91.0],
-          [55.0, -335.0, -91.0],
-          [-242.0, 50.0, -91.0],
-          [-144.0, -439.0, -91.0],
-          [-51.0, -440.0, -91.0]
+          [
+            -139.0,
+            244.0,
+            -91.0
+          ],
+          [
+            137.0,
+            -244.0,
+            -91.0
+          ],
+          [
+            55.0,
+            -335.0,
+            -91.0
+          ],
+          [
+            -242.0,
+            50.0,
+            -91.0
+          ],
+          [
+            -144.0,
+            -439.0,
+            -91.0
+          ],
+          [
+            -51.0,
+            -440.0,
+            -91.0
+          ]
         ]
       },
       {
         "data": {
-          "color": [166, 101, 5],
+          "color": [
+            166,
+            101,
+            5
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple|PortalStrict",
+          "flags": "Simple|PortalStrict|Linear",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
           ]
         },
         "points": [
-          [-242.0, -46.0, -91.0],
-          [-243.0, -330.0, -91.0],
-          [142.0, 246.0, -91.0]
+          [
+            -242.0,
+            -46.0,
+            -91.0
+          ],
+          [
+            -243.0,
+            -330.0,
+            -91.0
+          ],
+          [
+            142.0,
+            246.0,
+            -91.0
+          ]
         ]
       },
       {
         "data": {
-          "color": [235, 191, 146],
+          "color": [
+            235,
+            191,
+            146
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple|PortalStrict",
+          "flags": "Simple|PortalStrict|Linear",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
           ]
         },
-        "points": [[0.0, -2.0, 292.0]]
+        "points": [
+          [
+            0.0,
+            -2.0,
+            292.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilshack02alt.nif"]
+    "models": [
+      "dlc02\\architecture\\skaalvillage\\dlc2skaalvilshack02alt.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [166, 101, 5],
+          "color": [
+            166,
+            101,
+            5
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple|PortalStrict",
+          "flags": "Simple|PortalStrict|Linear",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
           ]
         },
         "points": [
-          [241.0, -51.0, -91.0],
-          [-242.0, -46.0, -91.0],
-          [-243.0, -330.0, -91.0],
-          [142.0, 246.0, -91.0]
+          [
+            241.0,
+            -51.0,
+            -91.0
+          ],
+          [
+            -242.0,
+            -46.0,
+            -91.0
+          ],
+          [
+            -243.0,
+            -330.0,
+            -91.0
+          ],
+          [
+            142.0,
+            246.0,
+            -91.0
+          ]
         ]
       },
       {
         "data": {
-          "color": [166, 101, 5],
+          "color": [
+            166,
+            101,
+            5
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple|PortalStrict",
+          "flags": "Simple|PortalStrict|Linear",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
           ]
         },
         "points": [
-          [241.0, 46.0, -91.0],
-          [-139.0, 244.0, -91.0],
-          [137.0, -244.0, -91.0],
-          [55.0, -335.0, -91.0],
-          [-242.0, 50.0, -91.0]
+          [
+            241.0,
+            46.0,
+            -91.0
+          ],
+          [
+            -139.0,
+            244.0,
+            -91.0
+          ],
+          [
+            137.0,
+            -244.0,
+            -91.0
+          ],
+          [
+            55.0,
+            -335.0,
+            -91.0
+          ],
+          [
+            -242.0,
+            50.0,
+            -91.0
+          ]
         ]
       },
       {
         "data": {
-          "color": [235, 191, 146],
+          "color": [
+            235,
+            191,
+            146
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple|PortalStrict",
+          "flags": "Simple|PortalStrict|Linear",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
           ]
         },
-        "points": [[0.0, -2.0, 292.0]]
+        "points": [
+          [
+            0.0,
+            -2.0,
+            292.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilshack02.nif"]
+    "models": [
+      "dlc02\\architecture\\skaalvillage\\dlc2skaalvilshack02.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [166, 101, 5],
+          "color": [
+            166,
+            101,
+            5
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple|PortalStrict",
+          "flags": "Simple|PortalStrict|Linear",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
           ]
         },
         "points": [
-          [155.0, -147.0, -74.0],
-          [155.0, -196.5, -74.0],
-          [-117.0, -196.5, -74.0],
-          [-117.0, -147.0, -74.0]
+          [
+            155.0,
+            -147.0,
+            -74.0
+          ],
+          [
+            155.0,
+            -196.5,
+            -74.0
+          ],
+          [
+            -117.0,
+            -196.5,
+            -74.0
+          ],
+          [
+            -117.0,
+            -147.0,
+            -74.0
+          ]
         ]
       },
       {
         "data": {
-          "color": [166, 101, 5],
+          "color": [
+            166,
+            101,
+            5
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple|PortalStrict",
+          "flags": "Simple|PortalStrict|Linear",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
           ]
         },
         "points": [
-          [362.0, 44.5, -98.0],
-          [362.0, 196.5, -98.0],
-          [-338.0, 187.5, -98.0],
-          [-338.0, 34.5, -98.0],
-          [107.0, 272.0, -98.0],
-          [-85.5, 272.0, -98.0]
+          [
+            362.0,
+            44.5,
+            -98.0
+          ],
+          [
+            362.0,
+            196.5,
+            -98.0
+          ],
+          [
+            -338.0,
+            187.5,
+            -98.0
+          ],
+          [
+            -338.0,
+            34.5,
+            -98.0
+          ],
+          [
+            107.0,
+            272.0,
+            -98.0
+          ],
+          [
+            -85.5,
+            272.0,
+            -98.0
+          ]
         ]
       }
     ],
-    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilgreymane01.nif"]
+    "models": [
+      "dlc02\\architecture\\skaalvillage\\dlc2skaalvilgreymane01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [166, 101, 5],
+          "color": [
+            166,
+            101,
+            5
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple|PortalStrict",
+          "flags": "Simple|PortalStrict|Linear",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
           ]
         },
         "points": [
-          [53.0, -119.0, -190.0],
-          [-363.0, -374.0, -190.0],
-          [11.0, 458.0, -190.0]
+          [
+            53.0,
+            -119.0,
+            -190.0
+          ],
+          [
+            -363.0,
+            -374.0,
+            -190.0
+          ],
+          [
+            11.0,
+            458.0,
+            -190.0
+          ]
         ]
       },
       {
         "data": {
-          "color": [166, 101, 5],
+          "color": [
+            166,
+            101,
+            5
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 60.0,
-          "flags": "Simple|PortalStrict",
+          "flags": "Simple|PortalStrict|Linear",
           "conditions": [
             "Self GetCurrentTime NONE NONE >= 19.00 OR",
             "Self GetCurrentTime NONE NONE <= 6.00 OR"
           ]
         },
         "points": [
-          [94.0, 28.0, -190.0],
-          [-140.0, 458.0, -190.0],
-          [-232.0, -451.0, -190.0]
+          [
+            94.0,
+            28.0,
+            -190.0
+          ],
+          [
+            -140.0,
+            458.0,
+            -190.0
+          ],
+          [
+            -232.0,
+            -451.0,
+            -190.0
+          ]
         ]
       }
     ],
-    "models": ["dlc02\\architecture\\skaalvillage\\dlc2skaalvilhousewind04.nif"]
+    "models": [
+      "dlc02\\architecture\\skaalvillage\\dlc2skaalvilhousewind04.nif"
+    ]
   }
 ]

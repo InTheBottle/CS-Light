@@ -3,13 +3,23 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [127, 255, 255],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            127,
+            255,
+            255
+          ],
           "fade": 10.0,
           "light": "MagicLightWhite01",
           "radius": 12
         },
-        "points": [[-0.26, -0.15, 0.22]]
+        "points": [
+          [
+            -0.26,
+            -0.15,
+            0.22
+          ]
+        ]
       }
     ],
     "models": [
@@ -20,17 +30,37 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [127, 255, 255],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            127,
+            255,
+            255
+          ],
           "fade": 10.0,
           "light": "MagicLightWhite01",
           "radius": 12
         },
         "points": [
-          [0.67, -0.43, 77.96],
-          [-0.26, -0.15, 68.0],
-          [28.0, -31.0, 67.0],
-          [-28.0, -31.0, 67.0]
+          [
+            0.67,
+            -0.43,
+            77.96
+          ],
+          [
+            -0.26,
+            -0.15,
+            68.0
+          ],
+          [
+            28.0,
+            -31.0,
+            67.0
+          ],
+          [
+            -28.0,
+            -31.0,
+            67.0
+          ]
         ]
       }
     ],
@@ -42,13 +72,23 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [127, 255, 255],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            127,
+            255,
+            255
+          ],
           "fade": 10.0,
           "light": "MagicLightWhite01",
           "radius": 12
         },
-        "points": [[-0.26, -0.15, 0.22]]
+        "points": [
+          [
+            -0.26,
+            -0.15,
+            0.22
+          ]
+        ]
       }
     ],
     "models": [
@@ -59,18 +99,42 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [127, 255, 255],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            127,
+            255,
+            255
+          ],
           "fade": 10.0,
           "light": "MagicLightWhite01",
           "radius": 12
         },
         "points": [
-          [-0.23, -0.27, 181.87],
-          [-0.26, -0.23, 181.89],
-          [-0.33, -0.18, 181.5],
-          [-0.15, -0.23, 182.01],
-          [-0.26, -0.15, 173.89]
+          [
+            -0.23,
+            -0.27,
+            181.87
+          ],
+          [
+            -0.26,
+            -0.23,
+            181.89
+          ],
+          [
+            -0.33,
+            -0.18,
+            181.5
+          ],
+          [
+            -0.15,
+            -0.23,
+            182.01
+          ],
+          [
+            -0.26,
+            -0.15,
+            173.89
+          ]
         ]
       }
     ],
@@ -82,13 +146,23 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [127, 255, 255],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            127,
+            255,
+            255
+          ],
           "fade": 10.0,
           "light": "MagicLightWhite01",
           "radius": 12
         },
-        "points": [[-0.26, -0.15, 0.22]]
+        "points": [
+          [
+            -0.26,
+            -0.15,
+            0.22
+          ]
+        ]
       }
     ],
     "models": [
@@ -99,13 +173,23 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [127, 255, 255],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            127,
+            255,
+            255
+          ],
           "fade": 10.0,
           "light": "MagicLightWhite01",
           "radius": 12
         },
-        "points": [[-0.26, -0.15, 0.22]]
+        "points": [
+          [
+            -0.26,
+            -0.15,
+            0.22
+          ]
+        ]
       }
     ],
     "models": [
@@ -116,13 +200,23 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [127, 255, 255],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            127,
+            255,
+            255
+          ],
           "fade": 10.0,
           "light": "MagicLightWhite01",
           "radius": 12
         },
-        "points": [[-0.26, -0.15, 0.22]]
+        "points": [
+          [
+            -0.26,
+            -0.15,
+            0.22
+          ]
+        ]
       }
     ],
     "models": [

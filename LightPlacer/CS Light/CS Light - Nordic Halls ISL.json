@@ -1,432 +1,59 @@
 [
   {
-    "models": ["dungeons\\nordic\\temple\\bghalls\\nortmphallbgcolumn01.nif"],
+    "models": [
+      "dungeons\\nordic\\temple\\bghalls\\nortmphallbgcolumn01.nif"
+    ],
     "lights": [
       {
         "points": [
-          [-70.0, -110.0, 168.0],
-          [-47.0, -140.0, 114.0],
-          [76.0, -131.0, 103.0]
+          [
+            -70.0,
+            -110.0,
+            168.0
+          ],
+          [
+            -47.0,
+            -140.0,
+            114.0
+          ],
+          [
+            76.0,
+            -131.0,
+            103.0
+          ]
         ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.2,
           "cutoff": 0.15,
-          "flags": "InverseSquare|Flicker|IgnoreScale|PortalStrict"
+          "flags": "InverseSquare|Flicker|IgnoreScale|PortalStrict|Linear"
         }
       }
     ]
   },
   {
-    "models": ["dungeons\\nordic\\catacombs\\smhalls\\norcathallsm1way02.nif"],
+    "models": [
+      "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm1way02.nif"
+    ],
     "lights": [
       {
         "points": [
-          [-105.0, -162.0, 138.0],
-          [-101.51, 168.0, 106.0]
+          [
+            -105.0,
+            -162.0,
+            138.0
+          ],
+          [
+            -101.51,
+            168.0,
+            106.0
+          ]
         ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.2,
           "cutoff": 0.15,
-          "flags": "InverseSquare|Flicker|IgnoreScale|PortalStrict"
-        }
-      }
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "fade": 0.2,
-          "cutoff": 0.15,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.5
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 2.0,
-                "value": 1.7000000476837158
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 4.0,
-                "value": 0.5
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 6.0,
-                "value": 1.2000000476837158
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 7.0,
-                "value": 0.699999988079071
-              },
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 8.0,
-                "value": 1.5
-              }
-            ]
-          },
-          "light": "DefaultCandleLight01NS"
-        },
-        "points": [
-          [899.0, 51.0, 211.0],
-          [954.0, 57.0, 139.0],
-          [876.0, 32.0, 75.0],
-          [-899.0, -51.0, 211.0],
-          [-954.0, -57.0, 139.0],
-          [-876.0, -32.0, 75.0]
-        ]
-      },
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "fade": 0.2,
-          "cutoff": 0.15,
-          "light": "DefaultCandleLight01NS"
-        },
-        "points": [
-          [899.0, 51.0, 211.0],
-          [954.0, 57.0, 139.0],
-          [876.0, 32.0, 75.0],
-          [-899.0, -51.0, 211.0],
-          [-954.0, -57.0, 139.0],
-          [-876.0, -32.0, 75.0]
-        ]
-      }
-    ],
-    "models": ["dungeons\\nordic\\temple\\bghalls\\nortmphallbgcolumnsm01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "fade": 0.2,
-          "cutoff": 0.15,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.5
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 2.0,
-                "value": 1.7000000476837158
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 4.0,
-                "value": 0.5
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 6.0,
-                "value": 1.2000000476837158
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 7.0,
-                "value": 0.699999988079071
-              },
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 8.0,
-                "value": 1.5
-              }
-            ]
-          },
-          "light": "DefaultCandleLight01NS"
-        },
-        "points": [
-          [899.0, 562.0, 211.0],
-          [955.7, 571.0, 139.0],
-          [875.0, 543.0, 77.0]
-        ]
-      },
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "fade": 0.2,
-          "cutoff": 0.15,
-          "light": "DefaultCandleLight01NS"
-        },
-        "points": [
-          [899.0, 562.0, 211.0],
-          [955.7, 571.0, 139.0],
-          [875.0, 543.0, 77.0]
-        ]
-      }
-    ],
-    "models": ["dungeons\\nordic\\temple\\bghalls\\nortmphallbgcolumnsm02.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "fade": 0.2,
-          "cutoff": 0.15,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.5
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 2.0,
-                "value": 1.7000000476837158
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 4.0,
-                "value": 0.5
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 6.0,
-                "value": 1.2000000476837158
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 7.0,
-                "value": 0.699999988079071
-              },
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 8.0,
-                "value": 1.5
-              }
-            ]
-          },
-          "light": "DefaultCandleLight01NS"
-        },
-        "points": [
-          [-92.09, 144.29, 174.7],
-          [94.14, -216.9, 72.23],
-          [-84.4, -221.16, 175.26]
-        ]
-      },
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "fade": 0.2,
-          "cutoff": 0.15,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 1.0,
-                "value": 0.5
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 2.0,
-                "value": 1.5
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 3.0,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 4.0,
-                "value": 1.7999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 5.0,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 6.0,
-                "value": 1.2000000476837158
-              },
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 7.0,
-                "value": 0.5
-              },
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 8.0,
-                "value": 1.0
-              }
-            ]
-          },
-          "light": "DefaultCandleLight01NS"
-        },
-        "points": [[44.76, 134.31, 205.12]]
-      },
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "fade": 0.2,
-          "cutoff": 0.15,
-          "light": "DefaultCandleLight01NS"
-        },
-        "points": [
-          [-92.09, 144.29, 174.7],
-          [44.76, 134.31, 205.12],
-          [94.14, -216.9, 72.23],
-          [-84.4, -221.16, 175.26]
-        ]
-      }
-    ],
-    "models": ["dungeons\\nordic\\catacombs\\smhalls\\norcathallsm3way01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "fade": 0.2,
-          "cutoff": 0.15,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 1.0,
-                "value": 0.5
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 2.0,
-                "value": 1.5
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 3.0,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 4.0,
-                "value": 1.7999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 5.0,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 6.0,
-                "value": 1.2000000476837158
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 7.0,
-                "value": 0.5
-              },
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 8.0,
-                "value": 1.0
-              }
-            ]
-          },
-          "light": "DefaultCandleLight01NS"
-        },
-        "points": [
-          [101.2, -168.09, 139.5],
-          [-100.6, 168.0, 106.0]
-        ]
-      },
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "fade": 0.2,
-          "cutoff": 0.15,
-          "light": "DefaultCandleLight01NS"
-        },
-        "points": [
-          [101.2, -168.09, 139.5],
-          [-100.6, 168.0, 106.0]
-        ]
-      }
-    ],
-    "models": ["dungeons\\nordic\\catacombs\\smhalls\\norcathallsm1way03.nif"]
-  },
-  {
-    "models": ["dungeons\\nordic\\temple\\bghalls\\nortmphallbgcolumn03.nif"],
-    "lights": [
-      {
-        "points": [
-          [-70.0, -110.0, 168.0],
-          [-47.0, -140.0, 114.0],
-          [76.0, -131.0, 103.0]
-        ],
-        "data": {
-          "light": "DefaultCandleLight01NS",
-          "fade": 0.2,
-          "cutoff": 0.15,
-          "flags": "InverseSquare|Flicker|IgnoreScale|PortalStrict"
+          "flags": "InverseSquare|Flicker|IgnoreScale|PortalStrict|Linear"
         }
       }
     ]
@@ -435,6 +62,7 @@
     "lights": [
       {
         "data": {
+          "flags": "PortalStrict|Linear",
           "fade": 0.2,
           "cutoff": 0.15,
           "fadeController": {
@@ -481,34 +109,88 @@
           "light": "DefaultCandleLight01NS"
         },
         "points": [
-          [-134.34, -39.01, 200.9],
-          [-59.7, 90.69, 170.98],
-          [227.08, 107.76, 139.36],
-          [221.16, -84.4, 175.26]
+          [
+            899.0,
+            51.0,
+            211.0
+          ],
+          [
+            954.0,
+            57.0,
+            139.0
+          ],
+          [
+            876.0,
+            32.0,
+            75.0
+          ],
+          [
+            -899.0,
+            -51.0,
+            211.0
+          ],
+          [
+            -954.0,
+            -57.0,
+            139.0
+          ],
+          [
+            -876.0,
+            -32.0,
+            75.0
+          ]
         ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 0.2,
           "cutoff": 0.15,
           "light": "DefaultCandleLight01NS"
         },
         "points": [
-          [-134.34, -39.01, 200.9],
-          [-59.7, 90.69, 170.98],
-          [227.08, 107.76, 139.36],
-          [221.16, -84.4, 175.26]
+          [
+            899.0,
+            51.0,
+            211.0
+          ],
+          [
+            954.0,
+            57.0,
+            139.0
+          ],
+          [
+            876.0,
+            32.0,
+            75.0
+          ],
+          [
+            -899.0,
+            -51.0,
+            211.0
+          ],
+          [
+            -954.0,
+            -57.0,
+            139.0
+          ],
+          [
+            -876.0,
+            -32.0,
+            75.0
+          ]
         ]
       }
     ],
-    "models": ["dungeons\\nordic\\catacombs\\smhalls\\norcathallsm2way01.nif"]
+    "models": [
+      "dungeons\\nordic\\temple\\bghalls\\nortmphallbgcolumnsm01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 0.2,
           "cutoff": 0.15,
           "fadeController": {
@@ -555,13 +237,235 @@
           "light": "DefaultCandleLight01NS"
         },
         "points": [
-          [194.68, 92.48, 139.59],
-          [-92.82, -191.34, 136.47]
+          [
+            899.0,
+            562.0,
+            211.0
+          ],
+          [
+            955.7,
+            571.0,
+            139.0
+          ],
+          [
+            875.0,
+            543.0,
+            77.0
+          ]
         ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
+          "fade": 0.2,
+          "cutoff": 0.15,
+          "light": "DefaultCandleLight01NS"
+        },
+        "points": [
+          [
+            899.0,
+            562.0,
+            211.0
+          ],
+          [
+            955.7,
+            571.0,
+            139.0
+          ],
+          [
+            875.0,
+            543.0,
+            77.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dungeons\\nordic\\temple\\bghalls\\nortmphallbgcolumnsm02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "fade": 0.2,
+          "cutoff": 0.15,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.0,
+                "value": 1.5
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.0,
+                "value": 1.7000000476837158
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.0,
+                "value": 0.5
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 6.0,
+                "value": 1.2000000476837158
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 7.0,
+                "value": 0.699999988079071
+              },
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 8.0,
+                "value": 1.5
+              }
+            ]
+          },
+          "light": "DefaultCandleLight01NS"
+        },
+        "points": [
+          [
+            -92.09,
+            144.29,
+            174.7
+          ],
+          [
+            94.14,
+            -216.9,
+            72.23
+          ],
+          [
+            -84.4,
+            -221.16,
+            175.26
+          ]
+        ]
+      },
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "fade": 0.2,
+          "cutoff": 0.15,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.0,
+                "value": 1.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.0,
+                "value": 0.5
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.0,
+                "value": 1.5
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 3.0,
+                "value": 1.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.0,
+                "value": 1.7999999523162842
+              },
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 5.0,
+                "value": 1.0
+              },
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 6.0,
+                "value": 1.2000000476837158
+              },
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 7.0,
+                "value": 0.5
+              },
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 8.0,
+                "value": 1.0
+              }
+            ]
+          },
+          "light": "DefaultCandleLight01NS"
+        },
+        "points": [
+          [
+            44.76,
+            134.31,
+            205.12
+          ]
+        ]
+      },
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "fade": 0.2,
+          "cutoff": 0.15,
+          "light": "DefaultCandleLight01NS"
+        },
+        "points": [
+          [
+            -92.09,
+            144.29,
+            174.7
+          ],
+          [
+            44.76,
+            134.31,
+            205.12
+          ],
+          [
+            94.14,
+            -216.9,
+            72.23
+          ],
+          [
+            -84.4,
+            -221.16,
+            175.26
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm3way01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
           "fade": 0.2,
           "cutoff": 0.15,
           "fadeController": {
@@ -626,103 +530,79 @@
           "light": "DefaultCandleLight01NS"
         },
         "points": [
-          [221.16, -84.4, 175.26],
-          [-144.0, 94.0, 203.0]
+          [
+            101.2,
+            -168.09,
+            139.5
+          ],
+          [
+            -100.6,
+            168.0,
+            106.0
+          ]
         ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 0.2,
           "cutoff": 0.15,
           "light": "DefaultCandleLight01NS"
         },
         "points": [
-          [194.68, 92.48, 139.59],
-          [221.16, -84.4, 175.26],
-          [-92.82, -191.34, 136.47],
-          [-144.0, 94.0, 203.0]
+          [
+            101.2,
+            -168.09,
+            139.5
+          ],
+          [
+            -100.6,
+            168.0,
+            106.0
+          ]
         ]
       }
     ],
-    "models": ["dungeons\\nordic\\catacombs\\smhalls\\norcathallsm4way02.nif"]
+    "models": [
+      "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm1way03.nif"
+    ]
+  },
+  {
+    "models": [
+      "dungeons\\nordic\\temple\\bghalls\\nortmphallbgcolumn03.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            -70.0,
+            -110.0,
+            168.0
+          ],
+          [
+            -47.0,
+            -140.0,
+            114.0
+          ],
+          [
+            76.0,
+            -131.0,
+            103.0
+          ]
+        ],
+        "data": {
+          "light": "DefaultCandleLight01NS",
+          "fade": 0.2,
+          "cutoff": 0.15,
+          "flags": "InverseSquare|Flicker|IgnoreScale|PortalStrict|Linear"
+        }
+      }
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "fade": 0.2,
-          "cutoff": 0.15,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 1.0,
-                "value": 0.5
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 2.0,
-                "value": 1.5
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 3.0,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 4.0,
-                "value": 1.7999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 5.0,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 6.0,
-                "value": 1.2000000476837158
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 7.0,
-                "value": 0.5
-              },
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 8.0,
-                "value": 1.0
-              }
-            ]
-          },
-          "light": "DefaultCandleLight01NS"
-        },
-        "points": [
-          [114.0, -2.0, 136.61],
-          [-102.54, 169.1, 106.0]
-        ]
-      },
-      {
-        "data": {
-          "flags": "PortalStrict",
           "fade": 0.2,
           "cutoff": 0.15,
           "fadeController": {
@@ -766,103 +646,72 @@
               }
             ]
           },
-          "light": "DefaultCandleLight01NS"
+          "light": "DefaultCandleLight01NS",
+          "flags": "Linear"
         },
-        "points": [[-104.0, -162.0, 102.0]]
+        "points": [
+          [
+            -134.34,
+            -39.01,
+            200.9
+          ],
+          [
+            -59.7,
+            90.69,
+            170.98
+          ],
+          [
+            227.08,
+            107.76,
+            139.36
+          ],
+          [
+            221.16,
+            -84.4,
+            175.26
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 0.2,
           "cutoff": 0.15,
           "light": "DefaultCandleLight01NS"
         },
         "points": [
-          [114.0, -2.0, 136.61],
-          [-104.0, -162.0, 102.0],
-          [-102.54, 169.1, 106.0]
+          [
+            -134.34,
+            -39.01,
+            200.9
+          ],
+          [
+            -59.7,
+            90.69,
+            170.98
+          ],
+          [
+            227.08,
+            107.76,
+            139.36
+          ],
+          [
+            221.16,
+            -84.4,
+            175.26
+          ]
         ]
       }
     ],
-    "models": ["dungeons\\nordic\\catacombs\\smhalls\\norcathallsm1way01.nif"]
+    "models": [
+      "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm2way01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "fade": 0.2,
-          "cutoff": 0.15,
-          "fadeController": {
-            "interpolation": "Cubic",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 0.0,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 1.0,
-                "value": 0.5
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 2.0,
-                "value": 1.5
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 3.0,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 4.0,
-                "value": 1.7999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 5.0,
-                "value": 1.0
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 6.0,
-                "value": 1.2000000476837158
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 7.0,
-                "value": 0.5
-              },
-              {
-                "backward": 0.0,
-                "forward": -0.0,
-                "time": 8.0,
-                "value": 1.0
-              }
-            ]
-          },
-          "light": "DefaultCandleLight01NS"
-        },
-        "points": [
-          [-94.0, -144.0, 203.0],
-          [222.0, -90.0, 173.0],
-          [96.0, -223.0, 69.0]
-        ]
-      },
-      {
-        "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 0.2,
           "cutoff": 0.15,
           "fadeController": {
@@ -909,33 +758,21 @@
           "light": "DefaultCandleLight01NS"
         },
         "points": [
-          [89.0, 220.0, 44.0],
-          [-221.16, 84.4, 175.26]
+          [
+            194.68,
+            92.48,
+            139.59
+          ],
+          [
+            -92.82,
+            -191.34,
+            136.47
+          ]
         ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
-          "fade": 0.2,
-          "cutoff": 0.15,
-          "light": "DefaultCandleLight01NS"
-        },
-        "points": [
-          [-94.0, -144.0, 203.0],
-          [89.0, 220.0, 44.0],
-          [-221.16, 84.4, 175.26],
-          [222.0, -90.0, 173.0],
-          [96.0, -223.0, 69.0]
-        ]
-      }
-    ],
-    "models": ["dungeons\\nordic\\catacombs\\smhalls\\norcathallsm4way01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 0.2,
           "cutoff": 0.15,
           "fadeController": {
@@ -1000,27 +837,531 @@
           "light": "DefaultCandleLight01NS"
         },
         "points": [
-          [80.0, 151.0, 46.0],
-          [-92.0, 144.0, 174.0],
-          [221.16, -84.4, 174.0],
-          [95.0, -223.0, 70.0]
+          [
+            221.16,
+            -84.4,
+            175.26
+          ],
+          [
+            -144.0,
+            94.0,
+            203.0
+          ]
         ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 0.2,
           "cutoff": 0.15,
           "light": "DefaultCandleLight01NS"
         },
         "points": [
-          [80.0, 151.0, 46.0],
-          [-92.0, 144.0, 174.0],
-          [221.16, -84.4, 174.0],
-          [95.0, -223.0, 70.0]
+          [
+            194.68,
+            92.48,
+            139.59
+          ],
+          [
+            221.16,
+            -84.4,
+            175.26
+          ],
+          [
+            -92.82,
+            -191.34,
+            136.47
+          ],
+          [
+            -144.0,
+            94.0,
+            203.0
+          ]
         ]
       }
     ],
-    "models": ["dungeons\\nordic\\catacombs\\smhalls\\norcathallsm3way02.nif"]
+    "models": [
+      "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm4way02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "fade": 0.2,
+          "cutoff": 0.15,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.0,
+                "value": 1.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.0,
+                "value": 0.5
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.0,
+                "value": 1.5
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 3.0,
+                "value": 1.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.0,
+                "value": 1.7999999523162842
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 5.0,
+                "value": 1.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 6.0,
+                "value": 1.2000000476837158
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 7.0,
+                "value": 0.5
+              },
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 8.0,
+                "value": 1.0
+              }
+            ]
+          },
+          "light": "DefaultCandleLight01NS"
+        },
+        "points": [
+          [
+            114.0,
+            -2.0,
+            136.61
+          ],
+          [
+            -102.54,
+            169.1,
+            106.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "fade": 0.2,
+          "cutoff": 0.15,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.0,
+                "value": 1.5
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.0,
+                "value": 1.7000000476837158
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.0,
+                "value": 0.5
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 6.0,
+                "value": 1.2000000476837158
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 7.0,
+                "value": 0.699999988079071
+              },
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 8.0,
+                "value": 1.5
+              }
+            ]
+          },
+          "light": "DefaultCandleLight01NS"
+        },
+        "points": [
+          [
+            -104.0,
+            -162.0,
+            102.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "fade": 0.2,
+          "cutoff": 0.15,
+          "light": "DefaultCandleLight01NS"
+        },
+        "points": [
+          [
+            114.0,
+            -2.0,
+            136.61
+          ],
+          [
+            -104.0,
+            -162.0,
+            102.0
+          ],
+          [
+            -102.54,
+            169.1,
+            106.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm1way01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "fade": 0.2,
+          "cutoff": 0.15,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.0,
+                "value": 1.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.0,
+                "value": 0.5
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.0,
+                "value": 1.5
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 3.0,
+                "value": 1.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.0,
+                "value": 1.7999999523162842
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 5.0,
+                "value": 1.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 6.0,
+                "value": 1.2000000476837158
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 7.0,
+                "value": 0.5
+              },
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 8.0,
+                "value": 1.0
+              }
+            ]
+          },
+          "light": "DefaultCandleLight01NS"
+        },
+        "points": [
+          [
+            -94.0,
+            -144.0,
+            203.0
+          ],
+          [
+            222.0,
+            -90.0,
+            173.0
+          ],
+          [
+            96.0,
+            -223.0,
+            69.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "fade": 0.2,
+          "cutoff": 0.15,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.0,
+                "value": 1.5
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.0,
+                "value": 1.7000000476837158
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.0,
+                "value": 0.5
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 6.0,
+                "value": 1.2000000476837158
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 7.0,
+                "value": 0.699999988079071
+              },
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 8.0,
+                "value": 1.5
+              }
+            ]
+          },
+          "light": "DefaultCandleLight01NS"
+        },
+        "points": [
+          [
+            89.0,
+            220.0,
+            44.0
+          ],
+          [
+            -221.16,
+            84.4,
+            175.26
+          ]
+        ]
+      },
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "fade": 0.2,
+          "cutoff": 0.15,
+          "light": "DefaultCandleLight01NS"
+        },
+        "points": [
+          [
+            -94.0,
+            -144.0,
+            203.0
+          ],
+          [
+            89.0,
+            220.0,
+            44.0
+          ],
+          [
+            -221.16,
+            84.4,
+            175.26
+          ],
+          [
+            222.0,
+            -90.0,
+            173.0
+          ],
+          [
+            96.0,
+            -223.0,
+            69.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm4way01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "fade": 0.2,
+          "cutoff": 0.15,
+          "fadeController": {
+            "interpolation": "Cubic",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 0.0,
+                "value": 1.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 1.0,
+                "value": 0.5
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.0,
+                "value": 1.5
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 3.0,
+                "value": 1.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.0,
+                "value": 1.7999999523162842
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 5.0,
+                "value": 1.0
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 6.0,
+                "value": 1.2000000476837158
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 7.0,
+                "value": 0.5
+              },
+              {
+                "backward": 0.0,
+                "forward": -0.0,
+                "time": 8.0,
+                "value": 1.0
+              }
+            ]
+          },
+          "light": "DefaultCandleLight01NS"
+        },
+        "points": [
+          [
+            80.0,
+            151.0,
+            46.0
+          ],
+          [
+            -92.0,
+            144.0,
+            174.0
+          ],
+          [
+            221.16,
+            -84.4,
+            174.0
+          ],
+          [
+            95.0,
+            -223.0,
+            70.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "fade": 0.2,
+          "cutoff": 0.15,
+          "light": "DefaultCandleLight01NS"
+        },
+        "points": [
+          [
+            80.0,
+            151.0,
+            46.0
+          ],
+          [
+            -92.0,
+            144.0,
+            174.0
+          ],
+          [
+            221.16,
+            -84.4,
+            174.0
+          ],
+          [
+            95.0,
+            -223.0,
+            70.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm3way02.nif"
+    ]
   }
 ]

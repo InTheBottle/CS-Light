@@ -1,15 +1,27 @@
 [
   {
-    "models": ["actors\\witchlight\\character assets\\witchlightmesh.nif"],
+    "models": [
+      "actors\\witchlight\\character assets\\witchlightmesh.nif"
+    ],
     "lights": [
       {
-        "points": [[0.0, -90.0, 80.0]],
+        "points": [
+          [
+            0.0,
+            -90.0,
+            80.0
+          ]
+        ],
         "data": {
           "light": "MagicLightWhite01",
-          "color": [202, 227, 225],
+          "color": [
+            202,
+            227,
+            225
+          ],
           "radius": 128.0,
           "fade": 2.0,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         }
       }
     ]

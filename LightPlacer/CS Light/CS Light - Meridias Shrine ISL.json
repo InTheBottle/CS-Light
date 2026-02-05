@@ -3,103 +3,189 @@
     "lights": [
       {
         "data": {
-          "color": [255, 244, 163],
+          "color": [
+            255,
+            244,
+            163
+          ],
           "light": "MagicLightWhite01",
           "cutoff": 0.999,
           "size": 0.01,
           "fade": 0.2,
-          "flags": "PortalStrict|InverseSquare|IgnoreScale"
+          "flags": "PortalStrict|InverseSquare|IgnoreScale|Linear"
         },
-        "points": [[0.0, 0.0, 10.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            10.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\dawnbreakerpedestal\\crystal.nif"]
+    "models": [
+      "clutter\\dawnbreakerpedestal\\crystal.nif"
+    ]
   },
   {
     "lights": [
       {
-        "blackList": ["0x150EA971"],
+        "blackList": [
+          "0x150EA971"
+        ],
         "data": {
-          "color": [76, 76, 76],
+          "color": [
+            76,
+            76,
+            76
+          ],
           "light": "MagicLightWhite01",
           "cutoff": 1,
           "size": 2,
           "fade": 1.5,
-          "flags": "PortalStrict|InverseSquare|IgnoreScale"
+          "flags": "PortalStrict|InverseSquare|IgnoreScale|Linear"
         },
-        "points": [[-0.0, 0.0, 105]]
+        "points": [
+          [
+            -0.0,
+            0.0,
+            105
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\dawnbreakerpedestal\\crystalpedestal.nif"]
+    "models": [
+      "clutter\\dawnbreakerpedestal\\crystalpedestal.nif"
+    ]
   },
   {
     "lights": [
       {
-        "blackList": ["0x150EA971"],
+        "blackList": [
+          "0x150EA971"
+        ],
         "data": {
-          "color": [76, 76, 76],
+          "color": [
+            76,
+            76,
+            76
+          ],
           "light": "MagicLightWhite01",
           "cutoff": 0.999,
           "size": 0.01,
           "fade": 0.1,
-          "flags": "PortalStrict|InverseSquare|IgnoreScale"
+          "flags": "PortalStrict|InverseSquare|IgnoreScale|Linear"
         },
         "points": [
-          [30.0, 30.0, 57.0],
-          [-30.0, -30.0, 57.0],
-          [30.0, -30.0, 57.0],
-          [-30.0, 30.0, 57.0]
+          [
+            30.0,
+            30.0,
+            57.0
+          ],
+          [
+            -30.0,
+            -30.0,
+            57.0
+          ],
+          [
+            30.0,
+            -30.0,
+            57.0
+          ],
+          [
+            -30.0,
+            30.0,
+            57.0
+          ]
         ]
       }
     ],
-    "models": ["clutter\\dawnbreakerpedestal\\crystalpedestal.nif"]
+    "models": [
+      "clutter\\dawnbreakerpedestal\\crystalpedestal.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [255, 244, 163],
+          "color": [
+            255,
+            244,
+            163
+          ],
           "light": "MagicLightWhite01",
           "cutoff": 1,
           "size": 5,
           "fade": 4,
-          "flags": "InverseSquare|IgnoreScale"
+          "flags": "InverseSquare|IgnoreScale|Linear"
         },
-        "points": [[0.0, 0.0, 76.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            76.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\dawnbreakerpedestal\\crystalholder.nif"]
+    "models": [
+      "clutter\\dawnbreakerpedestal\\crystalholder.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [255, 244, 163],
+          "color": [
+            255,
+            244,
+            163
+          ],
           "light": "MagicLightWhite01",
           "cutoff": 0.999,
           "size": 0.01,
           "fade": 0.2,
-          "flags": "PortalStrict|InverseSquare|IgnoreScale"
+          "flags": "PortalStrict|InverseSquare|IgnoreScale|Linear"
         },
-        "points": [[0.0, 6.0, 86.0]]
+        "points": [
+          [
+            0.0,
+            6.0,
+            86.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\dawnbreakerpedestal\\pedestal.nif"]
+    "models": [
+      "clutter\\dawnbreakerpedestal\\pedestal.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [129, 129, 129],
+          "color": [
+            129,
+            129,
+            129
+          ],
           "light": "MagicLightWhite01",
           "cutoff": 1,
           "size": 2,
           "fade": 1.5,
-          "flags": "PortalStrict|InverseSquare|IgnoreScale"
+          "flags": "PortalStrict|InverseSquare|IgnoreScale|Linear"
         },
-        "points": [[0, -125, 65]]
+        "points": [
+          [
+            0,
+            -125,
+            65
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\dawnbreakerpedestal\\da09meridiastatuefx.nif"]
+    "models": [
+      "clutter\\dawnbreakerpedestal\\da09meridiastatuefx.nif"
+    ]
   }
 ]

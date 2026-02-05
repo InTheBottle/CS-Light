@@ -3,186 +3,356 @@
     "lights": [
       {
         "data": {
-          "color": [9, 136, 234],
+          "color": [
+            9,
+            136,
+            234
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["magic\\lightspellhazard.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [255, 255, 255],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict"
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["effects\\ambient\\fxglowfillroundbrt.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [255, 255, 255],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 150,
-          "flags": "PortalStrict"
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["effects\\ambient\\fxglowfillroundxdim.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [80, 198, 255],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 85,
-          "flags": "PortalStrict"
-        },
-        "points": [[0.0, 0.0, -137.26]]
-      }
-    ],
-    "models": ["effects\\mgmagicfirepillar01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [203, 191, 173],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 250,
-          "flags": "PortalStrict"
-        },
-        "points": [[0.0, -0.0, 0.0]]
-      },
-      {
-        "data": {
-          "color": [203, 144, 78],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 200,
-          "flags": "PortalStrict"
-        },
-        "points": [[0.0, -0.0, 0.0]]
-      }
-    ],
-    "models": ["clutter\\giant\\giantcampfire01burningnoland.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [5, 124, 234],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 77,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [0.0, -40.0, 25.0],
-          [0.0, 40.0, 25.0],
-          [90.0, 0.0, 25.0],
-          [-90.0, 0.0, 25.0],
-          [96.0, 56.0, 25.0],
-          [96.0, -56.0, 25.0],
-          [-96.0, 56.0, 25.0],
-          [-96.0, -56.0, 25.0]
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
         ]
       }
     ],
-    "models": ["dlc01\\soulcairn\\sc_chest01.nif"]
+    "models": [
+      "magic\\lightspellhazard.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["effects\\ambient\\fxglowfillrounddim.nif"]
+    "models": [
+      "effects\\ambient\\fxglowfillroundbrt.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 247,
-          "flags": "PortalStrict"
+          "radius": 150,
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["effects\\ambient\\fxglowfillrndlitxdim.nif"]
+    "models": [
+      "effects\\ambient\\fxglowfillroundxdim.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [9, 136, 234],
+          "color": [
+            80,
+            198,
+            255
+          ],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 85,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            -137.26
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "effects\\mgmagicfirepillar01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            203,
+            191,
+            173
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict"
+          "radius": 250,
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[-3.37, 40.18, 20.25]]
-      }
-    ],
-    "models": ["magic\\lightspellactorfx.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [255, 255, 255],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 247,
-          "flags": "PortalStrict"
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["effects\\ambient\\fxglowfillroundxbrt.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [8, 8, 8],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 247,
-          "flags": "PortalStrict"
-        },
-        "points": [[0.0, 9.35, 0.0]]
+        "points": [
+          [
+            0.0,
+            -0.0,
+            0.0
+          ]
+        ]
       },
       {
         "data": {
-          "color": [76, 76, 76],
+          "color": [
+            203,
+            144,
+            78
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 200,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            0.0,
+            -0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\giant\\giantcampfire01burningnoland.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            5,
+            124,
+            234
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 77,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            0.0,
+            -40.0,
+            25.0
+          ],
+          [
+            0.0,
+            40.0,
+            25.0
+          ],
+          [
+            90.0,
+            0.0,
+            25.0
+          ],
+          [
+            -90.0,
+            0.0,
+            25.0
+          ],
+          [
+            96.0,
+            56.0,
+            25.0
+          ],
+          [
+            96.0,
+            -56.0,
+            25.0
+          ],
+          [
+            -96.0,
+            56.0,
+            25.0
+          ],
+          [
+            -96.0,
+            -56.0,
+            25.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc01\\soulcairn\\sc_chest01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 100,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "effects\\ambient\\fxglowfillrounddim.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 247,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "effects\\ambient\\fxglowfillrndlitxdim.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            9,
+            136,
+            234
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 100,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            -3.37,
+            40.18,
+            20.25
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\lightspellactorfx.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 247,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "effects\\ambient\\fxglowfillroundxbrt.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            8,
+            8,
+            8
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 247,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            0.0,
+            9.35,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            76,
+            76,
+            76
+          ],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -197,23 +367,43 @@
           },
           "light": "MagicLightWhite01",
           "radius": 25,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 9.35, 0.0]]
+        "points": [
+          [
+            0.0,
+            9.35,
+            0.0
+          ]
+        ]
       },
       {
         "data": {
-          "color": [0, 0, 0],
+          "color": [
+            0,
+            0,
+            0
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 29,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 9.35, 0.0]]
+        "points": [
+          [
+            0.0,
+            9.35,
+            0.0
+          ]
+        ]
       },
       {
         "data": {
-          "color": [170, 170, 170],
+          "color": [
+            170,
+            170,
+            170
+          ],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -228,384 +418,738 @@
           },
           "light": "MagicLightWhite01",
           "radius": 25,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [0.0, 9.35, 0.0],
-          [0.0, 9.35, 0.0]
+          [
+            0.0,
+            9.35,
+            0.0
+          ],
+          [
+            0.0,
+            9.35,
+            0.0
+          ]
         ]
       }
     ],
-    "models": ["weapons\\dawnbreaker\\1stpersondawnbreaker.nif"]
+    "models": [
+      "weapons\\dawnbreaker\\1stpersondawnbreaker.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [203, 191, 173],
+          "color": [
+            203,
+            191,
+            173
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 249,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, -0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            -0.0,
+            0.0
+          ]
+        ]
       },
       {
         "data": {
-          "color": [203, 144, 78],
+          "color": [
+            203,
+            144,
+            78
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 405,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, -0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            -0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\giant\\giantcampfire01burning.nif"]
+    "models": [
+      "clutter\\giant\\giantcampfire01burning.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 247,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["effects\\ambient\\fxglowfillrndlitbrt.nif"]
+    "models": [
+      "effects\\ambient\\fxglowfillrndlitbrt.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [9, 136, 234],
+          "color": [
+            9,
+            136,
+            234
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 244,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, -0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            -0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["magic\\lightspellprojectile.nif"]
+    "models": [
+      "magic\\lightspellprojectile.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [203, 144, 78],
+          "color": [
+            203,
+            144,
+            78
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 98,
-          "flags": "PortalStrict"
-        },
-        "points": [[-0.31, -0.0, 2.16]]
-      }
-    ],
-    "models": ["creationclub\\qdrsse002\\ccqdrsse002_fxcampfirenewrocks01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [5, 124, 234],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 77,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [0.0, -40.0, 25.0],
-          [0.0, 40.0, 25.0],
-          [90.0, 0.0, 25.0],
-          [-90.0, 0.0, 25.0],
-          [96.0, 56.0, 25.0],
-          [96.0, -56.0, 25.0],
-          [-96.0, 56.0, 25.0],
-          [-96.0, -56.0, 25.0]
+          [
+            -0.31,
+            -0.0,
+            2.16
+          ]
         ]
       }
     ],
-    "models": ["dlc01\\soulcairn\\sc_chest.nif"]
+    "models": [
+      "creationclub\\qdrsse002\\ccqdrsse002_fxcampfirenewrocks01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [5, 124, 234],
+          "color": [
+            5,
+            124,
+            234
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 77,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [0.0, -40.0, 25.0],
-          [0.0, 40.0, 25.0],
-          [90.0, 0.0, 25.0],
-          [-90.0, 0.0, 25.0],
-          [96.0, 56.0, 25.0],
-          [96.0, -56.0, 25.0],
-          [-96.0, 56.0, 25.0],
-          [-96.0, -56.0, 25.0]
+          [
+            0.0,
+            -40.0,
+            25.0
+          ],
+          [
+            0.0,
+            40.0,
+            25.0
+          ],
+          [
+            90.0,
+            0.0,
+            25.0
+          ],
+          [
+            -90.0,
+            0.0,
+            25.0
+          ],
+          [
+            96.0,
+            56.0,
+            25.0
+          ],
+          [
+            96.0,
+            -56.0,
+            25.0
+          ],
+          [
+            -96.0,
+            56.0,
+            25.0
+          ],
+          [
+            -96.0,
+            -56.0,
+            25.0
+          ]
         ]
       }
     ],
-    "models": ["dlc01\\soulcairn\\sc_chest02.nif"]
+    "models": [
+      "dlc01\\soulcairn\\sc_chest.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [249, 248, 247],
+          "color": [
+            5,
+            124,
+            234
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 77,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            0.0,
+            -40.0,
+            25.0
+          ],
+          [
+            0.0,
+            40.0,
+            25.0
+          ],
+          [
+            90.0,
+            0.0,
+            25.0
+          ],
+          [
+            -90.0,
+            0.0,
+            25.0
+          ],
+          [
+            96.0,
+            56.0,
+            25.0
+          ],
+          [
+            96.0,
+            -56.0,
+            25.0
+          ],
+          [
+            -96.0,
+            56.0,
+            25.0
+          ],
+          [
+            -96.0,
+            -56.0,
+            25.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc01\\soulcairn\\sc_chest02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            249,
+            248,
+            247
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 247,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[-0.0, -0.0, 3.89]]
+        "points": [
+          [
+            -0.0,
+            -0.0,
+            3.89
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\effects\\telvannitorchlightfx.nif"]
+    "models": [
+      "dlc02\\effects\\telvannitorchlightfx.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [14, 14, 14],
+          "color": [
+            14,
+            14,
+            14
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 17,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, -0.0, 2.3]]
+        "points": [
+          [
+            0.0,
+            -0.0,
+            2.3
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\effects\\dlc2ashspawnhandeffects.nif"]
+    "models": [
+      "dlc02\\effects\\dlc2ashspawnhandeffects.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [165, 101, 70],
+          "color": [
+            165,
+            101,
+            70
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 102,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[-0.44, 0.0, 3.3]]
+        "points": [
+          [
+            -0.44,
+            0.0,
+            3.3
+          ]
+        ]
       }
     ],
-    "models": ["magic\\firewallfx01.nif"]
+    "models": [
+      "magic\\firewallfx01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 0, 0],
+          "color": [
+            0,
+            0,
+            0
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 83,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       },
       {
         "data": {
-          "color": [45, 45, 110],
+          "color": [
+            45,
+            45,
+            110
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 63,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["magic\\reanimateritualcastbodyfx.nif"]
+    "models": [
+      "magic\\reanimateritualcastbodyfx.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 0, 0],
+          "color": [
+            0,
+            0,
+            0
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 83,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       },
       {
         "data": {
-          "color": [45, 45, 110],
+          "color": [
+            45,
+            45,
+            110
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 63,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["magic\\summonritualcastbodyfx.nif"]
+    "models": [
+      "magic\\summonritualcastbodyfx.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 247,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["effects\\ambient\\fxglowfillrndlitdim.nif"]
+    "models": [
+      "effects\\ambient\\fxglowfillrndlitdim.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 247,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["effects\\ambient\\fxglowfillrndlitxbrt.nif"]
+    "models": [
+      "effects\\ambient\\fxglowfillrndlitxbrt.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 247,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["effects\\ambient\\fxglowfillrndlitmid.nif"]
+    "models": [
+      "effects\\ambient\\fxglowfillrndlitmid.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 247,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["effects\\ambient\\fxglowfillroundmid.nif"]
+    "models": [
+      "effects\\ambient\\fxglowfillroundmid.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 50,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["magic\\impactlightspell.nif"]
+    "models": [
+      "magic\\impactlightspell.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [139, 139, 139],
+          "color": [
+            139,
+            139,
+            139
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 247,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["effects\\impacteffects\\fxdragonfireimpactactor.nif"]
+    "models": [
+      "effects\\impacteffects\\fxdragonfireimpactactor.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [54, 101, 255],
+          "color": [
+            54,
+            101,
+            255
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 19,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.24, 0.41, -0.02]]
+        "points": [
+          [
+            0.24,
+            0.41,
+            -0.02
+          ]
+        ]
       },
       {
         "data": {
-          "color": [9, 136, 234],
+          "color": [
+            9,
+            136,
+            234
+          ],
           "fade": 10.0,
           "light": "MagicLightWhite01",
           "radius": 77,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.24, 0.41, -0.02]]
+        "points": [
+          [
+            0.24,
+            0.41,
+            -0.02
+          ]
+        ]
       }
     ],
-    "models": ["magic\\lightspellstaticlight.nif"]
+    "models": [
+      "magic\\lightspellstaticlight.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [203, 144, 78],
+          "color": [
+            203,
+            144,
+            78
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 18,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[-17.2, -1.44, -4.49]]
+        "points": [
+          [
+            -17.2,
+            -1.44,
+            -4.49
+          ]
+        ]
       },
       {
         "data": {
-          "color": [203, 144, 78],
+          "color": [
+            203,
+            144,
+            78
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 19,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[17.04, -1.64, -5.03]]
+        "points": [
+          [
+            17.04,
+            -1.64,
+            -5.03
+          ]
+        ]
       }
     ],
-    "models": ["traps\\oiltrap\\oiltrap01.nif"]
+    "models": [
+      "traps\\oiltrap\\oiltrap01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 0, 0],
+          "color": [
+            0,
+            0,
+            0
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 29,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[-0.1, 10.36, -0.01]]
+        "points": [
+          [
+            -0.1,
+            10.36,
+            -0.01
+          ]
+        ]
       },
       {
         "data": {
-          "color": [76, 76, 76],
+          "color": [
+            76,
+            76,
+            76
+          ],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -620,23 +1164,43 @@
           },
           "light": "MagicLightWhite01",
           "radius": 25,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[-0.1, 9.87, 0.01]]
+        "points": [
+          [
+            -0.1,
+            9.87,
+            0.01
+          ]
+        ]
       },
       {
         "data": {
-          "color": [255, 255, 255],
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 247,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.19, 8.61, -0.01]]
+        "points": [
+          [
+            0.19,
+            8.61,
+            -0.01
+          ]
+        ]
       },
       {
         "data": {
-          "color": [170, 170, 170],
+          "color": [
+            170,
+            170,
+            170
+          ],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -651,14 +1215,24 @@
           },
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [-0.07, 9.44, -0.01],
-          [-0.1, 9.44, -0.01]
+          [
+            -0.07,
+            9.44,
+            -0.01
+          ],
+          [
+            -0.1,
+            9.44,
+            -0.01
+          ]
         ]
       }
     ],
-    "models": ["weapons\\dawnbreaker\\dawnbreaker.nif"]
+    "models": [
+      "weapons\\dawnbreaker\\dawnbreaker.nif"
+    ]
   }
 ]

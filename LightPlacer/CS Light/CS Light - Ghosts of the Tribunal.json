@@ -3,60 +3,108 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [244, 46, 85],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            244,
+            46,
+            85
+          ],
           "fade": 1.6,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, 113.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            113.0
+          ]
+        ]
       }
     ],
-    "formIDs": ["ccASVSSE001_CandleRed"]
+    "formIDs": [
+      "ccASVSSE001_CandleRed"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [45, 216, 244],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            45,
+            216,
+            244
+          ],
           "fade": 1.6,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, -45.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            -45.0
+          ]
+        ]
       }
     ],
-    "formIDs": ["ccASVSSE001_CeilingLightBlue01"]
+    "formIDs": [
+      "ccASVSSE001_CeilingLightBlue01"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [244, 145, 46],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            244,
+            145,
+            46
+          ],
           "fade": 1.6,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, -45.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            -45.0
+          ]
+        ]
       }
     ],
-    "formIDs": ["ccASVSSE001_CeilingLightRed01"]
+    "formIDs": [
+      "ccASVSSE001_CeilingLightRed01"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [45, 99, 244],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            45,
+            99,
+            244
+          ],
           "fade": 1.6,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, 113.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            113.0
+          ]
+        ]
       }
     ],
-    "formIDs": ["ccASVSSE001_CandleBlue"]
+    "formIDs": [
+      "ccASVSSE001_CandleBlue"
+    ]
   }
 ]

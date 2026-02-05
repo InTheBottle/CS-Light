@@ -3,55 +3,101 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [229, 127, 229],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            229,
+            127,
+            229
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[-15.0, 0.0, 40.0]]
+        "points": [
+          [
+            -15.0,
+            0.0,
+            40.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc01\\plants\\cavewormgroup\\caveworm3group.nif"]
+    "models": [
+      "dlc01\\plants\\cavewormgroup\\caveworm3group.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [121, 189, 199],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            121,
+            189,
+            199
+          ],
           "fade": 3.0,
           "light": "MagicLightWhite01",
           "radius": 43
         },
-        "points": [[0.06, 0.22, 57.72]]
+        "points": [
+          [
+            0.06,
+            0.22,
+            57.72
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [229, 127, 229],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            229,
+            127,
+            229
+          ],
           "fade": 2.5,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, 65.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            65.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc01\\plants\\caveworm\\cavewormlarge.nif"]
+    "models": [
+      "dlc01\\plants\\caveworm\\cavewormlarge.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [229, 127, 229],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            229,
+            127,
+            229
+          ],
           "fade": 1.75,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, 37.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            37.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc01\\plants\\cavewormsmall\\cavewormsmall.nif"]
+    "models": [
+      "dlc01\\plants\\cavewormsmall\\cavewormsmall.nif"
+    ]
   }
 ]

@@ -4,13 +4,19 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 4,
           "cutoff": 0.15
         },
-        "points": [[85, 0, 425]]
+        "points": [
+          [
+            85,
+            0,
+            425
+          ]
+        ]
       }
     ],
     "models": [
@@ -23,13 +29,19 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 6,
           "size": 6,
           "cutoff": 0.15
         },
-        "points": [[-150, -150, -400]]
+        "points": [
+          [
+            -150,
+            -150,
+            -400
+          ]
+        ]
       }
     ],
     "models": [
@@ -42,13 +54,19 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1.5,
           "size": 3.5,
           "cutoff": 0.1
         },
-        "points": [[30, 0, 75]]
+        "points": [
+          [
+            30,
+            0,
+            75
+          ]
+        ]
       }
     ],
     "models": [
@@ -61,13 +79,19 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1.5,
           "size": 3.5,
           "cutoff": 0.1
         },
-        "points": [[0, 100, 100]]
+        "points": [
+          [
+            0,
+            100,
+            100
+          ]
+        ]
       }
     ],
     "models": [
@@ -80,18 +104,28 @@
   {
     "lights": [
       {
-        "blackList": ["0x06ad6d"],
+        "blackList": [
+          "0x06ad6d"
+        ],
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 0.7,
           "size": 3,
           "cutoff": 0.1
         },
         "points": [
-          [-35, 75, 75],
-          [35, 75, 75]
+          [
+            -35,
+            75,
+            75
+          ],
+          [
+            35,
+            75,
+            75
+          ]
         ]
       }
     ],
@@ -105,15 +139,23 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1.7,
           "size": 4,
           "cutoff": 0.125
         },
-        "points": [[-90, 0, 275]]
+        "points": [
+          [
+            -90,
+            0,
+            275
+          ]
+        ]
       }
     ],
-    "models": ["WSolitude\\interior\\WSSmAWinx2Sol01.nif"]
+    "models": [
+      "WSolitude\\interior\\WSSmAWinx2Sol01.nif"
+    ]
   }
 ]

@@ -1,13 +1,25 @@
 [
   {
-    "models": ["effects\\moteeffect01.nif"],
+    "models": [
+      "effects\\moteeffect01.nif"
+    ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 0.0]],
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "light": "MagicLightWhite01",
-          "color": [80, 235, 255],
+          "color": [
+            80,
+            235,
+            255
+          ],
           "radius": 64.0,
           "fade": 0.8
         }

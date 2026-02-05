@@ -4,15 +4,23 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3.5,
           "cutoff": 0.08
         },
         "points": [
-          [0, -90, 435],
-          [0, 90, 435]
+          [
+            0,
+            -90,
+            435
+          ],
+          [
+            0,
+            90,
+            435
+          ]
         ]
       }
     ],
@@ -28,15 +36,23 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3.5,
           "cutoff": 0.08
         },
         "points": [
-          [120, 120, 300],
-          [120, -120, 300]
+          [
+            120,
+            120,
+            300
+          ],
+          [
+            120,
+            -120,
+            300
+          ]
         ]
       }
     ],
@@ -52,15 +68,23 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3.5,
           "cutoff": 0.08
         },
         "points": [
-          [-120, 120, 300],
-          [-120, -120, 300]
+          [
+            -120,
+            120,
+            300
+          ],
+          [
+            -120,
+            -120,
+            300
+          ]
         ]
       }
     ],
@@ -74,17 +98,33 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3.5,
           "cutoff": 0.08
         },
         "points": [
-          [-100, -830, 200],
-          [-120, -120, 300],
-          [120, -120, 300],
-          [100, -830, 200]
+          [
+            -100,
+            -830,
+            200
+          ],
+          [
+            -120,
+            -120,
+            300
+          ],
+          [
+            120,
+            -120,
+            300
+          ],
+          [
+            100,
+            -830,
+            200
+          ]
         ]
       }
     ],
@@ -98,17 +138,33 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3.5,
           "cutoff": 0.08
         },
         "points": [
-          [-100, 830, 200],
-          [-120, 120, 300],
-          [120, 120, 300],
-          [100, 830, 200]
+          [
+            -100,
+            830,
+            200
+          ],
+          [
+            -120,
+            120,
+            300
+          ],
+          [
+            120,
+            120,
+            300
+          ],
+          [
+            100,
+            830,
+            200
+          ]
         ]
       }
     ],
@@ -124,15 +180,23 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3.5,
           "cutoff": 0.08
         },
         "points": [
-          [-15, 120, 300],
-          [-15, -120, 300]
+          [
+            -15,
+            120,
+            300
+          ],
+          [
+            -15,
+            -120,
+            300
+          ]
         ]
       }
     ],
@@ -148,15 +212,23 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3.5,
           "cutoff": 0.08
         },
         "points": [
-          [0, -90, 435],
-          [0, 90, 435]
+          [
+            0,
+            -90,
+            435
+          ],
+          [
+            0,
+            90,
+            435
+          ]
         ]
       }
     ],
@@ -172,15 +244,23 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3.5,
           "cutoff": 0.08
         },
         "points": [
-          [250, -90, 235],
-          [250, 90, 235]
+          [
+            250,
+            -90,
+            235
+          ],
+          [
+            250,
+            90,
+            235
+          ]
         ]
       }
     ],
@@ -194,15 +274,23 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3.5,
           "cutoff": 0.08
         },
         "points": [
-          [-250, -90, 235],
-          [-250, 90, 235]
+          [
+            -250,
+            -90,
+            235
+          ],
+          [
+            -250,
+            90,
+            235
+          ]
         ]
       }
     ],
@@ -216,15 +304,23 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3.5,
           "cutoff": 0.08
         },
         "points": [
-          [90, 290, 235],
-          [-90, 290, 235]
+          [
+            90,
+            290,
+            235
+          ],
+          [
+            -90,
+            290,
+            235
+          ]
         ]
       }
     ],
@@ -238,15 +334,23 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3.5,
           "cutoff": 0.08
         },
         "points": [
-          [0, 130, 435],
-          [0, -130, 435]
+          [
+            0,
+            130,
+            435
+          ],
+          [
+            0,
+            -130,
+            435
+          ]
         ]
       }
     ],
@@ -260,15 +364,23 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3.5,
           "cutoff": 0.08
         },
         "points": [
-          [0, -125, 435],
-          [0, 125, 435]
+          [
+            0,
+            -125,
+            435
+          ],
+          [
+            0,
+            125,
+            435
+          ]
         ]
       }
     ],
@@ -284,17 +396,33 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3.5,
           "cutoff": 0.08
         },
         "points": [
-          [130, 130, 435],
-          [-130, 130, 435],
-          [-130, -130, 435],
-          [130, -130, 435]
+          [
+            130,
+            130,
+            435
+          ],
+          [
+            -130,
+            130,
+            435
+          ],
+          [
+            -130,
+            -130,
+            435
+          ],
+          [
+            130,
+            -130,
+            435
+          ]
         ]
       }
     ],

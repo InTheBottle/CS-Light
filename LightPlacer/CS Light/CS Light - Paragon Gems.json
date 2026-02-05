@@ -3,8 +3,12 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [216, 96, 70],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            216,
+            96,
+            70
+          ],
           "fade": 1.2,
           "fadeController": {
             "interpolation": "Cubic",
@@ -74,17 +78,29 @@
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc01\\clutter\\animated\\portalgem01\\portalgemorange01.nif"]
+    "models": [
+      "dlc01\\clutter\\animated\\portalgem01\\portalgemorange01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [126, 0, 150],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            126,
+            0,
+            150
+          ],
           "fade": 1.2,
           "fadeController": {
             "interpolation": "Cubic",
@@ -154,17 +170,29 @@
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc01\\clutter\\animated\\portalgem01\\portalgempurple01.nif"]
+    "models": [
+      "dlc01\\clutter\\animated\\portalgem01\\portalgempurple01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [70, 125, 216],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            70,
+            125,
+            216
+          ],
           "fade": 1.2,
           "fadeController": {
             "interpolation": "Cubic",
@@ -234,17 +262,29 @@
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc01\\clutter\\animated\\portalgem01\\portalgemblue01.nif"]
+    "models": [
+      "dlc01\\clutter\\animated\\portalgem01\\portalgemblue01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [216, 96, 70],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            216,
+            96,
+            70
+          ],
           "fade": 1.2,
           "fadeController": {
             "interpolation": "Cubic",
@@ -314,12 +354,22 @@
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, 16.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            16.0
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [70, 125, 216],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            70,
+            125,
+            216
+          ],
           "fade": 1.2,
           "fadeController": {
             "interpolation": "Cubic",
@@ -389,12 +439,22 @@
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, 16.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            16.0
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [217, 224, 45],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            217,
+            224,
+            45
+          ],
           "fade": 1.2,
           "fadeController": {
             "interpolation": "Cubic",
@@ -464,12 +524,22 @@
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, 16.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            16.0
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [126, 0, 150],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            126,
+            0,
+            150
+          ],
           "fade": 1.2,
           "fadeController": {
             "interpolation": "Cubic",
@@ -539,12 +609,22 @@
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, 16.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            16.0
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [211, 209, 234],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            211,
+            209,
+            234
+          ],
           "fade": 1.2,
           "fadeController": {
             "interpolation": "Cubic",
@@ -614,17 +694,29 @@
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, 16.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            16.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc01\\clutter\\animated\\portalgem01\\portalgemsocket01.nif"]
+    "models": [
+      "dlc01\\clutter\\animated\\portalgem01\\portalgemsocket01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [217, 224, 45],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            217,
+            224,
+            45
+          ],
           "fade": 1.2,
           "fadeController": {
             "interpolation": "Cubic",
@@ -694,17 +786,29 @@
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc01\\clutter\\animated\\portalgem01\\portalgemgreen01.nif"]
+    "models": [
+      "dlc01\\clutter\\animated\\portalgem01\\portalgemgreen01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [211, 209, 234],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            211,
+            209,
+            234
+          ],
           "fade": 1.2,
           "fadeController": {
             "interpolation": "Cubic",
@@ -774,9 +878,17 @@
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc01\\clutter\\animated\\portalgem01\\portalgemwhite01.nif"]
+    "models": [
+      "dlc01\\clutter\\animated\\portalgem01\\portalgemwhite01.nif"
+    ]
   }
 ]

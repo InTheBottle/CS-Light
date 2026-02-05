@@ -3,897 +3,1781 @@
     "lights": [
       {
         "data": {
-          "color": [128, 128, 128],
+          "color": [
+            128,
+            128,
+            128
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71,
-          "flags": "PortalStrict"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
+          [
+            -0.0,
+            0.0,
+            589.89
+          ]
         ]
       },
       {
         "data": {
-          "color": [76, 76, 76],
+          "color": [
+            161,
+            255,
+            252
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            -0.68,
+            35.87,
+            151.34
+          ],
+          [
+            -0.68,
+            -34.13,
+            151.34
+          ],
+          [
+            -0.68,
+            0.87,
+            240.34
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            76,
+            76,
+            76
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 25,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 153.09]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            153.09
+          ]
+        ]
       },
       {
         "data": {
-          "color": [213, 213, 213],
+          "color": [
+            213,
+            213,
+            213
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 29,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [92, 245, 255],
+          "color": [
+            92,
+            245,
+            255
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [170, 170, 170],
+          "color": [
+            170,
+            170,
+            170
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 152.77]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            152.77
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\powershrines\\powershrine01\\serpentstone.nif"]
+    "models": [
+      "clutter\\powershrines\\powershrine01\\serpentstone.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [128, 128, 128],
+          "color": [
+            128,
+            128,
+            128
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 72,
-          "flags": "PortalStrict"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
+          [
+            -0.0,
+            0.0,
+            589.89
+          ]
         ]
       },
       {
         "data": {
-          "color": [76, 76, 76],
+          "color": [
+            161,
+            255,
+            252
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            -0.68,
+            35.87,
+            151.34
+          ],
+          [
+            -0.68,
+            -34.13,
+            151.34
+          ],
+          [
+            -0.68,
+            0.87,
+            240.34
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            76,
+            76,
+            76
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 25,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 153.09]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            153.09
+          ]
+        ]
       },
       {
         "data": {
-          "color": [213, 213, 213],
+          "color": [
+            213,
+            213,
+            213
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 29,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [92, 245, 255],
+          "color": [
+            92,
+            245,
+            255
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [170, 170, 170],
+          "color": [
+            170,
+            170,
+            170
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 152.77]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            152.77
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\powershrines\\powershrine01\\loverstone.nif"]
+    "models": [
+      "clutter\\powershrines\\powershrine01\\loverstone.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [128, 128, 128],
+          "color": [
+            128,
+            128,
+            128
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
+          [
+            -0.0,
+            0.0,
+            589.89
+          ]
         ]
       },
       {
         "data": {
-          "color": [76, 76, 76],
+          "color": [
+            161,
+            255,
+            252
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            -0.68,
+            35.87,
+            151.34
+          ],
+          [
+            -0.68,
+            -34.13,
+            151.34
+          ],
+          [
+            -0.68,
+            0.87,
+            240.34
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            76,
+            76,
+            76
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 25,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 153.09]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            153.09
+          ]
+        ]
       },
       {
         "data": {
-          "color": [213, 213, 213],
+          "color": [
+            213,
+            213,
+            213
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 29,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [92, 245, 255],
+          "color": [
+            92,
+            245,
+            255
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [170, 170, 170],
+          "color": [
+            170,
+            170,
+            170
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 152.77]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            152.77
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\powershrines\\powershrine01\\atronachstone.nif"]
+    "models": [
+      "clutter\\powershrines\\powershrine01\\atronachstone.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [128, 128, 128],
+          "color": [
+            128,
+            128,
+            128
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
+          [
+            -0.0,
+            0.0,
+            589.89
+          ]
         ]
       },
       {
         "data": {
-          "color": [76, 76, 76],
+          "color": [
+            161,
+            255,
+            252
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            -0.68,
+            35.87,
+            151.34
+          ],
+          [
+            -0.68,
+            -34.13,
+            151.34
+          ],
+          [
+            -0.68,
+            0.87,
+            240.34
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            76,
+            76,
+            76
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 25,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 153.09]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            153.09
+          ]
+        ]
       },
       {
         "data": {
-          "color": [213, 213, 213],
+          "color": [
+            213,
+            213,
+            213
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 29,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [92, 245, 255],
+          "color": [
+            92,
+            245,
+            255
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [170, 170, 170],
+          "color": [
+            170,
+            170,
+            170
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 152.77]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            152.77
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\powershrines\\powershrine01\\warriorstone.nif"]
+    "models": [
+      "clutter\\powershrines\\powershrine01\\warriorstone.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [128, 128, 128],
+          "color": [
+            128,
+            128,
+            128
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
+          [
+            -0.0,
+            0.0,
+            589.89
+          ]
         ]
       },
       {
         "data": {
-          "color": [76, 76, 76],
+          "color": [
+            161,
+            255,
+            252
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            -0.68,
+            35.87,
+            151.34
+          ],
+          [
+            -0.68,
+            -34.13,
+            151.34
+          ],
+          [
+            -0.68,
+            0.87,
+            240.34
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            76,
+            76,
+            76
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 25,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 153.09]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            153.09
+          ]
+        ]
       },
       {
         "data": {
-          "color": [213, 213, 213],
+          "color": [
+            213,
+            213,
+            213
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 29,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [92, 245, 255],
+          "color": [
+            92,
+            245,
+            255
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [170, 170, 170],
+          "color": [
+            170,
+            170,
+            170
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 152.77]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            152.77
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\powershrines\\powershrine01\\wizardstone.nif"]
+    "models": [
+      "clutter\\powershrines\\powershrine01\\wizardstone.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [128, 128, 128],
+          "color": [
+            128,
+            128,
+            128
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
+          [
+            -0.0,
+            0.0,
+            589.89
+          ]
         ]
       },
       {
         "data": {
-          "color": [76, 76, 76],
+          "color": [
+            161,
+            255,
+            252
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            -0.68,
+            35.87,
+            151.34
+          ],
+          [
+            -0.68,
+            -34.13,
+            151.34
+          ],
+          [
+            -0.68,
+            0.87,
+            240.34
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            76,
+            76,
+            76
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 25,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 153.09]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            153.09
+          ]
+        ]
       },
       {
         "data": {
-          "color": [213, 213, 213],
+          "color": [
+            213,
+            213,
+            213
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 29,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [92, 245, 255],
+          "color": [
+            92,
+            245,
+            255
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [170, 170, 170],
+          "color": [
+            170,
+            170,
+            170
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 152.77]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            152.77
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\powershrines\\powershrine01\\ritualstone.nif"]
+    "models": [
+      "clutter\\powershrines\\powershrine01\\ritualstone.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [128, 128, 128],
+          "color": [
+            128,
+            128,
+            128
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
+          [
+            -0.0,
+            0.0,
+            589.89
+          ]
         ]
       },
       {
         "data": {
-          "color": [76, 76, 76],
+          "color": [
+            161,
+            255,
+            252
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            -0.68,
+            35.87,
+            151.34
+          ],
+          [
+            -0.68,
+            -34.13,
+            151.34
+          ],
+          [
+            -0.68,
+            0.87,
+            240.34
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            76,
+            76,
+            76
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 25,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 153.09]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            153.09
+          ]
+        ]
       },
       {
         "data": {
-          "color": [213, 213, 213],
+          "color": [
+            213,
+            213,
+            213
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 29,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [92, 245, 255],
+          "color": [
+            92,
+            245,
+            255
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [170, 170, 170],
+          "color": [
+            170,
+            170,
+            170
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 152.77]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            152.77
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\powershrines\\powershrine01\\apprenticestone.nif"]
+    "models": [
+      "clutter\\powershrines\\powershrine01\\apprenticestone.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [128, 128, 128],
+          "color": [
+            128,
+            128,
+            128
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
+          [
+            -0.0,
+            0.0,
+            589.89
+          ]
         ]
       },
       {
         "data": {
-          "color": [76, 76, 76],
+          "color": [
+            161,
+            255,
+            252
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            -0.68,
+            35.87,
+            151.34
+          ],
+          [
+            -0.68,
+            -34.13,
+            151.34
+          ],
+          [
+            -0.68,
+            0.87,
+            240.34
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            76,
+            76,
+            76
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 25,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 153.09]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            153.09
+          ]
+        ]
       },
       {
         "data": {
-          "color": [213, 213, 213],
+          "color": [
+            213,
+            213,
+            213
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 29,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [92, 245, 255],
+          "color": [
+            92,
+            245,
+            255
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [170, 170, 170],
+          "color": [
+            170,
+            170,
+            170
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 152.77]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            152.77
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\powershrines\\powershrine01\\ladystone.nif"]
+    "models": [
+      "clutter\\powershrines\\powershrine01\\ladystone.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [128, 128, 128],
+          "color": [
+            128,
+            128,
+            128
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
+          [
+            -0.0,
+            0.0,
+            589.89
+          ]
         ]
       },
       {
         "data": {
-          "color": [76, 76, 76],
+          "color": [
+            161,
+            255,
+            252
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            -0.68,
+            35.87,
+            151.34
+          ],
+          [
+            -0.68,
+            -34.13,
+            151.34
+          ],
+          [
+            -0.68,
+            0.87,
+            240.34
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            76,
+            76,
+            76
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 25,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 153.09]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            153.09
+          ]
+        ]
       },
       {
         "data": {
-          "color": [213, 213, 213],
+          "color": [
+            213,
+            213,
+            213
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 29,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [92, 245, 255],
+          "color": [
+            92,
+            245,
+            255
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [170, 170, 170],
+          "color": [
+            170,
+            170,
+            170
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 152.77]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            152.77
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\powershrines\\powershrine01\\shadowstone.nif"]
+    "models": [
+      "clutter\\powershrines\\powershrine01\\shadowstone.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [128, 128, 128],
+          "color": [
+            128,
+            128,
+            128
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
+          [
+            -0.0,
+            0.0,
+            589.89
+          ]
         ]
       },
       {
         "data": {
-          "color": [76, 76, 76],
+          "color": [
+            161,
+            255,
+            252
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            -0.68,
+            35.87,
+            151.34
+          ],
+          [
+            -0.68,
+            -34.13,
+            151.34
+          ],
+          [
+            -0.68,
+            0.87,
+            240.34
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            76,
+            76,
+            76
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 25,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 153.09]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            153.09
+          ]
+        ]
       },
       {
         "data": {
-          "color": [213, 213, 213],
+          "color": [
+            213,
+            213,
+            213
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 29,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [92, 245, 255],
+          "color": [
+            92,
+            245,
+            255
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [170, 170, 170],
+          "color": [
+            170,
+            170,
+            170
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 152.77]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            152.77
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\powershrines\\powershrine01\\lordstone.nif"]
+    "models": [
+      "clutter\\powershrines\\powershrine01\\lordstone.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [128, 128, 128],
+          "color": [
+            128,
+            128,
+            128
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
+          [
+            -0.0,
+            0.0,
+            589.89
+          ]
         ]
       },
       {
         "data": {
-          "color": [76, 76, 76],
+          "color": [
+            161,
+            255,
+            252
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            -0.68,
+            35.87,
+            151.34
+          ],
+          [
+            -0.68,
+            -34.13,
+            151.34
+          ],
+          [
+            -0.68,
+            0.87,
+            240.34
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            76,
+            76,
+            76
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 25,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 153.09]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            153.09
+          ]
+        ]
       },
       {
         "data": {
-          "color": [213, 213, 213],
+          "color": [
+            213,
+            213,
+            213
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 29,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [92, 245, 255],
+          "color": [
+            92,
+            245,
+            255
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [170, 170, 170],
+          "color": [
+            170,
+            170,
+            170
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 152.77]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            152.77
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\powershrines\\powershrine01\\towerstone.nif"]
+    "models": [
+      "clutter\\powershrines\\powershrine01\\towerstone.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [128, 128, 128],
+          "color": [
+            128,
+            128,
+            128
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
+          [
+            -0.0,
+            0.0,
+            589.89
+          ]
         ]
       },
       {
         "data": {
-          "color": [76, 76, 76],
+          "color": [
+            161,
+            255,
+            252
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            -0.68,
+            35.87,
+            151.34
+          ],
+          [
+            -0.68,
+            -34.13,
+            151.34
+          ],
+          [
+            -0.68,
+            0.87,
+            240.34
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            76,
+            76,
+            76
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 25,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 153.09]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            153.09
+          ]
+        ]
       },
       {
         "data": {
-          "color": [213, 213, 213],
+          "color": [
+            213,
+            213,
+            213
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 29,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [92, 245, 255],
+          "color": [
+            92,
+            245,
+            255
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [170, 170, 170],
+          "color": [
+            170,
+            170,
+            170
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 152.77]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            152.77
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\powershrines\\powershrine01\\thiefstone.nif"]
+    "models": [
+      "clutter\\powershrines\\powershrine01\\thiefstone.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [128, 128, 128],
+          "color": [
+            128,
+            128,
+            128
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
+          [
+            -0.0,
+            0.0,
+            589.89
+          ]
         ]
       },
       {
         "data": {
-          "color": [76, 76, 76],
+          "color": [
+            161,
+            255,
+            252
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 71,
+          "flags": "PortalStrict|Linear"
+        },
+        "points": [
+          [
+            -0.68,
+            35.87,
+            151.34
+          ],
+          [
+            -0.68,
+            -34.13,
+            151.34
+          ],
+          [
+            -0.68,
+            0.87,
+            240.34
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            76,
+            76,
+            76
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 25,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 153.09]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            153.09
+          ]
+        ]
       },
       {
         "data": {
-          "color": [213, 213, 213],
+          "color": [
+            213,
+            213,
+            213
+          ],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 29,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [92, 245, 255],
+          "color": [
+            92,
+            245,
+            255
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 100,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 150.38]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            150.38
+          ]
+        ]
       },
       {
         "data": {
-          "color": [170, 170, 170],
+          "color": [
+            170,
+            170,
+            170
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.29, 0.16, 152.77]]
+        "points": [
+          [
+            0.29,
+            0.16,
+            152.77
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\powershrines\\powershrine01\\steedstone.nif"]
+    "models": [
+      "clutter\\powershrines\\powershrine01\\steedstone.nif"
+    ]
   }
 ]

@@ -17,7 +17,7 @@
           "AttachLight01"
         ],
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "light": "MGFirePillarLightBlue",
           "radius": 350.0,
           "fade": 2.0
@@ -26,12 +26,20 @@
     ]
   },
   {
-    "models": ["effects\\MGMagicFirePillar01.nif"],
+    "models": [
+      "effects\\MGMagicFirePillar01.nif"
+    ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 0.0]],
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "light": "MGFirePillarLightBlue",
           "radius": 128.0,
           "fade": 1.0
@@ -40,12 +48,20 @@
     ]
   },
   {
-    "models": ["Magic\\LightSpellStaticLight.nif"],
+    "models": [
+      "Magic\\LightSpellStaticLight.nif"
+    ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 0.0]],
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "radius": 128.0,
           "fade": 1.0

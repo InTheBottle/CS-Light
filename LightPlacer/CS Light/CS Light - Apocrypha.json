@@ -3,28 +3,50 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [255, 179, 0],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            255,
+            179,
+            0
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, -30.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            -30.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\clutter\\apohoverlight01.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\clutter\\apohoverlight01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 82, 255],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            82,
+            255
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 70.1, -6.99]]
+        "points": [
+          [
+            0.0,
+            70.1,
+            -6.99
+          ]
+        ]
       }
     ],
     "models": [
@@ -35,43 +57,77 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 65],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            65
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 712.0, -40.0]]
+        "points": [
+          [
+            0.0,
+            712.0,
+            -40.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\respec\\aporespeclockpicking.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\respec\\aporespeclockpicking.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 82, 255],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            82,
+            255
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, 287.78]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            287.78
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\clutter\\apomouthsconce03.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\clutter\\apomouthsconce03.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [152, 255, 0],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            152,
+            255,
+            0
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 70.1, -6.99]]
+        "points": [
+          [
+            0.0,
+            70.1,
+            -6.99
+          ]
+        ]
       }
     ],
     "models": [
@@ -82,137 +138,249 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 98],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 71
-        },
-        "points": [[5.02, -1.94, -63.12]]
-      }
-    ],
-    "models": ["dlc02\\dungeons\\apocrypha\\animated\\banners\\apobanner02.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "color": [152, 255, 0],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 71
-        },
-        "points": [[0.0, 0.0, 287.78]]
-      }
-    ],
-    "models": ["dlc02\\dungeons\\apocrypha\\clutter\\apomouthsconce02.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 98],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 71
-        },
-        "points": [[5.02, -1.94, -63.12]]
-      }
-    ],
-    "models": ["dlc02\\dungeons\\apocrypha\\animated\\banners\\apobanner01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 65],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 71
-        },
-        "points": [[0.0, 712.0, -40.0]]
-      }
-    ],
-    "models": ["dlc02\\dungeons\\apocrypha\\respec\\aporespecalteration.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 98],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 71
-        },
-        "points": [[-79.37, -2.67, -9.74]]
-      }
-    ],
-    "models": ["dlc02\\dungeons\\apocrypha\\animated\\banners\\apobanner03.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 65],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 71
-        },
-        "points": [[0.0, 712.0, 65.79]]
-      }
-    ],
-    "models": ["dlc02\\dungeons\\apocrypha\\respec\\aporespecalchemy.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "color": [255, 179, 0],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            98
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
         "points": [
-          [0.0, 30.0, 257.0],
-          [0.0, 30.0, 20.0],
-          [0.0, 30.0, 100.0]
+          [
+            5.02,
+            -1.94,
+            -63.12
+          ]
         ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\clutter\\apolightpost02.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\animated\\banners\\apobanner02.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 65],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            152,
+            255,
+            0
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 712.0, -40.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            287.78
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\respec\\aporespecarchery.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\clutter\\apomouthsconce02.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 82, 255],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            98
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, 287.78]]
+        "points": [
+          [
+            5.02,
+            -1.94,
+            -63.12
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\animated\\banners\\apobanner01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            65
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [
+            0.0,
+            712.0,
+            -40.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\respec\\aporespecalteration.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            98
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [
+            -79.37,
+            -2.67,
+            -9.74
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\animated\\banners\\apobanner03.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            65
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [
+            0.0,
+            712.0,
+            65.79
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\respec\\aporespecalchemy.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "color": [
+            255,
+            179,
+            0
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [
+            0.0,
+            30.0,
+            257.0
+          ],
+          [
+            0.0,
+            30.0,
+            20.0
+          ],
+          [
+            0.0,
+            30.0,
+            100.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\clutter\\apolightpost02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            65
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [
+            0.0,
+            712.0,
+            -40.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\respec\\aporespecarchery.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            82,
+            255
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            287.78
+          ]
+        ]
       }
     ],
     "models": [
@@ -223,13 +391,23 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [152, 255, 0],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            152,
+            255,
+            0
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 0.0, 287.78]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            287.78
+          ]
+        ]
       }
     ],
     "models": [
@@ -240,107 +418,195 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 98],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 71
-        },
-        "points": [[-79.37, -2.67, -9.74]]
-      }
-    ],
-    "models": ["dlc02\\dungeons\\apocrypha\\animated\\banners\\apobanner04.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 65],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 71
-        },
-        "points": [[0.0, 712.0, -40.0]]
-      }
-    ],
-    "models": ["dlc02\\dungeons\\apocrypha\\respec\\aporespecconjuration.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "color": [255, 179, 0],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            98
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
         "points": [
-          [0.0, 30.0, 257.0],
-          [0.0, 30.0, 20.0],
-          [0.0, 30.0, 100.0]
+          [
+            -79.37,
+            -2.67,
+            -9.74
+          ]
         ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\clutter\\apolightpost01.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\animated\\banners\\apobanner04.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 65],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            65
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 712.0, -40.0]]
+        "points": [
+          [
+            0.0,
+            712.0,
+            -40.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\respec\\aporespecblock.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\respec\\aporespecconjuration.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 65],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            255,
+            179,
+            0
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 712.0, -40.0]]
+        "points": [
+          [
+            0.0,
+            30.0,
+            257.0
+          ],
+          [
+            0.0,
+            30.0,
+            20.0
+          ],
+          [
+            0.0,
+            30.0,
+            100.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\respec\\aporespecrestoration.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\clutter\\apolightpost01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 65],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            65
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 712.0, -40.0]]
+        "points": [
+          [
+            0.0,
+            712.0,
+            -40.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\respec\\aporespecenchanting.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\respec\\aporespecblock.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [255, 179, 0],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            65
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, -3.61, 109.49]]
+        "points": [
+          [
+            0.0,
+            712.0,
+            -40.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\respec\\aporespecrestoration.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            65
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [
+            0.0,
+            712.0,
+            -40.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\respec\\aporespecenchanting.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "color": [
+            255,
+            179,
+            0
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 71
+        },
+        "points": [
+          [
+            0.0,
+            -3.61,
+            109.49
+          ]
+        ]
       }
     ],
     "models": [
@@ -351,150 +617,270 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 65],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            65
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 712.0, -40.0]]
+        "points": [
+          [
+            0.0,
+            712.0,
+            -40.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\respec\\aporespecpickpocket.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\respec\\aporespecpickpocket.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 65],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            65
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 712.0, -40.0]]
+        "points": [
+          [
+            0.0,
+            712.0,
+            -40.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\respec\\aporespecillusion.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\respec\\aporespecillusion.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 65],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            65
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 712.0, -40.0]]
+        "points": [
+          [
+            0.0,
+            712.0,
+            -40.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\respec\\aporespecsmithing.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\respec\\aporespecsmithing.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 65],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            65
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 712.0, -40.0]]
+        "points": [
+          [
+            0.0,
+            712.0,
+            -40.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\respec\\aporespeconehanded.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\respec\\aporespeconehanded.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 65],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            65
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 712.0, -40.0]]
+        "points": [
+          [
+            0.0,
+            712.0,
+            -40.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\respec\\aporespecsneak.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\respec\\aporespecsneak.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 65],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            65
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 712.0, -40.0]]
+        "points": [
+          [
+            0.0,
+            712.0,
+            -40.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\respec\\aporespecdestruction.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\respec\\aporespecdestruction.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 65],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            65
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 712.0, -40.0]]
+        "points": [
+          [
+            0.0,
+            712.0,
+            -40.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\respec\\aporespecheavyarmor.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\respec\\aporespecheavyarmor.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 65],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            65
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 712.0, -40.0]]
+        "points": [
+          [
+            0.0,
+            712.0,
+            -40.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\respec\\aporespecspeech.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\respec\\aporespecspeech.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 65],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            65
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 712.0, -40.0]]
+        "points": [
+          [
+            0.0,
+            712.0,
+            -40.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\respec\\aporespeclightarmor.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\respec\\aporespeclightarmor.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 65],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            65
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [[0.0, 712.0, -40.0]]
+        "points": [
+          [
+            0.0,
+            712.0,
+            -40.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\dungeons\\apocrypha\\respec\\aporespectwohanded.nif"]
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\respec\\aporespectwohanded.nif"
+    ]
   }
 ]

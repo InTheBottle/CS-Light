@@ -3,217 +3,391 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [189, 143, 91],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            189,
+            143,
+            91
+          ],
           "fade": 1.0,
           "light": "MagicLightShockHand",
           "radius": 98
         },
-        "points": [[-0.13, -2.55, 1.97]]
+        "points": [
+          [
+            -0.13,
+            -2.55,
+            1.97
+          ]
+        ]
       },
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [82, 184, 255],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            82,
+            184,
+            255
+          ],
           "fade": 1.0,
           "light": "MagicLightShockHand",
           "radius": 284
         },
-        "points": [[0.0, 0.0, 15.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            15.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc01\\effects\\dlc1falmervalleybrazierlight.nif"]
+    "models": [
+      "dlc01\\effects\\dlc1falmervalleybrazierlight.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 189, 255],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            189,
+            255
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 50
         },
         "points": [
-          [0.0, 60.0, -65.0],
-          [0.0, -60.0, -65.0]
+          [
+            0.0,
+            60.0,
+            -65.0
+          ],
+          [
+            0.0,
+            -60.0,
+            -65.0
+          ]
         ]
       }
     ],
-    "models": ["clutter\\falmer\\falmerdrip01.nif"]
+    "models": [
+      "clutter\\falmer\\falmerdrip01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 249],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 50
-        },
-        "points": [[0.0, 0.0, -65.0]]
-      }
-    ],
-    "models": ["clutter\\falmer\\falmerdripanim03.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "color": [0, 189, 255],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 50
-        },
-        "points": [[0.0, 0.0, -65.0]]
-      }
-    ],
-    "models": ["clutter\\falmer\\falmerdrip04.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 249],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 50
-        },
-        "points": [[0.0, 0.0, -65.0]]
-      }
-    ],
-    "models": ["clutter\\falmer\\falmerdripanim05.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "color": [0, 189, 255],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 50
-        },
-        "points": [[0.0, 0.0, -65.0]]
-      }
-    ],
-    "models": ["clutter\\falmer\\falmerdrip05.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 249],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            249
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 50
         },
         "points": [
-          [0.0, 60.0, -65.0],
-          [0.0, -60.0, -65.0]
+          [
+            0.0,
+            0.0,
+            -65.0
+          ]
         ]
       }
     ],
-    "models": ["clutter\\falmer\\falmerdripanim02.nif"]
+    "models": [
+      "clutter\\falmer\\falmerdripanim03.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 249],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            189,
+            255
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 50
         },
         "points": [
-          [0.0, 60.0, -65.0],
-          [0.0, -60.0, -65.0]
+          [
+            0.0,
+            0.0,
+            -65.0
+          ]
         ]
       }
     ],
-    "models": ["clutter\\falmer\\falmerdripanim01.nif"]
+    "models": [
+      "clutter\\falmer\\falmerdrip04.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 249],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 50
-        },
-        "points": [[0.0, 0.0, -65.0]]
-      }
-    ],
-    "models": ["clutter\\falmer\\falmerdripanim04.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "color": [0, 189, 255],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 50
-        },
-        "points": [[0.0, 0.0, -65.0]]
-      }
-    ],
-    "models": ["clutter\\falmer\\falmerdrip03.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict",
-          "color": [0, 189, 255],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            249
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 50
         },
         "points": [
-          [0.0, 60.0, -65.0],
-          [0.0, -60.0, -65.0]
+          [
+            0.0,
+            0.0,
+            -65.0
+          ]
         ]
       }
     ],
-    "models": ["clutter\\falmer\\falmerdrip02.nif"]
+    "models": [
+      "clutter\\falmer\\falmerdripanim05.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 189, 255],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            189,
+            255
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 50
         },
-        "points": [[0.0, 0.0, -65.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            -65.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\falmer\\falmerdrip06.nif"]
+    "models": [
+      "clutter\\falmer\\falmerdrip05.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
-          "color": [0, 255, 249],
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            249
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 50
         },
-        "points": [[0.0, 0.0, -65.0]]
+        "points": [
+          [
+            0.0,
+            60.0,
+            -65.0
+          ],
+          [
+            0.0,
+            -60.0,
+            -65.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\falmer\\falmerdripanim06.nif"]
+    "models": [
+      "clutter\\falmer\\falmerdripanim02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            249
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 50
+        },
+        "points": [
+          [
+            0.0,
+            60.0,
+            -65.0
+          ],
+          [
+            0.0,
+            -60.0,
+            -65.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\falmer\\falmerdripanim01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            249
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 50
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            -65.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\falmer\\falmerdripanim04.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            189,
+            255
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 50
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            -65.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\falmer\\falmerdrip03.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            189,
+            255
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 50
+        },
+        "points": [
+          [
+            0.0,
+            60.0,
+            -65.0
+          ],
+          [
+            0.0,
+            -60.0,
+            -65.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\falmer\\falmerdrip02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            189,
+            255
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 50
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            -65.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\falmer\\falmerdrip06.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "flags": "PortalStrict|Linear",
+          "color": [
+            0,
+            255,
+            249
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 50
+        },
+        "points": [
+          [
+            0.0,
+            0.0,
+            -65.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\falmer\\falmerdripanim06.nif"
+    ]
   }
 ]

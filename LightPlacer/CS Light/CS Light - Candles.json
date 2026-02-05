@@ -7,40 +7,62 @@
     ],
     "lights": [
       {
-        "points": [[0.0, -10.0, 45.0]],
+        "points": [
+          [
+            0.0,
+            -10.0,
+            45.0
+          ]
+        ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 64.0,
           "fade": 1.2,
-          "flags": "PortalStrict|IgnoreScale"
+          "flags": "PortalStrict|IgnoreScale|Linear"
         }
       }
     ]
   },
   {
-    "models": ["DynamicCandles\\candlehornwall01.nif"],
+    "models": [
+      "DynamicCandles\\candlehornwall01.nif"
+    ],
     "lights": [
       {
-        "points": [[0.0, -25.0, 45.0]],
+        "points": [
+          [
+            0.0,
+            -25.0,
+            45.0
+          ]
+        ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 64.0,
           "fade": 1.2,
-          "flags": "PortalStrict|IgnoreScale"
+          "flags": "PortalStrict|IgnoreScale|Linear"
         }
       }
     ]
   },
   {
-    "models": ["clutter\\candles\\candlehornwall01.nif"],
+    "models": [
+      "clutter\\candles\\candlehornwall01.nif"
+    ],
     "lights": [
       {
-        "points": [[0.0, -25.0, 45.0]],
+        "points": [
+          [
+            0.0,
+            -25.0,
+            45.0
+          ]
+        ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 75.0,
           "fade": 1.2,
-          "flags": "PortalStrict|IgnoreScale"
+          "flags": "PortalStrict|IgnoreScale|Linear"
         }
       }
     ]
@@ -68,12 +90,18 @@
     ],
     "lights": [
       {
-        "points": [[0.0, -10.0, 45.0]],
+        "points": [
+          [
+            0.0,
+            -10.0,
+            45.0
+          ]
+        ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 64.0,
           "fade": 1.2,
-          "flags": "PortalStrict|IgnoreScale"
+          "flags": "PortalStrict|IgnoreScale|Linear"
         }
       }
     ]
@@ -108,12 +136,18 @@
     ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 22.0]],
+        "points": [
+          [
+            0.0,
+            0.0,
+            22.0
+          ]
+        ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 100.0,
           "fade": 1.2,
-          "flags": "PortalStrict|IgnoreScale"
+          "flags": "PortalStrict|IgnoreScale|Linear"
         }
       }
     ]
@@ -127,12 +161,18 @@
     ],
     "lights": [
       {
-        "points": [[-23.0, 0.0, 30.0]],
+        "points": [
+          [
+            -23.0,
+            0.0,
+            30.0
+          ]
+        ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 200.0,
           "fade": 1.2,
-          "flags": "PortalStrict|IgnoreScale"
+          "flags": "PortalStrict|IgnoreScale|Linear"
         }
       }
     ]
@@ -144,12 +184,18 @@
     ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 40.0]],
+        "points": [
+          [
+            0.0,
+            0.0,
+            40.0
+          ]
+        ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 120.0,
           "fade": 1.0,
-          "flags": "PortalStrict|IgnoreScale"
+          "flags": "PortalStrict|IgnoreScale|Linear"
         }
       }
     ]
@@ -176,12 +222,18 @@
     ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 50.0]],
+        "points": [
+          [
+            0.0,
+            0.0,
+            50.0
+          ]
+        ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 200.0,
           "fade": 1.2,
-          "flags": "PortalStrict|IgnoreScale"
+          "flags": "PortalStrict|IgnoreScale|Linear"
         }
       }
     ]
@@ -196,12 +248,18 @@
     ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 30.0]],
+        "points": [
+          [
+            0.0,
+            0.0,
+            30.0
+          ]
+        ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 220.0,
           "fade": 1.2,
-          "flags": "PortalStrict|IgnoreScale"
+          "flags": "PortalStrict|IgnoreScale|Linear"
         }
       }
     ]
@@ -217,26 +275,40 @@
     ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 100.0]],
+        "points": [
+          [
+            0.0,
+            0.0,
+            100.0
+          ]
+        ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 220.0,
           "fade": 1.2,
-          "flags": "PortalStrict|IgnoreScale"
+          "flags": "PortalStrict|IgnoreScale|Linear"
         }
       }
     ]
   },
   {
-    "models": ["clutter\\candles\\candlehornfloor01.nif"],
+    "models": [
+      "clutter\\candles\\candlehornfloor01.nif"
+    ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 130.0]],
+        "points": [
+          [
+            0.0,
+            0.0,
+            130.0
+          ]
+        ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 220.0,
           "fade": 1.2,
-          "flags": "PortalStrict|IgnoreScale"
+          "flags": "PortalStrict|IgnoreScale|Linear"
         }
       }
     ]
@@ -257,12 +329,18 @@
     ],
     "lights": [
       {
-        "points": [[-20.0, 0.0, 40.0]],
+        "points": [
+          [
+            -20.0,
+            0.0,
+            40.0
+          ]
+        ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 275.0,
           "fade": 1.5,
-          "flags": "PortalStrict|IgnoreScale"
+          "flags": "PortalStrict|IgnoreScale|Linear"
         }
       }
     ]
@@ -290,12 +368,18 @@
     ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 15.0]],
+        "points": [
+          [
+            0.0,
+            0.0,
+            15.0
+          ]
+        ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 64.0,
           "fade": 1.2,
-          "flags": "PortalStrict|IgnoreScale"
+          "flags": "PortalStrict|IgnoreScale|Linear"
         }
       }
     ]
@@ -319,12 +403,18 @@
     ],
     "lights": [
       {
-        "points": [[-20.0, 0.0, 15.0]],
+        "points": [
+          [
+            -20.0,
+            0.0,
+            15.0
+          ]
+        ],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 75.0,
           "fade": 1.2,
-          "flags": "PortalStrict|IgnoreScale"
+          "flags": "PortalStrict|IgnoreScale|Linear"
         }
       }
     ]

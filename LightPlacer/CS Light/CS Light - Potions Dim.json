@@ -3,1200 +3,2160 @@
     "lights": [
       {
         "data": {
-          "color": [0, 13, 138],
+          "color": [
+            0,
+            13,
+            138
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 4.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonweaknessmagicka.nif"]
+    "models": [
+      "clutter\\potions\\poisonweaknessmagicka.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [112, 6, 0],
+          "color": [
+            112,
+            6,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 4,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 3.5]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            3.5
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisondamagehealth01.nif"]
+    "models": [
+      "clutter\\potions\\poisondamagehealth01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 9, 147],
+          "color": [
+            0,
+            9,
+            147
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 8.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionfortifymagickaextreme.nif"]
+    "models": [
+      "clutter\\potions\\potionfortifymagickaextreme.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 9, 121],
+          "color": [
+            0,
+            9,
+            121
+          ],
           "fade": 10.4,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 10.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            10.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionmagickagreat.nif"]
+    "models": [
+      "clutter\\potions\\potionmagickagreat.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [84, 0, 40],
+          "color": [
+            84,
+            0,
+            40
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonparalyze01.nif"]
+    "models": [
+      "clutter\\potions\\poisonparalyze01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [15, 147, 0],
+          "color": [
+            15,
+            147,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionfortifystaminaextra.nif"]
+    "models": [
+      "clutter\\potions\\potionfortifystaminaextra.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [121, 2, 0],
+          "color": [
+            121,
+            2,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 8.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionhealthextreme.nif"]
+    "models": [
+      "clutter\\potions\\potionhealthextreme.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [112, 6, 0],
+          "color": [
+            112,
+            6,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisondamagehealth02.nif"]
+    "models": [
+      "clutter\\potions\\poisondamagehealth02.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [112, 6, 0],
+          "color": [
+            112,
+            6,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisondamagehealth03.nif"]
+    "models": [
+      "clutter\\potions\\poisondamagehealth03.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [112, 0, 53],
+          "color": [
+            112,
+            0,
+            53
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonfrenzy01.nif"]
+    "models": [
+      "clutter\\potions\\poisonfrenzy01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [15, 147, 0],
+          "color": [
+            15,
+            147,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 8.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionfortifystaminaextreme.nif"]
+    "models": [
+      "clutter\\potions\\potionfortifystaminaextreme.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 80, 190],
+          "color": [
+            0,
+            80,
+            190
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6.4,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionfortifymagickalesser.nif"]
+    "models": [
+      "clutter\\potions\\potionfortifymagickalesser.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [112, 86, 0],
+          "color": [
+            112,
+            86,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 4.25]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.25
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonfear01.nif"]
+    "models": [
+      "clutter\\potions\\poisonfear01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [84, 0, 40],
+          "color": [
+            84,
+            0,
+            40
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonparalyze04.nif"]
+    "models": [
+      "clutter\\potions\\poisonparalyze04.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [180, 166, 127],
+          "color": [
+            180,
+            166,
+            127
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6.4,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potioninvisibiltylesser.nif"]
+    "models": [
+      "clutter\\potions\\potioninvisibiltylesser.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [112, 6, 0],
+          "color": [
+            112,
+            6,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisondamagehealth04.nif"]
+    "models": [
+      "clutter\\potions\\poisondamagehealth04.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 132, 0],
+          "color": [
+            0,
+            132,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\ingredients\\frostbitevenom01.nif"]
+    "models": [
+      "clutter\\ingredients\\frostbitevenom01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 9, 121],
+          "color": [
+            0,
+            9,
+            121
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 8.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionmagickaextreme.nif"]
+    "models": [
+      "clutter\\potions\\potionmagickaextreme.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [168, 53, 0],
+          "color": [
+            168,
+            53,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.5]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.5
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionfortifyskill01.nif"]
+    "models": [
+      "clutter\\potions\\potionfortifyskill01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [125, 109, 0],
+          "color": [
+            125,
+            109,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 8.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionfortifycarrygreat.nif"]
+    "models": [
+      "clutter\\potions\\potionfortifycarrygreat.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [84, 0, 40],
+          "color": [
+            84,
+            0,
+            40
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonparalyze02.nif"]
+    "models": [
+      "clutter\\potions\\poisonparalyze02.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 18, 112],
+          "color": [
+            0,
+            18,
+            112
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 5,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 4.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisondamagemagicka02.nif"]
+    "models": [
+      "clutter\\potions\\poisondamagemagicka02.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [138, 129, 0],
+          "color": [
+            138,
+            129,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 4.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonweaknessshock.nif"]
+    "models": [
+      "clutter\\potions\\poisonweaknessshock.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 18, 112],
+          "color": [
+            0,
+            18,
+            112
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisondamagemagicka01.nif"]
+    "models": [
+      "clutter\\potions\\poisondamagemagicka01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [84, 0, 40],
+          "color": [
+            84,
+            0,
+            40
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonparalyze05.nif"]
+    "models": [
+      "clutter\\potions\\poisonparalyze05.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [114, 0, 2],
+          "color": [
+            114,
+            0,
+            2
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 8.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionfortifyhealthextreme.nif"]
+    "models": [
+      "clutter\\potions\\potionfortifyhealthextreme.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [114, 0, 2],
+          "color": [
+            114,
+            0,
+            2
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 5.2,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionfortifyhealratelesser.nif"]
+    "models": [
+      "clutter\\potions\\potionfortifyhealratelesser.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [112, 0, 53],
+          "color": [
+            112,
+            0,
+            53
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonfrenzy02.nif"]
+    "models": [
+      "clutter\\potions\\poisonfrenzy02.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [112, 86, 0],
+          "color": [
+            112,
+            86,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 10.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            10.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonfear02.nif"]
+    "models": [
+      "clutter\\potions\\poisonfear02.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [112, 6, 0],
+          "color": [
+            112,
+            6,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisondamagehealth05.nif"]
+    "models": [
+      "clutter\\potions\\poisondamagehealth05.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [180, 166, 127],
+          "color": [
+            180,
+            166,
+            127
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 8.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potioninvisibiltyextreme.nif"]
+    "models": [
+      "clutter\\potions\\potioninvisibiltyextreme.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [84, 0, 40],
+          "color": [
+            84,
+            0,
+            40
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonparalyze03.nif"]
+    "models": [
+      "clutter\\potions\\poisonparalyze03.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 18, 112],
+          "color": [
+            0,
+            18,
+            112
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisondamagemagicka03.nif"]
+    "models": [
+      "clutter\\potions\\poisondamagemagicka03.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [180, 166, 127],
+          "color": [
+            180,
+            166,
+            127
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 8.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potioninvisibiltyextra.nif"]
+    "models": [
+      "clutter\\potions\\potioninvisibiltyextra.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [112, 0, 53],
+          "color": [
+            112,
+            0,
+            53
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonfrenzy03.nif"]
+    "models": [
+      "clutter\\potions\\poisonfrenzy03.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [112, 86, 0],
+          "color": [
+            112,
+            86,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 10.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            10.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonfear03.nif"]
+    "models": [
+      "clutter\\potions\\poisonfear03.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [190, 11, 0],
+          "color": [
+            190,
+            11,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6.4,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.5]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.5
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionfortifyhealthlesser.nif"]
+    "models": [
+      "clutter\\potions\\potionfortifyhealthlesser.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 18, 112],
+          "color": [
+            0,
+            18,
+            112
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisondamagemagicka04.nif"]
+    "models": [
+      "clutter\\potions\\poisondamagemagicka04.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [112, 0, 53],
+          "color": [
+            112,
+            0,
+            53
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonfrenzy04.nif"]
+    "models": [
+      "clutter\\potions\\poisonfrenzy04.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [112, 86, 0],
+          "color": [
+            112,
+            86,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 10.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            10.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonfear04.nif"]
+    "models": [
+      "clutter\\potions\\poisonfear04.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [121, 0, 31],
+          "color": [
+            121,
+            0,
+            31
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionskooma.nif"]
+    "models": [
+      "clutter\\potions\\potionskooma.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [190, 138, 0],
+          "color": [
+            190,
+            138,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6.4,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionfortifycarrylesser.nif"]
+    "models": [
+      "clutter\\potions\\potionfortifycarrylesser.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 18, 112],
+          "color": [
+            0,
+            18,
+            112
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisondamagemagicka05.nif"]
+    "models": [
+      "clutter\\potions\\poisondamagemagicka05.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [13, 112, 0],
+          "color": [
+            13,
+            112,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisondamagestamina01.nif"]
+    "models": [
+      "clutter\\potions\\poisondamagestamina01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 103, 138],
+          "color": [
+            0,
+            103,
+            138
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 4.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonweaknessfrost.nif"]
+    "models": [
+      "clutter\\potions\\poisonweaknessfrost.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 17, 190],
+          "color": [
+            0,
+            17,
+            190
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionresistmagicka100.nif"]
+    "models": [
+      "clutter\\potions\\potionresistmagicka100.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [125, 5, 0],
+          "color": [
+            125,
+            5,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 4.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonweaknessfire.nif"]
+    "models": [
+      "clutter\\potions\\poisonweaknessfire.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [121, 2, 0],
+          "color": [
+            121,
+            2,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 8.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionhealthextra.nif"]
+    "models": [
+      "clutter\\potions\\potionhealthextra.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [12, 112, 0],
+          "color": [
+            12,
+            112,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisondamagestamina05.nif"]
+    "models": [
+      "clutter\\potions\\poisondamagestamina05.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [112, 0, 53],
+          "color": [
+            112,
+            0,
+            53
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonfrenzy05.nif"]
+    "models": [
+      "clutter\\potions\\poisonfrenzy05.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [112, 86, 0],
+          "color": [
+            112,
+            86,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 10.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            10.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisonfear05.nif"]
+    "models": [
+      "clutter\\potions\\poisonfear05.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [13, 112, 0],
+          "color": [
+            13,
+            112,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisondamagestamina02.nif"]
+    "models": [
+      "clutter\\potions\\poisondamagestamina02.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [147, 102, 0],
+          "color": [
+            147,
+            102,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 8.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionfortifycarryextra.nif"]
+    "models": [
+      "clutter\\potions\\potionfortifycarryextra.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [2, 190, 0],
+          "color": [
+            2,
+            190,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6.4,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionfortifystaminalesser.nif"]
+    "models": [
+      "clutter\\potions\\potionfortifystaminalesser.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [2, 190, 0],
+          "color": [
+            2,
+            190,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6.4,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\PotionFortifyStamRateGreat.nif"]
+    "models": [
+      "clutter\\potions\\PotionFortifyStamRateGreat.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [12, 112, 0],
+          "color": [
+            12,
+            112,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisondamagestamina03.nif"]
+    "models": [
+      "clutter\\potions\\poisondamagestamina03.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [12, 112, 0],
+          "color": [
+            12,
+            112,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\poisondamagestamina04.nif"]
+    "models": [
+      "clutter\\potions\\poisondamagestamina04.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [95, 0, 2],
+          "color": [
+            95,
+            0,
+            2
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 7.5]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            7.5
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionfortifyhealthextra.nif"]
+    "models": [
+      "clutter\\potions\\potionfortifyhealthextra.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [107, 2, 0],
+          "color": [
+            107,
+            2,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6.4,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionhealthlesser.nif"]
+    "models": [
+      "clutter\\potions\\potionhealthlesser.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [147, 102, 0],
+          "color": [
+            147,
+            102,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 8.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionfortifycarryextreme.nif"]
+    "models": [
+      "clutter\\potions\\potionfortifycarryextreme.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 17, 190],
+          "color": [
+            0,
+            17,
+            190
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionresistmagicka50.nif"]
+    "models": [
+      "clutter\\potions\\potionresistmagicka50.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [138, 0, 10],
+          "color": [
+            138,
+            0,
+            10
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionfortifyhealthgreat.nif"]
+    "models": [
+      "clutter\\potions\\potionfortifyhealthgreat.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 9, 147],
+          "color": [
+            0,
+            9,
+            147
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 8.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionfortifymagickaextra.nif"]
+    "models": [
+      "clutter\\potions\\potionfortifymagickaextra.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 15, 138],
+          "color": [
+            0,
+            15,
+            138
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionfortifymagickagreat.nif"]
+    "models": [
+      "clutter\\potions\\potionfortifymagickagreat.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [22, 116, 0],
+          "color": [
+            22,
+            116,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 7.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            7.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionfortifystaminagreat.nif"]
+    "models": [
+      "clutter\\potions\\potionfortifystaminagreat.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [121, 2, 0],
+          "color": [
+            121,
+            2,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 9.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            9.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionhealthgreat.nif"]
+    "models": [
+      "clutter\\potions\\potionhealthgreat.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [180, 166, 127],
+          "color": [
+            180,
+            166,
+            127
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potioninvisibiltygreat.nif"]
+    "models": [
+      "clutter\\potions\\potioninvisibiltygreat.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 9, 121],
+          "color": [
+            0,
+            9,
+            121
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 8.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionmagickaextra.nif"]
+    "models": [
+      "clutter\\potions\\potionmagickaextra.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [190, 22, 0],
+          "color": [
+            190,
+            22,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionresistfire100.nif"]
+    "models": [
+      "clutter\\potions\\potionresistfire100.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 9, 121],
+          "color": [
+            0,
+            9,
+            121
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6.4,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionmagickalesser.nif"]
+    "models": [
+      "clutter\\potions\\potionmagickalesser.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [190, 22, 0],
+          "color": [
+            190,
+            22,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionresistfire50.nif"]
+    "models": [
+      "clutter\\potions\\potionresistfire50.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 168, 190],
+          "color": [
+            0,
+            168,
+            190
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionresistfrost100.nif"]
+    "models": [
+      "clutter\\potions\\potionresistfrost100.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 186, 190],
+          "color": [
+            0,
+            186,
+            190
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionresistfrost50.nif"]
+    "models": [
+      "clutter\\potions\\potionresistfrost50.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [142, 74, 0],
+          "color": [
+            142,
+            74,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 5.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            5.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionresistshock100.nif"]
+    "models": [
+      "clutter\\potions\\potionresistshock100.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [142, 74, 0],
+          "color": [
+            142,
+            74,
+            0
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionresistshock50.nif"]
+    "models": [
+      "clutter\\potions\\potionresistshock50.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 121, 17],
+          "color": [
+            0,
+            121,
+            17
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 8.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionstaminaextra.nif"]
+    "models": [
+      "clutter\\potions\\potionstaminaextra.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 121, 17],
+          "color": [
+            0,
+            121,
+            17
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 8,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 8.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionstaminaextreme.nif"]
+    "models": [
+      "clutter\\potions\\potionstaminaextreme.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 121, 17],
+          "color": [
+            0,
+            121,
+            17
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 8.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            8.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionstaminagreat.nif"]
+    "models": [
+      "clutter\\potions\\potionstaminagreat.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 121, 17],
+          "color": [
+            0,
+            121,
+            17
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6.4,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 6.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            6.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\potions\\potionstaminalesser.nif"]
+    "models": [
+      "clutter\\potions\\potionstaminalesser.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [0, 116, 151],
+          "color": [
+            0,
+            116,
+            151
+          ],
           "fade": 20.0,
           "light": "MagicLightWhite01",
           "radius": 6,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
-        "points": [[0.0, 0.0, 4.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            4.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\quest\\ms12whitephialrepaired.nif"]
+    "models": [
+      "clutter\\quest\\ms12whitephialrepaired.nif"
+    ]
   }
 ]

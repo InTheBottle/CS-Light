@@ -25,9 +25,15 @@
     ],
     "lights": [
       {
-        "points": [[0.0, 0.0, 0.0]],
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightFireStormHand",
           "fade": 0.7,
           "size": 2.0

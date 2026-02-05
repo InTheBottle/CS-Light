@@ -3,25 +3,51 @@
     "lights": [
       {
         "data": {
-          "color": [109, 42, 209],
+          "color": [
+            109,
+            42,
+            209
+          ],
           "fade": 1.03,
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[-0.0, 59.44, -1.16]]
+        "points": [
+          [
+            -0.0,
+            59.44,
+            -1.16
+          ]
+        ]
       },
       {
         "data": {
-          "color": [159, 159, 159],
+          "color": [
+            159,
+            159,
+            159
+          ],
           "fade": 1.03,
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[-0.0, 59.0, -0.81]]
+        "points": [
+          [
+            -0.0,
+            59.0,
+            -0.81
+          ]
+        ]
       },
       {
         "data": {
-          "color": [138, 116, 120],
+          "color": [
+            138,
+            116,
+            120
+          ],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Linear",
@@ -59,41 +85,78 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[-0.0, 61.0, -0.0]]
+        "points": [
+          [
+            -0.0,
+            61.0,
+            -0.0
+          ]
+        ]
       }
     ],
-    "models": ["praedythxvi\\staves\\basestaves\\conjurationdaedra.nif"]
+    "models": [
+      "praedythxvi\\staves\\basestaves\\conjurationdaedra.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [67, 67, 67],
+          "color": [
+            67,
+            67,
+            67
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 58
+          "radius": 58,
+          "flags": "Linear"
         },
-        "points": [[-0.0, 51.0, -0.0]]
+        "points": [
+          [
+            -0.0,
+            51.0,
+            -0.0
+          ]
+        ]
       }
     ],
-    "models": ["praedythxvi\\staves\\basestaves\\illusioninspiration.nif"]
+    "models": [
+      "praedythxvi\\staves\\basestaves\\illusioninspiration.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [15, 139, 235],
+          "color": [
+            15,
+            139,
+            235
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 67
+          "radius": 67,
+          "flags": "Linear"
         },
-        "points": [[0.0, 64.2, -0.0]]
+        "points": [
+          [
+            0.0,
+            64.2,
+            -0.0
+          ]
+        ]
       },
       {
         "data": {
-          "color": [140, 141, 142],
+          "color": [
+            140,
+            141,
+            142
+          ],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Linear",
@@ -131,37 +194,70 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[0.0, 64.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            64.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["praedythxvi\\staves\\basestaves\\alterationmagelight.nif"]
+    "models": [
+      "praedythxvi\\staves\\basestaves\\alterationmagelight.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [67, 67, 67],
+          "color": [
+            67,
+            67,
+            67
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 58
+          "radius": 58,
+          "flags": "Linear"
         },
-        "points": [[-0.0, 56.0, -0.0]]
+        "points": [
+          [
+            -0.0,
+            56.0,
+            -0.0
+          ]
+        ]
       }
     ],
-    "models": ["praedythxvi\\staves\\conceptstaves\\illusionruunvald.nif"]
+    "models": [
+      "praedythxvi\\staves\\conceptstaves\\illusionruunvald.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [181, 181, 181],
+          "color": [
+            181,
+            181,
+            181
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[-0.0, 44.5, -0.0]]
+        "points": [
+          [
+            -0.0,
+            44.5,
+            -0.0
+          ]
+        ]
       }
     ],
     "models": [
@@ -172,376 +268,583 @@
     "lights": [
       {
         "data": {
-          "color": [85, 85, 85],
+          "color": [
+            85,
+            85,
+            85
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 9
-        },
-        "points": [[0.0, 61.4, -0.0]]
-      },
-      {
-        "data": {
-          "color": [142, 126, 113],
-          "fade": 1.0,
-          "fadeController": {
-            "interpolation": "Linear",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.0,
-                "value": 1.649999976158142
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 2.0,
-                "value": 1.7999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 4.0,
-                "value": 2.25
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 6.0,
-                "value": 1.7999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 8.0,
-                "value": 1.649999976158142
-              }
-            ]
-          },
-          "light": "MagicLightWhite01",
-          "radius": 50
-        },
-        "points": [[0.0, 61.5, 0.0]]
-      }
-    ],
-    "models": ["creationclub\\twbsse001\\weapons\\1stpersoncontrolstaff.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [106, 106, 106],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 32
-        },
-        "points": [[0.0, 39.73, -0.27]]
-      },
-      {
-        "data": {
-          "color": [161, 161, 161],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 40
-        },
-        "points": [[0.0, 43.0, -0.0]]
-      }
-    ],
-    "models": ["praedythxvi\\staves\\basestaves\\restoration.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [116, 116, 116],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 6
-        },
-        "points": [[-0.0, 61.53, -0.0]]
-      },
-      {
-        "data": {
-          "color": [116, 116, 116],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 4
-        },
-        "points": [[-0.0, 61.02, -0.0]]
-      },
-      {
-        "data": {
-          "color": [125, 126, 140],
-          "fade": 1.0,
-          "fadeController": {
-            "interpolation": "Linear",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.0,
-                "value": 1.649999976158142
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 2.0,
-                "value": 1.7999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 4.0,
-                "value": 2.25
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 6.0,
-                "value": 1.7999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 8.0,
-                "value": 1.649999976158142
-              }
-            ]
-          },
-          "light": "MagicLightWhite01",
-          "radius": 50
-        },
-        "points": [[-0.0, 61.0, -0.0]]
-      }
-    ],
-    "models": ["praedythxvi\\staves\\basestaves\\conjurationnecro.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [116, 116, 116],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 4
-        },
-        "points": [[-0.0, 61.41, -0.0]]
-      },
-      {
-        "data": {
-          "color": [113, 123, 142],
-          "fade": 1.0,
-          "fadeController": {
-            "interpolation": "Linear",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.0,
-                "value": 1.649999976158142
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 2.0,
-                "value": 1.7999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 4.0,
-                "value": 2.25
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 6.0,
-                "value": 1.7999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 8.0,
-                "value": 1.649999976158142
-              }
-            ]
-          },
-          "light": "MagicLightWhite01",
-          "radius": 50
-        },
-        "points": [[0.0, 61.5, 0.0]]
-      }
-    ],
-    "models": ["praedythxvi\\staves\\aetherialstaff\\dwarvenstaffcrystal.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [67, 67, 67],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 58
-        },
-        "points": [[-0.0, 51.0, -0.0]]
-      }
-    ],
-    "models": ["praedythxvi\\staves\\basestaves\\illusioncourage.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [67, 67, 67],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 58
-        },
-        "points": [[-0.0, 51.0, -0.0]]
-      }
-    ],
-    "models": ["praedythxvi\\staves\\basestaves\\illusioncalm.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [67, 67, 67],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 58
-        },
-        "points": [[-0.0, 55.5, -0.0]]
-      }
-    ],
-    "models": ["praedythxvi\\staves\\conceptstaves\\illusionfear.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [116, 116, 116],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 6
-        },
-        "points": [[-0.0, 67.02, -0.0]]
-      },
-      {
-        "data": {
-          "color": [25, 37, 47],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 50
-        },
-        "points": [[-0.04, 67.05, -0.0]]
-      },
-      {
-        "data": {
-          "color": [127, 125, 134],
-          "fade": 1.0,
-          "fadeController": {
-            "interpolation": "Linear",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.0,
-                "value": 1.649999976158142
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 2.0,
-                "value": 1.7999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 4.0,
-                "value": 2.25
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 6.0,
-                "value": 1.7999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 8.0,
-                "value": 1.649999976158142
-              }
-            ]
-          },
-          "light": "MagicLightWhite01",
-          "radius": 50
-        },
-        "points": [[-0.0, 61.0, -0.0]]
-      }
-    ],
-    "models": ["praedythxvi\\staves\\basestaves\\conjurationsild.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [124, 131, 131],
-          "fade": 1.0,
-          "fadeController": {
-            "interpolation": "Linear",
-            "keys": [
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 0.0,
-                "value": 1.649999976158142
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 2.0,
-                "value": 1.7999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 4.0,
-                "value": 2.25
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 6.0,
-                "value": 1.7999999523162842
-              },
-              {
-                "backward": 0.0,
-                "forward": 0.0,
-                "time": 8.0,
-                "value": 1.649999976158142
-              }
-            ]
-          },
-          "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 9,
+          "flags": "Linear"
         },
         "points": [
-          [-0.0, 49.0, -0.0],
-          [0.0, -87.0, 0.0]
+          [
+            0.0,
+            61.4,
+            -0.0
+          ]
         ]
       },
       {
         "data": {
-          "color": [25, 37, 47],
+          "color": [
+            142,
+            126,
+            113
+          ],
           "fade": 1.0,
+          "fadeController": {
+            "interpolation": "Linear",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 1.649999976158142
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.0,
+                "value": 1.7999999523162842
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.0,
+                "value": 2.25
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 6.0,
+                "value": 1.7999999523162842
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.0,
+                "value": 1.649999976158142
+              }
+            ]
+          },
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
         "points": [
-          [-0.07, 48.25, -0.0],
-          [-0.04, -88.13, -0.0]
+          [
+            0.0,
+            61.5,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "creationclub\\twbsse001\\weapons\\1stpersoncontrolstaff.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            106,
+            106,
+            106
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 32,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            0.0,
+            39.73,
+            -0.27
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            161,
+            161,
+            161
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 40,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            0.0,
+            43.0,
+            -0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "praedythxvi\\staves\\basestaves\\restoration.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            116,
+            116,
+            116
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 6,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            -0.0,
+            61.53,
+            -0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            116,
+            116,
+            116
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 4,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            -0.0,
+            61.02,
+            -0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            125,
+            126,
+            140
+          ],
+          "fade": 1.0,
+          "fadeController": {
+            "interpolation": "Linear",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 1.649999976158142
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.0,
+                "value": 1.7999999523162842
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.0,
+                "value": 2.25
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 6.0,
+                "value": 1.7999999523162842
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.0,
+                "value": 1.649999976158142
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 50,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            -0.0,
+            61.0,
+            -0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "praedythxvi\\staves\\basestaves\\conjurationnecro.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            116,
+            116,
+            116
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 4,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            -0.0,
+            61.41,
+            -0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            113,
+            123,
+            142
+          ],
+          "fade": 1.0,
+          "fadeController": {
+            "interpolation": "Linear",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 1.649999976158142
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.0,
+                "value": 1.7999999523162842
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.0,
+                "value": 2.25
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 6.0,
+                "value": 1.7999999523162842
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.0,
+                "value": 1.649999976158142
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 50,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            0.0,
+            61.5,
+            0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "praedythxvi\\staves\\aetherialstaff\\dwarvenstaffcrystal.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            67,
+            67,
+            67
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 58,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            -0.0,
+            51.0,
+            -0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "praedythxvi\\staves\\basestaves\\illusioncourage.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            67,
+            67,
+            67
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 58,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            -0.0,
+            51.0,
+            -0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "praedythxvi\\staves\\basestaves\\illusioncalm.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            67,
+            67,
+            67
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 58,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            -0.0,
+            55.5,
+            -0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "praedythxvi\\staves\\conceptstaves\\illusionfear.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            116,
+            116,
+            116
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 6,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            -0.0,
+            67.02,
+            -0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            25,
+            37,
+            47
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 50,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            -0.04,
+            67.05,
+            -0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            127,
+            125,
+            134
+          ],
+          "fade": 1.0,
+          "fadeController": {
+            "interpolation": "Linear",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 1.649999976158142
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.0,
+                "value": 1.7999999523162842
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.0,
+                "value": 2.25
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 6.0,
+                "value": 1.7999999523162842
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.0,
+                "value": 1.649999976158142
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 50,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            -0.0,
+            61.0,
+            -0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "praedythxvi\\staves\\basestaves\\conjurationsild.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            124,
+            131,
+            131
+          ],
+          "fade": 1.0,
+          "fadeController": {
+            "interpolation": "Linear",
+            "keys": [
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 0.0,
+                "value": 1.649999976158142
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 2.0,
+                "value": 1.7999999523162842
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 4.0,
+                "value": 2.25
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 6.0,
+                "value": 1.7999999523162842
+              },
+              {
+                "backward": 0.0,
+                "forward": 0.0,
+                "time": 8.0,
+                "value": 1.649999976158142
+              }
+            ]
+          },
+          "light": "MagicLightWhite01",
+          "radius": 50,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            -0.0,
+            49.0,
+            -0.0
+          ],
+          [
+            0.0,
+            -87.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            25,
+            37,
+            47
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 50,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            -0.07,
+            48.25,
+            -0.0
+          ],
+          [
+            -0.04,
+            -88.13,
+            -0.0
+          ]
         ]
       }
     ],
@@ -553,75 +856,144 @@
     "lights": [
       {
         "data": {
-          "color": [181, 181, 181],
+          "color": [
+            181,
+            181,
+            181
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50
-        },
-        "points": [[6.5, 63.5, -0.0]]
-      }
-    ],
-    "models": ["praedythxvi\\staves\\conceptstaves\\restoration.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [85, 85, 85],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 19
-        },
-        "points": [[-0.0, 61.93, -0.0]]
-      }
-    ],
-    "models": ["praedythxvi\\staves\\conceptstaves\\destructionstorm.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [67, 67, 67],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 58
-        },
-        "points": [[-0.0, 51.0, -0.0]]
-      }
-    ],
-    "models": ["praedythxvi\\staves\\basestaves\\illusioncharming.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [67, 67, 67],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 58
-        },
-        "points": [[-0.0, 55.5, -0.0]]
-      }
-    ],
-    "models": ["praedythxvi\\staves\\conceptstaves\\illusionfrenzy.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [116, 116, 116],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 50,
+          "flags": "Linear"
         },
         "points": [
-          [-0.0, 49.72, -0.0],
-          [-0.0, -87.19, 0.0]
+          [
+            6.5,
+            63.5,
+            -0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "praedythxvi\\staves\\conceptstaves\\restoration.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            85,
+            85,
+            85
+          ],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 19,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            -0.0,
+            61.93,
+            -0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "praedythxvi\\staves\\conceptstaves\\destructionstorm.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            67,
+            67,
+            67
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 58,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            -0.0,
+            51.0,
+            -0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "praedythxvi\\staves\\basestaves\\illusioncharming.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            67,
+            67,
+            67
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 58,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            -0.0,
+            55.5,
+            -0.0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "praedythxvi\\staves\\conceptstaves\\illusionfrenzy.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            116,
+            116,
+            116
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 6,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            -0.0,
+            49.72,
+            -0.0
+          ],
+          [
+            -0.0,
+            -87.19,
+            0.0
+          ]
         ]
       },
       {
         "data": {
-          "color": [125, 126, 140],
+          "color": [
+            125,
+            126,
+            140
+          ],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Linear",
@@ -659,123 +1031,247 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
         "points": [
-          [-0.0, 49.0, -0.0],
-          [0.0, -87.0, 0.0]
+          [
+            -0.0,
+            49.0,
+            -0.0
+          ],
+          [
+            0.0,
+            -87.0,
+            0.0
+          ]
         ]
       }
     ],
-    "models": ["praedythxvi\\staves\\conceptstaves\\conjurationfamiliar.nif"]
+    "models": [
+      "praedythxvi\\staves\\conceptstaves\\conjurationfamiliar.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [116, 116, 116],
+          "color": [
+            116,
+            116,
+            116
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 6
+          "radius": 6,
+          "flags": "Linear"
         },
-        "points": [[1.5, 34.02, -1.0]]
+        "points": [
+          [
+            1.5,
+            34.02,
+            -1.0
+          ]
+        ]
       },
       {
         "data": {
-          "color": [128, 0, 128],
+          "color": [
+            128,
+            0,
+            128
+          ],
           "fade": 3.0,
           "light": "MagicLightWhite01",
-          "radius": 2
+          "radius": 2,
+          "flags": "Linear"
         },
         "points": [
-          [3.92, 59.03, -2.54],
-          [3.95, 59.07, 0.44]
+          [
+            3.92,
+            59.03,
+            -2.54
+          ],
+          [
+            3.95,
+            59.07,
+            0.44
+          ]
         ]
       },
       {
         "data": {
-          "color": [139, 0, 139],
+          "color": [
+            139,
+            0,
+            139
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[2.0, 32.0, -1.0]]
+        "points": [
+          [
+            2.0,
+            32.0,
+            -1.0
+          ]
+        ]
       }
     ],
-    "models": ["creationclub\\rmssse001\\weapons\\staffofworms.nif"]
+    "models": [
+      "creationclub\\rmssse001\\weapons\\staffofworms.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [250, 85, 77],
+          "color": [
+            250,
+            85,
+            77
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50
-        },
-        "points": [[0.0, 75.78, 63.46]]
-      },
-      {
-        "data": {
-          "color": [137, 255, 239],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
         "points": [
-          [0.0, 115.78, 121.0],
-          [0.0, 41.78, 66.0]
+          [
+            0.0,
+            75.78,
+            63.46
+          ]
         ]
       },
       {
         "data": {
-          "color": [255, 245, 125],
+          "color": [
+            137,
+            255,
+            239
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[39.5, 59.08, 67.0]]
+        "points": [
+          [
+            0.0,
+            115.78,
+            121.0
+          ],
+          [
+            0.0,
+            41.78,
+            66.0
+          ]
+        ]
       },
       {
         "data": {
-          "color": [158, 249, 228],
+          "color": [
+            255,
+            245,
+            125
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[-42.5, 49.28, 69.0]]
+        "points": [
+          [
+            39.5,
+            59.08,
+            67.0
+          ]
+        ]
       },
       {
         "data": {
-          "color": [103, 192, 255],
+          "color": [
+            158,
+            249,
+            228
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[-28.4, 104.63, 79.0]]
+        "points": [
+          [
+            -42.5,
+            49.28,
+            69.0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            103,
+            192,
+            255
+          ],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 50,
+          "flags": "Linear"
+        },
+        "points": [
+          [
+            -28.4,
+            104.63,
+            79.0
+          ]
+        ]
       }
     ],
-    "models": ["dlc02\\furniture\\craftingstaffworkbench01.nif"]
+    "models": [
+      "dlc02\\furniture\\craftingstaffworkbench01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [67, 67, 67],
+          "color": [
+            67,
+            67,
+            67
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 58
+          "radius": 58,
+          "flags": "Linear"
         },
-        "points": [[-0.0, 51.0, -0.0]]
+        "points": [
+          [
+            -0.0,
+            51.0,
+            -0.0
+          ]
+        ]
       }
     ],
-    "models": ["praedythxvi\\staves\\basestaves\\illusiongadnor.nif"]
+    "models": [
+      "praedythxvi\\staves\\basestaves\\illusiongadnor.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [124, 131, 131],
+          "color": [
+            124,
+            131,
+            131
+          ],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Linear",
@@ -813,34 +1309,67 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[-0.0, 62.0, -0.0]]
+        "points": [
+          [
+            -0.0,
+            62.0,
+            -0.0
+          ]
+        ]
       },
       {
         "data": {
-          "color": [25, 37, 47],
+          "color": [
+            25,
+            37,
+            47
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[-0.07, 61.25, -0.0]]
+        "points": [
+          [
+            -0.07,
+            61.25,
+            -0.0
+          ]
+        ]
       }
     ],
-    "models": ["praedythxvi\\staves\\conceptstaves\\destructionice.nif"]
+    "models": [
+      "praedythxvi\\staves\\conceptstaves\\destructionice.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [85, 85, 85],
+          "color": [
+            85,
+            85,
+            85
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
-          "radius": 19
+          "radius": 19,
+          "flags": "Linear"
         },
         "points": [
-          [-0.0, 49.13, -0.0],
-          [0.0, -87.23, -0.0]
+          [
+            -0.0,
+            49.13,
+            -0.0
+          ],
+          [
+            0.0,
+            -87.23,
+            -0.0
+          ]
         ]
       }
     ],
@@ -852,19 +1381,36 @@
     "lights": [
       {
         "data": {
-          "color": [159, 159, 159],
+          "color": [
+            159,
+            159,
+            159
+          ],
           "fade": 1.03,
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
         "points": [
-          [-0.0, 49.0, -0.81],
-          [-0.0, -87.57, -0.35]
+          [
+            -0.0,
+            49.0,
+            -0.81
+          ],
+          [
+            -0.0,
+            -87.57,
+            -0.35
+          ]
         ]
       },
       {
         "data": {
-          "color": [125, 126, 140],
+          "color": [
+            125,
+            126,
+            140
+          ],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Linear",
@@ -902,49 +1448,90 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
         "points": [
-          [-0.0, 49.0, -0.0],
-          [0.0, -87.0, 0.0]
+          [
+            -0.0,
+            49.0,
+            -0.0
+          ],
+          [
+            0.0,
+            -87.0,
+            0.0
+          ]
         ]
       }
     ],
-    "models": ["praedythxvi\\staves\\conceptstaves\\conjurationsoultrap.nif"]
+    "models": [
+      "praedythxvi\\staves\\conceptstaves\\conjurationsoultrap.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [85, 85, 85],
+          "color": [
+            85,
+            85,
+            85
+          ],
           "fade": 2.0,
           "light": "MagicLightWhite01",
-          "radius": 19
+          "radius": 19,
+          "flags": "Linear"
         },
-        "points": [[-0.0, 61.93, -0.0]]
+        "points": [
+          [
+            -0.0,
+            61.93,
+            -0.0
+          ]
+        ]
       }
     ],
-    "models": ["praedythxvi\\staves\\conceptstaves\\destructionwallstorm.nif"]
+    "models": [
+      "praedythxvi\\staves\\conceptstaves\\destructionwallstorm.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [67, 67, 67],
+          "color": [
+            67,
+            67,
+            67
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 58
+          "radius": 58,
+          "flags": "Linear"
         },
-        "points": [[-0.0, 56.0, -0.0]]
+        "points": [
+          [
+            -0.0,
+            56.0,
+            -0.0
+          ]
+        ]
       }
     ],
-    "models": ["praedythxvi\\staves\\conceptstaves\\illusiontandil.nif"]
+    "models": [
+      "praedythxvi\\staves\\conceptstaves\\illusiontandil.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [124, 131, 131],
+          "color": [
+            124,
+            131,
+            131
+          ],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Linear",
@@ -982,36 +1569,71 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[-0.0, 62.0, -0.0]]
+        "points": [
+          [
+            -0.0,
+            62.0,
+            -0.0
+          ]
+        ]
       },
       {
         "data": {
-          "color": [25, 37, 47],
+          "color": [
+            25,
+            37,
+            47
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[-0.07, 61.25, -0.0]]
+        "points": [
+          [
+            -0.07,
+            61.25,
+            -0.0
+          ]
+        ]
       }
     ],
-    "models": ["praedythxvi\\staves\\conceptstaves\\destructionwallice.nif"]
+    "models": [
+      "praedythxvi\\staves\\conceptstaves\\destructionwallice.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [109, 42, 209],
+          "color": [
+            109,
+            42,
+            209
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[-0.0, 60.43, -0.35]]
+        "points": [
+          [
+            -0.0,
+            60.43,
+            -0.35
+          ]
+        ]
       },
       {
         "data": {
-          "color": [142, 113, 115],
+          "color": [
+            142,
+            113,
+            115
+          ],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Linear",
@@ -1049,9 +1671,16 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[0.0, 61.5, 0.0]]
+        "points": [
+          [
+            0.0,
+            61.5,
+            0.0
+          ]
+        ]
       }
     ],
     "models": [
@@ -1062,35 +1691,65 @@
     "lights": [
       {
         "data": {
-          "color": [181, 181, 181],
+          "color": [
+            181,
+            181,
+            181
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[-0.0, 55.5, -0.0]]
+        "points": [
+          [
+            -0.0,
+            55.5,
+            -0.0
+          ]
+        ]
       }
     ],
-    "models": ["praedythxvi\\staves\\conceptstaves\\illusionhaldir.nif"]
+    "models": [
+      "praedythxvi\\staves\\conceptstaves\\illusionhaldir.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [158, 203, 238],
+          "color": [
+            158,
+            203,
+            238
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[0.0, 0.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["clutter\\eyeofmagnus\\eyeofmagnus01.nif"]
+    "models": [
+      "clutter\\eyeofmagnus\\eyeofmagnus01.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [113, 142, 142],
+          "color": [
+            113,
+            142,
+            142
+          ],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Linear",
@@ -1128,13 +1787,24 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[0.0, 61.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            61.0,
+            0.0
+          ]
+        ]
       },
       {
         "data": {
-          "color": [113, 142, 142],
+          "color": [
+            113,
+            142,
+            142
+          ],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Linear",
@@ -1172,20 +1842,40 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[0.0, -41.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            -41.0,
+            0.0
+          ]
+        ]
       },
       {
         "data": {
-          "color": [54, 107, 135],
+          "color": [
+            54,
+            107,
+            135
+          ],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 50
+          "radius": 50,
+          "flags": "Linear"
         },
-        "points": [[0.0, 61.0, 0.0]]
+        "points": [
+          [
+            0.0,
+            61.0,
+            0.0
+          ]
+        ]
       }
     ],
-    "models": ["praedythxvi\\staves\\staffofmagnus\\staffofmagnus.nif"]
+    "models": [
+      "praedythxvi\\staves\\staffofmagnus\\staffofmagnus.nif"
+    ]
   }
 ]

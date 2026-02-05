@@ -3,60 +3,108 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict|InverseSquare",
-          "color": [255, 239, 200],
+          "flags": "PortalStrict|InverseSquare|Linear",
+          "color": [
+            255,
+            239,
+            200
+          ],
           "fade": 0.4,
           "size": 2.0,
           "light": "MagicLightWhite01"
         },
-        "points": [[0.0, -26.0, 10.0]]
+        "points": [
+          [
+            0.0,
+            -26.0,
+            10.0
+          ]
+        ]
       }
     ],
-    "models": ["evgnnsmp\\misc\\glowpack_light_beige.nif"]
+    "models": [
+      "evgnnsmp\\misc\\glowpack_light_beige.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict|InverseSquare",
-          "color": [229, 200, 255],
+          "flags": "PortalStrict|InverseSquare|Linear",
+          "color": [
+            229,
+            200,
+            255
+          ],
           "fade": 0.4,
           "size": 2.0,
           "light": "MagicLightWhite01"
         },
-        "points": [[0.0, -26.0, 10.0]]
+        "points": [
+          [
+            0.0,
+            -26.0,
+            10.0
+          ]
+        ]
       }
     ],
-    "models": ["evgnnsmp\\misc\\glowpack_light_purple.nif"]
+    "models": [
+      "evgnnsmp\\misc\\glowpack_light_purple.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict|InverseSquare",
-          "color": [220, 205, 187],
+          "flags": "PortalStrict|InverseSquare|Linear",
+          "color": [
+            220,
+            205,
+            187
+          ],
           "fade": 0.4,
           "size": 2.0,
           "light": "MagicLightWhite01"
         },
-        "points": [[16.0, 27.0, 67.0]]
+        "points": [
+          [
+            16.0,
+            27.0,
+            67.0
+          ]
+        ]
       }
     ],
-    "models": ["evgnnsmp\\misc\\rbp_lantern_light.nif"]
+    "models": [
+      "evgnnsmp\\misc\\rbp_lantern_light.nif"
+    ]
   },
   {
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict|InverseSquare",
-          "color": [200, 223, 255],
+          "flags": "PortalStrict|InverseSquare|Linear",
+          "color": [
+            200,
+            223,
+            255
+          ],
           "fade": 0.4,
           "size": 2.0,
           "light": "MagicLightWhite01"
         },
-        "points": [[0.0, -26.0, 10.0]]
+        "points": [
+          [
+            0.0,
+            -26.0,
+            10.0
+          ]
+        ]
       }
     ],
-    "models": ["evgnnsmp\\misc\\glowpack_light_blue.nif"]
+    "models": [
+      "evgnnsmp\\misc\\glowpack_light_blue.nif"
+    ]
   }
 ]
