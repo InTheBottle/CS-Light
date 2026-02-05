@@ -3,11 +3,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            0,
-            205,
-            255
-          ],
+          "color": [0, 205, 255],
           "fade": 0.5,
           "fadeController": {
             "interpolation": "Cubic",
@@ -36,28 +32,16 @@
           "radius": 35,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            -5.0,
-            42.0
-          ]
-        ]
+        "points": [[0.0, -5.0, 42.0]]
       }
     ],
-    "models": [
-      "landscape\\plants\\wtbluebeaconstalk.nif"
-    ]
+    "models": ["landscape\\plants\\wtbluebeaconstalk.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            0,
-            205,
-            255
-          ],
+          "color": [0, 205, 255],
           "fade": 0.5,
           "fadeController": {
             "interpolation": "Cubic",
@@ -86,28 +70,16 @@
           "radius": 71,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            40.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 40.0]]
       }
     ],
-    "models": [
-      "landscape\\plants\\wtbluebeacon.nif"
-    ]
+    "models": ["landscape\\plants\\wtbluebeacon.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            201,
-            0
-          ],
+          "color": [255, 201, 0],
           "fade": 0.5,
           "fadeController": {
             "interpolation": "Cubic",
@@ -136,17 +108,9 @@
           "radius": 71,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            40.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 40.0]]
       }
     ],
-    "models": [
-      "landscape\\plants\\wtbogbeacon.nif"
-    ]
+    "models": ["landscape\\plants\\wtbogbeacon.nif"]
   }
 ]

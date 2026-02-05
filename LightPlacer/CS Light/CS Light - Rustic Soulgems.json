@@ -1,23 +1,11 @@
 [
   {
-    "models": [
-      "clutter\\soulgem\\soulgemcommon_full.nif"
-    ],
+    "models": ["clutter\\soulgem\\soulgemcommon_full.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            -5.0
-          ]
-        ],
+        "points": [[0.0, 0.0, -5.0]],
         "data": {
-          "color": [
-            128,
-            0,
-            255
-          ],
+          "color": [128, 0, 255],
           "light": "nocturnallight",
           "radius": 20.0,
           "fade": 1,
@@ -27,24 +15,12 @@
     ]
   },
   {
-    "models": [
-      "clutter\\soulgem\\soulgemgrand_full.nif"
-    ],
+    "models": ["clutter\\soulgem\\soulgemgrand_full.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            -5.0
-          ]
-        ],
+        "points": [[0.0, 0.0, -5.0]],
         "data": {
-          "color": [
-            128,
-            0,
-            255
-          ],
+          "color": [128, 0, 255],
           "light": "nocturnallight",
           "radius": 20.0,
           "fade": 1,
@@ -54,24 +30,12 @@
     ]
   },
   {
-    "models": [
-      "clutter\\soulgem\\soulgemgreater_full.nif"
-    ],
+    "models": ["clutter\\soulgem\\soulgemgreater_full.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            -5.0
-          ]
-        ],
+        "points": [[0.0, 0.0, -5.0]],
         "data": {
-          "color": [
-            128,
-            0,
-            255
-          ],
+          "color": [128, 0, 255],
           "light": "nocturnallight",
           "radius": 20.0,
           "fade": 1,
@@ -81,24 +45,12 @@
     ]
   },
   {
-    "models": [
-      "clutter\\soulgem\\soulgemlesser_full.nif"
-    ],
+    "models": ["clutter\\soulgem\\soulgemlesser_full.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            -5.0
-          ]
-        ],
+        "points": [[0.0, 0.0, -5.0]],
         "data": {
-          "color": [
-            128,
-            0,
-            255
-          ],
+          "color": [128, 0, 255],
           "light": "nocturnallight",
           "radius": 20.0,
           "fade": 1,
@@ -108,24 +60,12 @@
     ]
   },
   {
-    "models": [
-      "clutter\\soulgem\\soulgempetty_full.nif"
-    ],
+    "models": ["clutter\\soulgem\\soulgempetty_full.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            1.0,
-            -6.0
-          ]
-        ],
+        "points": [[0.0, 1.0, -6.0]],
         "data": {
-          "color": [
-            128,
-            0,
-            255
-          ],
+          "color": [128, 0, 255],
           "light": "nocturnallight",
           "radius": 20.0,
           "fade": 5,

@@ -4,316 +4,164 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            255,
-            244,
-            163
-          ],
+          "color": [255, 244, 163],
           "fade": 5.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            10.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 10.0]]
       }
     ],
-    "models": [
-      "clutter\\dawnbreakerpedestal\\crystal.nif"
-    ]
+    "models": ["clutter\\dawnbreakerpedestal\\crystal.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            255,
-            244,
-            163
-          ],
+          "color": [255, 244, 163],
           "fade": 5.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
         "points": [
-          [
-            0.0,
-            0.0,
-            93.0
-          ],
-          [
-            30.0,
-            30.0,
-            50.0
-          ],
-          [
-            -30.0,
-            -30.0,
-            50.0
-          ],
-          [
-            30.0,
-            -30.0,
-            50.0
-          ],
-          [
-            -30.0,
-            30.0,
-            50.0
-          ]
+          [0.0, 0.0, 93.0],
+          [30.0, 30.0, 50.0],
+          [-30.0, -30.0, 50.0],
+          [30.0, -30.0, 50.0],
+          [-30.0, 30.0, 50.0]
         ]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 247
         },
-        "points": [
-          [
-            -0.0,
-            0.0,
-            87.72
-          ]
-        ]
+        "points": [[-0.0, 0.0, 87.72]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            76,
-            76,
-            76
-          ],
+          "color": [76, 76, 76],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 29
         },
-        "points": [
-          [
-            -0.0,
-            0.0,
-            84.38
-          ]
-        ]
+        "points": [[-0.0, 0.0, 84.38]]
       }
     ],
-    "models": [
-      "clutter\\dawnbreakerpedestal\\crystalpedestal.nif"
-    ]
+    "models": ["clutter\\dawnbreakerpedestal\\crystalpedestal.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            255,
-            244,
-            163
-          ],
+          "color": [255, 244, 163],
           "fade": 5.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            76.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 76.0]]
       }
     ],
-    "models": [
-      "clutter\\dawnbreakerpedestal\\crystalholder.nif"
-    ]
+    "models": ["clutter\\dawnbreakerpedestal\\crystalholder.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            255,
-            244,
-            163
-          ],
+          "color": [255, 244, 163],
           "fade": 2.5,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            6.0,
-            86.0
-          ]
-        ]
+        "points": [[0.0, 6.0, 86.0]]
       }
     ],
-    "models": [
-      "clutter\\dawnbreakerpedestal\\pedestalempty.nif"
-    ]
+    "models": ["clutter\\dawnbreakerpedestal\\pedestalempty.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            255,
-            244,
-            163
-          ],
+          "color": [255, 244, 163],
           "fade": 5.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            6.0,
-            86.0
-          ]
-        ]
+        "points": [[0.0, 6.0, 86.0]]
       }
     ],
-    "models": [
-      "clutter\\dawnbreakerpedestal\\pedestal.nif"
-    ]
+    "models": ["clutter\\dawnbreakerpedestal\\pedestal.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            129,
-            129,
-            129
-          ],
+          "color": [129, 129, 129],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 225
         },
         "points": [
-          [
-            3.26,
-            -127.49,
-            67.03
-          ],
-          [
-            0.65,
-            -122.26,
-            12.41
-          ]
+          [3.26, -127.49, 67.03],
+          [0.65, -122.26, 12.41]
         ]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            213,
-            213,
-            213
-          ],
+          "color": [213, 213, 213],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 29
         },
         "points": [
-          [
-            2.51,
-            -128.04,
-            67.02
-          ],
-          [
-            -0.77,
-            -123.29,
-            8.03
-          ]
+          [2.51, -128.04, 67.02],
+          [-0.77, -123.29, 8.03]
         ]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            76,
-            76,
-            76
-          ],
+          "color": [76, 76, 76],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 25
         },
-        "points": [
-          [
-            2.51,
-            -127.98,
-            67.15
-          ]
-        ]
+        "points": [[2.51, -127.98, 67.15]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            170,
-            170,
-            170
-          ],
+          "color": [170, 170, 170],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 8
         },
         "points": [
-          [
-            2.51,
-            -128.0,
-            67.03
-          ],
-          [
-            -0.77,
-            -123.21,
-            8.05
-          ]
+          [2.51, -128.0, 67.03],
+          [-0.77, -123.21, 8.05]
         ]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            255,
-            255,
-            221
-          ],
+          "color": [255, 255, 221],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 293
         },
-        "points": [
-          [
-            0.22,
-            -94.39,
-            656.61
-          ]
-        ]
+        "points": [[0.22, -94.39, 656.61]]
       }
     ],
-    "models": [
-      "clutter\\dawnbreakerpedestal\\da09meridiastatuefx.nif"
-    ]
+    "models": ["clutter\\dawnbreakerpedestal\\da09meridiastatuefx.nif"]
   }
 ]

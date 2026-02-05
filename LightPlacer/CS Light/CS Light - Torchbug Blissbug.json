@@ -1,113 +1,65 @@
 [
   {
-    "models": [
-      "critters\\firefly\\firefly.nif"
-    ],
+    "models": ["critters\\firefly\\firefly.nif"],
     "lights": [
       {
         "data": {
-          "color": [
-            241,
-            255,
-            0
-          ],
+          "color": [241, 255, 0],
           "fade": 2.8,
           "light": "MagicLightWhite01",
           "radius": 77,
-          "offset": [
-            1.5,
-            -2.5,
-            -7.0
-          ],
+          "offset": [1.5, -2.5, -7.0],
           "flags": "PortalStrict|Linear"
         },
-        "nodes": [
-          "Bone01"
-        ]
+        "nodes": ["Bone01"]
       }
     ]
   },
   {
-    "models": [
-      "critters\\firefly\\fireflyinjar.nif"
-    ],
+    "models": ["critters\\firefly\\fireflyinjar.nif"],
     "lights": [
       {
         "data": {
-          "color": [
-            241,
-            255,
-            0
-          ],
+          "color": [241, 255, 0],
           "fade": 1.1,
           "light": "MagicLightWhite01",
           "radius": 77,
-          "offset": [
-            -0.5,
-            0.0,
-            -1.0
-          ],
+          "offset": [-0.5, 0.0, -1.0],
           "flags": "PortalStrict|Linear"
         },
-        "nodes": [
-          "Bee01"
-        ]
+        "nodes": ["Bee01"]
       }
     ]
   },
   {
-    "models": [
-      "creationclub\\bgssse025\\critters\\maniabug.nif"
-    ],
+    "models": ["creationclub\\bgssse025\\critters\\maniabug.nif"],
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            138,
-            34
-          ],
+          "color": [255, 138, 34],
           "fade": 2.8,
           "light": "MagicLightWhite01",
           "radius": 77,
-          "offset": [
-            0.5,
-            -2.5,
-            -7.0
-          ],
+          "offset": [0.5, -2.5, -7.0],
           "flags": "PortalStrict|Linear"
         },
-        "nodes": [
-          "Bone01"
-        ]
+        "nodes": ["Bone01"]
       }
     ]
   },
   {
-    "models": [
-      "creationclub\\bgssse025\\critters\\maniabuginjar.nif"
-    ],
+    "models": ["creationclub\\bgssse025\\critters\\maniabuginjar.nif"],
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            138,
-            34
-          ],
+          "color": [255, 138, 34],
           "fade": 2.8,
           "light": "MagicLightWhite01",
           "radius": 77,
-          "offset": [
-            -0.5,
-            0.0,
-            -2.0
-          ],
+          "offset": [-0.5, 0.0, -2.0],
           "flags": "PortalStrict|Linear"
         },
-        "nodes": [
-          "b_MoveHelper"
-        ]
+        "nodes": ["b_MoveHelper"]
       }
     ]
   }

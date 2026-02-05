@@ -11,16 +11,8 @@
           "flags": "InverseSquare|PortalStrict|Linear"
         },
         "points": [
-          [
-            -250,
-            -50,
-            150
-          ],
-          [
-            0,
-            -50,
-            150
-          ]
+          [-250, -50, 150],
+          [0, -50, 150]
         ]
       }
     ],
@@ -32,12 +24,7 @@
   {
     "lights": [
       {
-        "whiteList": [
-          "0x08786a",
-          "0x08785f",
-          "0x0dcafd",
-          "0x0D7D38"
-        ],
+        "whiteList": ["0x08786a", "0x08785f", "0x0dcafd", "0x0D7D38"],
         "data": {
           "fade": 12,
           "externalEmittance": "FXLightRegionSunlight",
@@ -46,13 +33,7 @@
           "size": 10,
           "flags": "InverseSquare|PortalStrict|Linear"
         },
-        "points": [
-          [
-            0,
-            0,
-            150
-          ]
-        ]
+        "points": [[0, 0, 150]]
       }
     ],
     "models": [
@@ -71,13 +52,7 @@
           "size": 3.4,
           "flags": "InverseSquare|PortalStrict|Linear"
         },
-        "points": [
-          [
-            0,
-            -50,
-            150
-          ]
-        ]
+        "points": [[0, -50, 150]]
       }
     ],
     "models": [
@@ -97,16 +72,8 @@
           "flags": "InverseSquare|PortalStrict|Linear"
         },
         "points": [
-          [
-            -130,
-            -50,
-            150
-          ],
-          [
-            130,
-            -50,
-            150
-          ]
+          [-130, -50, 150],
+          [130, -50, 150]
         ]
       }
     ],

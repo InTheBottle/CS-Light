@@ -3,123 +3,63 @@
     "lights": [
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 500,
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            300.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 300.0]]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 666,
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear"
         },
-        "points": [
-          [
-            500.0,
-            0.0,
-            500.0
-          ]
-        ]
+        "points": [[500.0, 0.0, 500.0]]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 666,
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear"
         },
-        "points": [
-          [
-            -500.0,
-            0.0,
-            500.0
-          ]
-        ]
+        "points": [[-500.0, 0.0, 500.0]]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 666,
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            500.0,
-            500.0
-          ]
-        ]
+        "points": [[0.0, 500.0, 500.0]]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 666,
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            -500.0,
-            500.0
-          ]
-        ]
+        "points": [[0.0, -500.0, 500.0]]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 1200,
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            750.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 750.0]]
       }
     ],
     "models": [
@@ -130,11 +70,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.5,
@@ -142,68 +78,32 @@
           "cutoff": 0.5
         },
         "points": [
-          [
-            -100.0,
-            0,
-            50.0
-          ],
-          [
-            100.0,
-            0,
-            50.0
-          ],
-          [
-            0.0,
-            -100.0,
-            50.0
-          ],
-          [
-            0.0,
-            100.0,
-            50.0
-          ],
-          [
-            0.0,
-            0.0,
-            -18.0
-          ]
+          [-100.0, 0, 50.0],
+          [100.0, 0, 50.0],
+          [0.0, -100.0, 50.0],
+          [0.0, 100.0, 50.0],
+          [0.0, 0.0, -18.0]
         ]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 3,
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -100.0
-          ]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwechandelier01bareonsputter.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwechandelier01bareonsputter.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.8,
@@ -211,68 +111,32 @@
           "cutoff": 0.5
         },
         "points": [
-          [
-            -100.0,
-            0,
-            50.0
-          ],
-          [
-            100.0,
-            0,
-            50.0
-          ],
-          [
-            0.0,
-            -100.0,
-            50.0
-          ],
-          [
-            0.0,
-            100.0,
-            50.0
-          ],
-          [
-            0.0,
-            0.0,
-            -18.0
-          ]
+          [-100.0, 0, 50.0],
+          [100.0, 0, 50.0],
+          [0.0, -100.0, 50.0],
+          [0.0, 100.0, 50.0],
+          [0.0, 0.0, -18.0]
         ]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 8,
           "size": 4,
           "cutoff": 0.1
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -100.0
-          ]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwechandelier03.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwechandelier03.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.8,
@@ -280,466 +144,250 @@
           "cutoff": 0.5
         },
         "points": [
-          [
-            -100.0,
-            0,
-            50.0
-          ],
-          [
-            100.0,
-            0,
-            50.0
-          ],
-          [
-            0.0,
-            -100.0,
-            50.0
-          ],
-          [
-            0.0,
-            100.0,
-            50.0
-          ],
-          [
-            0.0,
-            0.0,
-            -18.0
-          ]
+          [-100.0, 0, 50.0],
+          [100.0, 0, 50.0],
+          [0.0, -100.0, 50.0],
+          [0.0, 100.0, 50.0],
+          [0.0, 0.0, -18.0]
         ]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 8,
           "size": 4,
           "cutoff": 0.1
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -100.0
-          ]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwechandelier01simpleon.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwechandelier01simpleon.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.8,
           "size": 0.01,
           "cutoff": 0.5
         },
-        "points": [
-          [
-            60.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[60.0, 0.0, 0.0]]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 3.5,
           "size": 1.5,
           "cutoff": 0.05
         },
-        "points": [
-          [
-            90.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[90.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwewallsconce02onsputter.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwewallsconce02onsputter.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1,
           "size": 0.01,
           "cutoff": 0.9
         },
-        "points": [
-          [
-            25.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[25.0, 0.0, 0.0]]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1.5,
           "size": 1.5,
           "cutoff": 0.1
         },
-        "points": [
-          [
-            25.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[25.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwechandelier02onsputter.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwechandelier02onsputter.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1,
           "size": 0.01,
           "cutoff": 0.9
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            100.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 100.0]]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScal|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 2,
           "size": 1.5,
           "cutoff": 1
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            100.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 100.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwefloorlanternonsputter.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwefloorlanternonsputter.nif"]
   },
   {
     "lights": [
       {
-        "blackList": [
-          "0x0482c2"
-        ],
+        "blackList": ["0x0482c2"],
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 2,
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [
-            -60.0,
-            0.0,
-            5.0
-          ]
-        ]
+        "points": [[-60.0, 0.0, 5.0]]
       },
       {
-        "blackList": [
-          "0x0482c2"
-        ],
+        "blackList": ["0x0482c2"],
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.5,
           "size": 0.001,
           "cutoff": 0.999
         },
-        "points": [
-          [
-            -20.0,
-            0.0,
-            5.0
-          ]
-        ]
+        "points": [[-20.0, 0.0, 5.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwewallsconcesmall01on.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwewallsconcesmall01on.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1.5,
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [
-            -60.0,
-            0.0,
-            5.0
-          ]
-        ]
+        "points": [[-60.0, 0.0, 5.0]]
       },
       {
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.3,
           "size": 0.001,
           "cutoff": 0.999
         },
-        "points": [
-          [
-            -20.0,
-            0.0,
-            5.0
-          ]
-        ]
+        "points": [[-20.0, 0.0, 5.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwewallsconcesmall02onsputter.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwewallsconcesmall02onsputter.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1.5,
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [
-            -60.0,
-            0.0,
-            5.0
-          ]
-        ]
+        "points": [[-60.0, 0.0, 5.0]]
       },
       {
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.3,
           "size": 0.001,
           "cutoff": 0.999
         },
-        "points": [
-          [
-            -20.0,
-            0.0,
-            5.0
-          ]
-        ]
+        "points": [[-20.0, 0.0, 5.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwewallsconcesmall02on.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwewallsconcesmall02on.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 2,
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [
-            -60.0,
-            0.0,
-            5.0
-          ]
-        ]
+        "points": [[-60.0, 0.0, 5.0]]
       },
       {
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.5,
           "size": 0.001,
           "cutoff": 0.999
         },
-        "points": [
-          [
-            -20.0,
-            0.0,
-            5.0
-          ]
-        ]
+        "points": [[-20.0, 0.0, 5.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwewallsconcesmall01onsputter.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwewallsconcesmall01onsputter.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1,
           "size": 0.01,
           "cutoff": 0.9
         },
-        "points": [
-          [
-            25.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[25.0, 0.0, 0.0]]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1.5,
           "size": 1.5,
           "cutoff": 0.1
         },
-        "points": [
-          [
-            25.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[25.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwechandelier02on.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwechandelier02on.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1,
@@ -747,53 +395,29 @@
           "cutoff": 0.5
         },
         "points": [
-          [
-            90.0,
-            0.0,
-            60.0
-          ],
-          [
-            -90.0,
-            0.0,
-            -60.0
-          ]
+          [90.0, 0.0, 60.0],
+          [-90.0, 0.0, -60.0]
         ]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1.5,
           "size": 1.5,
           "cutoff": 0.05
         },
-        "points": [
-          [
-            90.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[90.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwewallsconce01onsputter.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwewallsconce01onsputter.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.8,
@@ -801,68 +425,32 @@
           "cutoff": 0.5
         },
         "points": [
-          [
-            -100.0,
-            0,
-            50.0
-          ],
-          [
-            100.0,
-            0,
-            50.0
-          ],
-          [
-            0.0,
-            -100.0,
-            50.0
-          ],
-          [
-            0.0,
-            100.0,
-            50.0
-          ],
-          [
-            0.0,
-            0.0,
-            -18.0
-          ]
+          [-100.0, 0, 50.0],
+          [100.0, 0, 50.0],
+          [0.0, -100.0, 50.0],
+          [0.0, 100.0, 50.0],
+          [0.0, 0.0, -18.0]
         ]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 8,
           "size": 4,
           "cutoff": 0.1
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -100.0
-          ]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwechandelier01onsputter.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwechandelier01onsputter.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1,
@@ -870,92 +458,50 @@
           "cutoff": 0.5
         },
         "points": [
-          [
-            90.0,
-            0.0,
-            60.0
-          ],
-          [
-            -90.0,
-            0.0,
-            -60.0
-          ]
+          [90.0, 0.0, 60.0],
+          [-90.0, 0.0, -60.0]
         ]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1.5,
           "size": 1.5,
           "cutoff": 0.05
         },
-        "points": [
-          [
-            90.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[90.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwewallsconce01on.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwewallsconce01on.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1,
           "size": 0.01,
           "cutoff": 0.9
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            100.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 100.0]]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 2,
           "size": 1.5,
           "cutoff": 1
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            100.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 100.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwefloorlanternon.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwefloorlanternon.nif"]
   },
   {
     "lights": [
@@ -966,24 +512,14 @@
           "0xDC768~Skyrim.esm"
         ],
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1,
           "size": 0.01,
           "cutoff": 0.9
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            100.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 100.0]]
       },
       {
         "blackList": [
@@ -992,39 +528,23 @@
           "0xDC768~Skyrim.esm"
         ],
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 2,
           "size": 1.5,
           "cutoff": 1
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            100.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 100.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwegroundlantern01.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwegroundlantern01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.5,
@@ -1032,68 +552,32 @@
           "cutoff": 0.5
         },
         "points": [
-          [
-            -100.0,
-            0,
-            50.0
-          ],
-          [
-            100.0,
-            0,
-            50.0
-          ],
-          [
-            0.0,
-            -100.0,
-            50.0
-          ],
-          [
-            0.0,
-            100.0,
-            50.0
-          ],
-          [
-            0.0,
-            0.0,
-            -18.0
-          ]
+          [-100.0, 0, 50.0],
+          [100.0, 0, 50.0],
+          [0.0, -100.0, 50.0],
+          [0.0, 100.0, 50.0],
+          [0.0, 0.0, -18.0]
         ]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 3,
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -100.0
-          ]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwechandelier01bareonsputter.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwechandelier01bareonsputter.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.5,
@@ -1101,125 +585,61 @@
           "cutoff": 0.5
         },
         "points": [
-          [
-            -100.0,
-            0,
-            50.0
-          ],
-          [
-            100.0,
-            0,
-            50.0
-          ],
-          [
-            0.0,
-            -100.0,
-            50.0
-          ],
-          [
-            0.0,
-            100.0,
-            50.0
-          ],
-          [
-            0.0,
-            0.0,
-            -18.0
-          ]
+          [-100.0, 0, 50.0],
+          [100.0, 0, 50.0],
+          [0.0, -100.0, 50.0],
+          [0.0, 100.0, 50.0],
+          [0.0, 0.0, -18.0]
         ]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 3,
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -100.0
-          ]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwechandelier01bareon.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwechandelier01bareon.nif"]
   },
   {
     "lights": [
       {
-        "blackList": [
-          "0x048267",
-          "0x0927a8"
-        ],
+        "blackList": ["0x048267", "0x0927a8"],
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.8,
           "size": 0.01,
           "cutoff": 0.5
         },
-        "points": [
-          [
-            60.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[60.0, 0.0, 0.0]]
       },
       {
-        "blackList": [
-          "0x048267",
-          "0x0927a8"
-        ],
+        "blackList": ["0x048267", "0x0927a8"],
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1.5,
           "size": 1.5,
           "cutoff": 0.05
         },
-        "points": [
-          [
-            90.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[90.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwewallsconce02on.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwewallsconce02on.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.8,
@@ -1227,68 +647,32 @@
           "cutoff": 0.5
         },
         "points": [
-          [
-            -100.0,
-            0,
-            50.0
-          ],
-          [
-            100.0,
-            0,
-            50.0
-          ],
-          [
-            0.0,
-            -100.0,
-            50.0
-          ],
-          [
-            0.0,
-            100.0,
-            50.0
-          ],
-          [
-            0.0,
-            0.0,
-            -18.0
-          ]
+          [-100.0, 0, 50.0],
+          [100.0, 0, 50.0],
+          [0.0, -100.0, 50.0],
+          [0.0, 100.0, 50.0],
+          [0.0, 0.0, -18.0]
         ]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 8,
           "size": 4,
           "cutoff": 0.1
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -100.0
-          ]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwechandelier01on.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwechandelier01on.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            31,
-            255,
-            115
-          ],
+          "color": [31, 255, 115],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.8,
@@ -1296,57 +680,25 @@
           "cutoff": 0.5
         },
         "points": [
-          [
-            -100.0,
-            0,
-            50.0
-          ],
-          [
-            100.0,
-            0,
-            50.0
-          ],
-          [
-            0.0,
-            -100.0,
-            50.0
-          ],
-          [
-            0.0,
-            100.0,
-            50.0
-          ],
-          [
-            0.0,
-            0.0,
-            -18.0
-          ]
+          [-100.0, 0, 50.0],
+          [100.0, 0, 50.0],
+          [0.0, -100.0, 50.0],
+          [0.0, 100.0, 50.0],
+          [0.0, 0.0, -18.0]
         ]
       },
       {
         "data": {
-          "color": [
-            118,
-            140,
-            126
-          ],
+          "color": [118, 140, 126],
           "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 8,
           "size": 4,
           "cutoff": 0.1
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -100.0
-          ]
-        ]
+        "points": [[0.0, 0.0, -100.0]]
       }
     ],
-    "models": [
-      "dungeons\\dwemer\\dwechandelier01simpleonsputter.nif"
-    ]
+    "models": ["dungeons\\dwemer\\dwechandelier01simpleonsputter.nif"]
   }
 ]

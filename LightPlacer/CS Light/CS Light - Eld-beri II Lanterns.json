@@ -4,684 +4,364 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            180,
-            255,
-            226
-          ],
+          "color": [180, 255, 226],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            180,
-            255,
-            226
-          ],
+          "color": [180, 255, 226],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\eld-beri\\eld-berisprigganfx.nif"
-    ]
+    "models": ["magic\\eld-beri\\eld-berisprigganfx.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            180,
-            255,
-            226
-          ],
+          "color": [180, 255, 226],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            180,
-            255,
-            226
-          ],
+          "color": [180, 255, 226],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\eld-beri\\eld-berifirefloatsprigganfx.nif"
-    ]
+    "models": ["magic\\eld-beri\\eld-berifirefloatsprigganfx.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            255,
-            147,
-            56
-          ],
+          "color": [255, 147, 56],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            255,
-            147,
-            56
-          ],
+          "color": [255, 147, 56],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\eld-beri\\eld-berifirefxf.nif"
-    ]
+    "models": ["magic\\eld-beri\\eld-berifirefxf.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            154,
-            200,
-            255
-          ],
+          "color": [154, 200, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            154,
-            200,
-            255
-          ],
+          "color": [154, 200, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\eld-beri\\eld-berifrostfxf.nif"
-    ]
+    "models": ["magic\\eld-beri\\eld-berifrostfxf.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            204,
-            175,
-            147
-          ],
+          "color": [204, 175, 147],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            204,
-            175,
-            147
-          ],
+          "color": [204, 175, 147],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\eld-beri\\eld-beripurelightfxf.nif"
-    ]
+    "models": ["magic\\eld-beri\\eld-beripurelightfxf.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            255,
-            147,
-            56
-          ],
+          "color": [255, 147, 56],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            255,
-            147,
-            56
-          ],
+          "color": [255, 147, 56],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\eld-beri\\eld-berifirefx.nif"
-    ]
+    "models": ["magic\\eld-beri\\eld-berifirefx.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            154,
-            200,
-            255
-          ],
+          "color": [154, 200, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            154,
-            200,
-            255
-          ],
+          "color": [154, 200, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\eld-beri\\eld-berifirefloatfrostfx.nif"
-    ]
+    "models": ["magic\\eld-beri\\eld-berifirefloatfrostfx.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            154,
-            200,
-            255
-          ],
+          "color": [154, 200, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            154,
-            200,
-            255
-          ],
+          "color": [154, 200, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\eld-beri\\eld-berifrostfx.nif"
-    ]
+    "models": ["magic\\eld-beri\\eld-berifrostfx.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            255,
-            147,
-            56
-          ],
+          "color": [255, 147, 56],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\eld-beri\\eld-berifirefloatfirefx.nif"
-    ]
+    "models": ["magic\\eld-beri\\eld-berifirefloatfirefx.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            204,
-            175,
-            147
-          ],
+          "color": [204, 175, 147],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            204,
-            175,
-            147
-          ],
+          "color": [204, 175, 147],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\eld-beri\\eld-berifirefloatpurelightfx.nif"
-    ]
+    "models": ["magic\\eld-beri\\eld-berifirefloatpurelightfx.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            204,
-            175,
-            147
-          ],
+          "color": [204, 175, 147],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            204,
-            175,
-            147
-          ],
+          "color": [204, 175, 147],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\eld-beri\\eld-beripurelightfx.nif"
-    ]
+    "models": ["magic\\eld-beri\\eld-beripurelightfx.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            178,
-            75,
-            255
-          ],
+          "color": [178, 75, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            178,
-            75,
-            255
-          ],
+          "color": [178, 75, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\eld-beri\\eld-berivoidfx.nif"
-    ]
+    "models": ["magic\\eld-beri\\eld-berivoidfx.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            178,
-            75,
-            255
-          ],
+          "color": [178, 75, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            178,
-            75,
-            255
-          ],
+          "color": [178, 75, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\eld-beri\\eld-berifirefloatvoidfx.nif"
-    ]
+    "models": ["magic\\eld-beri\\eld-berifirefloatvoidfx.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            178,
-            75,
-            255
-          ],
+          "color": [178, 75, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            178,
-            75,
-            255
-          ],
+          "color": [178, 75, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\eld-beri\\eld-berivoidfxf.nif"
-    ]
+    "models": ["magic\\eld-beri\\eld-berivoidfxf.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            180,
-            255,
-            226
-          ],
+          "color": [180, 255, 226],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            180,
-            255,
-            226
-          ],
+          "color": [180, 255, 226],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 256
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\eld-beri\\eld-berisprigganfxf.nif"
-    ]
+    "models": ["magic\\eld-beri\\eld-berisprigganfxf.nif"]
   }
 ]

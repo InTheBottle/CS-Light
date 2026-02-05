@@ -1,19 +1,9 @@
 [
   {
-    "formIDs": [
-      "FireFXShader",
-      "TurnUndeadFlamesFXS",
-      "FireFXTrapShader"
-    ],
+    "formIDs": ["FireFXShader", "TurnUndeadFlamesFXS", "FireFXTrapShader"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            80.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 80.0]],
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightFireStormHand",
@@ -37,13 +27,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            5.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 5.0]],
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightFrostBlizzard01",
@@ -65,13 +49,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            5.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 5.0]],
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightShockHand",
@@ -82,75 +60,39 @@
             "keys": [
               {
                 "time": 0.0,
-                "color": [
-                  45,
-                  2,
-                  97
-                ]
+                "color": [45, 2, 97]
               },
               {
                 "time": 8.5,
-                "color": [
-                  123,
-                  18,
-                  252
-                ]
+                "color": [123, 18, 252]
               },
               {
                 "time": 9.0,
-                "color": [
-                  45,
-                  2,
-                  97
-                ]
+                "color": [45, 2, 97]
               },
               {
                 "time": 17.0,
-                "color": [
-                  21,
-                  3,
-                  43
-                ]
+                "color": [21, 3, 43]
               },
               {
                 "time": 17.5,
-                "color": [
-                  45,
-                  2,
-                  97
-                ]
+                "color": [45, 2, 97]
               },
               {
                 "time": 26.5,
-                "color": [
-                  155,
-                  79,
-                  247
-                ]
+                "color": [155, 79, 247]
               },
               {
                 "time": 27.0,
-                "color": [
-                  45,
-                  2,
-                  97
-                ]
+                "color": [45, 2, 97]
               },
               {
                 "time": 35.0,
-                "color": [
-                  21,
-                  3,
-                  43
-                ]
+                "color": [21, 3, 43]
               },
               {
                 "time": 35.5,
-                "color": [
-                  45,
-                  2,
-                  97
-                ]
+                "color": [45, 2, 97]
               }
             ]
           }
@@ -159,26 +101,14 @@
     ]
   },
   {
-    "formIDs": [
-      "ShockFXShader"
-    ],
+    "formIDs": ["ShockFXShader"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            80.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 80.0]],
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightWhite01",
-          "color": [
-            100,
-            100,
-            200
-          ],
+          "color": [100, 100, 200],
           "size": 2.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -220,45 +150,25 @@
     ]
   },
   {
-    "formIDs": [
-      "SoulTrapFXShader"
-    ],
+    "formIDs": ["SoulTrapFXShader"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            80.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 80.0]],
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.4,
-          "color": [
-            35,
-            35,
-            255
-          ],
+          "color": [35, 35, 255],
           "size": 2.0
         }
       }
     ]
   },
   {
-    "formIDs": [
-      "IllusionNegativeFXS"
-    ],
+    "formIDs": ["IllusionNegativeFXS"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            80.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 80.0]],
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightIllusionnegProjectile01",
@@ -269,68 +179,40 @@
     ]
   },
   {
-    "formIDs": [
-      "ReanimateFXShader"
-    ],
+    "formIDs": ["ReanimateFXShader"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            40.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 40.0]],
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightReanimate1",
           "fade": 0.4,
           "size": 2.0,
-          "conditions": [
-            "Self GetIsClass EncClassFrostbiteSpider NONE == 1 OR"
-          ]
+          "conditions": ["Self GetIsClass EncClassFrostbiteSpider NONE == 1 OR"]
         }
       }
     ]
   },
   {
-    "formIDs": [
-      "ReanimateFXShader"
-    ],
+    "formIDs": ["ReanimateFXShader"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            10.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 10.0]],
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightReanimate1",
           "fade": 0.4,
           "size": 2.0,
-          "conditions": [
-            "Self GetIsClass EncClassChaurus NONE == 1 OR"
-          ]
+          "conditions": ["Self GetIsClass EncClassChaurus NONE == 1 OR"]
         }
       }
     ]
   },
   {
-    "formIDs": [
-      "ReanimateFXShader"
-    ],
+    "formIDs": ["ReanimateFXShader"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            80.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 80.0]],
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightReanimate1",
@@ -345,18 +227,10 @@
     ]
   },
   {
-    "formIDs": [
-      "HealFXS"
-    ],
+    "formIDs": ["HealFXS"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            80.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 80.0]],
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightHealHand01",
@@ -396,18 +270,10 @@
     ]
   },
   {
-    "formIDs": [
-      "HealCircleFXS"
-    ],
+    "formIDs": ["HealCircleFXS"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            5.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 5.0]],
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightHealHand01",
@@ -418,26 +284,14 @@
     ]
   },
   {
-    "formIDs": [
-      "HealMysticFXS"
-    ],
+    "formIDs": ["HealMysticFXS"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            80.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 80.0]],
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightHealHand01",
-          "color": [
-            202,
-            221,
-            236
-          ],
+          "color": [202, 221, 236],
           "fade": 0.5,
           "size": 2.0
         }
@@ -445,45 +299,25 @@
     ]
   },
   {
-    "formIDs": [
-      "ShieldSpellFXS"
-    ],
+    "formIDs": ["ShieldSpellFXS"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            80.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 80.0]],
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.4,
-          "color": [
-            117,
-            206,
-            240
-          ],
+          "color": [117, 206, 240],
           "size": 2.0
         }
       }
     ]
   },
   {
-    "formIDs": [
-      "AbsorbGreenFXS"
-    ],
+    "formIDs": ["AbsorbGreenFXS"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            80.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 80.0]],
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "GreenPoisonGasLight",
@@ -494,19 +328,10 @@
     ]
   },
   {
-    "formIDs": [
-      "AbsorbHealthFXS",
-      "GhostRedFXShader"
-    ],
+    "formIDs": ["AbsorbHealthFXS", "GhostRedFXShader"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            5.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 5.0]],
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightAbsorbHealthProjectile",
@@ -521,67 +346,35 @@
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            204,
-            204,
-            204
-          ],
+          "color": [204, 204, 204],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            168,
-            168,
-            168
-          ],
+          "color": [168, 168, 168],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            130,
-            130,
-            130
-          ],
+          "color": [130, 130, 130],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            8.0,
-            8.0
-          ]
-        ]
+        "points": [[0.0, 8.0, 8.0]]
       }
     ],
-    "models": [
-      "magic\\fxicecloak01.nif"
-    ]
+    "models": ["magic\\fxicecloak01.nif"]
   },
   {
     "lights": [
@@ -592,18 +385,10 @@
           "light": "MagicLightIllusionPosHand01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            80.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 80.0]]
       }
     ],
-    "models": [
-      "magic\\illusionposfxbody01.nif"
-    ]
+    "models": ["magic\\illusionposfxbody01.nif"]
   },
   {
     "lights": [
@@ -614,283 +399,145 @@
           "light": "MagicLightWardHand01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            25.0,
-            100.0
-          ]
-        ]
+        "points": [[0.0, 25.0, 100.0]]
       }
     ],
-    "models": [
-      "magic\\wardbodyfx.nif"
-    ]
+    "models": ["magic\\wardbodyfx.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
+          "fade": 0.4,
+          "light": "MagicLightWhite01",
+          "size": 2.0
+        },
+        "points": [[0.0, 0.0, 2.25]]
+      },
+      {
+        "data": {
+          "flags": "InverseSquare|IgnoreScale|Linear",
+          "color": [186, 186, 186],
+          "fade": 0.4,
+          "light": "MagicLightWhite01",
+          "size": 2.0
+        },
+        "points": [[-0.12, -0.08, -0.18]]
+      },
+      {
+        "data": {
+          "flags": "InverseSquare|IgnoreScale|Linear",
+          "color": [56, 56, 56],
+          "fade": 0.4,
+          "light": "MagicLightWhite01",
+          "size": 2.0
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      },
+      {
+        "data": {
+          "flags": "InverseSquare|IgnoreScale|Linear",
+          "color": [97, 97, 97],
+          "fade": 0.4,
+          "light": "MagicLightWhite01",
+          "size": 2.0
+        },
+        "points": [[0.0, 0.0, 2.29]]
+      },
+      {
+        "data": {
+          "flags": "InverseSquare|IgnoreScale|Linear",
+          "color": [186, 186, 186],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
         "points": [
-          [
-            0.0,
-            0.0,
-            2.25
-          ]
+          [0.02, 0.02, 5.76],
+          [0.02, 0.02, 3.09],
+          [0.03, 0.03, 0.4],
+          [0.02, 0.02, -1.54]
         ]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            186,
-            186,
-            186
-          ],
+          "color": [186, 186, 186],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
         "points": [
-          [
-            -0.12,
-            -0.08,
-            -0.18
-          ]
-        ]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            56,
-            56,
-            56
-          ],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            97,
-            97,
-            97
-          ],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            2.29
-          ]
-        ]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            186,
-            186,
-            186
-          ],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [
-          [
-            0.02,
-            0.02,
-            5.76
-          ],
-          [
-            0.02,
-            0.02,
-            3.09
-          ],
-          [
-            0.03,
-            0.03,
-            0.4
-          ],
-          [
-            0.02,
-            0.02,
-            -1.54
-          ]
-        ]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            186,
-            186,
-            186
-          ],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [
-          [
-            0.02,
-            0.02,
-            3.09
-          ],
-          [
-            -0.12,
-            -0.08,
-            -0.18
-          ]
+          [0.02, 0.02, 3.09],
+          [-0.12, -0.08, -0.18]
         ]
       }
     ],
-    "models": [
-      "magic\\icicleimpactfast01.nif"
-    ]
+    "models": ["magic\\icicleimpactfast01.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -3.36
-          ]
-        ]
+        "points": [[0.0, 0.0, -3.36]]
       }
     ],
-    "models": [
-      "dlc02\\effects\\dlc2skallvillageprayereffect.nif"
-    ]
+    "models": ["dlc02\\effects\\dlc2skallvillageprayereffect.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            281,
-            295,
-            264
-          ],
+          "color": [281, 295, 264],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, -0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            344,
-            362,
-            334
-          ],
+          "color": [344, 362, 334],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            -26,
-            0,
-            -42
-          ],
+          "color": [-26, 0, -42],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            -1.34,
-            0.0
-          ]
-        ]
+        "points": [[0.0, -1.34, 0.0]]
       }
     ],
-    "models": [
-      "dlc02\\effects\\dlc2hmdaedraimpact01.nif"
-    ]
+    "models": ["dlc02\\effects\\dlc2hmdaedraimpact01.nif"]
   },
   {
-    "models": [
-      "magic\\healcontargetfx01.nif"
-    ],
+    "models": ["magic\\healcontargetfx01.nif"],
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            255,
-            230,
-            178
-          ],
+          "color": [255, 230, 178],
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            80.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 80.0]]
       }
     ]
   },
@@ -899,116 +546,62 @@
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            51,
-            51,
-            51
-          ],
+          "color": [51, 51, 51],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -1.54
-          ]
-        ]
+        "points": [[0.0, 0.0, -1.54]]
       }
     ],
-    "models": [
-      "dlc02\\magic\\dlc2bloodskalprojhorz.nif"
-    ]
+    "models": ["dlc02\\magic\\dlc2bloodskalprojhorz.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            4.5
-          ]
-        ]
+        "points": [[0.0, 0.0, 4.5]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            56,
-            56,
-            56
-          ],
+          "color": [56, 56, 56],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            97,
-            97,
-            97
-          ],
+          "color": [97, 97, 97],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            4.58
-          ]
-        ]
+        "points": [[0.0, 0.0, 4.58]]
       }
     ],
-    "models": [
-      "magic\\icicleimpactactor01.nif"
-    ]
+    "models": ["magic\\icicleimpactactor01.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            242,
-            242,
-            242
-          ],
+          "color": [242, 242, 242],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            8.15,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 8.15, 0.0]]
       }
     ],
     "models": [
@@ -1020,474 +613,250 @@
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            51,
-            51,
-            51
-          ],
+          "color": [51, 51, 51],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -1.54
-          ]
-        ]
+        "points": [[0.0, 0.0, -1.54]]
       }
     ],
-    "models": [
-      "dlc02\\magic\\dlc2bloodskalprojvert.nif"
-    ]
+    "models": ["dlc02\\magic\\dlc2bloodskalprojvert.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            180,
-            180,
-            180
-          ],
+          "color": [180, 180, 180],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -2.7
-          ]
-        ]
+        "points": [[0.0, 0.0, -2.7]]
       }
     ],
-    "models": [
-      "magic\\turnundeadtargetfx.nif"
-    ]
+    "models": ["magic\\turnundeadtargetfx.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
+          "fade": 0.4,
+          "light": "MagicLightWhite01",
+          "size": 2.0
+        },
+        "points": [[0.0, 0.0, 4.5]]
+      },
+      {
+        "data": {
+          "flags": "InverseSquare|IgnoreScale|Linear",
+          "color": [186, 186, 186],
+          "fade": 0.4,
+          "light": "MagicLightWhite01",
+          "size": 2.0
+        },
+        "points": [[-0.25, -0.16, -0.36]]
+      },
+      {
+        "data": {
+          "flags": "InverseSquare|IgnoreScale|Linear",
+          "color": [56, 56, 56],
+          "fade": 0.4,
+          "light": "MagicLightWhite01",
+          "size": 2.0
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      },
+      {
+        "data": {
+          "flags": "InverseSquare|IgnoreScale|Linear",
+          "color": [97, 97, 97],
+          "fade": 0.4,
+          "light": "MagicLightWhite01",
+          "size": 2.0
+        },
+        "points": [[0.0, 0.0, 4.58]]
+      },
+      {
+        "data": {
+          "flags": "InverseSquare|IgnoreScale|Linear",
+          "color": [186, 186, 186],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
         "points": [
-          [
-            0.0,
-            0.0,
-            4.5
-          ]
+          [0.03, 0.04, 11.52],
+          [0.03, 0.04, 6.17],
+          [0.06, 0.07, 0.81],
+          [0.04, 0.05, -3.09]
         ]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            186,
-            186,
-            186
-          ],
+          "color": [186, 186, 186],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
         "points": [
-          [
-            -0.25,
-            -0.16,
-            -0.36
-          ]
-        ]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            56,
-            56,
-            56
-          ],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            97,
-            97,
-            97
-          ],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [
-          [
-            0.0,
-            0.0,
-            4.58
-          ]
-        ]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            186,
-            186,
-            186
-          ],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [
-          [
-            0.03,
-            0.04,
-            11.52
-          ],
-          [
-            0.03,
-            0.04,
-            6.17
-          ],
-          [
-            0.06,
-            0.07,
-            0.81
-          ],
-          [
-            0.04,
-            0.05,
-            -3.09
-          ]
-        ]
-      },
-      {
-        "data": {
-          "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            186,
-            186,
-            186
-          ],
-          "fade": 0.4,
-          "light": "MagicLightWhite01",
-          "size": 2.0
-        },
-        "points": [
-          [
-            0.03,
-            0.04,
-            6.17
-          ],
-          [
-            -0.25,
-            -0.16,
-            -0.36
-          ]
+          [0.03, 0.04, 6.17],
+          [-0.25, -0.16, -0.36]
         ]
       }
     ],
-    "models": [
-      "magic\\icicleimpact01.nif"
-    ]
+    "models": ["magic\\icicleimpact01.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            24,
-            24,
-            24
-          ],
+          "color": [24, 24, 24],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "dlc01\\magic\\dlc01_sunaurabodyfx.nif"
-    ]
+    "models": ["dlc01\\magic\\dlc01_sunaurabodyfx.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.06
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.06]]
       }
     ],
-    "models": [
-      "dlc01\\magic\\dlc1impactsunfirespell.nif"
-    ]
+    "models": ["dlc01\\magic\\dlc1impactsunfirespell.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            0,
-            0,
-            0
-          ],
+          "color": [0, 0, 0],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            180,
-            180,
-            180
-          ],
+          "color": [180, 180, 180],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            8.0,
-            8.0
-          ]
-        ]
+        "points": [[0.0, 8.0, 8.0]]
       }
     ],
-    "models": [
-      "magic\\fxshockcloak01.nif"
-    ]
+    "models": ["magic\\fxshockcloak01.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            255,
-            18,
-            18
-          ],
+          "color": [255, 18, 18],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.22,
-            4.77,
-            -1.03
-          ]
-        ]
+        "points": [[0.22, 4.77, -1.03]]
       }
     ],
-    "models": [
-      "dlc01\\magic\\dlc1vampireabsorbproj01.nif"
-    ]
+    "models": ["dlc01\\magic\\dlc1vampireabsorbproj01.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            104,
-            124,
-            93
-          ],
+          "color": [104, 124, 93],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "dlc02\\effects\\dlc2hmdaedra01handeffects.nif"
-    ]
+    "models": ["dlc02\\effects\\dlc2hmdaedra01handeffects.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            116,
-            142,
-            100
-          ],
+          "color": [116, 142, 100],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            -1.34,
-            -10.72
-          ]
-        ]
+        "points": [[0.0, -1.34, -10.72]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            89,
-            107,
-            79
-          ],
+          "color": [89, 107, 79],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            85,
-            99,
-            68
-          ],
+          "color": [85, 99, 68],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, -0.0]]
       }
     ],
-    "models": [
-      "dlc02\\effects\\dlc2hmdaedramouthexp01.nif"
-    ]
+    "models": ["dlc02\\effects\\dlc2hmdaedramouthexp01.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            150,
-            150,
-            200
-          ],
+          "color": [150, 150, 200],
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            80.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 80.0]]
       }
     ],
-    "models": [
-      "magic\\healmystcontargetfx01.nif"
-    ]
+    "models": ["magic\\healmystcontargetfx01.nif"]
   },
   {
-    "models": [
-      "magic\\reanimatetargetfx.nif"
-    ],
+    "models": ["magic\\reanimatetargetfx.nif"],
     "lights": [
       {
         "data": {
@@ -1496,13 +865,7 @@
           "size": 2.0,
           "fade": 0.4
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            80.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 80.0]]
       }
     ]
   },
@@ -1511,162 +874,88 @@
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            0,
-            0,
-            0
-          ],
+          "color": [0, 0, 0],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            -1.34,
-            0.0
-          ]
-        ]
+        "points": [[0.0, -1.34, 0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            85,
-            85,
-            85
-          ],
+          "color": [85, 85, 85],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, -0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\reanimateimpact01.nif"
-    ]
+    "models": ["magic\\reanimateimpact01.nif"]
   },
   {
-    "models": [
-      "magic\\firesprayfx01.nif"
-    ],
+    "models": ["magic\\firesprayfx01.nif"],
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            251,
-            162,
-            96
-          ],
+          "color": [251, 162, 96],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "nodes": [
-          "BrightGlowMesh01"
-        ]
+        "nodes": ["BrightGlowMesh01"]
       }
     ]
   },
   {
-    "models": [
-      "magic\\lightningbolt01.nif"
-    ],
+    "models": ["magic\\lightningbolt01.nif"],
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            120,
-            120,
-            200
-          ],
+          "color": [120, 120, 200],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ]
   },
   {
-    "models": [
-      "magic\\lightningbolt02.nif"
-    ],
+    "models": ["magic\\lightningbolt02.nif"],
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            120,
-            120,
-            200
-          ],
+          "color": [120, 120, 200],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ]
   },
@@ -1675,186 +964,102 @@
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            161,
-            67,
-            16
-          ],
+          "color": [161, 67, 16],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            -0.0,
-            8.17
-          ]
-        ]
+        "points": [[0.0, -0.0, 8.17]]
       }
     ],
-    "models": [
-      "magic\\firestormareaeffect.nif"
-    ]
+    "models": ["magic\\firestormareaeffect.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            251,
-            162,
-            96
-          ],
+          "color": [251, 162, 96],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            50.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 50.0]]
       }
     ],
-    "models": [
-      "effects\\fxfire01new.nif"
-    ]
+    "models": ["effects\\fxfire01new.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            251,
-            162,
-            96
-          ],
+          "color": [251, 162, 96],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            50.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 50.0]]
       }
     ],
-    "models": [
-      "effects\\fxfire02new.nif"
-    ]
+    "models": ["effects\\fxfire02new.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            0,
-            0,
-            0
-          ],
+          "color": [0, 0, 0],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.07
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.07]]
       }
     ],
-    "models": [
-      "magic\\frostbarrier01.nif"
-    ]
+    "models": ["magic\\frostbarrier01.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            27,
-            27,
-            27
-          ],
+          "color": [27, 27, 27],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\firestormcastbodyfx.nif"
-    ]
+    "models": ["magic\\firestormcastbodyfx.nif"]
   },
   {
-    "models": [
-      "magic\\fxfirecloak01.nif"
-    ],
+    "models": ["magic\\fxfirecloak01.nif"],
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            255,
-            120,
-            0
-          ],
+          "color": [255, 120, 0],
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            80.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 80.0]]
       }
     ]
   },
   {
-    "models": [
-      "magic\\shieldspellbodyfx.nif"
-    ],
+    "models": ["magic\\shieldspellbodyfx.nif"],
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            76,
-            178,
-            229
-          ],
+          "color": [76, 178, 229],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            80.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 80.0]]
       }
     ]
   },
@@ -1863,141 +1068,75 @@
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            119,
-            119,
-            119
-          ],
+          "color": [119, 119, 119],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            24.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 24.0]]
       }
     ],
-    "models": [
-      "magic\\frostbarrierlarge01.nif"
-    ]
+    "models": ["magic\\frostbarrierlarge01.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            165,
-            101,
-            70
-          ],
+          "color": [165, 101, 70],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            -0.44,
-            0.0,
-            3.3
-          ]
-        ]
+        "points": [[-0.44, 0.0, 3.3]]
       }
     ],
-    "models": [
-      "magic\\firewallfx01.nif"
-    ]
+    "models": ["magic\\firewallfx01.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            85,
-            85,
-            85
-          ],
+          "color": [85, 85, 85],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            -1.34,
-            0.0
-          ]
-        ]
+        "points": [[0.0, -1.34, 0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            7,
-            7,
-            7
-          ],
+          "color": [7, 7, 7],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            99,
-            99,
-            99
-          ],
+          "color": [99, 99, 99],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, -0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\illusionimpact01.nif"
-    ]
+    "models": ["magic\\illusionimpact01.nif"]
   },
   {
     "lights": [
@@ -2008,351 +1147,187 @@
           "size": 2.0,
           "fade": 0.3
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            80.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 80.0]]
       }
     ],
-    "models": [
-      "magic\\illusionnegfxbody01.nif"
-    ]
+    "models": ["magic\\illusionnegfxbody01.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            0,
-            0,
-            0
-          ],
+          "color": [0, 0, 0],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            -1.34,
-            0.0
-          ]
-        ]
+        "points": [[0.0, -1.34, 0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            85,
-            85,
-            85
-          ],
+          "color": [85, 85, 85],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, -0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\illusionnegimpact01.nif"
-    ]
+    "models": ["magic\\illusionnegimpact01.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            9,
-            136,
-            234
-          ],
+          "color": [9, 136, 234],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            -3.37,
-            40.18,
-            20.25
-          ]
-        ]
+        "points": [[-3.37, 40.18, 20.25]]
       }
     ],
-    "models": [
-      "magic\\lightspellactorfx.nif"
-    ]
+    "models": ["magic\\lightspellactorfx.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            54,
-            101,
-            255
-          ],
+          "color": [54, 101, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.24,
-            0.41,
-            -0.02
-          ]
-        ]
+        "points": [[0.24, 0.41, -0.02]]
       }
     ],
-    "models": [
-      "magic\\lightspellstaticlight.nif"
-    ]
+    "models": ["magic\\lightspellstaticlight.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            9,
-            136,
-            234
-          ],
+          "color": [9, 136, 234],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\lightspellhazard.nif"
-    ]
+    "models": ["magic\\lightspellhazard.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            180,
-            180,
-            180
-          ],
+          "color": [180, 180, 180],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            5.35
-          ]
-        ]
+        "points": [[0.0, 0.0, 5.35]]
       }
     ],
-    "models": [
-      "magic\\paralyzetargetfx.nif"
-    ]
+    "models": ["magic\\paralyzetargetfx.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            165,
-            101,
-            70
-          ],
+          "color": [165, 101, 70],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            -0.44,
-            0.0,
-            3.3
-          ]
-        ]
+        "points": [[-0.44, 0.0, 3.3]]
       }
     ],
-    "models": [
-      "magic\\shockwallfx01.nif"
-    ]
+    "models": ["magic\\shockwallfx01.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            0,
-            0,
-            0
-          ],
+          "color": [0, 0, 0],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            -1.34,
-            0.0
-          ]
-        ]
+        "points": [[0.0, -1.34, 0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            85,
-            85,
-            85
-          ],
+          "color": [85, 85, 85],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, -0.0]]
       },
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\turnunimpact01.nif"
-    ]
+    "models": ["magic\\turnunimpact01.nif"]
   },
   {
-    "models": [
-      "magic\\soultraptargeteffects.nif"
-    ],
+    "models": ["magic\\soultraptargeteffects.nif"],
     "lights": [
       {
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
-          "color": [
-            100,
-            80,
-            150
-          ],
+          "color": [100, 80, 150],
           "light": "MagicLightWhite01",
           "size": 2.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            80.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 80.0]]
       }
     ]
   }

@@ -4,22 +4,12 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            255,
-            51,
-            0
-          ],
+          "color": [255, 51, 0],
           "fade": 1.8,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            6.5,
-            46.85
-          ]
-        ]
+        "points": [[0.0, 6.5, 46.85]]
       }
     ],
     "models": [

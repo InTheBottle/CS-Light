@@ -7,13 +7,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            -25.0,
-            45.0
-          ]
-        ],
+        "points": [[0.0, -25.0, 45.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.35,
@@ -24,18 +18,10 @@
     ]
   },
   {
-    "models": [
-      "DynamicCandles\\candlehornwall01.nif"
-    ],
+    "models": ["DynamicCandles\\candlehornwall01.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            -25.0,
-            45.0
-          ]
-        ],
+        "points": [[0.0, -25.0, 45.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.35,
@@ -52,13 +38,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            -25.0,
-            45.0
-          ]
-        ],
+        "points": [[0.0, -25.0, 45.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.35,
@@ -90,13 +70,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0,
-            45.0
-          ]
-        ],
+        "points": [[0.0, 0, 45.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.2,
@@ -136,13 +110,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            22.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 22.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.2,
@@ -161,13 +129,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            -23.0,
-            0.0,
-            30.0
-          ]
-        ],
+        "points": [[-23.0, 0.0, 30.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.3,
@@ -199,13 +161,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            50.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 50.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.2,
@@ -225,13 +181,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            30.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 30.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.5,
@@ -248,13 +198,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            40.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 40.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.7,
@@ -274,13 +218,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            100.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 100.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.5,
@@ -291,18 +229,10 @@
     ]
   },
   {
-    "models": [
-      "clutter\\candles\\candlehornfloor01.nif"
-    ],
+    "models": ["clutter\\candles\\candlehornfloor01.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            130.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 130.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.25,
@@ -328,13 +258,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            -20.0,
-            0.0,
-            40.0
-          ]
-        ],
+        "points": [[-20.0, 0.0, 40.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.9,
@@ -367,13 +291,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            15.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 15.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 64.0,
@@ -402,13 +320,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            -20.0,
-            0.0,
-            15.0
-          ]
-        ],
+        "points": [[-20.0, 0.0, 15.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.2,

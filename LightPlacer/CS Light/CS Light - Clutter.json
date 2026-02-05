@@ -4,47 +4,23 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            75,
-            197,
-            158
-          ],
+          "color": [75, 197, 158],
           "fade": 1.1,
           "light": "MagicLightWhite01",
           "radius": 77
         },
-        "points": [
-          [
-            0.6,
-            -0.28,
-            12.47
-          ]
-        ]
+        "points": [[0.6, -0.28, 12.47]]
       }
     ],
-    "models": [
-      "critters\\moths\\mothlunarinjar.nif"
-    ]
+    "models": ["critters\\moths\\mothlunarinjar.nif"]
   },
   {
-    "models": [
-      "clutter\\quest\\barenziahsjewelrybox.nif"
-    ],
+    "models": ["clutter\\quest\\barenziahsjewelrybox.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            4.5
-          ]
-        ],
+        "points": [[0.0, 0.0, 4.5]],
         "data": {
-          "color": [
-            255,
-            0,
-            0
-          ],
+          "color": [255, 0, 0],
           "light": "GreenPoisonGasLight",
           "radius": 5.5,
           "fade": 15.0,
@@ -54,24 +30,12 @@
     ]
   },
   {
-    "models": [
-      "critters\\firefly\\FireflyGO.nif"
-    ],
+    "models": ["critters\\firefly\\FireflyGO.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            4.5
-          ]
-        ],
+        "points": [[0.0, 0.0, 4.5]],
         "data": {
-          "color": [
-            255,
-            255,
-            0
-          ],
+          "color": [255, 255, 0],
           "light": "GreenPoisonGasLight",
           "radius": 5.5,
           "fade": 15.0,
@@ -81,20 +45,12 @@
     ]
   },
   {
-    "models": [
-      "critters\\moths\\crittermothgreen.nif"
-    ],
+    "models": ["critters\\moths\\crittermothgreen.nif"],
     "lights": [
       {
-        "nodes": [
-          "BoneBody"
-        ],
+        "nodes": ["BoneBody"],
         "data": {
-          "color": [
-            129,
-            173,
-            58
-          ],
+          "color": [129, 173, 58],
           "light": "GreenPoisonGasLight",
           "radius": 16,
           "fade": 2.0,
@@ -110,19 +66,9 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 0.0]],
         "data": {
-          "color": [
-            255,
-            0,
-            0
-          ],
+          "color": [255, 0, 0],
           "light": "GreenPoisonGasLight",
           "radius": 6.0,
           "fade": 3.5,
@@ -132,59 +78,31 @@
             "keys": [
               {
                 "time": 0.0,
-                "color": [
-                  201,
-                  10,
-                  10
-                ]
+                "color": [201, 10, 10]
               },
               {
                 "time": 3.0,
-                "color": [
-                  230,
-                  55,
-                  55
-                ]
+                "color": [230, 55, 55]
               },
               {
                 "time": 6.0,
-                "color": [
-                  148,
-                  24,
-                  24
-                ]
+                "color": [148, 24, 24]
               },
               {
                 "time": 9.0,
-                "color": [
-                  94,
-                  7,
-                  7
-                ]
+                "color": [94, 7, 7]
               },
               {
                 "time": 12.0,
-                "color": [
-                  161,
-                  2,
-                  2
-                ]
+                "color": [161, 2, 2]
               },
               {
                 "time": 15.0,
-                "color": [
-                  235,
-                  28,
-                  28
-                ]
+                "color": [235, 28, 28]
               },
               {
                 "time": 18.0,
-                "color": [
-                  201,
-                  10,
-                  10
-                ]
+                "color": [201, 10, 10]
               }
             ]
           }
@@ -193,24 +111,12 @@
     ]
   },
   {
-    "models": [
-      "clutter\\ingredients\\firesaltpile.nif"
-    ],
+    "models": ["clutter\\ingredients\\firesaltpile.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            5.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 5.0]],
         "data": {
-          "color": [
-            145,
-            50,
-            3
-          ],
+          "color": [145, 50, 3],
           "light": "MagicLightWhite01",
           "radius": 5.25,
           "fade": 35.0,
@@ -220,18 +126,10 @@
     ]
   },
   {
-    "models": [
-      "clutter\\ingredients\\ectoplasm.nif"
-    ],
+    "models": ["clutter\\ingredients\\ectoplasm.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            5.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 5.0]],
         "data": {
           "light": "MagicLightWhite01",
           "radius": 7.5,
@@ -242,18 +140,10 @@
     ]
   },
   {
-    "models": [
-      "clutter\\ingredients\\frostsalts.nif"
-    ],
+    "models": ["clutter\\ingredients\\frostsalts.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            5.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 5.0]],
         "data": {
           "light": "FXLightBlueGlow",
           "radius": 5.25,
@@ -264,18 +154,10 @@
     ]
   },
   {
-    "models": [
-      "clutter\\ingredients\\voidsalts.nif"
-    ],
+    "models": ["clutter\\ingredients\\voidsalts.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            5.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 5.0]],
         "data": {
           "light": "FXLightBlueGlow",
           "radius": 5.25,
@@ -286,75 +168,39 @@
             "keys": [
               {
                 "time": 0.0,
-                "color": [
-                  45,
-                  2,
-                  97
-                ]
+                "color": [45, 2, 97]
               },
               {
                 "time": 8.5,
-                "color": [
-                  123,
-                  18,
-                  252
-                ]
+                "color": [123, 18, 252]
               },
               {
                 "time": 9.0,
-                "color": [
-                  45,
-                  2,
-                  97
-                ]
+                "color": [45, 2, 97]
               },
               {
                 "time": 17.0,
-                "color": [
-                  21,
-                  3,
-                  43
-                ]
+                "color": [21, 3, 43]
               },
               {
                 "time": 17.5,
-                "color": [
-                  45,
-                  2,
-                  97
-                ]
+                "color": [45, 2, 97]
               },
               {
                 "time": 26.5,
-                "color": [
-                  155,
-                  79,
-                  247
-                ]
+                "color": [155, 79, 247]
               },
               {
                 "time": 27.0,
-                "color": [
-                  45,
-                  2,
-                  97
-                ]
+                "color": [45, 2, 97]
               },
               {
                 "time": 35.0,
-                "color": [
-                  21,
-                  3,
-                  43
-                ]
+                "color": [21, 3, 43]
               },
               {
                 "time": 35.5,
-                "color": [
-                  45,
-                  2,
-                  97
-                ]
+                "color": [45, 2, 97]
               }
             ]
           }
@@ -363,18 +209,10 @@
     ]
   },
   {
-    "models": [
-      "clutter\\ingredients\\glowdust01.nif"
-    ],
+    "models": ["clutter\\ingredients\\glowdust01.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            2.5
-          ]
-        ],
+        "points": [[0.0, 0.0, 2.5]],
         "data": {
           "light": "AzuraSuperBlue01",
           "radius": 5.25,
@@ -385,24 +223,12 @@
     ]
   },
   {
-    "models": [
-      "clutter\\ingredients\\icewraithteeth.nif"
-    ],
+    "models": ["clutter\\ingredients\\icewraithteeth.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            -2.0,
-            0.0
-          ]
-        ],
+        "points": [[0.0, -2.0, 0.0]],
         "data": {
-          "color": [
-            80,
-            235,
-            255
-          ],
+          "color": [80, 235, 255],
           "light": "MagicLightWhite01",
           "radius": 6.25,
           "fade": 1.0,
@@ -412,18 +238,10 @@
     ]
   },
   {
-    "models": [
-      "clutter\\ingredients\\sap.nif"
-    ],
+    "models": ["clutter\\ingredients\\sap.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            2.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 2.0]],
         "data": {
           "light": "GreenPoisonGasLight",
           "radius": 6.25,
@@ -434,188 +252,104 @@
     ]
   },
   {
-    "models": [
-      "clutter\\blackreach\\blackreachsmallmushroom01.nif"
-    ],
+    "models": ["clutter\\blackreach\\blackreachsmallmushroom01.nif"],
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            80,
-            235,
-            255
-          ],
+          "color": [80, 235, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 77
         },
-        "points": [
-          [
-            -5.0,
-            5.0,
-            100.0
-          ]
-        ]
+        "points": [[-5.0, 5.0, 100.0]]
       }
     ]
   },
   {
-    "models": [
-      "clutter\\blackreach\\blackreachsmallmushroom02.nif"
-    ],
+    "models": ["clutter\\blackreach\\blackreachsmallmushroom02.nif"],
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            80,
-            235,
-            255
-          ],
+          "color": [80, 235, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 77
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            280.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 280.0]]
       }
     ]
   },
   {
-    "models": [
-      "clutter\\blackreach\\blackreachsmallmushroom03.nif"
-    ],
+    "models": ["clutter\\blackreach\\blackreachsmallmushroom03.nif"],
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            80,
-            235,
-            255
-          ],
+          "color": [80, 235, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 77
         },
-        "points": [
-          [
-            10.0,
-            -20.0,
-            110.0
-          ]
-        ]
+        "points": [[10.0, -20.0, 110.0]]
       }
     ]
   },
   {
-    "models": [
-      "clutter\\blackreach\\blackreachsmallmushroom04.nif"
-    ],
+    "models": ["clutter\\blackreach\\blackreachsmallmushroom04.nif"],
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            80,
-            235,
-            255
-          ],
+          "color": [80, 235, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 77
         },
-        "points": [
-          [
-            5.0,
-            25.0,
-            150.0
-          ]
-        ]
+        "points": [[5.0, 25.0, 150.0]]
       }
     ]
   },
   {
-    "models": [
-      "clutter\\blackreach\\blackreachsmallmushroom05.nif"
-    ],
+    "models": ["clutter\\blackreach\\blackreachsmallmushroom05.nif"],
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            80,
-            235,
-            255
-          ],
+          "color": [80, 235, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 77
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            120.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 120.0]]
       }
     ]
   },
   {
-    "models": [
-      "clutter\\chauruseggs\\eggs.nif"
-    ],
+    "models": ["clutter\\chauruseggs\\eggs.nif"],
     "lights": [
       {
         "data": {
-          "color": [
-            80,
-            235,
-            255
-          ],
+          "color": [80, 235, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 15,
           "flags": "Simple|PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            4.5
-          ]
-        ]
+        "points": [[0.0, 0.0, 4.5]]
       }
     ]
   },
   {
-    "models": [
-      "clutter\\chauruseggs\\eggsacs.nif"
-    ],
+    "models": ["clutter\\chauruseggs\\eggsacs.nif"],
     "lights": [
       {
-        "nodes": [
-          "Eggsacs:0"
-        ],
+        "nodes": ["Eggsacs:0"],
         "data": {
           "flags": "PortalStrict|Linear",
-          "offset": [
-            0.0,
-            0.0,
-            50.0
-          ],
-          "color": [
-            80,
-            235,
-            255
-          ],
+          "offset": [0.0, 0.0, 50.0],
+          "color": [80, 235, 255],
           "fade": 5.0,
           "light": "MagicLightWhite01",
           "radius": 155
@@ -624,26 +358,14 @@
     ]
   },
   {
-    "models": [
-      "clutter\\chauruseggs\\eggsacs01.nif"
-    ],
+    "models": ["clutter\\chauruseggs\\eggsacs01.nif"],
     "lights": [
       {
-        "nodes": [
-          "Eggsacs01:0"
-        ],
+        "nodes": ["Eggsacs01:0"],
         "data": {
           "flags": "PortalStrict|Linear",
-          "offset": [
-            0.0,
-            0.0,
-            32.0
-          ],
-          "color": [
-            80,
-            235,
-            255
-          ],
+          "offset": [0.0, 0.0, 32.0],
+          "color": [80, 235, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 155
@@ -652,26 +374,14 @@
     ]
   },
   {
-    "models": [
-      "clutter\\chauruseggs\\eggsacs02.nif"
-    ],
+    "models": ["clutter\\chauruseggs\\eggsacs02.nif"],
     "lights": [
       {
-        "nodes": [
-          "Eggsacs02:0"
-        ],
+        "nodes": ["Eggsacs02:0"],
         "data": {
           "flags": "PortalStrict|Linear",
-          "offset": [
-            0.0,
-            0.0,
-            20.0
-          ],
-          "color": [
-            80,
-            235,
-            255
-          ],
+          "offset": [0.0, 0.0, 20.0],
+          "color": [80, 235, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 77

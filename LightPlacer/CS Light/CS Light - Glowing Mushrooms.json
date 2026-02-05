@@ -1,52 +1,28 @@
 [
   {
-    "models": [
-      "plants\\glowingmushroom01.nif"
-    ],
+    "models": ["plants\\glowingmushroom01.nif"],
     "lights": [
       {
         "data": {
-          "color": [
-            80,
-            255,
-            142
-          ],
+          "color": [80, 255, 142],
           "fade": 0.3,
           "light": "MagicLightWhite01",
           "size": 2.0,
           "cutoff": 0.1,
           "flags": "InverseSquare|PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            -2.0,
-            12.0
-          ]
-        ]
+        "points": [[0.0, -2.0, 12.0]]
       }
     ]
   },
   {
-    "models": [
-      "plants\\glowingmushroomsingle01.nif"
-    ],
+    "models": ["plants\\glowingmushroomsingle01.nif"],
     "lights": [
       {
-        "nodes": [
-          "GlowingMushRoomSingle01:0"
-        ],
+        "nodes": ["GlowingMushRoomSingle01:0"],
         "data": {
-          "offset": [
-            2.0,
-            -4.0,
-            14.0
-          ],
-          "color": [
-            80,
-            255,
-            142
-          ],
+          "offset": [2.0, -4.0, 14.0],
+          "color": [80, 255, 142],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0,
@@ -57,25 +33,13 @@
     ]
   },
   {
-    "models": [
-      "plants\\glowingmushroomcluster01.nif"
-    ],
+    "models": ["plants\\glowingmushroomcluster01.nif"],
     "lights": [
       {
-        "nodes": [
-          "GlowingMushroomCluster01:0 - L1_GlowingMushroomCLuster01:0"
-        ],
+        "nodes": ["GlowingMushroomCluster01:0 - L1_GlowingMushroomCLuster01:0"],
         "data": {
-          "offset": [
-            14.0,
-            -14.0,
-            30.0
-          ],
-          "color": [
-            80,
-            255,
-            142
-          ],
+          "offset": [14.0, -14.0, 30.0],
+          "color": [80, 255, 142],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0,
@@ -87,16 +51,8 @@
           "GlowingMushroomCluster01_1:0 - L1_GlowingMushroomCluster02:0"
         ],
         "data": {
-          "offset": [
-            14.0,
-            -14.0,
-            30.0
-          ],
-          "color": [
-            80,
-            255,
-            142
-          ],
+          "offset": [14.0, -14.0, 30.0],
+          "color": [80, 255, 142],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0,
@@ -109,118 +65,64 @@
     "lights": [
       {
         "data": {
-          "offset": [
-            29.0,
-            -10.0,
-            30.0
-          ],
-          "color": [
-            94,
-            202,
-            235
-          ],
+          "offset": [29.0, -10.0, 30.0],
+          "color": [94, 202, 235],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0,
           "flags": "Linear"
         },
-        "nodes": [
-          "BYOHHouseIngrdGlowMushrm01:0"
-        ]
+        "nodes": ["BYOHHouseIngrdGlowMushrm01:0"]
       },
       {
         "data": {
-          "offset": [
-            -5.0,
-            17.0,
-            22.0
-          ],
-          "color": [
-            94,
-            202,
-            235
-          ],
+          "offset": [-5.0, 17.0, 22.0],
+          "color": [94, 202, 235],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0,
           "flags": "Linear"
         },
-        "nodes": [
-          "BYOHHouseIngrdGlowMushrm01:0"
-        ]
+        "nodes": ["BYOHHouseIngrdGlowMushrm01:0"]
       },
       {
         "data": {
-          "offset": [
-            29.0,
-            -10.0,
-            30.0
-          ],
-          "color": [
-            94,
-            202,
-            235
-          ],
+          "offset": [29.0, -10.0, 30.0],
+          "color": [94, 202, 235],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0,
           "flags": "Linear"
         },
-        "nodes": [
-          "DLC1HouseIngrdGlowMushrm01_1:0"
-        ]
+        "nodes": ["DLC1HouseIngrdGlowMushrm01_1:0"]
       },
       {
         "data": {
-          "offset": [
-            -5.0,
-            17.0,
-            22.0
-          ],
-          "color": [
-            94,
-            202,
-            235
-          ],
+          "offset": [-5.0, 17.0, 22.0],
+          "color": [94, 202, 235],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0,
           "flags": "Linear"
         },
-        "nodes": [
-          "DLC1HouseIngrdGlowMushrm01_1:0"
-        ]
+        "nodes": ["DLC1HouseIngrdGlowMushrm01_1:0"]
       }
     ],
-    "models": [
-      "_byoh\\plants\\byohhouseingrdglowmushrm01.nif"
-    ]
+    "models": ["_byoh\\plants\\byohhouseingrdglowmushrm01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            94,
-            202,
-            235
-          ],
+          "color": [94, 202, 235],
           "fade": 0.4,
           "light": "MagicLightWhite01",
           "size": 2.0,
           "flags": "Linear"
         },
         "points": [
-          [
-            14.0,
-            -14.0,
-            27.0
-          ],
-          [
-            5.0,
-            17.0,
-            25.0
-          ]
+          [14.0, -14.0, 27.0],
+          [5.0, 17.0, 25.0]
         ]
       }
     ],

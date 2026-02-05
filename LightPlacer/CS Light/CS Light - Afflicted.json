@@ -4,161 +4,89 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            240,
-            244,
-            45
-          ],
+          "color": [240, 244, 45],
           "fade": 1.0,
           "light": "GreenPoisonGasLight",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            20.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 20.0]]
       }
     ],
-    "models": [
-      "clutter\\quest\\da13vinegiantcluster01.nif"
-    ]
+    "models": ["clutter\\quest\\da13vinegiantcluster01.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            45,
-            244,
-            108
-          ],
+          "color": [45, 244, 108],
           "fade": 1.2,
           "light": "GreenPoisonGasLight",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            33.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 33.0]]
       }
     ],
-    "models": [
-      "clutter\\dwemer\\dweichorgoo01.nif"
-    ]
+    "models": ["clutter\\dwemer\\dweichorgoo01.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            45,
-            244,
-            108
-          ],
+          "color": [45, 244, 108],
           "fade": 1.2,
           "light": "GreenPoisonGasLight",
           "radius": 71
         },
-        "points": [
-          [
-            -6.0,
-            -3.0,
-            35.0
-          ]
-        ]
+        "points": [[-6.0, -3.0, 35.0]]
       }
     ],
-    "models": [
-      "clutter\\dwemer\\dweichorbarrellfull01.nif"
-    ]
+    "models": ["clutter\\dwemer\\dweichorbarrellfull01.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            45,
-            244,
-            108
-          ],
+          "color": [45, 244, 108],
           "fade": 1.2,
           "light": "GreenPoisonGasLight",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            33.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 33.0]]
       }
     ],
-    "models": [
-      "clutter\\dwemer\\dweichorgoo02.nif"
-    ]
+    "models": ["clutter\\dwemer\\dweichorgoo02.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            240,
-            244,
-            45
-          ],
+          "color": [240, 244, 45],
           "fade": 1.2,
           "light": "GreenPoisonGasLight",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            25.36
-          ]
-        ]
+        "points": [[0.0, 0.0, 25.36]]
       }
     ],
-    "models": [
-      "clutter\\quest\\da13vinepustule01.nif"
-    ]
+    "models": ["clutter\\quest\\da13vinepustule01.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            45,
-            244,
-            108
-          ],
+          "color": [45, 244, 108],
           "fade": 0.8,
           "light": "GreenPoisonGasLight",
           "radius": 71
         },
-        "points": [
-          [
-            6.97,
-            -2.13,
-            15.74
-          ]
-        ]
+        "points": [[6.97, -2.13, 15.74]]
       }
     ],
-    "models": [
-      "clutter\\dwemer\\dweichorbarrellfull02.nif"
-    ]
+    "models": ["clutter\\dwemer\\dweichorbarrellfull02.nif"]
   }
 ]

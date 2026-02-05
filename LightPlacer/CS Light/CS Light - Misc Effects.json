@@ -3,43 +3,23 @@
     "lights": [
       {
         "data": {
-          "color": [
-            189,
-            140,
-            91
-          ],
+          "color": [189, 140, 91],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 99,
           "flags": "Linear"
         },
-        "points": [
-          [
-            -0.0,
-            0.0,
-            5.26
-          ]
-        ]
+        "points": [[-0.0, 0.0, 5.26]]
       },
       {
         "data": {
-          "color": [
-            26,
-            77,
-            255
-          ],
+          "color": [26, 77, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 284,
           "flags": "Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            10.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 10.0]]
       }
     ],
     "models": [
@@ -50,721 +30,369 @@
     "lights": [
       {
         "data": {
-          "color": [
-            127,
-            102,
-            204
-          ],
+          "color": [127, 102, 204],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "Linear"
         },
-        "points": [
-          [
-            -0.0,
-            -15.0,
-            0.0
-          ]
-        ]
+        "points": [[-0.0, -15.0, 0.0]]
       }
     ],
-    "models": [
-      "weapons\\boundweapons\\boundarrowflight.nif"
-    ]
+    "models": ["weapons\\boundweapons\\boundarrowflight.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            130,
-            79,
-            255
-          ],
+          "color": [130, 79, 255],
           "fade": 3.0,
           "light": "MagicLightWhite01",
           "radius": 355,
           "flags": "Linear"
         },
-        "points": [
-          [
-            0.17,
-            2.35,
-            26.0
-          ]
-        ]
+        "points": [[0.17, 2.35, 26.0]]
       }
     ],
-    "models": [
-      "effects\\fxda16barrierdoor.nif"
-    ]
+    "models": ["effects\\fxda16barrierdoor.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            106,
-            106,
-            106
-          ],
+          "color": [106, 106, 106],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 32,
           "flags": "Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.9,
-            -0.89
-          ]
-        ]
+        "points": [[0.0, 0.9, -0.89]]
       },
       {
         "data": {
-          "color": [
-            161,
-            161,
-            161
-          ],
+          "color": [161, 161, 161],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 40,
           "flags": "Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            10.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 10.0]]
       }
     ],
-    "models": [
-      "magic\\maginvturnundead.nif"
-    ]
+    "models": ["magic\\maginvturnundead.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            54,
-            101,
-            255
-          ],
+          "color": [54, 101, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 19,
           "flags": "Linear"
         },
-        "points": [
-          [
-            0.24,
-            0.41,
-            -0.02
-          ]
-        ]
+        "points": [[0.24, 0.41, -0.02]]
       }
     ],
-    "models": [
-      "magic\\lightspellstaticlight.nif"
-    ]
+    "models": ["magic\\lightspellstaticlight.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            189,
-            143,
-            91
-          ],
+          "color": [189, 143, 91],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 98,
           "flags": "Linear"
         },
-        "points": [
-          [
-            -0.13,
-            -2.55,
-            1.97
-          ]
-        ]
+        "points": [[-0.13, -2.55, 1.97]]
       },
       {
         "data": {
-          "color": [
-            82,
-            184,
-            255
-          ],
+          "color": [82, 184, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 75,
           "flags": "Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            15.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 15.0]]
       }
     ],
-    "models": [
-      "dlc01\\effects\\dlc1falmervalleybrazierlight.nif"
-    ]
+    "models": ["dlc01\\effects\\dlc1falmervalleybrazierlight.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            85,
-            85,
-            85
-          ],
+          "color": [85, 85, 85],
           "fade": 2.8,
           "light": "MagicLightWhite01",
           "radius": 19,
           "flags": "Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            15.46
-          ]
-        ]
+        "points": [[0.0, 0.0, 15.46]]
       }
     ],
-    "models": [
-      "magic\\maginvshockspellart.nif"
-    ]
+    "models": ["magic\\maginvshockspellart.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            189,
-            143,
-            91
-          ],
+          "color": [189, 143, 91],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 98,
           "flags": "Linear"
         },
-        "points": [
-          [
-            -0.0,
-            0.0,
-            8.43
-          ]
-        ]
+        "points": [[-0.0, 0.0, 8.43]]
       },
       {
         "data": {
-          "color": [
-            77,
-            179,
-            255
-          ],
+          "color": [77, 179, 255],
           "fade": 0.6,
           "light": "MagicLightWhite01",
           "radius": 85,
           "flags": "Linear"
         },
-        "points": [
-          [
-            -0.0,
-            0.0,
-            30.8
-          ]
-        ]
+        "points": [[-0.0, 0.0, 30.8]]
       }
     ],
-    "models": [
-      "effects\\c06fxfirebluewithembersheavy.nif"
-    ]
+    "models": ["effects\\c06fxfirebluewithembersheavy.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            44,
-            4
-          ],
+          "color": [255, 44, 4],
           "fade": 6.0,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "Linear"
         },
-        "points": [
-          [
-            1.04,
-            -5.13,
-            16.0
-          ]
-        ]
+        "points": [[1.04, -5.13, 16.0]]
       }
     ],
-    "models": [
-      "effects\\fxda16barrier.nif"
-    ]
+    "models": ["effects\\fxda16barrier.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            97,
-            11,
-            247
-          ],
+          "color": [97, 11, 247],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 355,
           "flags": "Linear"
         },
-        "points": [
-          [
-            0.0,
-            4.92,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 4.92, 0.0]]
       }
     ],
-    "models": [
-      "dlc01\\effects\\fxdlc1sctreasurebarrier01.nif"
-    ]
+    "models": ["dlc01\\effects\\fxdlc1sctreasurebarrier01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            25,
-            37,
-            47
-          ],
+          "color": [25, 37, 47],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 45,
           "flags": "Linear"
         },
-        "points": [
-          [
-            -0.29,
-            0.0,
-            7.0
-          ]
-        ]
+        "points": [[-0.29, 0.0, 7.0]]
       }
     ],
-    "models": [
-      "magic\\maginvicespellart.nif"
-    ]
+    "models": ["magic\\maginvicespellart.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            7,
-            35,
-            91
-          ],
+          "color": [7, 35, 91],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 166,
           "flags": "Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
-          "color": [
-            26,
-            77,
-            255
-          ],
+          "color": [26, 77, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 284,
           "flags": "Linear"
         },
         "points": [
-          [
-            -100.0,
-            -0.0,
-            -58.72
-          ],
-          [
-            -0.0,
-            -100.0,
-            -58.72
-          ],
-          [
-            100.0,
-            -0.0,
-            -58.72
-          ],
-          [
-            -0.0,
-            100.0,
-            -58.72
-          ],
-          [
-            -75.0,
-            -75.0,
-            -58.72
-          ],
-          [
-            -75.0,
-            75.0,
-            -58.72
-          ],
-          [
-            75.0,
-            -75.0,
-            -58.72
-          ],
-          [
-            75.0,
-            75.0,
-            -58.72
-          ]
+          [-100.0, -0.0, -58.72],
+          [-0.0, -100.0, -58.72],
+          [100.0, -0.0, -58.72],
+          [-0.0, 100.0, -58.72],
+          [-75.0, -75.0, -58.72],
+          [-75.0, 75.0, -58.72],
+          [75.0, -75.0, -58.72],
+          [75.0, 75.0, -58.72]
         ]
       }
     ],
-    "models": [
-      "effects\\mgmagicfirepillareye01.nif"
-    ]
+    "models": ["effects\\mgmagicfirepillareye01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            23,
-            77,
-            255
-          ],
+          "color": [23, 77, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 22,
           "flags": "Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "magic\\lightspellhazard.nif"
-    ]
+    "models": ["magic\\lightspellhazard.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            244,
-            244,
-            128
-          ],
+          "color": [244, 244, 128],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            30.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 30.0]]
       },
       {
         "data": {
-          "color": [
-            202,
-            150,
-            86
-          ],
+          "color": [202, 150, 86],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 85,
           "flags": "Linear"
         },
-        "points": [
-          [
-            -0.0,
-            3.8,
-            39.87
-          ]
-        ]
+        "points": [[-0.0, 3.8, 39.87]]
       },
       {
         "data": {
-          "color": [
-            255,
-            255,
-            252
-          ],
+          "color": [255, 255, 252],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 100,
           "flags": "Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            25.72
-          ]
-        ]
+        "points": [[0.0, 0.0, 25.72]]
       }
     ],
-    "models": [
-      "effects\\fxfiresovngarde.nif"
-    ]
+    "models": ["effects\\fxfiresovngarde.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            10,
-            47,
-            122
-          ],
+          "color": [10, 47, 122],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 75,
           "flags": "Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
-          "color": [
-            26,
-            77,
-            255
-          ],
+          "color": [26, 77, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 100,
           "flags": "Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -62.26
-          ]
-        ]
+        "points": [[0.0, 0.0, -62.26]]
       }
     ],
-    "models": [
-      "effects\\mgmagicfirepillarsmall.nif"
-    ]
+    "models": ["effects\\mgmagicfirepillarsmall.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            21,
-            76,
-            255
-          ],
+          "color": [21, 76, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 15,
           "flags": "Linear"
         },
-        "points": [
-          [
-            -3.37,
-            40.18,
-            20.25
-          ]
-        ]
+        "points": [[-3.37, 40.18, 20.25]]
       }
     ],
-    "models": [
-      "magic\\lightspellactorfx.nif"
-    ]
+    "models": ["magic\\lightspellactorfx.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            26,
-            77,
-            255
-          ],
+          "color": [26, 77, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 284,
           "flags": "Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            -37.26
-          ]
-        ]
+        "points": [[0.0, 0.0, -37.26]]
       }
     ],
-    "models": [
-      "effects\\mgmagicfirepillar01.nif"
-    ]
+    "models": ["effects\\mgmagicfirepillar01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            7,
-            35,
-            91
-          ],
+          "color": [7, 35, 91],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 144,
           "flags": "Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
-          "color": [
-            26,
-            77,
-            255
-          ],
+          "color": [26, 77, 255],
           "fade": 0.5,
           "light": "MagicLightWhite01",
           "radius": 284,
           "flags": "Linear"
         },
         "points": [
-          [
-            0.0,
-            0.0,
-            -87.26
-          ],
-          [
-            0.0,
-            -100.0,
-            -87.26
-          ],
-          [
-            0.0,
-            100.0,
-            -87.26
-          ],
-          [
-            -100.0,
-            0.0,
-            -87.26
-          ],
-          [
-            100.0,
-            0.0,
-            -87.26
-          ],
-          [
-            75.0,
-            75.0,
-            -87.26
-          ],
-          [
-            -75.0,
-            -75.0,
-            -87.26
-          ],
-          [
-            -75.0,
-            75.0,
-            -87.26
-          ],
-          [
-            75.0,
-            -75.0,
-            -87.26
-          ]
+          [0.0, 0.0, -87.26],
+          [0.0, -100.0, -87.26],
+          [0.0, 100.0, -87.26],
+          [-100.0, 0.0, -87.26],
+          [100.0, 0.0, -87.26],
+          [75.0, 75.0, -87.26],
+          [-75.0, -75.0, -87.26],
+          [-75.0, 75.0, -87.26],
+          [75.0, -75.0, -87.26]
         ]
       }
     ],
-    "models": [
-      "effects\\mgmagicfirepillarmidden01.nif"
-    ]
+    "models": ["effects\\mgmagicfirepillarmidden01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            127,
-            102,
-            204
-          ],
+          "color": [127, 102, 204],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "Linear"
         },
-        "points": [
-          [
-            -0.0,
-            -25.0,
-            -0.0
-          ]
-        ]
+        "points": [[-0.0, -25.0, -0.0]]
       }
     ],
-    "models": [
-      "weapons\\boundweapons\\boundarrow.nif"
-    ]
+    "models": ["weapons\\boundweapons\\boundarrow.nif"]
   }
 ]

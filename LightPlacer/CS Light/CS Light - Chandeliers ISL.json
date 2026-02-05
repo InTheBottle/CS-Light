@@ -8,13 +8,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            -15.0
-          ]
-        ],
+        "points": [[0.0, 0.0, -15.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 1.2,
@@ -31,13 +25,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            -30.0
-          ]
-        ],
+        "points": [[0.0, 0.0, -30.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "fade": 0.5,

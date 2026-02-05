@@ -3,65 +3,37 @@
     "lights": [
       {
         "data": {
-          "color": [
-            174,
-            95,
-            146
-          ],
+          "color": [174, 95, 146],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            50.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 50.0]]
       }
     ],
-    "models": [
-      "dlc01\\soulcairn\\sc_crater01.nif"
-    ]
+    "models": ["dlc01\\soulcairn\\sc_crater01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            174,
-            95,
-            146
-          ],
+          "color": [174, 95, 146],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            50.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 50.0]]
       }
     ],
-    "models": [
-      "dlc01\\soulcairn\\sc_lightwell01.nif"
-    ]
+    "models": ["dlc01\\soulcairn\\sc_lightwell01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            182,
-            33
-          ],
+          "color": [255, 182, 33],
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -108,18 +80,10 @@
           "radius": 71,
           "flags": "Linear"
         },
-        "points": [
-          [
-            -25.0,
-            -0.0,
-            0.0
-          ]
-        ]
+        "points": [[-25.0, -0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\common\\hotiron.nif"
-    ]
+    "models": ["clutter\\common\\hotiron.nif"]
   },
   {
     "lights": [
@@ -231,18 +195,10 @@
           "radius": 71,
           "flags": "Linear"
         },
-        "points": [
-          [
-            15.79,
-            80.8,
-            59.81
-          ]
-        ]
+        "points": [[15.79, 80.8, 59.81]]
       }
     ],
-    "models": [
-      "animobjects\\blacksmithhotironanimobject.nif"
-    ]
+    "models": ["animobjects\\blacksmithhotironanimobject.nif"]
   },
   {
     "lights": [
@@ -253,17 +209,9 @@
           "radius": 71,
           "flags": "Linear"
         },
-        "points": [
-          [
-            -25.0,
-            -0.0,
-            0.0
-          ]
-        ]
+        "points": [[-25.0, -0.0, 0.0]]
       }
     ],
-    "models": [
-      "animobjects\\animobjectblacksmithforgeiron.nif"
-    ]
+    "models": ["animobjects\\animobjectblacksmithforgeiron.nif"]
   }
 ]

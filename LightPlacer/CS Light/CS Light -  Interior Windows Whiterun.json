@@ -3,11 +3,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "cutoff": 1,
           "externalEmittance": "FXLightRegionSunlight",
           "fade": 1.5,
@@ -15,13 +11,7 @@
           "light": "DefaultSunlight01NS",
           "size": 2.5
         },
-        "points": [
-          [
-            0,
-            0,
-            100
-          ]
-        ]
+        "points": [[0, 0, 100]]
       }
     ],
     "models": [
@@ -33,11 +23,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "cutoff": 0.1,
           "externalEmittance": "FXLightRegionSunlight",
           "fade": 1.5,
@@ -45,13 +31,7 @@
           "light": "DefaultSunlight01NS",
           "size": 2.5
         },
-        "points": [
-          [
-            0,
-            65,
-            35
-          ]
-        ]
+        "points": [[0, 65, 35]]
       }
     ],
     "models": [
@@ -67,11 +47,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "externalEmittance": "FXLightRegionSunlight",
           "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
@@ -80,16 +56,8 @@
           "cutoff": 0.03
         },
         "points": [
-          [
-            0,
-            -50,
-            100
-          ],
-          [
-            0,
-            50,
-            100
-          ]
+          [0, -50, 100],
+          [0, 50, 100]
         ]
       }
     ],
@@ -102,11 +70,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "externalEmittance": "FXLightRegionSunlight",
           "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
@@ -115,16 +79,8 @@
           "cutoff": 0.03
         },
         "points": [
-          [
-            -50,
-            0,
-            100
-          ],
-          [
-            50,
-            0,
-            100
-          ]
+          [-50, 0, 100],
+          [50, 0, 100]
         ]
       }
     ],
@@ -137,11 +93,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "externalEmittance": "FXLightRegionSunlight",
           "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
@@ -149,13 +101,7 @@
           "size": 2.5,
           "cutoff": 0.03
         },
-        "points": [
-          [
-            65,
-            15,
-            100
-          ]
-        ]
+        "points": [[65, 15, 100]]
       }
     ],
     "models": [
@@ -167,11 +113,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "externalEmittance": "FXLightRegionSunlight",
           "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
@@ -179,13 +121,7 @@
           "size": 2.5,
           "cutoff": 0.03
         },
-        "points": [
-          [
-            -15,
-            -65,
-            100
-          ]
-        ]
+        "points": [[-15, -65, 100]]
       }
     ],
     "models": [
@@ -197,11 +133,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "externalEmittance": "FXLightRegionSunlight",
           "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
@@ -209,13 +141,7 @@
           "size": 4,
           "cutoff": 1
         },
-        "points": [
-          [
-            0,
-            0,
-            325
-          ]
-        ]
+        "points": [[0, 0, 325]]
       }
     ],
     "models": [
@@ -227,11 +153,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "cutoff": 1,
           "externalEmittance": "FXLightRegionSunlight",
           "fade": 0.4,
@@ -239,13 +161,7 @@
           "light": "DefaultSunlight01NS",
           "size": 1.5
         },
-        "points": [
-          [
-            0,
-            0,
-            325
-          ]
-        ]
+        "points": [[0, 0, 325]]
       }
     ],
     "models": [
@@ -261,11 +177,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "cutoff": 1,
           "externalEmittance": "FXLightRegionSunlight",
           "fade": 0.4,
@@ -273,13 +185,7 @@
           "light": "DefaultSunlight01NS",
           "size": 1
         },
-        "points": [
-          [
-            45,
-            0,
-            320
-          ]
-        ]
+        "points": [[45, 0, 320]]
       }
     ],
     "models": [
@@ -291,11 +197,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "cutoff": 1,
           "externalEmittance": "FXLightRegionSunlight",
           "fade": 0.4,
@@ -303,13 +205,7 @@
           "light": "DefaultSunlight01NS",
           "size": 2
         },
-        "points": [
-          [
-            0,
-            75,
-            150
-          ]
-        ]
+        "points": [[0, 75, 150]]
       }
     ],
     "models": [
@@ -321,11 +217,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "externalEmittance": "FXLightRegionSunlight",
           "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
@@ -333,13 +225,7 @@
           "size": 2,
           "cutoff": 1
         },
-        "points": [
-          [
-            0,
-            0,
-            100
-          ]
-        ]
+        "points": [[0, 0, 100]]
       }
     ],
     "models": [
@@ -355,11 +241,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "externalEmittance": "FXLightRegionSunlight",
           "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
@@ -368,31 +250,11 @@
           "cutoff": 0.04
         },
         "points": [
-          [
-            -250,
-            -270,
-            125
-          ],
-          [
-            -125,
-            -90,
-            125
-          ],
-          [
-            0,
-            0,
-            125
-          ],
-          [
-            125,
-            -90,
-            125
-          ],
-          [
-            250,
-            -270,
-            125
-          ]
+          [-250, -270, 125],
+          [-125, -90, 125],
+          [0, 0, 125],
+          [125, -90, 125],
+          [250, -270, 125]
         ]
       }
     ],
@@ -405,11 +267,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "externalEmittance": "FXLightRegionSunlight",
           "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
@@ -417,13 +275,7 @@
           "size": 2,
           "cutoff": 1
         },
-        "points": [
-          [
-            0,
-            50,
-            120
-          ]
-        ]
+        "points": [[0, 50, 120]]
       }
     ],
     "models": [
@@ -441,11 +293,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "externalEmittance": "FXLightRegionSunlight",
           "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
@@ -453,13 +301,7 @@
           "size": 2,
           "cutoff": 1
         },
-        "points": [
-          [
-            0,
-            0,
-            120
-          ]
-        ]
+        "points": [[0, 0, 120]]
       }
     ],
     "models": [
@@ -471,11 +313,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "externalEmittance": "FXLightRegionSunlight",
           "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
@@ -483,13 +321,7 @@
           "size": 2,
           "cutoff": 0.075
         },
-        "points": [
-          [
-            0,
-            -10,
-            420
-          ]
-        ]
+        "points": [[0, -10, 420]]
       }
     ],
     "models": [
@@ -501,11 +333,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "externalEmittance": "FXLightRegionSunlight",
           "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
@@ -513,13 +341,7 @@
           "size": 1,
           "cutoff": 1
         },
-        "points": [
-          [
-            0,
-            0,
-            400
-          ]
-        ]
+        "points": [[0, 0, 400]]
       }
     ],
     "models": [
@@ -531,11 +353,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "cutoff": 0.05,
           "externalEmittance": "FXLightRegionSunlight",
           "fade": 0.6,
@@ -543,13 +361,7 @@
           "light": "DefaultSunlight01NS",
           "size": 4
         },
-        "points": [
-          [
-            0,
-            -80,
-            350
-          ]
-        ]
+        "points": [[0, -80, 350]]
       }
     ],
     "models": [
@@ -561,11 +373,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "externalEmittance": "FXLightRegionSunlight",
           "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
@@ -573,13 +381,7 @@
           "size": 3,
           "cutoff": 0.1
         },
-        "points": [
-          [
-            0,
-            0,
-            200
-          ]
-        ]
+        "points": [[0, 0, 200]]
       }
     ],
     "models": [
@@ -591,11 +393,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "cutoff": 1,
           "externalEmittance": "FXLightRegionSunlight",
           "fade": 0.6,
@@ -603,13 +401,7 @@
           "light": "DefaultSunlight01NS",
           "size": 4
         },
-        "points": [
-          [
-            0,
-            0,
-            310
-          ]
-        ]
+        "points": [[0, 0, 310]]
       }
     ],
     "models": [
@@ -621,11 +413,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "cutoff": 0.1,
           "externalEmittance": "FXLightRegionSunlight",
           "fade": 1.5,
@@ -633,13 +421,7 @@
           "light": "DefaultSunlight01NS",
           "size": 4.0
         },
-        "points": [
-          [
-            0,
-            0,
-            100
-          ]
-        ]
+        "points": [[0, 0, 100]]
       }
     ],
     "models": [
@@ -653,11 +435,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "cutoff": 0.13,
           "externalEmittance": "FXLightRegionSunlight",
           "fade": 6.0,
@@ -665,13 +443,7 @@
           "light": "DefaultSunlight01NS",
           "size": 6.0
         },
-        "points": [
-          [
-            0,
-            0,
-            80
-          ]
-        ]
+        "points": [[0, 0, 80]]
       }
     ],
     "models": [
@@ -683,11 +455,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "cutoff": 0.1,
           "externalEmittance": "FXLightRegionSunlight",
           "fade": 1.5,
@@ -695,13 +463,7 @@
           "light": "DefaultSunlight01NS",
           "size": 4.0
         },
-        "points": [
-          [
-            -10,
-            0,
-            120
-          ]
-        ]
+        "points": [[-10, 0, 120]]
       }
     ],
     "models": [
@@ -717,11 +479,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "cutoff": 0.11,
           "externalEmittance": "FXLightRegionSunlight",
           "fade": 1,
@@ -729,13 +487,7 @@
           "light": "DefaultSunlight01NS",
           "size": 2.5
         },
-        "points": [
-          [
-            0,
-            0,
-            100
-          ]
-        ]
+        "points": [[0, 0, 100]]
       }
     ],
     "models": [
@@ -749,11 +501,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "cutoff": 0.07,
           "externalEmittance": "FXLightRegionSunlight",
           "fade": 1.1,
@@ -761,13 +509,7 @@
           "light": "DefaultSunlight01NS",
           "size": 3.5
         },
-        "points": [
-          [
-            -100,
-            0,
-            500
-          ]
-        ]
+        "points": [[-100, 0, 500]]
       }
     ],
     "models": [
@@ -779,11 +521,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "cutoff": 0.09,
           "externalEmittance": "FXLightRegionSunlight",
           "fade": 1.5,
@@ -792,21 +530,9 @@
           "size": 2
         },
         "points": [
-          [
-            250,
-            0,
-            500
-          ],
-          [
-            0,
-            0,
-            500
-          ],
-          [
-            -250,
-            0,
-            500
-          ]
+          [250, 0, 500],
+          [0, 0, 500],
+          [-250, 0, 500]
         ]
       }
     ],
@@ -819,11 +545,7 @@
     "lights": [
       {
         "data": {
-          "color": [
-            255,
-            255,
-            255
-          ],
+          "color": [255, 255, 255],
           "cutoff": 0.07,
           "externalEmittance": "FXLightRegionSunlight",
           "fade": 1.1,
@@ -831,13 +553,7 @@
           "light": "DefaultSunlight01NS",
           "size": 3.5
         },
-        "points": [
-          [
-            0,
-            30,
-            200
-          ]
-        ]
+        "points": [[0, 30, 200]]
       }
     ],
     "models": [

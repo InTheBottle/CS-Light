@@ -4,83 +4,47 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "offset": [
-            0.0,
-            3.0,
-            40.0
-          ],
-          "color": [
-            166,
-            99,
-            255
-          ],
+          "offset": [0.0, 3.0, 40.0],
+          "color": [166, 99, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "nodes": [
-          "BYOHHouseIngrdDeathbell01:1"
-        ]
+        "nodes": ["BYOHHouseIngrdDeathbell01:1"]
       }
     ],
-    "models": [
-      "_byoh\\plants\\byohhouseingrddeathbell01.nif"
-    ]
+    "models": ["_byoh\\plants\\byohhouseingrddeathbell01.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "offset": [
-            0.0,
-            12.0,
-            99.0
-          ],
-          "color": [
-            166,
-            99,
-            255
-          ],
+          "offset": [0.0, 12.0, 99.0],
+          "color": [166, 99, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "nodes": [
-          "L1_FloraDeathBell01"
-        ]
+        "nodes": ["L1_FloraDeathBell01"]
       }
     ],
-    "models": [
-      "plants\\floradeathbell01.nif"
-    ]
+    "models": ["plants\\floradeathbell01.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "offset": [
-            63.0,
-            -40.0,
-            50.0
-          ],
-          "color": [
-            166,
-            99,
-            255
-          ],
+          "offset": [63.0, -40.0, 50.0],
+          "color": [166, 99, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "nodes": [
-          "L1_DeathBell02"
-        ]
+        "nodes": ["L1_DeathBell02"]
       }
     ],
-    "models": [
-      "plants\\floradeathbell02.nif"
-    ]
+    "models": ["plants\\floradeathbell02.nif"]
   }
 ]

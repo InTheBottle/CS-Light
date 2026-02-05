@@ -3,772 +3,428 @@
     "lights": [
       {
         "data": {
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemgrand01full.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemgrand01full.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            113,
-            142,
-            142
-          ],
+          "color": [113, 142, 142],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemgreater01fullpetty.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemgreater01fullpetty.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            128,
-            118,
-            140
-          ],
+          "color": [128, 118, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemblack01fullcommon.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemblack01fullcommon.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            128,
-            118,
-            140
-          ],
+          "color": [128, 118, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemblack01fullgreater.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemblack01fullgreater.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            128,
-            118,
-            140
-          ],
+          "color": [128, 118, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemblack01fullpetty.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemblack01fullpetty.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            128,
-            118,
-            140
-          ],
+          "color": [128, 118, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemblack01fullgrand.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemblack01fullgrand.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            140,
-            134,
-            139
-          ],
+          "color": [140, 134, 139],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemwylandriah.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemwylandriah.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            113,
-            142,
-            142
-          ],
+          "color": [113, 142, 142],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemcommon01fulllesser.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemcommon01fulllesser.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            138,
-            116,
-            120
-          ],
+          "color": [138, 116, 120],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemarniel.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemarniel.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            128,
-            118,
-            140
-          ],
+          "color": [128, 118, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemblack01full.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemblack01full.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            128,
-            118,
-            140
-          ],
+          "color": [128, 118, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemblack01fulllesser.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemblack01fulllesser.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            113,
-            142,
-            142
-          ],
+          "color": [113, 142, 142],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemcommon01fullpetty.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemcommon01fullpetty.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            113,
-            142,
-            142
-          ],
+          "color": [113, 142, 142],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemcommon01full.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemcommon01full.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            128,
-            132,
-            139
-          ],
+          "color": [128, 132, 139],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemdb.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemdb.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemgrand01fullcommon.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemgrand01fullcommon.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemgrand01fulllesser.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemgrand01fulllesser.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemgrand01fullgreater.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemgrand01fullgreater.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            127,
-            125,
-            140
-          ],
+          "color": [127, 125, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemmalyn.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemmalyn.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            113,
-            142,
-            142
-          ],
+          "color": [113, 142, 142],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemgreater01fullcommon.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemgreater01fullcommon.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            113,
-            142,
-            142
-          ],
+          "color": [113, 142, 142],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemgreater01fulllesser.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemgreater01fulllesser.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            113,
-            142,
-            142
-          ],
+          "color": [113, 142, 142],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemgreater01full.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemgreater01full.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            113,
-            142,
-            142
-          ],
+          "color": [113, 142, 142],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemlesser01full.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemlesser01full.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            113,
-            142,
-            142
-          ],
+          "color": [113, 142, 142],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemlesser01fullpetty.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemlesser01fullpetty.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            113,
-            142,
-            142
-          ],
+          "color": [113, 142, 142],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgempetty01full.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgempetty01full.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "clutter\\soulgem\\soulgemgrand01fullpetty.nif"
-    ]
+    "models": ["clutter\\soulgem\\soulgemgrand01fullpetty.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            128,
-            118,
-            140
-          ],
+          "color": [128, 118, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "dlc01\\clutter\\dlc01soulgembowlfull.nif"
-    ]
+    "models": ["dlc01\\clutter\\dlc01soulgembowlfull.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            128,
-            118,
-            140
-          ],
+          "color": [128, 118, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
-    "models": [
-      "dlc01\\clutter\\dlc01soulgemchunk01.nif"
-    ]
+    "models": ["dlc01\\clutter\\dlc01soulgemchunk01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            91,
-            74,
-            255
-          ],
+          "color": [91, 74, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 286,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.09,
-            32.68,
-            73.45
-          ]
-        ]
+        "points": [[0.09, 32.68, 73.45]]
       },
       {
         "data": {
-          "color": [
-            67,
-            62,
-            255
-          ],
+          "color": [67, 62, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 300,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.09,
-            32.68,
-            80.73
-          ]
-        ]
+        "points": [[0.09, 32.68, 80.73]]
       }
     ],
     "models": [

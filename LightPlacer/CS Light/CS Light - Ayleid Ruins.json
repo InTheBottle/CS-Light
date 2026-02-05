@@ -4,22 +4,12 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            142,
-            142,
-            142
-          ],
+          "color": [142, 142, 142],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            -0.0,
-            10.0
-          ]
-        ]
+        "points": [[0.0, -0.0, 10.0]]
       }
     ],
     "models": [
@@ -31,36 +21,16 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
         "points": [
-          [
-            0.0,
-            -10.0,
-            5.0
-          ],
-          [
-            -45.0,
-            -30.0,
-            5.0
-          ],
-          [
-            40.0,
-            -35.0,
-            5.0
-          ],
-          [
-            40.0,
-            30.0,
-            5.0
-          ]
+          [0.0, -10.0, 5.0],
+          [-45.0, -30.0, 5.0],
+          [40.0, -35.0, 5.0],
+          [40.0, 30.0, 5.0]
         ]
       }
     ],
@@ -73,22 +43,12 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            -20.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, -20.0, 0.0]]
       }
     ],
     "models": [
@@ -100,22 +60,12 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
     "models": [
@@ -127,22 +77,12 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
     "models": [
@@ -154,22 +94,12 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
     "models": [
@@ -181,22 +111,12 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
     "models": [
@@ -208,42 +128,22 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            61,
-            196,
-            255
-          ],
+          "color": [61, 196, 255],
           "fade": 0.75,
           "light": "MagicLightWhite01",
           "radius": 247
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            24.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 24.0]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            24.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 24.0]]
       }
     ],
     "models": [
@@ -255,36 +155,16 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
         "points": [
-          [
-            5.0,
-            4.0,
-            5.0
-          ],
-          [
-            22.0,
-            2.0,
-            30.0
-          ],
-          [
-            7.0,
-            2.0,
-            68.0
-          ],
-          [
-            -8.0,
-            3.0,
-            57.0
-          ]
+          [5.0, 4.0, 5.0],
+          [22.0, 2.0, 30.0],
+          [7.0, 2.0, 68.0],
+          [-8.0, 3.0, 57.0]
         ]
       }
     ],
@@ -297,42 +177,22 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            61,
-            196,
-            255
-          ],
+          "color": [61, 196, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 247
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            24.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 24.0]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            24.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 24.0]]
       }
     ],
     "models": [
@@ -344,31 +204,15 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
         "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ],
-          [
-            15.0,
-            0.0,
-            40.0
-          ],
-          [
-            -15.0,
-            0.0,
-            20.0
-          ]
+          [0.0, 0.0, 0.0],
+          [15.0, 0.0, 40.0],
+          [-15.0, 0.0, 20.0]
         ]
       }
     ],
@@ -381,22 +225,12 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
     "models": [
@@ -408,22 +242,12 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            20.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 20.0]]
       }
     ],
     "models": [
@@ -435,42 +259,22 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            134,
-            197,
-            192
-          ],
+          "color": [134, 197, 192],
           "fade": 0.65,
           "light": "MagicLightWhite01",
           "radius": 247
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
     "models": [
@@ -482,22 +286,12 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            -10.0,
-            0.0,
-            40.0
-          ]
-        ]
+        "points": [[-10.0, 0.0, 40.0]]
       }
     ],
     "models": [
@@ -509,49 +303,27 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            25.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 25.0]]
       }
     ],
-    "models": [
-      "creationclub\\bgssse037\\clutter\\varlastone\\varlastone.nif"
-    ]
+    "models": ["creationclub\\bgssse037\\clutter\\varlastone\\varlastone.nif"]
   },
   {
     "lights": [
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            20.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 20.0]]
       }
     ],
     "models": [
@@ -563,31 +335,15 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
         "points": [
-          [
-            0.0,
-            -10.0,
-            10.0
-          ],
-          [
-            40.0,
-            30.0,
-            10.0
-          ],
-          [
-            -50.0,
-            -30.0,
-            10.0
-          ]
+          [0.0, -10.0, 10.0],
+          [40.0, 30.0, 10.0],
+          [-50.0, -30.0, 10.0]
         ]
       }
     ],
@@ -600,22 +356,12 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            -30.0,
-            -30.0,
-            100.0
-          ]
-        ]
+        "points": [[-30.0, -30.0, 100.0]]
       }
     ],
     "models": [
@@ -627,22 +373,12 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
     "models": [
@@ -654,22 +390,12 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            142,
-            142,
-            142
-          ],
+          "color": [142, 142, 142],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            -0.0,
-            20.0
-          ]
-        ]
+        "points": [[0.0, -0.0, 20.0]]
       }
     ],
     "models": [
@@ -681,42 +407,22 @@
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            134,
-            197,
-            192
-          ],
+          "color": [134, 197, 192],
           "fade": 0.5,
           "light": "MagicLightWhite01",
           "radius": 247
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       },
       {
         "data": {
           "flags": "PortalStrict|Linear",
-          "color": [
-            118,
-            140,
-            140
-          ],
+          "color": [118, 140, 140],
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 71
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 0.0]]
       }
     ],
     "models": [

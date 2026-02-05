@@ -3,571 +3,257 @@
     "lights": [
       {
         "data": {
-          "color": [
-            190,
-            255,
-            248
-          ],
+          "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "PortalStrict|Linear"
         },
         "points": [
-          [
-            14.0,
-            -12.0,
-            145.0
-          ],
-          [
-            -14.0,
-            -12.0,
-            145.0
-          ],
-          [
-            0.0,
-            54.0,
-            148.0
-          ],
-          [
-            0.0,
-            93.0,
-            133.0
-          ]
+          [14.0, -12.0, 145.0],
+          [-14.0, -12.0, 145.0],
+          [0.0, 54.0, 148.0],
+          [0.0, 93.0, 133.0]
         ]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\riekling\\dlc2rieklingtent01.nif"
-    ]
+    "models": ["dlc02\\architecture\\riekling\\dlc2rieklingtent01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            190,
-            255,
-            248
-          ],
+          "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "PortalStrict|Linear"
         },
         "points": [
-          [
-            -161.0,
-            10.0,
-            214.97
-          ],
-          [
-            -152.0,
-            29.0,
-            133.97
-          ],
-          [
-            -161.0,
-            15.0,
-            43.97
-          ],
-          [
-            -65.0,
-            3.0,
-            86.97
-          ],
-          [
-            -64.0,
-            -0.0,
-            176.97
-          ]
+          [-161.0, 10.0, 214.97],
+          [-152.0, 29.0, 133.97],
+          [-161.0, 15.0, 43.97],
+          [-65.0, 3.0, 86.97],
+          [-64.0, -0.0, 176.97]
         ]
       }
     ],
-    "models": [
-      "dlc02\\traps\\rieklingwalltrap.nif"
-    ]
+    "models": ["dlc02\\traps\\rieklingwalltrap.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            190,
-            255,
-            248
-          ],
+          "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "PortalStrict|Linear"
         },
         "points": [
-          [
-            105.0,
-            110.0,
-            89.0
-          ],
-          [
-            -105.0,
-            110.0,
-            89.0
-          ],
-          [
-            -105.0,
-            -110.0,
-            89.0
-          ],
-          [
-            105.0,
-            -110.0,
-            89.0
-          ]
+          [105.0, 110.0, 89.0],
+          [-105.0, 110.0, 89.0],
+          [-105.0, -110.0, 89.0],
+          [105.0, -110.0, 89.0]
         ]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\riekling\\dlc2rieklingbridge01.nif"
-    ]
+    "models": ["dlc02\\architecture\\riekling\\dlc2rieklingbridge01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            190,
-            255,
-            248
-          ],
+          "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            -100.0,
-            2.0,
-            108.0
-          ]
-        ]
+        "points": [[-100.0, 2.0, 108.0]]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\riekling\\dlc2rieklingfenceend.nif"
-    ]
+    "models": ["dlc02\\architecture\\riekling\\dlc2rieklingfenceend.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            190,
-            255,
-            248
-          ],
+          "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            2.0,
-            -1.0,
-            108.0
-          ]
-        ]
+        "points": [[2.0, -1.0, 108.0]]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\riekling\\dlc2rieklingfence02.nif"
-    ]
+    "models": ["dlc02\\architecture\\riekling\\dlc2rieklingfence02.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            190,
-            255,
-            248
-          ],
+          "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            -4.0,
-            126.0
-          ]
-        ]
+        "points": [[0.0, -4.0, 126.0]]
       }
     ],
-    "models": [
-      "dlc02\\clutter\\riekling\\dlc2rieklingcandle.nif"
-    ]
+    "models": ["dlc02\\clutter\\riekling\\dlc2rieklingcandle.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            190,
-            255,
-            248
-          ],
+          "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "PortalStrict|Linear"
         },
         "points": [
-          [
-            112.0,
-            -71.0,
-            200.0
-          ],
-          [
-            -112.0,
-            -71.0,
-            200.0
-          ],
-          [
-            54.0,
-            -100.0,
-            150.0
-          ],
-          [
-            -54.0,
-            -100.0,
-            150.0
-          ],
-          [
-            0.0,
-            -72.0,
-            198.0
-          ],
-          [
-            0.0,
-            8.5,
-            205.0
-          ],
-          [
-            0.0,
-            52.0,
-            176.0
-          ]
+          [112.0, -71.0, 200.0],
+          [-112.0, -71.0, 200.0],
+          [54.0, -100.0, 150.0],
+          [-54.0, -100.0, 150.0],
+          [0.0, -72.0, 198.0],
+          [0.0, 8.5, 205.0],
+          [0.0, 52.0, 176.0]
         ]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\riekling\\dlc2rieklingtent02.nif"
-    ]
+    "models": ["dlc02\\architecture\\riekling\\dlc2rieklingtent02.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            190,
-            255,
-            248
-          ],
+          "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "PortalStrict|Linear"
         },
         "points": [
-          [
-            152.0,
-            3.0,
-            30.0
-          ],
-          [
-            162.0,
-            83.0,
-            14.0
-          ],
-          [
-            161.0,
-            -87.0,
-            14.0
-          ],
-          [
-            64.0,
-            45.0,
-            0.0
-          ],
-          [
-            64.0,
-            -45.0,
-            3.0
-          ]
+          [152.0, 3.0, 30.0],
+          [162.0, 83.0, 14.0],
+          [161.0, -87.0, 14.0],
+          [64.0, 45.0, 0.0],
+          [64.0, -45.0, 3.0]
         ]
       }
     ],
-    "models": [
-      "dlc02\\traps\\rieklingswingtrap.nif"
-    ]
+    "models": ["dlc02\\traps\\rieklingswingtrap.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            190,
-            255,
-            248
-          ],
+          "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "PortalStrict|Linear"
         },
-        "points": [
-          [
-            -2.0,
-            2.0,
-            108.0
-          ]
-        ]
+        "points": [[-2.0, 2.0, 108.0]]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\riekling\\dlc2rieklingfence01.nif"
-    ]
+    "models": ["dlc02\\architecture\\riekling\\dlc2rieklingfence01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            190,
-            255,
-            248
-          ],
+          "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "PortalStrict|Linear"
         },
         "points": [
-          [
-            42.0,
-            127.0,
-            105.0
-          ],
-          [
-            -34.0,
-            120.0,
-            118.0
-          ]
+          [42.0, 127.0, 105.0],
+          [-34.0, 120.0, 118.0]
         ]
       }
     ],
-    "models": [
-      "dlc02\\clutter\\riekling\\dlc2rieklinghorse.nif"
-    ]
+    "models": ["dlc02\\clutter\\riekling\\dlc2rieklinghorse.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            190,
-            255,
-            248
-          ],
+          "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "PortalStrict|Linear"
         },
         "points": [
-          [
-            -120.0,
-            88.0,
-            55.0
-          ],
-          [
-            -120.0,
-            -117.0,
-            55.0
-          ],
-          [
-            107.0,
-            -119.0,
-            56.0
-          ],
-          [
-            105.0,
-            98.0,
-            55.0
-          ],
-          [
-            88.0,
-            90.0,
-            125.0
-          ],
-          [
-            105.0,
-            -109.0,
-            124.0
-          ],
-          [
-            90.0,
-            -110.0,
-            125.0
-          ],
-          [
-            -106.0,
-            82.0,
-            125.0
-          ],
-          [
-            58.0,
-            63.0,
-            305.0
-          ],
-          [
-            -72.0,
-            -80.0,
-            305.0
-          ],
-          [
-            57.0,
-            -81.0,
-            305.0
-          ],
-          [
-            -73.0,
-            54.0,
-            305.0
-          ]
+          [-120.0, 88.0, 55.0],
+          [-120.0, -117.0, 55.0],
+          [107.0, -119.0, 56.0],
+          [105.0, 98.0, 55.0],
+          [88.0, 90.0, 125.0],
+          [105.0, -109.0, 124.0],
+          [90.0, -110.0, 125.0],
+          [-106.0, 82.0, 125.0],
+          [58.0, 63.0, 305.0],
+          [-72.0, -80.0, 305.0],
+          [57.0, -81.0, 305.0],
+          [-73.0, 54.0, 305.0]
         ]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\riekling\\dlc2rieklingstand02.nif"
-    ]
+    "models": ["dlc02\\architecture\\riekling\\dlc2rieklingstand02.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            190,
-            255,
-            248
-          ],
+          "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "PortalStrict|Linear"
         },
         "points": [
-          [
-            105.0,
-            98.0,
-            55.0
-          ],
-          [
-            -120.0,
-            88.0,
-            55.0
-          ],
-          [
-            -120.0,
-            -117.0,
-            55.0
-          ],
-          [
-            107.0,
-            -119.0,
-            56.0
-          ],
-          [
-            88.0,
-            90.0,
-            125.0
-          ],
-          [
-            -105.0,
-            -109.0,
-            124.0
-          ],
-          [
-            90.0,
-            -110.0,
-            125.0
-          ],
-          [
-            -106.0,
-            82.0,
-            125.0
-          ],
-          [
-            58.0,
-            63.0,
-            305.0
-          ],
-          [
-            -72.0,
-            -80.0,
-            305.0
-          ],
-          [
-            57.0,
-            -81.0,
-            305.0
-          ],
-          [
-            -73.0,
-            54.0,
-            305.0
-          ]
+          [105.0, 98.0, 55.0],
+          [-120.0, 88.0, 55.0],
+          [-120.0, -117.0, 55.0],
+          [107.0, -119.0, 56.0],
+          [88.0, 90.0, 125.0],
+          [-105.0, -109.0, 124.0],
+          [90.0, -110.0, 125.0],
+          [-106.0, 82.0, 125.0],
+          [58.0, 63.0, 305.0],
+          [-72.0, -80.0, 305.0],
+          [57.0, -81.0, 305.0],
+          [-73.0, 54.0, 305.0]
         ]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\riekling\\dlc2rieklingstand01.nif"
-    ]
+    "models": ["dlc02\\architecture\\riekling\\dlc2rieklingstand01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            190,
-            255,
-            248
-          ],
+          "color": [190, 255, 248],
           "fade": 1.5,
           "light": "MagicLightWhite01",
           "radius": 71,
           "flags": "PortalStrict|Linear"
         },
         "points": [
-          [
-            38.0,
-            92.0,
-            95.0
-          ],
-          [
-            38.0,
-            -99.0,
-            95.0
-          ]
+          [38.0, 92.0, 95.0],
+          [38.0, -99.0, 95.0]
         ]
       }
     ],
-    "models": [
-      "dlc02\\architecture\\riekling\\dlc2rieklingbridgestart01.nif"
-    ]
+    "models": ["dlc02\\architecture\\riekling\\dlc2rieklingbridgestart01.nif"]
   }
 ]

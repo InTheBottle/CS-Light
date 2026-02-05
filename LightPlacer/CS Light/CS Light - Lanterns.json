@@ -1,17 +1,9 @@
 [
   {
-    "models": [
-      "medieval lanterns\\medieval_lantern_falkreath.nif"
-    ],
+    "models": ["medieval lanterns\\medieval_lantern_falkreath.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            5.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 5.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 100.0,
@@ -69,13 +61,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            5.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 5.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 100.0,
@@ -103,38 +89,23 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            85.0,
-            245.0
-          ]
-        ],
+        "points": [[0.0, 85.0, 245.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 100.0,
           "fade": 5.0,
           "shadowDepthBias": 0.0,
-          "rotation": [
-            0.0,
-            180.0,
-            180.0
-          ],
+          "rotation": [0.0, 180.0, 180.0],
           "flags": "Shadow|IgnoreScale|Linear"
         }
       }
     ]
   },
   {
-    "models": [
-      "smim\\moveablelantern_smim.nif"
-    ],
+    "models": ["smim\\moveablelantern_smim.nif"],
     "lights": [
       {
-        "nodes": [
-          "CandleFlameSm",
-          "CandleFlameLg"
-        ],
+        "nodes": ["CandleFlameSm", "CandleFlameLg"],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 100.0,
@@ -155,13 +126,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            5.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 5.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "radius": 100.0,

@@ -26,18 +26,10 @@
     ]
   },
   {
-    "models": [
-      "effects\\MGMagicFirePillar01.nif"
-    ],
+    "models": ["effects\\MGMagicFirePillar01.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 0.0]],
         "data": {
           "flags": "PortalStrict|Linear",
           "light": "MGFirePillarLightBlue",
@@ -48,18 +40,10 @@
     ]
   },
   {
-    "models": [
-      "Magic\\LightSpellStaticLight.nif"
-    ],
+    "models": ["Magic\\LightSpellStaticLight.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 0.0]],
         "data": {
           "flags": "PortalStrict|Linear",
           "light": "MagicLightWhite01",

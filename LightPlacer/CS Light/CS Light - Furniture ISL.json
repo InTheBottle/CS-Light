@@ -6,13 +6,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            30.0,
-            107.5,
-            110.0
-          ]
-        ],
+        "points": [[30.0, 107.5, 110.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "cutoff": 0.5,
@@ -29,13 +23,7 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            -30.0,
-            107.5,
-            110.0
-          ]
-        ],
+        "points": [[-30.0, 107.5, 110.0]],
         "data": {
           "light": "DefaultCandleLight01NS",
           "cutoff": 0.5,
@@ -49,134 +37,74 @@
     "lights": [
       {
         "data": {
-          "color": [
-            131,
-            234,
-            228
-          ],
+          "color": [131, 234, 228],
           "fade": 0.45,
           "light": "MagicLightWhite01",
           "cutoff": 0.2,
           "size": 2.0,
           "flags": "InverseSquare|PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            64.0,
-            90.0
-          ]
-        ]
+        "points": [[0.0, 64.0, 90.0]]
       }
     ],
-    "models": [
-      "furniture\\workbenches\\enchantingworkstation01.nif"
-    ]
+    "models": ["furniture\\workbenches\\enchantingworkstation01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            11,
-            71,
-            139
-          ],
+          "color": [11, 71, 139],
           "fade": 0.55,
           "light": "MGEyeCollegeLight01",
           "cutoff": 0.315,
           "size": 1.5,
           "flags": "InverseSquare|PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            65.1,
-            78.0
-          ]
-        ]
+        "points": [[0.0, 65.1, 78.0]]
       }
     ],
-    "models": [
-      "furniture\\enchantingworkbench.nif"
-    ]
+    "models": ["furniture\\enchantingworkbench.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            11,
-            71,
-            139
-          ],
+          "color": [11, 71, 139],
           "fade": 0.55,
           "light": "MGEyeCollegeLight01",
           "cutoff": 0.315,
           "size": 1.5,
           "flags": "InverseSquare|PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            65.1,
-            78.0
-          ]
-        ]
+        "points": [[0.0, 65.1, 78.0]]
       }
     ],
-    "models": [
-      "furniture\\workbenches\\enchantingworkbench01.nif"
-    ]
+    "models": ["furniture\\workbenches\\enchantingworkbench01.nif"]
   },
   {
     "lights": [
       {
         "data": {
-          "color": [
-            11,
-            71,
-            139
-          ],
+          "color": [11, 71, 139],
           "fade": 0.5,
           "light": "MagicLightWhite01",
           "cutoff": 0.315,
           "size": 1.5,
           "flags": "InverseSquare|PortalStrict|Linear"
         },
-        "points": [
-          [
-            0.0,
-            64.0,
-            79.0
-          ]
-        ]
+        "points": [[0.0, 64.0, 79.0]]
       }
     ],
-    "models": [
-      "furniture\\enchantingworkstation.nif"
-    ]
+    "models": ["furniture\\enchantingworkstation.nif"]
   },
   {
-    "models": [
-      "dlc01\\furniture\\oven01.nif"
-    ],
+    "models": ["dlc01\\furniture\\oven01.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            0.0,
-            0.0
-          ]
-        ],
+        "points": [[0.0, 0.0, 0.0]],
         "data": {
           "light": "MagicLightWhite01",
-          "color": [
-            139,
-            71,
-            11
-          ],
+          "color": [139, 71, 11],
           "cutoff": 0.166,
           "fade": 0.675,
           "flags": "IgnoreScale|InverseSquare|PortalStrict|Linear"
@@ -185,25 +113,13 @@
     ]
   },
   {
-    "models": [
-      "_byoh\\furniture\\ovenmarker.nif"
-    ],
+    "models": ["_byoh\\furniture\\ovenmarker.nif"],
     "lights": [
       {
-        "points": [
-          [
-            17.5,
-            105.0,
-            45.0
-          ]
-        ],
+        "points": [[17.5, 105.0, 45.0]],
         "data": {
           "light": "MagicLightWhite01",
-          "color": [
-            139,
-            71,
-            11
-          ],
+          "color": [139, 71, 11],
           "cutoff": 0.166,
           "fade": 0.25,
           "flags": "IgnoreScale|InverseSquare|PortalStrict|Linear"
@@ -212,25 +128,13 @@
     ]
   },
   {
-    "models": [
-      "_byoh\\furniture\\ovenmarker.nif"
-    ],
+    "models": ["_byoh\\furniture\\ovenmarker.nif"],
     "lights": [
       {
-        "points": [
-          [
-            15.0,
-            90.0,
-            85.0
-          ]
-        ],
+        "points": [[15.0, 90.0, 85.0]],
         "data": {
           "light": "MagicLightWhite01",
-          "color": [
-            139,
-            71,
-            11
-          ],
+          "color": [139, 71, 11],
           "cutoff": 0.1,
           "fade": 0.375,
           "flags": "IgnoreScale|InverseSquare|PortalStrict|Linear",
@@ -239,59 +143,31 @@
             "keys": [
               {
                 "time": 0.0,
-                "color": [
-                  230,
-                  112,
-                  0
-                ]
+                "color": [230, 112, 0]
               },
               {
                 "time": 3.0,
-                "color": [
-                  250,
-                  160,
-                  70
-                ]
+                "color": [250, 160, 70]
               },
               {
                 "time": 8.0,
-                "color": [
-                  230,
-                  112,
-                  0
-                ]
+                "color": [230, 112, 0]
               },
               {
                 "time": 13.0,
-                "color": [
-                  250,
-                  160,
-                  70
-                ]
+                "color": [250, 160, 70]
               },
               {
                 "time": 20.0,
-                "color": [
-                  230,
-                  112,
-                  0
-                ]
+                "color": [230, 112, 0]
               },
               {
                 "time": 23.0,
-                "color": [
-                  250,
-                  160,
-                  70
-                ]
+                "color": [250, 160, 70]
               },
               {
                 "time": 30.0,
-                "color": [
-                  230,
-                  112,
-                  0
-                ]
+                "color": [230, 112, 0]
               }
             ]
           }
@@ -308,19 +184,9 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            -12.0,
-            170.0,
-            50.0
-          ]
-        ],
+        "points": [[-12.0, 170.0, 50.0]],
         "data": {
-          "color": [
-            139,
-            71,
-            11
-          ],
+          "color": [139, 71, 11],
           "light": "MagicLightWhite01",
           "cutoff": 0.1,
           "fade": 3.0,
@@ -363,25 +229,13 @@
     ]
   },
   {
-    "models": [
-      "furniture\\smeltermarker.nif"
-    ],
+    "models": ["furniture\\smeltermarker.nif"],
     "lights": [
       {
-        "points": [
-          [
-            -131.0,
-            47.0,
-            70.0
-          ]
-        ],
+        "points": [[-131.0, 47.0, 70.0]],
         "data": {
           "light": "MagicLightWhite01",
-          "color": [
-            139,
-            71,
-            11
-          ],
+          "color": [139, 71, 11],
           "cutoff": 0.166,
           "fade": 0.675,
           "flags": "IgnoreScale|InverseSquare|PortalStrict|Linear"
@@ -397,15 +251,9 @@
     ],
     "lights": [
       {
-        "nodes": [
-          "Burner01"
-        ],
+        "nodes": ["Burner01"],
         "data": {
-          "color": [
-            139,
-            71,
-            11
-          ],
+          "color": [139, 71, 11],
           "light": "MagicLightWhite01",
           "cutoff": 0.1,
           "fade": 0.2,
@@ -421,19 +269,9 @@
     ],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            63.5,
-            80.0
-          ]
-        ],
+        "points": [[0.0, 63.5, 80.0]],
         "data": {
-          "color": [
-            15,
-            97,
-            13
-          ],
+          "color": [15, 97, 13],
           "light": "MagicLightWhite01",
           "cutoff": 0.2,
           "fade": 0.25,
@@ -444,24 +282,12 @@
     ]
   },
   {
-    "models": [
-      "furniture\\alchemyworkstation.nif"
-    ],
+    "models": ["furniture\\alchemyworkstation.nif"],
     "lights": [
       {
-        "points": [
-          [
-            0.0,
-            50.0,
-            74.0
-          ]
-        ],
+        "points": [[0.0, 50.0, 74.0]],
         "data": {
-          "color": [
-            15,
-            97,
-            13
-          ],
+          "color": [15, 97, 13],
           "light": "MagicLightWhite01",
           "cutoff": 0.2,
           "fade": 0.275,
@@ -484,15 +310,9 @@
     ],
     "lights": [
       {
-        "nodes": [
-          "Burner01"
-        ],
+        "nodes": ["Burner01"],
         "data": {
-          "color": [
-            139,
-            71,
-            11
-          ],
+          "color": [139, 71, 11],
           "light": "MagicLightWhite01",
           "cutoff": 0.2,
           "fade": 0.4,
