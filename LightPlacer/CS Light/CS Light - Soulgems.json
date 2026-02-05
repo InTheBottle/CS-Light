@@ -7,7 +7,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -22,7 +22,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -37,7 +37,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -52,7 +52,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -67,7 +67,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -82,7 +82,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -97,7 +97,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -112,7 +112,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -127,7 +127,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -142,7 +142,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -157,7 +157,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -172,7 +172,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -187,7 +187,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -202,7 +202,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -217,7 +217,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -232,7 +232,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -247,7 +247,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -262,7 +262,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -277,7 +277,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -292,7 +292,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -307,7 +307,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -322,7 +322,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -337,7 +337,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -352,7 +352,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -367,7 +367,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -382,7 +382,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -397,7 +397,7 @@
           "fade": 2.0,
           "light": "MagicLightWhite01",
           "radius": 10,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -412,7 +412,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 286,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.09, 32.68, 73.45]]
       },
@@ -422,7 +422,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 300,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.09, 32.68, 80.73]]
       }

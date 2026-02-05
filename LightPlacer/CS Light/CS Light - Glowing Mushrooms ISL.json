@@ -4,7 +4,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "color": [80, 255, 142],
           "fade": 0.2,
           "light": "MagicLightWhite01",
@@ -21,7 +21,7 @@
       {
         "nodes": ["GlowingMushRoomSingle01:0"],
         "data": {
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "offset": [2.0, -4.0, 14.0],
           "color": [80, 255, 142],
           "fade": 0.5,
@@ -33,7 +33,7 @@
       {
         "nodes": ["GlowingMushRoomSingle01_1:0"],
         "data": {
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "offset": [2.0, -4.0, 14.0],
           "color": [80, 255, 142],
           "fade": 0.25,
@@ -50,7 +50,7 @@
       {
         "nodes": ["GlowingMushroomCluster01:0 - L1_GlowingMushroomCLuster01:0"],
         "data": {
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "offset": [14.0, -14.0, 30.0],
           "color": [80, 255, 142],
           "fade": 0.35,
@@ -64,7 +64,7 @@
           "GlowingMushroomCluster01_1:0 - L1_GlowingMushroomCLuster02:0"
         ],
         "data": {
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "offset": [14.0, -14.0, 30.0],
           "color": [80, 255, 142],
           "fade": 0.2,
@@ -79,7 +79,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "offset": [29.0, -10.0, 30.0],
           "color": [94, 202, 235],
           "fade": 0.4,
@@ -91,7 +91,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "offset": [-5.0, 17.0, 22.0],
           "color": [94, 202, 235],
           "fade": 0.4,
@@ -108,7 +108,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "color": [94, 202, 235],
           "fade": 0.4,
           "light": "MagicLightWhite01",

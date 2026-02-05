@@ -3,7 +3,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [255, 179, 0],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -18,7 +18,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 82, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -35,7 +35,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 65],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -50,7 +50,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 82, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -65,7 +65,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [152, 255, 0],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -82,7 +82,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 98],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -97,7 +97,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [152, 255, 0],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -112,7 +112,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 98],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -127,7 +127,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 65],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -142,7 +142,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 98],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -157,7 +157,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 65],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -172,7 +172,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [255, 179, 0],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -191,7 +191,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 65],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -206,7 +206,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 82, 255],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -223,7 +223,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [152, 255, 0],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -240,7 +240,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 98],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -255,7 +255,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 65],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -270,7 +270,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [255, 179, 0],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -289,7 +289,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 65],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -304,7 +304,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 65],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -319,7 +319,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 65],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -334,7 +334,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [255, 179, 0],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -351,7 +351,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 65],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -366,7 +366,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 65],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -381,7 +381,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 65],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -396,7 +396,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 65],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -411,7 +411,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 65],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -426,7 +426,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 65],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -441,7 +441,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 65],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -456,7 +456,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 65],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -471,7 +471,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 65],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -486,7 +486,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [0, 255, 65],
           "fade": 1.0,
           "light": "MagicLightWhite01",

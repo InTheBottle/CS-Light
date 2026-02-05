@@ -15,7 +15,7 @@
           "light": "LightCampFire01",
           "radius": 256.0,
           "fade": 0.8,
-          "flags": "IgnoreScale"
+          "flags": "IgnoreScale|Linear"
         }
       }
     ]
@@ -29,7 +29,7 @@
           "light": "LightCampFire01",
           "radius": 320.0,
           "fade": 0.8,
-          "flags": "IgnoreScale"
+          "flags": "IgnoreScale|Linear"
         }
       }
     ]
@@ -47,7 +47,7 @@
           "light": "LightCampFire01",
           "radius": 256.0,
           "fade": 0.8,
-          "flags": "IgnoreScale"
+          "flags": "IgnoreScale|Linear"
         }
       }
     ]
@@ -62,7 +62,7 @@
           "color": [0, 127, 255],
           "radius": 256.0,
           "fade": 0.8,
-          "flags": "IgnoreScale"
+          "flags": "IgnoreScale|Linear"
         }
       }
     ]
@@ -82,7 +82,7 @@
           "light": "LightCampFire01",
           "radius": 400.0,
           "fade": 0.8,
-          "flags": "IgnoreScale"
+          "flags": "IgnoreScale|Linear"
         }
       }
     ]
@@ -128,7 +128,7 @@
           "light": "LightCampFire01",
           "radius": 512.0,
           "fade": 0.8,
-          "flags": "IgnoreScale"
+          "flags": "IgnoreScale|Linear"
         }
       }
     ]

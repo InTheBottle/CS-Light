@@ -9,7 +9,7 @@
           "color": [0.345, 0.537, 0.855],
           "radius": 100.0,
           "fade": 0.6,
-          "flags": "Simple|PortalStrict"
+          "flags": "Simple|PortalStrict|Linear"
         }
       }
     ]
@@ -24,7 +24,7 @@
           "color": [0.345, 0.537, 0.855],
           "radius": 25.0,
           "fade": 0.7,
-          "flags": "Simple|PortalStrict"
+          "flags": "Simple|PortalStrict|Linear"
         }
       }
     ]
@@ -42,7 +42,7 @@
           "color": [0.212, 0.992, 1.0],
           "radius": 150.0,
           "fade": 0.6,
-          "flags": "Simple|PortalStrict"
+          "flags": "Simple|PortalStrict|Linear"
         }
       }
     ]
@@ -57,7 +57,7 @@
           "color": [0.212, 0.992, 1.0],
           "radius": 50.0,
           "fade": 0.5,
-          "flags": "Simple|PortalStrict"
+          "flags": "Simple|PortalStrict|Linear"
         }
       }
     ]
@@ -75,7 +75,7 @@
           "color": [0.212, 0.992, 1.0],
           "radius": 350.0,
           "fade": 1.5,
-          "flags": "Simple|PortalStrict"
+          "flags": "Simple|PortalStrict|Linear"
         }
       }
     ]
@@ -93,7 +93,7 @@
           "color": [0.212, 0.992, 1.0],
           "radius": 175.0,
           "fade": 1.5,
-          "flags": "Simple|PortalStrict"
+          "flags": "Simple|PortalStrict|Linear"
         }
       }
     ]
@@ -111,7 +111,7 @@
           "color": [0.212, 0.992, 1.0],
           "radius": 125.0,
           "fade": 1.5,
-          "flags": "Simple|PortalStrict"
+          "flags": "Simple|PortalStrict|Linear"
         }
       }
     ]
@@ -129,7 +129,7 @@
           "color": [0.212, 0.992, 1.0],
           "radius": 200.0,
           "fade": 1.5,
-          "flags": "Simple|PortalStrict"
+          "flags": "Simple|PortalStrict|Linear"
         }
       }
     ]
@@ -147,7 +147,7 @@
           "color": [0.212, 0.992, 1.0],
           "radius": 150.0,
           "fade": 1.5,
-          "flags": "Simple|PortalStrict"
+          "flags": "Simple|PortalStrict|Linear"
         }
       }
     ]
@@ -162,7 +162,7 @@
           "color": [0.212, 0.992, 1.0],
           "radius": 150.0,
           "fade": 1.5,
-          "flags": "Simple|PortalStrict"
+          "flags": "Simple|PortalStrict|Linear"
         }
       }
     ]
@@ -177,7 +177,7 @@
           "color": [0.212, 0.992, 1.0],
           "radius": 110.0,
           "fade": 1.5,
-          "flags": "Simple|PortalStrict"
+          "flags": "Simple|PortalStrict|Linear"
         }
       }
     ]
@@ -192,7 +192,7 @@
           "color": [0.212, 0.992, 1.0],
           "radius": 100.0,
           "fade": 1.5,
-          "flags": "Simple|PortalStrict"
+          "flags": "Simple|PortalStrict|Linear"
         }
       }
     ]
@@ -207,7 +207,7 @@
           "color": [0.212, 0.992, 1.0],
           "radius": 100.0,
           "fade": 1.5,
-          "flags": "Simple|PortalStrict"
+          "flags": "Simple|PortalStrict|Linear"
         }
       }
     ]
@@ -222,7 +222,7 @@
           "color": [0.212, 1.0, 0.714],
           "radius": 200.0,
           "fade": 0.5,
-          "flags": "Simple|PortalStrict"
+          "flags": "Simple|PortalStrict|Linear"
         }
       }
     ]
@@ -235,7 +235,7 @@
           "fade": 1.75,
           "light": "MagicLightWhite01",
           "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 60.0]]
       }
@@ -250,7 +250,7 @@
           "fade": 1.75,
           "light": "MagicLightWhite01",
           "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 50.0]]
       }
@@ -265,7 +265,7 @@
           "fade": 1.25,
           "light": "MagicLightWhite01",
           "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 35.0]]
       }
@@ -280,7 +280,7 @@
           "fade": 0.75,
           "light": "MagicLightWhite01",
           "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 20.0]]
       }
@@ -295,7 +295,7 @@
           "fade": 1.25,
           "light": "MagicLightWhite01",
           "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 35.0]]
       }

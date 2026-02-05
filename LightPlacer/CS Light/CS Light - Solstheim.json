@@ -9,7 +9,7 @@
           "color": [255, 72, 0.0],
           "radius": 350.0,
           "fade": 2.5,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         }
       }
     ]
@@ -24,7 +24,7 @@
           "color": [255, 72, 0.0],
           "radius": 350.0,
           "fade": 2.5,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         }
       }
     ]
@@ -43,7 +43,7 @@
           "color": [255, 72, 0.0],
           "radius": 90.0,
           "fade": 2.5,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         }
       }
     ]
@@ -61,7 +61,7 @@
           "color": [255, 72, 0.0],
           "radius": 175.0,
           "fade": 2.5,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         }
       }
     ]
@@ -76,7 +76,7 @@
           "color": [255, 72, 0.0],
           "radius": 125.0,
           "fade": 2.5,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         }
       }
     ]
@@ -91,7 +91,7 @@
           "color": [255, 72, 0.0],
           "radius": 90.0,
           "fade": 1.0,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         }
       }
     ]

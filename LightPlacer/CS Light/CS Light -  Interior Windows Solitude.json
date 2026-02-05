@@ -4,7 +4,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1.5,
           "size": 2,
@@ -23,7 +23,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 2,
           "size": 2,
@@ -42,7 +42,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 2,
           "size": 2,
@@ -61,7 +61,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 2,
           "size": 4,
@@ -85,7 +85,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 4,
@@ -106,7 +106,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 4,
@@ -128,7 +128,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 4,
@@ -152,7 +152,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 4,
@@ -173,7 +173,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 3,
@@ -192,7 +192,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1.5,
           "size": 3,
@@ -211,7 +211,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 4,
@@ -230,7 +230,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 4,
@@ -252,7 +252,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 4,
@@ -271,7 +271,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 4,
@@ -290,7 +290,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 0.7,
           "size": 4,
@@ -309,7 +309,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 4,
@@ -328,7 +328,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 0.7,
           "size": 4,
@@ -347,7 +347,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 4,
@@ -366,7 +366,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 4,
@@ -385,7 +385,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 4,
@@ -406,7 +406,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 4,
@@ -431,7 +431,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 3,
           "size": 2,
@@ -450,7 +450,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1,
           "size": 4,
@@ -469,7 +469,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 0.7,
           "size": 4,
@@ -488,7 +488,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 0.7,
           "size": 4,
@@ -509,7 +509,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1.5,
           "size": 3,
@@ -528,7 +528,7 @@
       {
         "data": {
           "externalEmittance": "FXLightRegionSunlight",
-          "flags": "InverseSquare|PortalStrict",
+          "flags": "InverseSquare|PortalStrict|Linear",
           "light": "DefaultSunlight01NS",
           "fade": 1.5,
           "size": 4,

@@ -9,7 +9,7 @@
           "light": "MagicLightWhite01",
           "radius": 77,
           "offset": [1.5, -2.5, -7.0],
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "nodes": ["Bone01"]
       }
@@ -25,7 +25,7 @@
           "light": "MagicLightWhite01",
           "radius": 77,
           "offset": [-0.5, 0.0, -1.0],
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "nodes": ["Bee01"]
       }
@@ -41,7 +41,7 @@
           "light": "MagicLightWhite01",
           "radius": 77,
           "offset": [0.5, -2.5, -7.0],
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "nodes": ["Bone01"]
       }
@@ -57,7 +57,7 @@
           "light": "MagicLightWhite01",
           "radius": 77,
           "offset": [-0.5, 0.0, -2.0],
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "nodes": ["b_MoveHelper"]
       }

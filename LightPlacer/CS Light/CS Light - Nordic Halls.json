@@ -3,7 +3,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -57,7 +57,7 @@
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
@@ -75,7 +75,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -146,7 +146,7 @@
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
@@ -163,7 +163,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -220,7 +220,7 @@
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
@@ -241,7 +241,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -295,7 +295,7 @@
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
@@ -313,7 +313,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -367,7 +367,7 @@
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -435,7 +435,7 @@
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
@@ -454,7 +454,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -525,7 +525,7 @@
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
@@ -542,7 +542,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -596,7 +596,7 @@
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
@@ -614,7 +614,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -669,7 +669,7 @@
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
@@ -688,7 +688,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -741,7 +741,7 @@
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -812,7 +812,7 @@
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
@@ -831,7 +831,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -902,7 +902,7 @@
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -952,7 +952,7 @@
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
@@ -970,7 +970,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -1042,7 +1042,7 @@
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -1095,7 +1095,7 @@
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71
@@ -1115,7 +1115,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "fadeController": {
             "interpolation": "Cubic",
@@ -1188,7 +1188,7 @@
       },
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "fade": 1.0,
           "light": "DefaultCandleLight01NS",
           "radius": 71

@@ -30,7 +30,7 @@
           },
           "light": "MagicLightWhite01",
           "radius": 35,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, -5.0, 42.0]]
       }
@@ -68,7 +68,7 @@
           },
           "light": "MagicLightWhite01",
           "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 40.0]]
       }
@@ -106,7 +106,7 @@
           },
           "light": "MagicLightWhite01",
           "radius": 71,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 40.0]]
       }

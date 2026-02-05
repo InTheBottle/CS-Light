@@ -5,7 +5,7 @@
       {
         "points": [[0.0, 0.0, 80.0]],
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightFireStormHand",
           "fade": 0.4,
           "size": 2.0
@@ -29,7 +29,7 @@
       {
         "points": [[0.0, 0.0, 5.0]],
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightFrostBlizzard01",
           "fade": 0.4,
           "size": 2.0
@@ -51,7 +51,7 @@
       {
         "points": [[0.0, 0.0, 5.0]],
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightShockHand",
           "fade": 0.4,
           "size": 2.0,
@@ -106,7 +106,7 @@
       {
         "points": [[0.0, 0.0, 80.0]],
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightWhite01",
           "color": [100, 100, 200],
           "size": 2.0,
@@ -155,7 +155,7 @@
       {
         "points": [[0.0, 0.0, 80.0]],
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.4,
           "color": [35, 35, 255],
@@ -170,7 +170,7 @@
       {
         "points": [[0.0, 0.0, 80.0]],
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightIllusionnegProjectile01",
           "fade": 0.4,
           "size": 2.0
@@ -184,7 +184,7 @@
       {
         "points": [[0.0, 0.0, 40.0]],
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightReanimate1",
           "fade": 0.4,
           "size": 2.0,
@@ -199,7 +199,7 @@
       {
         "points": [[0.0, 0.0, 10.0]],
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightReanimate1",
           "fade": 0.4,
           "size": 2.0,
@@ -214,7 +214,7 @@
       {
         "points": [[0.0, 0.0, 80.0]],
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightReanimate1",
           "fade": 0.4,
           "size": 2.0,
@@ -232,7 +232,7 @@
       {
         "points": [[0.0, 0.0, 80.0]],
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightHealHand01",
           "fade": 0.5,
           "size": 2.0,
@@ -275,7 +275,7 @@
       {
         "points": [[0.0, 0.0, 5.0]],
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightHealHand01",
           "fade": 0.4,
           "size": 2.0
@@ -289,7 +289,7 @@
       {
         "points": [[0.0, 0.0, 80.0]],
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightHealHand01",
           "color": [202, 221, 236],
           "fade": 0.5,
@@ -304,7 +304,7 @@
       {
         "points": [[0.0, 0.0, 80.0]],
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.4,
           "color": [117, 206, 240],
@@ -319,7 +319,7 @@
       {
         "points": [[0.0, 0.0, 80.0]],
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "GreenPoisonGasLight",
           "fade": 0.4,
           "size": 2.0
@@ -333,7 +333,7 @@
       {
         "points": [[0.0, 0.0, 5.0]],
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightAbsorbHealthProjectile",
           "fade": 0.4,
           "size": 2.0
@@ -345,7 +345,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [204, 204, 204],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -355,7 +355,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [168, 168, 168],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -365,7 +365,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [130, 130, 130],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -380,7 +380,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "fade": 0.4,
           "light": "MagicLightIllusionPosHand01",
           "size": 2.0
@@ -394,7 +394,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "fade": 0.4,
           "light": "MagicLightWardHand01",
           "size": 2.0
@@ -408,7 +408,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -418,7 +418,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [186, 186, 186],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -428,7 +428,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [56, 56, 56],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -438,7 +438,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [97, 97, 97],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -448,7 +448,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [186, 186, 186],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -463,7 +463,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [186, 186, 186],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -481,7 +481,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -496,7 +496,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [281, 295, 264],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -506,7 +506,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [344, 362, 334],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -516,7 +516,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [-26, 0, -42],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -532,7 +532,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [255, 230, 178],
           "light": "MagicLightWhite01",
           "size": 2.0
@@ -545,7 +545,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [51, 51, 51],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -560,7 +560,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -570,7 +570,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [56, 56, 56],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -580,7 +580,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [97, 97, 97],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -595,7 +595,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [242, 242, 242],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -612,7 +612,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [51, 51, 51],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -627,7 +627,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [180, 180, 180],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -642,7 +642,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -652,7 +652,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [186, 186, 186],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -662,7 +662,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [56, 56, 56],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -672,7 +672,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [97, 97, 97],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -682,7 +682,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [186, 186, 186],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -697,7 +697,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [186, 186, 186],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -715,7 +715,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [24, 24, 24],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -730,7 +730,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -740,7 +740,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -755,7 +755,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [0, 0, 0],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -765,7 +765,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [180, 180, 180],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -780,7 +780,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [255, 18, 18],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -795,7 +795,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [104, 124, 93],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -810,7 +810,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [116, 142, 100],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -820,7 +820,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [89, 107, 79],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -830,7 +830,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [85, 99, 68],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -845,7 +845,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [150, 150, 200],
           "light": "MagicLightWhite01",
           "size": 2.0
@@ -860,7 +860,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightReanimate1",
           "size": 2.0,
           "fade": 0.4
@@ -873,7 +873,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [0, 0, 0],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -883,7 +883,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -893,7 +893,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [85, 85, 85],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -903,7 +903,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -919,7 +919,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [251, 162, 96],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -934,7 +934,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [120, 120, 200],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -949,7 +949,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [120, 120, 200],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -963,7 +963,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [161, 67, 16],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -978,7 +978,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [251, 162, 96],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -993,7 +993,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [251, 162, 96],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1008,7 +1008,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [0, 0, 0],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1023,7 +1023,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [27, 27, 27],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1039,7 +1039,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [255, 120, 0],
           "light": "MagicLightWhite01",
           "size": 2.0
@@ -1053,7 +1053,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [76, 178, 229],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1067,7 +1067,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [119, 119, 119],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1082,7 +1082,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [165, 101, 70],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1097,7 +1097,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [85, 85, 85],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1107,7 +1107,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [7, 7, 7],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1117,7 +1117,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [99, 99, 99],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1127,7 +1127,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1142,7 +1142,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightIllusionnegProjectile01",
           "size": 2.0,
           "fade": 0.3
@@ -1156,7 +1156,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [0, 0, 0],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1166,7 +1166,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1176,7 +1176,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [85, 85, 85],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1186,7 +1186,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1201,7 +1201,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [9, 136, 234],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1216,7 +1216,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [54, 101, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1231,7 +1231,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [9, 136, 234],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1246,7 +1246,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [180, 180, 180],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1261,7 +1261,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [165, 101, 70],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1276,7 +1276,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [0, 0, 0],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1286,7 +1286,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1296,7 +1296,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [85, 85, 85],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1306,7 +1306,7 @@
       },
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [255, 255, 255],
           "fade": 0.4,
           "light": "MagicLightWhite01",
@@ -1322,7 +1322,7 @@
     "lights": [
       {
         "data": {
-          "flags": "InverseSquare|IgnoreScale",
+          "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [100, 80, 150],
           "light": "MagicLightWhite01",
           "size": 2.0

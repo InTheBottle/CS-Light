@@ -8,7 +8,7 @@
           "light": "DefaultSunlight01NS",
           "cutoff": 0.2,
           "size": 3.4,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         },
         "points": [
           [-250, -50, 150],
@@ -31,7 +31,7 @@
           "light": "DefaultSunlight01NS",
           "cutoff": 0.2,
           "size": 10,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         },
         "points": [[0, 0, 150]]
       }
@@ -50,7 +50,7 @@
           "light": "DefaultSunlight01NS",
           "cutoff": 0.2,
           "size": 3.4,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         },
         "points": [[0, -50, 150]]
       }
@@ -69,7 +69,7 @@
           "light": "DefaultSunlight01NS",
           "cutoff": 0.2,
           "size": 3.4,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         },
         "points": [
           [-130, -50, 150],

@@ -6,7 +6,8 @@
           "color": [174, 95, 146],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 71,
+          "flags": "Linear"
         },
         "points": [[0.0, 0.0, 50.0]]
       }
@@ -20,7 +21,8 @@
           "color": [174, 95, 146],
           "fade": 1.0,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 71,
+          "flags": "Linear"
         },
         "points": [[0.0, 0.0, 50.0]]
       }
@@ -75,7 +77,8 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 71
+          "radius": 71,
+          "flags": "Linear"
         },
         "points": [[-25.0, -0.0, 0.0]]
       }
@@ -189,7 +192,8 @@
             ]
           },
           "light": "Ilinalta_OrangeFlicker",
-          "radius": 71
+          "radius": 71,
+          "flags": "Linear"
         },
         "points": [[15.79, 80.8, 59.81]]
       }
@@ -202,7 +206,8 @@
         "data": {
           "fade": 1.0,
           "light": "Ilinalta_OrangeFlicker",
-          "radius": 71
+          "radius": 71,
+          "flags": "Linear"
         },
         "points": [[-25.0, -0.0, 0.0]]
       }

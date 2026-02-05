@@ -10,7 +10,7 @@
           "color": [165, 100, 255],
           "fade": 0.05,
           "size": 0.4,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -21,7 +21,7 @@
           "color": [165, 100, 255],
           "fade": 0.05,
           "size": 0.4,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -32,7 +32,7 @@
           "color": [165, 100, 255],
           "fade": 0.05,
           "size": 0.4,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       }
     ]
@@ -48,7 +48,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -59,7 +59,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -70,7 +70,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -81,7 +81,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -92,7 +92,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -103,7 +103,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       }
     ]
@@ -119,7 +119,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -130,7 +130,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -141,7 +141,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -152,7 +152,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -163,7 +163,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -174,7 +174,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -185,7 +185,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -196,7 +196,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -207,7 +207,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -218,7 +218,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -229,7 +229,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -240,7 +240,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -251,7 +251,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -262,7 +262,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -273,7 +273,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -284,7 +284,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -295,7 +295,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       },
       {
@@ -306,7 +306,7 @@
           "color": [165, 100, 255],
           "fade": 0.13,
           "size": 0.8,
-          "flags": "InverseSquare|PortalStrict"
+          "flags": "InverseSquare|PortalStrict|Linear"
         }
       }
     ]

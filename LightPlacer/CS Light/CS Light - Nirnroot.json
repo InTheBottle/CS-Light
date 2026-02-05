@@ -3,7 +3,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [158, 249, 228],
           "fade": 0.8,
           "light": "MagicLightWhite01",
@@ -18,7 +18,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [255, 120, 113],
           "fade": 1.0,
           "light": "MagicLightWhite01",

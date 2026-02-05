@@ -3,7 +3,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [178, 112, 73],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -38,7 +38,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [178, 112, 73],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -83,7 +83,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [178, 112, 73],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -109,7 +109,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [178, 112, 73],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -132,7 +132,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [178, 112, 73],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -158,7 +158,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [178, 112, 73],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -200,7 +200,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [178, 112, 73],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -256,7 +256,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [178, 112, 73],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -289,7 +289,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [178, 112, 73],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -359,7 +359,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [178, 112, 73],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -416,7 +416,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [178, 112, 73],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -465,7 +465,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [178, 112, 73],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -515,7 +515,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [178, 112, 73],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -554,7 +554,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [178, 112, 73],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -662,7 +662,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [178, 112, 73],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -720,7 +720,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [178, 112, 73],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -912,7 +912,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [178, 112, 73],
           "fade": 1.0,
           "light": "MagicLightWhite01",

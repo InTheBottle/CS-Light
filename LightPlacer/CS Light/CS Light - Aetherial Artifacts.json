@@ -3,7 +3,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [45, 175, 472],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -18,7 +18,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [45, 175, 472],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -33,7 +33,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [45, 175, 472],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -48,7 +48,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [45, 175, 472],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -63,7 +63,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [45, 175, 472],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -78,7 +78,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [45, 175, 472],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -93,7 +93,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [45, 175, 472],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -108,7 +108,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [45, 175, 472],
           "fade": 1.0,
           "light": "MagicLightWhite01",
@@ -123,7 +123,7 @@
     "lights": [
       {
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "color": [45, 175, 472],
           "fade": 1.0,
           "light": "MagicLightWhite01",

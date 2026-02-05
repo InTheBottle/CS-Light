@@ -13,7 +13,7 @@
           "light": "DefaultCandleLight01NS",
           "radius": 256.0,
           "fade": 1.0,
-          "flags": "PortalStrict|NoExternalEmittance"
+          "flags": "PortalStrict|NoExternalEmittance|Linear"
         }
       },
       {
@@ -22,7 +22,7 @@
           "light": "DefaultCandleLight01NS",
           "radius": 350.0,
           "fade": 0.7,
-          "flags": "PortalStrict|NoExternalEmittance"
+          "flags": "PortalStrict|NoExternalEmittance|Linear"
         }
       }
     ]
@@ -39,7 +39,7 @@
           "light": "DefaultCandleLight01NS",
           "radius": 128.0,
           "fade": 1.0,
-          "flags": "PortalStrict|NoExternalEmittance"
+          "flags": "PortalStrict|NoExternalEmittance|Linear"
         }
       },
       {
@@ -48,7 +48,7 @@
           "light": "DefaultCandleLight01NS",
           "radius": 300.0,
           "fade": 0.7,
-          "flags": "PortalStrict|NoExternalEmittance"
+          "flags": "PortalStrict|NoExternalEmittance|Linear"
         }
       }
     ]

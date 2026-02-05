@@ -7,7 +7,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 500,
-          "flags": "InverseSquare|IgnoreScale|PortalStrict"
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 300.0]]
       },
@@ -17,7 +17,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 666,
-          "flags": "InverseSquare|IgnoreScale|PortalStrict"
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear"
         },
         "points": [[500.0, 0.0, 500.0]]
       },
@@ -27,7 +27,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 666,
-          "flags": "InverseSquare|IgnoreScale|PortalStrict"
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear"
         },
         "points": [[-500.0, 0.0, 500.0]]
       },
@@ -37,7 +37,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 666,
-          "flags": "InverseSquare|IgnoreScale|PortalStrict"
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear"
         },
         "points": [[0.0, 500.0, 500.0]]
       },
@@ -47,7 +47,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 666,
-          "flags": "InverseSquare|IgnoreScale|PortalStrict"
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear"
         },
         "points": [[0.0, -500.0, 500.0]]
       },
@@ -57,7 +57,7 @@
           "fade": 1.0,
           "light": "MagicLightWhite01",
           "radius": 1200,
-          "flags": "InverseSquare|IgnoreScale|PortalStrict"
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear"
         },
         "points": [[0.0, 0.0, 750.0]]
       }
@@ -71,7 +71,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.5,
           "size": 0.01,
@@ -88,7 +88,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 3,
           "size": 3,
@@ -104,7 +104,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.8,
           "size": 0.01,
@@ -121,7 +121,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 8,
           "size": 4,
@@ -137,7 +137,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.8,
           "size": 0.01,
@@ -154,7 +154,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 8,
           "size": 4,
@@ -170,7 +170,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.8,
           "size": 0.01,
@@ -181,7 +181,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 3.5,
           "size": 1.5,
@@ -197,7 +197,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1,
           "size": 0.01,
@@ -208,7 +208,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1.5,
           "size": 1.5,
@@ -224,7 +224,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1,
           "size": 0.01,
@@ -235,7 +235,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 2,
           "size": 1.5,
@@ -251,7 +251,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 2,
           "size": 3,
@@ -262,7 +262,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.5,
           "size": 0.001,
@@ -278,7 +278,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1.5,
           "size": 3,
@@ -289,7 +289,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.3,
           "size": 0.001,
@@ -305,7 +305,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1.5,
           "size": 3,
@@ -316,7 +316,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.3,
           "size": 0.001,
@@ -332,7 +332,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 2,
           "size": 3,
@@ -343,7 +343,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.5,
           "size": 0.001,
@@ -359,7 +359,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1,
           "size": 0.01,
@@ -370,7 +370,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1.5,
           "size": 1.5,
@@ -386,7 +386,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1,
           "size": 0.01,
@@ -400,7 +400,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1.5,
           "size": 1.5,
@@ -416,7 +416,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.8,
           "size": 0.01,
@@ -433,7 +433,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 8,
           "size": 4,
@@ -449,7 +449,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1,
           "size": 0.01,
@@ -463,7 +463,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1.5,
           "size": 1.5,
@@ -479,7 +479,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1,
           "size": 0.01,
@@ -490,7 +490,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 2,
           "size": 1.5,
@@ -511,7 +511,7 @@
         ],
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1,
           "size": 0.01,
@@ -527,7 +527,7 @@
         ],
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 2,
           "size": 1.5,
@@ -543,7 +543,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.5,
           "size": 0.01,
@@ -560,7 +560,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 3,
           "size": 3,
@@ -576,7 +576,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.5,
           "size": 0.01,
@@ -593,7 +593,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 3,
           "size": 3,
@@ -609,7 +609,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.8,
           "size": 0.01,
@@ -620,7 +620,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 1.5,
           "size": 1.5,
@@ -636,7 +636,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.8,
           "size": 0.01,
@@ -653,7 +653,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 8,
           "size": 4,
@@ -669,7 +669,7 @@
       {
         "data": {
           "color": [57, 75, 253],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 0.8,
           "size": 0.01,
@@ -686,7 +686,7 @@
       {
         "data": {
           "color": [118, 140, 137],
-          "flags": "InverseSquare|IgnoreScale|PortalStrict",
+          "flags": "InverseSquare|IgnoreScale|PortalStrict|Linear",
           "light": "MagicLightWhite01",
           "fade": 8,
           "size": 4,

@@ -8,7 +8,7 @@
       {
         "points": [[30.0, 107.5, 110.0]],
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "light": "DefaultCandleLight01NS",
           "radius": 80.0,
           "fade": 1.25
@@ -25,7 +25,7 @@
       {
         "points": [[-30.0, 107.5, 110.0]],
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "light": "DefaultCandleLight01NS",
           "radius": 80.0,
           "fade": 1.25
@@ -42,7 +42,7 @@
           "light": "Ilinalta_OrangeFlicker",
           "radius": 75.0,
           "fade": 100.0,
-          "flags": "Simple|IgnoreScale|PortalStrict"
+          "flags": "Simple|IgnoreScale|PortalStrict|Linear"
         }
       }
     ]
@@ -56,7 +56,7 @@
           "light": "Ilinalta_OrangeFlicker",
           "radius": 25.0,
           "fade": 125.0,
-          "flags": "Simple|IgnoreScale|PortalStrict"
+          "flags": "Simple|IgnoreScale|PortalStrict|Linear"
         }
       }
     ]
@@ -70,7 +70,7 @@
           "light": "DefaultCandleLight01NS",
           "radius": 45.0,
           "fade": 5.0,
-          "flags": "Simple|IgnoreScale|PortalStrict",
+          "flags": "Simple|IgnoreScale|PortalStrict|Linear",
           "colorController": {
             "interpolation": "Linear",
             "keys": [
@@ -122,7 +122,7 @@
           "light": "Ilinalta_OrangeFlicker",
           "radius": 68.0,
           "fade": 100.0,
-          "flags": "IgnoreScale|PortalStrict",
+          "flags": "IgnoreScale|PortalStrict|Linear",
           "fadeController": {
             "interpolation": "Linear",
             "keys": [
@@ -166,7 +166,7 @@
       {
         "points": [[-125.0, 120.0, 60.0]],
         "data": {
-          "flags": "PortalStrict",
+          "flags": "PortalStrict|Linear",
           "light": "Ilinalta_OrangeFlicker",
           "radius": 90.0,
           "fade": 125.0
@@ -187,7 +187,7 @@
           "light": "DefaultCandleLight01NS",
           "radius": 32.0,
           "fade": 1.0,
-          "flags": "IgnoreScale|PortalStrict"
+          "flags": "IgnoreScale|PortalStrict|Linear"
         }
       }
     ]
@@ -209,7 +209,7 @@
           "light": "DefaultCandleLight01NS",
           "radius": 32.0,
           "fade": 1.0,
-          "flags": "IgnoreScale|PortalStrict"
+          "flags": "IgnoreScale|PortalStrict|Linear"
         }
       }
     ]

@@ -9,7 +9,7 @@
           "color": [202, 227, 225],
           "radius": 128.0,
           "fade": 2.0,
-          "flags": "PortalStrict"
+          "flags": "PortalStrict|Linear"
         }
       }
     ]
