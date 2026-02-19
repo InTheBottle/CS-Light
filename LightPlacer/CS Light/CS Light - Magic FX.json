@@ -243,13 +243,13 @@
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 0.0,
-                "value": 2.0
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 2.7,
-                "value": 2.0
+                "value": 0.1
               },
               {
                 "backward": 0.0,
@@ -277,7 +277,7 @@
         "data": {
           "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightHealHand01",
-          "fade": 0.4,
+          "fade": 0.2,
           "size": 2.0
         }
       }
@@ -292,7 +292,7 @@
           "flags": "InverseSquare|IgnoreScale|Linear",
           "light": "MagicLightHealHand01",
           "color": [202, 221, 236],
-          "fade": 0.5,
+          "fade": 0.2,
           "size": 2.0
         }
       }
@@ -535,6 +535,7 @@
           "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [255, 230, 178],
           "light": "MagicLightWhite01",
+          "fade": 0.2,
           "size": 2.0
         },
         "points": [[0.0, 0.0, 80.0]]
@@ -848,6 +849,7 @@
           "flags": "InverseSquare|IgnoreScale|Linear",
           "color": [150, 150, 200],
           "light": "MagicLightWhite01",
+          "fade": 0.2,
           "size": 2.0
         },
         "points": [[0.0, 0.0, 80.0]]
