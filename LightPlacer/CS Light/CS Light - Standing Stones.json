@@ -2,7 +2,15 @@
   {
     "lights": [
       {
-        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
+        "nodes": [
+          "outerGlow01",
+          "outerGlow02",
+          "swirlsSphere",
+          "CenterGlow",
+          "OuterGlowCircle",
+          "ambientBeam",
+          "ambientBeam:0"
+        ],
         "data": {
           "color": [170, 170, 170],
           "fade": 0.7,
@@ -17,7 +25,15 @@
   {
     "lights": [
       {
-        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
+        "nodes": [
+          "outerGlow01",
+          "outerGlow02",
+          "swirlsSphere",
+          "CenterGlow",
+          "OuterGlowCircle",
+          "ambientBeam",
+          "ambientBeam:0"
+        ],
         "data": {
           "color": [170, 170, 170],
           "fade": 0.7,
@@ -32,7 +48,15 @@
   {
     "lights": [
       {
-        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
+        "nodes": [
+          "outerGlow01",
+          "outerGlow02",
+          "swirlsSphere",
+          "CenterGlow",
+          "OuterGlowCircle",
+          "ambientBeam",
+          "ambientBeam:0"
+        ],
         "data": {
           "color": [170, 170, 170],
           "fade": 0.7,
@@ -47,7 +71,15 @@
   {
     "lights": [
       {
-        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
+        "nodes": [
+          "outerGlow01",
+          "outerGlow02",
+          "swirlsSphere",
+          "CenterGlow",
+          "OuterGlowCircle",
+          "ambientBeam",
+          "ambientBeam:0"
+        ],
         "data": {
           "color": [170, 170, 170],
           "fade": 0.7,
@@ -62,7 +94,15 @@
   {
     "lights": [
       {
-        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
+        "nodes": [
+          "outerGlow01",
+          "outerGlow02",
+          "swirlsSphere",
+          "CenterGlow",
+          "OuterGlowCircle",
+          "ambientBeam",
+          "ambientBeam:0"
+        ],
         "data": {
           "color": [170, 170, 170],
           "fade": 0.7,
@@ -77,7 +117,15 @@
   {
     "lights": [
       {
-        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
+        "nodes": [
+          "outerGlow01",
+          "outerGlow02",
+          "swirlsSphere",
+          "CenterGlow",
+          "OuterGlowCircle",
+          "ambientBeam",
+          "ambientBeam:0"
+        ],
         "data": {
           "color": [170, 170, 170],
           "fade": 0.7,
@@ -92,7 +140,15 @@
   {
     "lights": [
       {
-        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
+        "nodes": [
+          "outerGlow01",
+          "outerGlow02",
+          "swirlsSphere",
+          "CenterGlow",
+          "OuterGlowCircle",
+          "ambientBeam",
+          "ambientBeam:0"
+        ],
         "data": {
           "color": [170, 170, 170],
           "fade": 0.7,
@@ -107,7 +163,15 @@
   {
     "lights": [
       {
-        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
+        "nodes": [
+          "outerGlow01",
+          "outerGlow02",
+          "swirlsSphere",
+          "CenterGlow",
+          "OuterGlowCircle",
+          "ambientBeam",
+          "ambientBeam:0"
+        ],
         "data": {
           "color": [170, 170, 170],
           "fade": 0.7,
@@ -122,7 +186,15 @@
   {
     "lights": [
       {
-        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
+        "nodes": [
+          "outerGlow01",
+          "outerGlow02",
+          "swirlsSphere",
+          "CenterGlow",
+          "OuterGlowCircle",
+          "ambientBeam",
+          "ambientBeam:0"
+        ],
         "data": {
           "color": [170, 170, 170],
           "fade": 0.7,
@@ -137,7 +209,15 @@
   {
     "lights": [
       {
-        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
+        "nodes": [
+          "outerGlow01",
+          "outerGlow02",
+          "swirlsSphere",
+          "CenterGlow",
+          "OuterGlowCircle",
+          "ambientBeam",
+          "ambientBeam:0"
+        ],
         "data": {
           "color": [170, 170, 170],
           "fade": 0.7,
@@ -152,7 +232,15 @@
   {
     "lights": [
       {
-        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
+        "nodes": [
+          "outerGlow01",
+          "outerGlow02",
+          "swirlsSphere",
+          "CenterGlow",
+          "OuterGlowCircle",
+          "ambientBeam",
+          "ambientBeam:0"
+        ],
         "data": {
           "color": [170, 170, 170],
           "fade": 0.7,
@@ -167,7 +255,15 @@
   {
     "lights": [
       {
-        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
+        "nodes": [
+          "outerGlow01",
+          "outerGlow02",
+          "swirlsSphere",
+          "CenterGlow",
+          "OuterGlowCircle",
+          "ambientBeam",
+          "ambientBeam:0"
+        ],
         "data": {
           "color": [170, 170, 170],
           "fade": 0.7,
@@ -182,7 +278,15 @@
   {
     "lights": [
       {
-        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
+        "nodes": [
+          "outerGlow01",
+          "outerGlow02",
+          "swirlsSphere",
+          "CenterGlow",
+          "OuterGlowCircle",
+          "ambientBeam",
+          "ambientBeam:0"
+        ],
         "data": {
           "color": [170, 170, 170],
           "fade": 0.7,
