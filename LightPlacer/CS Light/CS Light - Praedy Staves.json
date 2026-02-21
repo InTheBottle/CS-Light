@@ -4,65 +4,65 @@
       {
         "data": {
           "color": [109, 42, 209],
-          "fade": 1.03,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 59.44, -1.16]]
       },
       {
         "data": {
           "color": [159, 159, 159],
-          "fade": 1.03,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 59.0, -0.81]]
       },
       {
         "data": {
           "color": [138, 116, 120],
-          "fade": 1.0,
+          "fade": 0.25,
           "fadeController": {
-            "interpolation": "Linear",
+            "interpolation": "Linear|InverseSquare",
             "keys": [
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 0.0,
-                "value": 1.649999976158142
+                "value": 0.2
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 2.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 4.0,
-                "value": 2.25
+                "value": 0.25
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 6.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 8.0,
-                "value": 1.649999976158142
+                "value": 0.2
               }
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 61.0, -0.0]]
       }
@@ -74,10 +74,10 @@
       {
         "data": {
           "color": [67, 67, 67],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 58,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 51.0, -0.0]]
       }
@@ -89,55 +89,55 @@
       {
         "data": {
           "color": [15, 139, 235],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 67,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[0.0, 64.2, -0.0]]
       },
       {
         "data": {
           "color": [140, 141, 142],
-          "fade": 1.0,
+          "fade": 0.25,
           "fadeController": {
-            "interpolation": "Linear",
+            "interpolation": "Linear|InverseSquare",
             "keys": [
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 0.0,
-                "value": 1.649999976158142
+                "value": 0.2
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 2.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 4.0,
-                "value": 2.25
+                "value": 0.25
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 6.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 8.0,
-                "value": 1.649999976158142
+                "value": 0.2
               }
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[0.0, 64.0, 0.0]]
       }
@@ -149,10 +149,10 @@
       {
         "data": {
           "color": [67, 67, 67],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 58,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 56.0, -0.0]]
       }
@@ -164,10 +164,10 @@
       {
         "data": {
           "color": [181, 181, 181],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 44.5, -0.0]]
       }
@@ -181,55 +181,55 @@
       {
         "data": {
           "color": [85, 85, 85],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 9,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[0.0, 61.4, -0.0]]
       },
       {
         "data": {
           "color": [142, 126, 113],
-          "fade": 1.0,
+          "fade": 0.25,
           "fadeController": {
-            "interpolation": "Linear",
+            "interpolation": "Linear|InverseSquare",
             "keys": [
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 0.0,
-                "value": 1.649999976158142
+                "value": 0.2
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 2.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 4.0,
-                "value": 2.25
+                "value": 0.25
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 6.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 8.0,
-                "value": 1.649999976158142
+                "value": 0.2
               }
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[0.0, 61.5, 0.0]]
       }
@@ -241,20 +241,20 @@
       {
         "data": {
           "color": [106, 106, 106],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 32,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[0.0, 39.73, -0.27]]
       },
       {
         "data": {
           "color": [161, 161, 161],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 40,
-          "flags": "Linear"
+          "size": 40,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[0.0, 43.0, -0.0]]
       }
@@ -266,65 +266,65 @@
       {
         "data": {
           "color": [116, 116, 116],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 6,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 61.53, -0.0]]
       },
       {
         "data": {
           "color": [116, 116, 116],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 4,
-          "flags": "Linear"
+          "size": 4,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 61.02, -0.0]]
       },
       {
         "data": {
           "color": [125, 126, 140],
-          "fade": 1.0,
+          "fade": 0.25,
           "fadeController": {
-            "interpolation": "Linear",
+            "interpolation": "Linear|InverseSquare",
             "keys": [
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 0.0,
-                "value": 1.649999976158142
+                "value": 0.2
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 2.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 4.0,
-                "value": 2.25
+                "value": 0.25
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 6.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 8.0,
-                "value": 1.649999976158142
+                "value": 0.2
               }
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 61.0, -0.0]]
       }
@@ -336,55 +336,55 @@
       {
         "data": {
           "color": [116, 116, 116],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 4,
-          "flags": "Linear"
+          "size": 4,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 61.41, -0.0]]
       },
       {
         "data": {
           "color": [113, 123, 142],
-          "fade": 1.0,
+          "fade": 0.25,
           "fadeController": {
-            "interpolation": "Linear",
+            "interpolation": "Linear|InverseSquare",
             "keys": [
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 0.0,
-                "value": 1.649999976158142
+                "value": 0.2
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 2.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 4.0,
-                "value": 2.25
+                "value": 0.25
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 6.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 8.0,
-                "value": 1.649999976158142
+                "value": 0.2
               }
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[0.0, 61.5, 0.0]]
       }
@@ -396,10 +396,10 @@
       {
         "data": {
           "color": [67, 67, 67],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 58,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 51.0, -0.0]]
       }
@@ -411,10 +411,10 @@
       {
         "data": {
           "color": [67, 67, 67],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 58,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 51.0, -0.0]]
       }
@@ -426,10 +426,10 @@
       {
         "data": {
           "color": [67, 67, 67],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 58,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 55.5, -0.0]]
       }
@@ -441,65 +441,65 @@
       {
         "data": {
           "color": [116, 116, 116],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 6,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 67.02, -0.0]]
       },
       {
         "data": {
           "color": [25, 37, 47],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.04, 67.05, -0.0]]
       },
       {
         "data": {
           "color": [127, 125, 134],
-          "fade": 1.0,
+          "fade": 0.25,
           "fadeController": {
-            "interpolation": "Linear",
+            "interpolation": "Linear|InverseSquare",
             "keys": [
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 0.0,
-                "value": 1.649999976158142
+                "value": 0.2
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 2.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 4.0,
-                "value": 2.25
+                "value": 0.25
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 6.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 8.0,
-                "value": 1.649999976158142
+                "value": 0.2
               }
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 61.0, -0.0]]
       }
@@ -511,45 +511,45 @@
       {
         "data": {
           "color": [124, 131, 131],
-          "fade": 1.0,
+          "fade": 0.25,
           "fadeController": {
-            "interpolation": "Linear",
+            "interpolation": "Linear|InverseSquare",
             "keys": [
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 0.0,
-                "value": 1.649999976158142
+                "value": 0.2
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 2.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 4.0,
-                "value": 2.25
+                "value": 0.25
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 6.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 8.0,
-                "value": 1.649999976158142
+                "value": 0.2
               }
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [
           [-0.0, 49.0, -0.0],
@@ -559,10 +559,10 @@
       {
         "data": {
           "color": [25, 37, 47],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [
           [-0.07, 48.25, -0.0],
@@ -579,10 +579,10 @@
       {
         "data": {
           "color": [181, 181, 181],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[6.5, 63.5, -0.0]]
       }
@@ -594,10 +594,10 @@
       {
         "data": {
           "color": [85, 85, 85],
-          "fade": 2.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 19,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 61.93, -0.0]]
       }
@@ -609,10 +609,10 @@
       {
         "data": {
           "color": [67, 67, 67],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 58,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 51.0, -0.0]]
       }
@@ -624,10 +624,10 @@
       {
         "data": {
           "color": [67, 67, 67],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 58,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 55.5, -0.0]]
       }
@@ -639,10 +639,10 @@
       {
         "data": {
           "color": [116, 116, 116],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 6,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [
           [-0.0, 49.72, -0.0],
@@ -652,45 +652,45 @@
       {
         "data": {
           "color": [125, 126, 140],
-          "fade": 1.0,
+          "fade": 0.25,
           "fadeController": {
-            "interpolation": "Linear",
+            "interpolation": "Linear|InverseSquare",
             "keys": [
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 0.0,
-                "value": 1.649999976158142
+                "value": 0.2
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 2.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 4.0,
-                "value": 2.25
+                "value": 0.25
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 6.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 8.0,
-                "value": 1.649999976158142
+                "value": 0.2
               }
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [
           [-0.0, 49.0, -0.0],
@@ -705,20 +705,20 @@
       {
         "data": {
           "color": [116, 116, 116],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 6,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[1.5, 34.02, -1.0]]
       },
       {
         "data": {
           "color": [128, 0, 128],
-          "fade": 3.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 2,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [
           [3.92, 59.03, -2.54],
@@ -728,10 +728,10 @@
       {
         "data": {
           "color": [139, 0, 139],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[2.0, 32.0, -1.0]]
       }
@@ -743,20 +743,20 @@
       {
         "data": {
           "color": [250, 85, 77],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[0.0, 75.78, 63.46]]
       },
       {
         "data": {
           "color": [137, 255, 239],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [
           [0.0, 115.78, 121.0],
@@ -766,30 +766,30 @@
       {
         "data": {
           "color": [255, 245, 125],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[39.5, 59.08, 67.0]]
       },
       {
         "data": {
           "color": [158, 249, 228],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-42.5, 49.28, 69.0]]
       },
       {
         "data": {
           "color": [103, 192, 255],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-28.4, 104.63, 79.0]]
       }
@@ -801,10 +801,10 @@
       {
         "data": {
           "color": [67, 67, 67],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 58,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 51.0, -0.0]]
       }
@@ -816,55 +816,55 @@
       {
         "data": {
           "color": [124, 131, 131],
-          "fade": 1.0,
+          "fade": 0.25,
           "fadeController": {
-            "interpolation": "Linear",
+            "interpolation": "Linear|InverseSquare",
             "keys": [
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 0.0,
-                "value": 1.649999976158142
+                "value": 0.2
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 2.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 4.0,
-                "value": 2.25
+                "value": 0.25
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 6.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 8.0,
-                "value": 1.649999976158142
+                "value": 0.2
               }
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 62.0, -0.0]]
       },
       {
         "data": {
           "color": [25, 37, 47],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.07, 61.25, -0.0]]
       }
@@ -876,10 +876,10 @@
       {
         "data": {
           "color": [85, 85, 85],
-          "fade": 2.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 19,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [
           [-0.0, 49.13, -0.0],
@@ -896,10 +896,10 @@
       {
         "data": {
           "color": [159, 159, 159],
-          "fade": 1.03,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [
           [-0.0, 49.0, -0.81],
@@ -909,45 +909,45 @@
       {
         "data": {
           "color": [125, 126, 140],
-          "fade": 1.0,
+          "fade": 0.25,
           "fadeController": {
-            "interpolation": "Linear",
+            "interpolation": "Linear|InverseSquare",
             "keys": [
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 0.0,
-                "value": 1.649999976158142
+                "value": 0.2
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 2.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 4.0,
-                "value": 2.25
+                "value": 0.25
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 6.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 8.0,
-                "value": 1.649999976158142
+                "value": 0.2
               }
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [
           [-0.0, 49.0, -0.0],
@@ -962,10 +962,10 @@
       {
         "data": {
           "color": [85, 85, 85],
-          "fade": 2.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 19,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 61.93, -0.0]]
       }
@@ -977,10 +977,10 @@
       {
         "data": {
           "color": [67, 67, 67],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 58,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 56.0, -0.0]]
       }
@@ -992,55 +992,55 @@
       {
         "data": {
           "color": [124, 131, 131],
-          "fade": 1.0,
+          "fade": 0.25,
           "fadeController": {
-            "interpolation": "Linear",
+            "interpolation": "Linear|InverseSquare",
             "keys": [
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 0.0,
-                "value": 1.649999976158142
+                "value": 0.2
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 2.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 4.0,
-                "value": 2.25
+                "value": 0.25
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 6.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 8.0,
-                "value": 1.649999976158142
+                "value": 0.2
               }
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 62.0, -0.0]]
       },
       {
         "data": {
           "color": [25, 37, 47],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.07, 61.25, -0.0]]
       }
@@ -1052,55 +1052,55 @@
       {
         "data": {
           "color": [109, 42, 209],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 60.43, -0.35]]
       },
       {
         "data": {
           "color": [142, 113, 115],
-          "fade": 1.0,
+          "fade": 0.25,
           "fadeController": {
-            "interpolation": "Linear",
+            "interpolation": "Linear|InverseSquare",
             "keys": [
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 0.0,
-                "value": 1.649999976158142
+                "value": 0.2
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 2.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 4.0,
-                "value": 2.25
+                "value": 0.25
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 6.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 8.0,
-                "value": 1.649999976158142
+                "value": 0.2
               }
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[0.0, 61.5, 0.0]]
       }
@@ -1114,10 +1114,10 @@
       {
         "data": {
           "color": [181, 181, 181],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[-0.0, 55.5, -0.0]]
       }
@@ -1129,10 +1129,10 @@
       {
         "data": {
           "color": [158, 203, 238],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -1144,54 +1144,54 @@
       {
         "data": {
           "color": [113, 142, 142],
-          "fade": 1.0,
+          "fade": 0.25,
           "fadeController": {
-            "interpolation": "Linear",
+            "interpolation": "Linear|InverseSquare",
             "keys": [
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 0.0,
-                "value": 1.649999976158142
+                "value": 0.2
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 2.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 4.0,
-                "value": 2.25
+                "value": 0.25
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 6.0,
-                "value": 1.7999999523162842
+                "value": 0.1
               },
               {
                 "backward": 0.0,
                 "forward": 0.0,
                 "time": 8.0,
-                "value": 1.649999976158142
+                "value": 0.2
               }
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[0.0, 61.0, 0.0]]
       },
       {
         "data": {
           "color": [113, 142, 142],
-          "fade": 1.0,
+          "fade": 0.25,
           "fadeController": {
-            "interpolation": "Linear",
+            "interpolation": "Linear|InverseSquare",
             "keys": [
               {
                 "backward": 0.0,
@@ -1226,18 +1226,18 @@
             ]
           },
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[0.0, -41.0, 0.0]]
       },
       {
         "data": {
           "color": [54, 107, 135],
-          "fade": 1.0,
+          "fade": 0.25,
           "light": "MagicLightWhite01",
-          "radius": 50,
-          "flags": "Linear"
+          "size": 4.0,
+          "flags": "Linear|InverseSquare"
         },
         "points": [[0.0, 61.0, 0.0]]
       }
