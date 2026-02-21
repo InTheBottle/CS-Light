@@ -2,68 +2,14 @@
   {
     "lights": [
       {
-        "data": {
-          "color": [128, 128, 128],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
-        ]
-      },
-      {
-        "data": {
-          "color": [76, 76, 76],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 25,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 153.09]]
-      },
-      {
-        "data": {
-          "color": [213, 213, 213],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 29,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
-        "data": {
-          "color": [92, 245, 255],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [170, 170, 170],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 8,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 152.77]]
+          "size": 3.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\serpentstone.nif"]
@@ -71,68 +17,14 @@
   {
     "lights": [
       {
-        "data": {
-          "color": [128, 128, 128],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 72,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
-        ]
-      },
-      {
-        "data": {
-          "color": [76, 76, 76],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 25,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 153.09]]
-      },
-      {
-        "data": {
-          "color": [213, 213, 213],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 29,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
-        "data": {
-          "color": [92, 245, 255],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [170, 170, 170],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 8,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 152.77]]
+          "size": 3.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\loverstone.nif"]
@@ -140,68 +32,14 @@
   {
     "lights": [
       {
-        "data": {
-          "color": [128, 128, 128],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
-        ]
-      },
-      {
-        "data": {
-          "color": [76, 76, 76],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 25,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 153.09]]
-      },
-      {
-        "data": {
-          "color": [213, 213, 213],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 29,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
-        "data": {
-          "color": [92, 245, 255],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [170, 170, 170],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 8,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 152.77]]
+          "size": 3.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\atronachstone.nif"]
@@ -209,68 +47,14 @@
   {
     "lights": [
       {
-        "data": {
-          "color": [128, 128, 128],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
-        ]
-      },
-      {
-        "data": {
-          "color": [76, 76, 76],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 25,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 153.09]]
-      },
-      {
-        "data": {
-          "color": [213, 213, 213],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 29,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
-        "data": {
-          "color": [92, 245, 255],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [170, 170, 170],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 8,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 152.77]]
+          "size": 3.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\warriorstone.nif"]
@@ -278,68 +62,14 @@
   {
     "lights": [
       {
-        "data": {
-          "color": [128, 128, 128],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
-        ]
-      },
-      {
-        "data": {
-          "color": [76, 76, 76],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 25,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 153.09]]
-      },
-      {
-        "data": {
-          "color": [213, 213, 213],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 29,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
-        "data": {
-          "color": [92, 245, 255],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [170, 170, 170],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 8,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 152.77]]
+          "size": 3.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\wizardstone.nif"]
@@ -347,68 +77,14 @@
   {
     "lights": [
       {
-        "data": {
-          "color": [128, 128, 128],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
-        ]
-      },
-      {
-        "data": {
-          "color": [76, 76, 76],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 25,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 153.09]]
-      },
-      {
-        "data": {
-          "color": [213, 213, 213],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 29,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
-        "data": {
-          "color": [92, 245, 255],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [170, 170, 170],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 8,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 152.77]]
+          "size": 3.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\ritualstone.nif"]
@@ -416,68 +92,14 @@
   {
     "lights": [
       {
-        "data": {
-          "color": [128, 128, 128],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
-        ]
-      },
-      {
-        "data": {
-          "color": [76, 76, 76],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 25,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 153.09]]
-      },
-      {
-        "data": {
-          "color": [213, 213, 213],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 29,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
-        "data": {
-          "color": [92, 245, 255],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [170, 170, 170],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 8,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 152.77]]
+          "size": 3.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\apprenticestone.nif"]
@@ -485,68 +107,14 @@
   {
     "lights": [
       {
-        "data": {
-          "color": [128, 128, 128],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
-        ]
-      },
-      {
-        "data": {
-          "color": [76, 76, 76],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 25,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 153.09]]
-      },
-      {
-        "data": {
-          "color": [213, 213, 213],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 29,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
-        "data": {
-          "color": [92, 245, 255],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [170, 170, 170],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 8,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 152.77]]
+          "size": 3.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\ladystone.nif"]
@@ -554,68 +122,14 @@
   {
     "lights": [
       {
-        "data": {
-          "color": [128, 128, 128],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
-        ]
-      },
-      {
-        "data": {
-          "color": [76, 76, 76],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 25,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 153.09]]
-      },
-      {
-        "data": {
-          "color": [213, 213, 213],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 29,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
-        "data": {
-          "color": [92, 245, 255],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [170, 170, 170],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 8,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 152.77]]
+          "size": 3.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\shadowstone.nif"]
@@ -623,68 +137,14 @@
   {
     "lights": [
       {
-        "data": {
-          "color": [128, 128, 128],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
-        ]
-      },
-      {
-        "data": {
-          "color": [76, 76, 76],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 25,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 153.09]]
-      },
-      {
-        "data": {
-          "color": [213, 213, 213],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 29,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
-        "data": {
-          "color": [92, 245, 255],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [170, 170, 170],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 8,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 152.77]]
+          "size": 3.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\lordstone.nif"]
@@ -692,68 +152,14 @@
   {
     "lights": [
       {
-        "data": {
-          "color": [128, 128, 128],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
-        ]
-      },
-      {
-        "data": {
-          "color": [76, 76, 76],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 25,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 153.09]]
-      },
-      {
-        "data": {
-          "color": [213, 213, 213],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 29,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
-        "data": {
-          "color": [92, 245, 255],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [170, 170, 170],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 8,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 152.77]]
+          "size": 3.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\towerstone.nif"]
@@ -761,68 +167,14 @@
   {
     "lights": [
       {
-        "data": {
-          "color": [128, 128, 128],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
-        ]
-      },
-      {
-        "data": {
-          "color": [76, 76, 76],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 25,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 153.09]]
-      },
-      {
-        "data": {
-          "color": [213, 213, 213],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 29,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
-        "data": {
-          "color": [92, 245, 255],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [170, 170, 170],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 8,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 152.77]]
+          "size": 3.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\thiefstone.nif"]
@@ -830,68 +182,14 @@
   {
     "lights": [
       {
-        "data": {
-          "color": [128, 128, 128],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[-0.0, 0.0, 589.89]]
-      },
-      {
-        "data": {
-          "color": [161, 255, 252],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 71,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [
-          [-0.68, 35.87, 151.34],
-          [-0.68, -34.13, 151.34],
-          [-0.68, 0.87, 240.34]
-        ]
-      },
-      {
-        "data": {
-          "color": [76, 76, 76],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 25,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 153.09]]
-      },
-      {
-        "data": {
-          "color": [213, 213, 213],
-          "fade": 1.5,
-          "light": "MagicLightWhite01",
-          "radius": 29,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
-        "data": {
-          "color": [92, 245, 255],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 100,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 150.38]]
-      },
-      {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [170, 170, 170],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
-          "radius": 8,
-          "flags": "PortalStrict|Linear"
-        },
-        "points": [[0.29, 0.16, 152.77]]
+          "size": 3.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\steedstone.nif"]
