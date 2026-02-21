@@ -2,10 +2,12 @@
   {
     "lights": [
       {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [128, 128, 128],
-          "fade": 1.0,
+          "fade": 0.5,
           "light": "MagicLightWhite01",
+<<<<<<< Updated upstream
           "radius": 71,
           "flags": "PortalStrict"
         },
@@ -64,6 +66,11 @@
           "flags": "PortalStrict"
         },
         "points": [[0.29, 0.16, 152.77]]
+=======
+          "size": 2.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
+>>>>>>> Stashed changes
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\serpentstone.nif"]
@@ -71,10 +78,12 @@
   {
     "lights": [
       {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [128, 128, 128],
-          "fade": 1.0,
+          "fade": 0.5,
           "light": "MagicLightWhite01",
+<<<<<<< Updated upstream
           "radius": 72,
           "flags": "PortalStrict"
         },
@@ -133,6 +142,11 @@
           "flags": "PortalStrict"
         },
         "points": [[0.29, 0.16, 152.77]]
+=======
+          "size": 2.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
+>>>>>>> Stashed changes
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\loverstone.nif"]
@@ -140,10 +154,12 @@
   {
     "lights": [
       {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [128, 128, 128],
-          "fade": 1.0,
+          "fade": 0.5,
           "light": "MagicLightWhite01",
+<<<<<<< Updated upstream
           "radius": 100,
           "flags": "PortalStrict"
         },
@@ -202,6 +218,11 @@
           "flags": "PortalStrict"
         },
         "points": [[0.29, 0.16, 152.77]]
+=======
+          "size": 2.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
+>>>>>>> Stashed changes
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\atronachstone.nif"]
@@ -209,10 +230,12 @@
   {
     "lights": [
       {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [128, 128, 128],
-          "fade": 1.0,
+          "fade": 0.5,
           "light": "MagicLightWhite01",
+<<<<<<< Updated upstream
           "radius": 100,
           "flags": "PortalStrict"
         },
@@ -271,6 +294,11 @@
           "flags": "PortalStrict"
         },
         "points": [[0.29, 0.16, 152.77]]
+=======
+          "size": 2.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
+>>>>>>> Stashed changes
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\warriorstone.nif"]
@@ -278,10 +306,12 @@
   {
     "lights": [
       {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [128, 128, 128],
-          "fade": 1.0,
+          "fade": 0.5,
           "light": "MagicLightWhite01",
+<<<<<<< Updated upstream
           "radius": 100,
           "flags": "PortalStrict"
         },
@@ -340,6 +370,11 @@
           "flags": "PortalStrict"
         },
         "points": [[0.29, 0.16, 152.77]]
+=======
+          "size": 2.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
+>>>>>>> Stashed changes
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\wizardstone.nif"]
@@ -347,10 +382,12 @@
   {
     "lights": [
       {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [128, 128, 128],
-          "fade": 1.0,
+          "fade": 0.5,
           "light": "MagicLightWhite01",
+<<<<<<< Updated upstream
           "radius": 100,
           "flags": "PortalStrict"
         },
@@ -409,6 +446,11 @@
           "flags": "PortalStrict"
         },
         "points": [[0.29, 0.16, 152.77]]
+=======
+          "size": 2.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
+>>>>>>> Stashed changes
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\ritualstone.nif"]
@@ -416,10 +458,12 @@
   {
     "lights": [
       {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [128, 128, 128],
-          "fade": 1.0,
+          "fade": 0.5,
           "light": "MagicLightWhite01",
+<<<<<<< Updated upstream
           "radius": 100,
           "flags": "PortalStrict"
         },
@@ -478,6 +522,11 @@
           "flags": "PortalStrict"
         },
         "points": [[0.29, 0.16, 152.77]]
+=======
+          "size": 2.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
+>>>>>>> Stashed changes
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\apprenticestone.nif"]
@@ -485,10 +534,12 @@
   {
     "lights": [
       {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [128, 128, 128],
-          "fade": 1.0,
+          "fade": 0.5,
           "light": "MagicLightWhite01",
+<<<<<<< Updated upstream
           "radius": 100,
           "flags": "PortalStrict"
         },
@@ -547,6 +598,11 @@
           "flags": "PortalStrict"
         },
         "points": [[0.29, 0.16, 152.77]]
+=======
+          "size": 2.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
+>>>>>>> Stashed changes
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\ladystone.nif"]
@@ -554,10 +610,12 @@
   {
     "lights": [
       {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [128, 128, 128],
-          "fade": 1.0,
+          "fade": 0.5,
           "light": "MagicLightWhite01",
+<<<<<<< Updated upstream
           "radius": 100,
           "flags": "PortalStrict"
         },
@@ -616,6 +674,11 @@
           "flags": "PortalStrict"
         },
         "points": [[0.29, 0.16, 152.77]]
+=======
+          "size": 2.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
+>>>>>>> Stashed changes
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\shadowstone.nif"]
@@ -623,10 +686,12 @@
   {
     "lights": [
       {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [128, 128, 128],
-          "fade": 1.0,
+          "fade": 0.5,
           "light": "MagicLightWhite01",
+<<<<<<< Updated upstream
           "radius": 100,
           "flags": "PortalStrict"
         },
@@ -685,6 +750,11 @@
           "flags": "PortalStrict"
         },
         "points": [[0.29, 0.16, 152.77]]
+=======
+          "size": 2.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
+>>>>>>> Stashed changes
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\lordstone.nif"]
@@ -692,10 +762,12 @@
   {
     "lights": [
       {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [128, 128, 128],
-          "fade": 1.0,
+          "fade": 0.5,
           "light": "MagicLightWhite01",
+<<<<<<< Updated upstream
           "radius": 100,
           "flags": "PortalStrict"
         },
@@ -754,6 +826,11 @@
           "flags": "PortalStrict"
         },
         "points": [[0.29, 0.16, 152.77]]
+=======
+          "size": 2.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
+>>>>>>> Stashed changes
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\towerstone.nif"]
@@ -761,10 +838,12 @@
   {
     "lights": [
       {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [128, 128, 128],
-          "fade": 1.0,
+          "fade": 0.5,
           "light": "MagicLightWhite01",
+<<<<<<< Updated upstream
           "radius": 100,
           "flags": "PortalStrict"
         },
@@ -823,6 +902,11 @@
           "flags": "PortalStrict"
         },
         "points": [[0.29, 0.16, 152.77]]
+=======
+          "size": 2.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
+>>>>>>> Stashed changes
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\thiefstone.nif"]
@@ -830,10 +914,12 @@
   {
     "lights": [
       {
+        "nodes": ["outerGlow01", "outerGlow02", "swirlsSphere", "CenterGlow", "OuterGlowCircle","ambientBeam", "ambientBeam:0"],
         "data": {
           "color": [128, 128, 128],
-          "fade": 1.0,
+          "fade": 0.5,
           "light": "MagicLightWhite01",
+<<<<<<< Updated upstream
           "radius": 100,
           "flags": "PortalStrict"
         },
@@ -892,6 +978,11 @@
           "flags": "PortalStrict"
         },
         "points": [[0.29, 0.16, 152.77]]
+=======
+          "size": 2.0,
+          "flags": "PortalStrict|Linear|InverseSquare"
+        }
+>>>>>>> Stashed changes
       }
     ],
     "models": ["clutter\\powershrines\\powershrine01\\steedstone.nif"]

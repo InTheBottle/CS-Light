@@ -3,21 +3,29 @@
     "lights": [
       {
         "data": {
+<<<<<<< Updated upstream
           "flags": "PortalStrict",
+=======
+          "flags": "PortalStrict|Linear|InverseSquare",
+>>>>>>> Stashed changes
           "color": [28, 145, 235],
-          "fade": 1.2,
+          "fade": 0.5,
           "light": "MagicLightWhite01",
-          "radius": 71
+          "size": 2.0
         },
         "points": [[-0.0, 0.0, 19.77]]
       },
       {
         "data": {
+<<<<<<< Updated upstream
           "flags": "PortalStrict",
+=======
+          "flags": "PortalStrict|Linear|InverseSquare",
+>>>>>>> Stashed changes
           "color": [179, 238, 255],
-          "fade": 1.0,
+          "fade": 0.5,
           "light": "MagicLightWhite01",
-          "radius": 76
+          "size": 2.0
         },
         "points": [[-0.0, 0.0, 16.72]]
       }
