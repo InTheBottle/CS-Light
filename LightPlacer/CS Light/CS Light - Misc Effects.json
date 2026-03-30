@@ -85,46 +85,6 @@
     "lights": [
       {
         "data": {
-          "color": [54, 101, 255],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 19,
-          "flags": "Linear"
-        },
-        "points": [[0.24, 0.41, -0.02]]
-      }
-    ],
-    "models": ["magic\\lightspellstaticlight.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [189, 143, 91],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 98,
-          "flags": "Linear"
-        },
-        "points": [[-0.13, -2.55, 1.97]]
-      },
-      {
-        "data": {
-          "color": [82, 184, 255],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 75,
-          "flags": "Linear"
-        },
-        "points": [[0.0, 0.0, 15.0]]
-      }
-    ],
-    "models": ["dlc01\\effects\\dlc1falmervalleybrazierlight.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
           "color": [85, 85, 85],
           "fade": 2.8,
           "light": "MagicLightWhite01",
@@ -244,21 +204,6 @@
     "lights": [
       {
         "data": {
-          "color": [23, 77, 255],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 22,
-          "flags": "Linear"
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["magic\\lightspellhazard.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
           "color": [244, 244, 128],
           "fade": 2.0,
           "light": "MagicLightWhite01",
@@ -314,36 +259,6 @@
       }
     ],
     "models": ["effects\\mgmagicfirepillarsmall.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [21, 76, 255],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 15,
-          "flags": "Linear"
-        },
-        "points": [[-3.37, 40.18, 20.25]]
-      }
-    ],
-    "models": ["magic\\lightspellactorfx.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [26, 77, 255],
-          "fade": 2.0,
-          "light": "MagicLightWhite01",
-          "radius": 284,
-          "flags": "Linear"
-        },
-        "points": [[0.0, 0.0, -37.26]]
-      }
-    ],
-    "models": ["effects\\mgmagicfirepillar01.nif"]
   },
   {
     "lights": [

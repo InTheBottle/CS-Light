@@ -5,36 +5,6 @@
         "data": {
           "flags": "PortalStrict|Linear",
           "color": [127, 102, 204],
-          "fade": 2.0,
-          "light": "MagicLightShockHand",
-          "radius": 71
-        },
-        "points": [[0.0, 0.0, 0.0]]
-      }
-    ],
-    "models": ["weapons\\boundweapons\\boundarrowflight.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict|Linear",
-          "color": [97, 11, 247],
-          "fade": 1.0,
-          "light": "MagicLightShockHand",
-          "radius": 125
-        },
-        "points": [[0.0, 4.92, 0.0]]
-      }
-    ],
-    "models": ["dlc01\\effects\\fxdlc1sctreasurebarrier01.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict|Linear",
-          "color": [127, 102, 204],
           "fade": 1.0,
           "light": "MagicLightShockHand",
           "radius": 71
@@ -43,21 +13,6 @@
       }
     ],
     "models": ["dlc02\\weapons\\bounddaggerencheffects.nif"]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "flags": "PortalStrict|Linear",
-          "color": [127, 102, 204],
-          "fade": 1.0,
-          "light": "MagicLightShockHand",
-          "radius": 71
-        },
-        "points": [[-0.0, -25.0, -0.0]]
-      }
-    ],
-    "models": ["weapons\\boundweapons\\boundarrow.nif"]
   },
   {
     "lights": [
