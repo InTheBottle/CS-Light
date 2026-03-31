@@ -213,21 +213,6 @@
     ]
   },
   {
-    "models": ["clutter\\blackreach\\blackreachvinefloor01.nif"],
-    "lights": [
-      {
-        "points": [[0.0, 0.0, 0.0]],
-        "data": {
-          "light": "MagicLightWhite01",
-          "color": [0.212, 1.0, 0.714],
-          "radius": 200.0,
-          "fade": 0.5,
-          "flags": "Simple|PortalStrict|Linear"
-        }
-      }
-    ]
-  },
-  {
     "lights": [
       {
         "data": {
