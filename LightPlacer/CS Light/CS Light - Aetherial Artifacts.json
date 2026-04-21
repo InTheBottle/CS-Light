@@ -5,7 +5,7 @@
         "data": {
           "flags": "PortalStrict|Linear",
           "color": [45, 175, 472],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
           "radius": 64
         },
@@ -20,7 +20,7 @@
         "data": {
           "flags": "PortalStrict|Linear",
           "color": [45, 175, 472],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
           "radius": 64
         },
@@ -35,7 +35,7 @@
         "data": {
           "flags": "PortalStrict|Linear",
           "color": [45, 175, 472],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
           "radius": 64
         },
@@ -50,7 +50,7 @@
         "data": {
           "flags": "PortalStrict|Linear",
           "color": [45, 175, 472],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
           "radius": 64
         },
@@ -65,7 +65,7 @@
         "data": {
           "flags": "PortalStrict|Linear",
           "color": [45, 175, 472],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
           "radius": 64
         },
@@ -80,7 +80,7 @@
         "data": {
           "flags": "PortalStrict|Linear",
           "color": [45, 175, 472],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
           "radius": 64
         },
@@ -95,7 +95,7 @@
         "data": {
           "flags": "PortalStrict|Linear",
           "color": [45, 175, 472],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
           "radius": 64
         },
@@ -110,7 +110,7 @@
         "data": {
           "flags": "PortalStrict|Linear",
           "color": [45, 175, 472],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
           "radius": 64
         },
@@ -125,7 +125,7 @@
         "data": {
           "flags": "PortalStrict|Linear",
           "color": [45, 175, 472],
-          "fade": 1.0,
+          "fade": 0.7,
           "light": "MagicLightWhite01",
           "radius": 64
         },

@@ -352,7 +352,7 @@
           "color": [80, 235, 255],
           "fade": 5.0,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 50
         }
       }
     ]
@@ -368,7 +368,7 @@
           "color": [80, 235, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
-          "radius": 155
+          "radius": 50
         }
       }
     ]
@@ -384,7 +384,7 @@
           "color": [80, 235, 255],
           "fade": 2.0,
           "light": "MagicLightWhite01",
-          "radius": 77
+          "radius": 50
         }
       }
     ]
