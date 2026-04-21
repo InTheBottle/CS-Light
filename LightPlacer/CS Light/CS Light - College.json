@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "models": [
       "effects\\mgaugurfx01.nif",
@@ -17,11 +17,7 @@
           "AttachLight01"
         ],
         "data": {
-<<<<<<< Updated upstream
-          "flags": "PortalStrict",
-=======
           "flags": "PortalStrict|Linear|InverseSquare",
->>>>>>> Stashed changes
           "light": "MGFirePillarLightBlue",
           "size": 3.0,
           "fade": 0.8
@@ -35,11 +31,7 @@
       {
         "points": [[0.0, 0.0, 0.0]],
         "data": {
-<<<<<<< Updated upstream
-          "flags": "PortalStrict",
-=======
           "flags": "PortalStrict|Linear|InverseSquare",
->>>>>>> Stashed changes
           "light": "MGFirePillarLightBlue",
           "size": 3.0,
           "fade": 0.7
@@ -53,11 +45,7 @@
       {
         "points": [[0.0, 0.0, 0.0]],
         "data": {
-<<<<<<< Updated upstream
-          "flags": "PortalStrict",
-=======
           "flags": "PortalStrict|Linear|InverseSquare",
->>>>>>> Stashed changes
           "light": "MagicLightWhite01",
           "size": 3.0,
           "fade": 0.7

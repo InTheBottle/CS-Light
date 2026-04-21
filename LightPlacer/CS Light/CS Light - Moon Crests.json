@@ -1,13 +1,9 @@
-[
+﻿[
   {
     "lights": [
       {
         "data": {
-<<<<<<< Updated upstream
-          "flags": "PortalStrict",
-=======
           "flags": "PortalStrict|Linear|InverseSquare",
->>>>>>> Stashed changes
           "color": [17, 145, 232],
           "fade": 0.5,
           "light": "MagicLightWhite01",
@@ -24,11 +20,7 @@
     "lights": [
       {
         "data": {
-<<<<<<< Updated upstream
-          "flags": "PortalStrict",
-=======
           "flags": "PortalStrict|Linear|InverseSquare",
->>>>>>> Stashed changes
           "color": [17, 145, 232],
           "fade": 0.5,
           "light": "MagicLightWhite01",
@@ -57,11 +49,7 @@
     "lights": [
       {
         "data": {
-<<<<<<< Updated upstream
-          "flags": "PortalStrict",
-=======
           "flags": "PortalStrict|Linear|InverseSquare",
->>>>>>> Stashed changes
           "color": [17, 145, 232],
           "fade": 0.5,
           "light": "MagicLightWhite01",
@@ -78,11 +66,7 @@
     "lights": [
       {
         "data": {
-<<<<<<< Updated upstream
-          "flags": "PortalStrict",
-=======
           "flags": "PortalStrict|Linear|InverseSquare",
->>>>>>> Stashed changes
           "color": [17, 145, 232],
           "fade": 0.5,
           "light": "MagicLightWhite01",
@@ -99,11 +83,7 @@
     "lights": [
       {
         "data": {
-<<<<<<< Updated upstream
-          "flags": "PortalStrict",
-=======
           "flags": "PortalStrict|Linear|InverseSquare",
->>>>>>> Stashed changes
           "color": [17, 145, 232],
           "fade": 0.5,
           "light": "MagicLightWhite01",
@@ -120,11 +100,7 @@
     "lights": [
       {
         "data": {
-<<<<<<< Updated upstream
-          "flags": "PortalStrict",
-=======
           "flags": "PortalStrict|Linear|InverseSquare",
->>>>>>> Stashed changes
           "color": [17, 145, 232],
           "fade": 0.5,
           "light": "MagicLightWhite01",
@@ -141,11 +117,7 @@
     "lights": [
       {
         "data": {
-<<<<<<< Updated upstream
-          "flags": "PortalStrict",
-=======
           "flags": "PortalStrict|Linear|InverseSquare",
->>>>>>> Stashed changes
           "color": [17, 145, 232],
           "fade": 0.5,
           "light": "MagicLightWhite01",
